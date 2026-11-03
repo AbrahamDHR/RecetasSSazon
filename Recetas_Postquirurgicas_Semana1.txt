@@ -1,0 +1,2059 @@
+--RECETA--
+ID: gel-de-linaza-apoyo-digestivo
+TITULO: Gel de Linaza — Apoyo Digestivo
+CATEGORIA: Post-cirugía
+TIPO: Bebida
+PORCIONES: 2
+ICONO: vaso
+ETIQUETAS: Post-cirugía, Semana 1, Día 1, Día 2, Día 3, Día 4, Día 5, Día 6, Día 7
+CONCEPTO: Gel de linaza hidratada que se toma antes de las comidas: aporta mucílago y fibra soluble que suavizan el tránsito y dan confort digestivo.
+INGREDIENTES:
+• Linaza entera — 6 cucharadas
+• Agua tibia — 4 tazas (1 litro)
+PREPARACION:
+1. Coloca las 6 cucharadas de linaza entera en un frasco grande de vidrio con las 4 tazas de agua tibia.
+2. Tapa y deja reposar TODA la noche en la nevera (mínimo 8 horas).
+3. Por la mañana (o cuando lo necesites), cuela el gel resultante con un colador. Descarta las semillas.
+4. Obtendrás un líquido viscoso, transparente, ligeramente baboso. Eso es puro mucílago. Uso (POR PERSONA): • Toma 3-4 cucharadas de este gel antes de cada comida principal. • Si no puede tragar mucho, con 2 cucharadas basta. • Servir a temperatura ambiente o ligeramente tibio. • Guardar el resto en la nevera. Dura 48 horas.
+JUSTIFICACION: Qué SÍ aporta realmente (con sustento): Fibra soluble y mucílago que suavizan el bolo alimenticio y ayudan al tránsito intestinal — relevante para la prioridad de anticonstipación por la hernia. La protección real de la mucosa gástrica frente al ketorolaco la da el omeprazol indicado por el cirujano, no este gel. Tomarlo no sustituye ni reduce la necesidad de la medicación prescrita.
+VALOR_NUTRICIONAL:
+Calorías: ~15 kcal
+Proteínas: <1g
+Carbohidratos: <1g
+Grasas: ~1g
+Fibra soluble: ~2g
+Omega-3 (ALA): ~0.5g
+IG: Prácticamente 0
+--FIN_RECETA--
+
+--RECETA--
+ID: caldo-de-pollo-postquirurgico-caldo-de
+TITULO: Caldo de Pollo Postquirúrgico ("Caldo de Cicatrización")
+CATEGORIA: Post-cirugía
+TIPO: Bebida
+PORCIONES: 2
+ICONO: olla humeante
+ETIQUETAS: Post-cirugía, Semana 1, Día 1, Día 2
+CONCEPTO: Caldo concentrado de pollo con patas y huesos, cocido lentamente y desgrasado: líquido, tibio y rico en colágeno, glicina y minerales para la cicatrización.
+INGREDIENTES:
+• Carcasa de pollo (huesos con algo de carne) — 2 carcasas completas o 1 kg de huesos de pollo
+• Patas de pollo — 8 unidades (lavadas, sin uñas)
+• Zanahoria — 2 medianas, en trozos
+• Apio (celery) — 2 tallos, en trozos
+• Ají dulce — 6 unidades (sin semillas)
+• Cúrcuma fresca o en polvo — 2 rodajitas o ½ cucharadita (antiinflamatorio suave)
+• Sal — 1 cucharadita rasa
+• Agua — 4 litros
+PREPARACION:
+1. Coloca todo en una olla grande.
+2. Lleva a hervor. Baja a fuego MUY bajo (apenas burbujeando).
+3. Cocina MÍNIMO 3-4 horas. Ideal: 6-8 horas. Mientras más tiempo, más colágeno se extrae de los huesos y patas.
+4. Cuela TODO. Descarta huesos, patas y vegetales.
+5. Deja enfriar. Refrigera.
+6. Al enfriar, la grasa sube a la superficie. RETIRA la capa de grasa con una cuchara (el día 1 no debe tener grasa visible — la grasa lenta el vaciamiento gástrico y puede causar náusea post-anestesia).
+7. Calienta solo la porción que va a tomar cada paciente, a temperatura TIBIA (no caliente). Uso día 1 (POR PERSONA): • Hora 4-6 post-cirugía: primeros sorbos (¼ taza). Si no hay náusea, seguir. • Cada 1-2 horas: ½ taza tibia. • Puede tomar con una pajilla/popote si le cuesta incorporarse.
+JUSTIFICACION: Por qué este caldo es medicina: Las patas de pollo son 30-35% colágeno puro. Al hervirse por horas, el colágeno se hidroliza en gelatina, glicina, prolina e hidroxiprolina — los mismos aminoácidos que el cuerpo necesita para fabricar el colágeno nuevo que va a cerrar las heridas inguinales y fijar la malla. La cúrcuma aporta curcumina antiinflamatoria para reducir la hinchazón sin agredir el estómago. SIN cebolla, SIN ajo (irritantes gástricos).
+VALOR_NUTRICIONAL:
+Calorías: ~40-50 kcal
+Proteínas: ~6-8g
+(colágeno hidrolizado)
+Grasa: <1g
+(desgrasado)
+Carbohidratos: ~2g
+Sodio: ~180mg
+Glicina: ~1.5-2g
+Prolina: ~1-1.5g
+IG: Prácticamente 0
+--FIN_RECETA--
+
+--RECETA--
+ID: infusion-de-manzanilla-postquirurgica
+TITULO: Infusión De Manzanilla Postquirúrgica
+CATEGORIA: Post-cirugía
+TIPO: Bebida
+PORCIONES: 2
+ICONO: taza
+ETIQUETAS: Post-cirugía, Semana 1, Día 1
+CONCEPTO: Infusión tibia de manzanilla, la primera bebida tras la anestesia: calma las náuseas y relaja el intestino.
+INGREDIENTES:
+• Manzanilla seca — 3 cucharadas (o 6 bolsitas)
+• Agua — 6 tazas (1.5 litros)
+PREPARACION:
+1. Hierve el agua.
+2. Retira del fuego.
+3. Agrega la manzanilla.
+4. Tapa y deja infusionar 7-10 minutos (más tiempo = más concentrada = más efecto antiemético).
+5. Cuela.
+6. Guarda en termo o jarra.
+7. Servir TIBIA. No caliente. No fría. Uso día 1 (POR PERSONA): • Primeros sorbos cuando despierte y tolere líquidos. • Puede tomar 3-4 tazas a lo largo del día. • Si tiene mucha náusea, dar sorbos muy pequeños cada 5 minutos en vez de una taza completa.
+JUSTIFICACION: Por qué esto funciona: La apigenina de la manzanilla tiene efecto antiemético documentado y relaja el músculo liso intestinal (que está en espasmo post-anestesia). También tiene efecto ansiolítico suave (ambos pacientes van a estar adoloridos, incómodos y posiblemente ansiosos — la manzanilla ayuda sin interactuar con los medicamentos).
+ADVERTENCIAS: NO agregar limón (ácido sobre mucosa erosionada + AINEs = peligro).|NO agregar miel en exceso (pico glucémico innecesario). Se puede agregar 2-3 gotas de stevia si necesitan sabor.
+VALOR_NUTRICIONAL:
+Calorías: ~2 kcal
+Todo lo demás: trazas
+Compuesto activo: Apigenina (~3-5mg/taza)
+IG: 0
+--FIN_RECETA--
+
+--RECETA--
+ID: crema-de-auyama-colada
+TITULO: Crema De Auyama Colada
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 6
+ICONO: olla humeante
+ETIQUETAS: Post-cirugía, Semana 1, Día 1
+CONCEPTO: Crema de auyama muy lisa y colada, la primera comida real semilíquida: suave, con betacaroteno y fibra soluble para mover el intestino sin esfuerzo.
+INGREDIENTES:
+• Auyama (calabaza) — 4 tazas en cubos, pelada
+• Zanahoria — 2 pequeñas, peladas, en rodajas
+• Caldo de pollo postquirúrgico (Preparación #2) — 3 tazas
+• Aceite de oliva extra virgen — 2 cucharaditas
+• Sal — pizca mínima
+• Cúrcuma — pizca (opcional)
+PREPARACION:
+1. Hierve la auyama y la zanahoria en el caldo de pollo hasta que estén completamente blandas (15-20 min).
+2. Licúa todo hasta que quede completamente liso.
+3. Cuela con colador fino si quedaron fibras visibles.
+4. Agrega las cucharaditas de aceite de oliva y la pizca de sal.
+5. Sirve TIBIA. No caliente. Porción día 1 (POR PERSONA): • ½ taza por toma. Máximo 2 tomas en el día 1 (el intestino está recién despertando). • Comer lento. 15-20 minutos mínimo por porción. • Si genera gases o distensión, reducir a ¼ taza.
+JUSTIFICACION: Por qué esta crema: La auyama es uno de los alimentos más seguros para el postquirúrgico: no irrita, no genera gas, aporta vitamina A (betacaroteno) para la cicatrización, fibra soluble suave para mover el intestino sin forzar, y tiene IG bajo cuando se combina con el colágeno del caldo y la grasa del aceite de oliva. La zanahoria refuerza el betacaroteno.
+ADVERTENCIAS: TOMAR GEL DE LINAZA (Prep #1) 10-15 minutos ANTES de esta crema.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal
+Proteínas: ~3g
+Carbohidratos: ~10g (Fibra: ~2g,
+Azúcares: ~3g)
+Grasas: ~2g
+Sodio: ~120mg
+Vitamina A (betacaroteno): ~4,500 μg
+Magnesio: ~15mg
+IG estimado del plato: Bajo
+CG estimada: Baja
+--FIN_RECETA--
+
+--RECETA--
+ID: avena-liquida-medicinal
+TITULO: Avena Líquida Medicinal
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 4
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 1, Día 1
+CONCEPTO: Avena líquida y tibia, más fluida que un atol: sus betaglucanos recubren la mucosa gástrica y ayudan al tránsito.
+INGREDIENTES:
+• Avena en hojuelas — 6 cucharadas
+• Agua — 3 tazas (750ml)
+• Canela — pizca mínima (estabiliza glucemia sin irritar en esta dosis)
+• Stevia — 4-6 gotas (si necesitan sabor)
+• Aceite de oliva — 1 cucharadita (lubricante intestinal)
+PREPARACION:
+1. Hierve el agua.
+2. Agrega la avena.
+3. Cocina a fuego bajo 10-12 minutos, revolviendo, hasta que la avena esté completamente disuelta y el líquido quede ligeramente viscoso (como un jugo espeso, no como un atol).
+4. Si quedó muy espesa, agrega más agua hasta la consistencia deseada.
+5. Agrega la canela, stevia y aceite de oliva.
+6. Cuela si hay grumos.
+7. Sirve TIBIA. Porción día 1 (POR PERSONA): • ½ taza por toma. 1-2 tomas en el día 1.
+JUSTIFICACION: Función doble: Los betaglucanos de la avena forman un gel viscoso que recubre la mucosa gástrica (similar al gel de linaza pero con más calorías y nutrientes). Al mismo tiempo, regulan el tránsito intestinal — ni diarrea ni estreñimiento. Piénsalo como un segundo vendaje interno después del gel de linaza.
+ADVERTENCIAS: GEL DE LINAZA antes de esta toma.
+VALOR_NUTRICIONAL:
+Calorías: ~55 kcal
+Proteínas: ~2g
+Carbohidratos: ~9g (Fibra: ~1.5g,
+Betaglucanos: ~0.8g)
+Grasas: ~1.5g
+Sodio: mínimo
+IG estimado: Bajo (avena cocida lenta
++ aceite de oliva + fibra)
+CG estimada: Baja
+--FIN_RECETA--
+
+--RECETA--
+ID: lechosa-licuada-anti-estrenimiento
+TITULO: Lechosa Licuada Anti-Estreñimiento
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 2
+ICONO: vaso
+ETIQUETAS: Post-cirugía, Semana 1, Día 1
+CONCEPTO: Licuado de lechosa con agua tibia: laxante natural suave, con papaína y vitamina C sin acidez.
+INGREDIENTES:
+• Lechosa madura — 2 tazas en cubos
+• Agua tibia — 1 taza
+• Stevia — 4-6 gotas (opcional)
+PREPARACION:
+1. Licúa la lechosa con el agua hasta que quede un líquido suave sin grumos.
+2. No cueles (la fibra de la lechosa es tan suave que no genera problemas).
+3. Sirve a temperatura ambiente.
+4. Dividir en 2 porciones. Porción día 1 (POR PERSONA): • ½ taza. 1 toma en la tarde.
+JUSTIFICACION: Por qué lechosa y no otra fruta: La lechosa tiene papaína (enzima proteolítica que ayuda a digerir la proteína del caldo sin esfuerzo gástrico), tiene un pH casi neutro (no irrita la gastritis erosiva como lo haría la naranja, piña o guayaba), y tiene fibra soluble que ablanda las heces sin generar gas. Además: 1 taza de lechosa = ~62mg de vitamina C (el 69% de lo que cada paciente necesita al día para fabricar colágeno).
+ADVERTENCIAS: GEL DE LINAZA antes de esta toma.
+VALOR_NUTRICIONAL:
+Calorías: ~30 kcal
+Proteínas: <1g
+Carbohidratos: ~7g (Fibra: ~1g,
+Azúcares: ~5g)
+Grasas: <0.5g
+Vitamina C: ~31mg
+Vitamina A: ~780 μg
+IG estimado: Bajo-Medio
+CG estimada: Baja (porción pequeña)
+--FIN_RECETA--
+
+--RECETA--
+ID: huevo-revuelto-suave
+TITULO: Huevo Revuelto Suave
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: huevo frito
+ETIQUETAS: Post-cirugía, Semana 1, Día 1
+CONCEPTO: Huevos revueltos muy suaves y cremosos, la primera proteína sólida tras la cirugía: fáciles de digerir y con aminoácidos para cicatrizar.
+INGREDIENTES:
+• Huevos — 4 unidades
+• Aceite de oliva — 2 cucharaditas
+• Sal — pizca mínima
+• Agua o caldo de pollo — 2 cucharadas (para que quede más suave)
+PREPARACION:
+1. Bate los huevos con las cucharadas de agua o caldo y la pizca de sal.
+2. Calienta el aceite de oliva en sartén antiadherente a fuego MUY BAJO.
+3. Vierte los huevos.
+4. Revuelve LENTAMENTE con espátula, formando cuajadas grandes y suaves.
+5. Retira del fuego ANTES de que estén completamente cuajados (el calor residual termina la cocción). Deben verse brillantes y húmedos.
+6. Divide en 2 porciones iguales.
+7. Sirve inmediatamente, TIBIO. Porción día 1 (POR PERSONA): • 2 huevos completos. • Comer MUY lento, 15 minutos mínimo. • Si a medio camino siente náusea o llenura: parar y guardar el resto para 1 hora después.
+JUSTIFICACION: Por qué 2 huevos por persona: 2 huevos = ~12g de proteína completa con todos los aminoácidos esenciales. Aportan lisina y arginina directamente (cicatrización). La yema aporta zinc (~1mg por huevo) y colina (~150mg por huevo).
+ADVERTENCIAS: GEL DE LINAZA 10-15 min antes.|Si aún tienen náuseas a esta hora: NO forzar. Saltar esta preparación y seguir con líquidos. La proteína puede esperar al día 2. El vómito NO.
+VALOR_NUTRICIONAL:
+Calorías: ~175 kcal
+Proteínas: ~12g
+Carbohidratos: ~1g
+Grasas: ~13g
+(Sat: 4g, Mono: 5g, Poli: 2g)
+Zinc: ~2mg
+Colina: ~300mg
+Arginina: ~0.8g
+Lisina: ~0.9g
+IG: 0
+--FIN_RECETA--
+
+--RECETA--
+ID: yogur-natural-probiotico
+TITULO: Yogur Natural Probiótico
+CATEGORIA: Post-cirugía
+TIPO: Cierre Nocturno
+PORCIONES: 2
+ICONO: leche
+ETIQUETAS: Post-cirugía, Semana 1, Día 1
+CONCEPTO: Yogur natural para la noche: repone la microbiota y aporta proteína, calcio y triptófano para dormir mejor.
+INGREDIENTES:
+• Yogur natural sin azúcar — 1 taza (½ taza por persona)
+• Stevia — 4-6 gotas total (opcional) Uso (POR PERSONA):
+• Comer lento, a cucharaditas.
+• Si tolera bien: puede mezclar 1 cucharadita de linaza molida (omega-3 + fibra extra para la evacuación de mañana).
+PREPARACION:
+1. Saca el yogur de la nevera 10 minutos antes de comer (el frío extremo puede generar espasmo intestinal).
+2. Sirve ½ taza por persona, con la stevia si se desea y, si tolera bien, 1 cucharadita de linaza molida.
+3. Come lento, a cucharaditas.
+JUSTIFICACION: Timing crítico con antibiótico: Si a alguno de los pacientes le pusieron antibiótico (cefazolina IV o le mandaron oral), el yogur debe tomarse MÍNIMO 2-3 horas DESPUÉS de la última dosis de antibiótico del día. El antibiótico mata las bacterias del yogur si se toman juntos. Por qué en la noche: El yogur aporta triptófano + calcio. El triptófano es precursor de serotonina → melatonina. La primera noche post-cirugía, ambos pacientes van a estar adoloridos, incómodos y con dificultad para dormir. El combo yogur + manzanilla antes de dormir es lo más cercano a un inductor de sueño natural que podemos darles sin interactuar con el tramadol.
+ADVERTENCIAS: GEL DE LINAZA antes del yogur.
+VALOR_NUTRICIONAL:
+Calorías: ~75 kcal
+Proteínas: ~6g
+Carbohidratos: ~5g (Azúcares: ~5g
+naturales de la lactosa)
+Grasas: ~3g
+Calcio: ~150mg
+Triptófano: ~50mg
+IG estimado: Bajo
+Probióticos: Lactobacillus, Bifidobacterium
+--FIN_RECETA--
+
+--RECETA--
+ID: avena-tibia-de-cicatrizacion-huevo-pochado
+TITULO: Avena Tibia de Cicatrización + Huevo Pochado Aparte
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: huevo frito
+ETIQUETAS: Post-cirugía, Semana 1, Día 2
+CONCEPTO: Una avena tibia, suave y semilíquida servida aparte, y un huevo pochado en platito individual. Mismo objetivo clínico, mejor experiencia real al comerlo.
+INGREDIENTES:
+— AVENA TIBIA (para 2 personas):
+• Avena en hojuelas — 8 cucharadas
+• Agua — 2 ½ tazas (625ml)
+• Aceite de oliva — 2 cucharaditas
+• Canela — pizca mínima
+• Stevia — 4-6 gotas total (opcional)
+• Semillas de auyama peladas (pepitas) — 2 cucharadas (1 por persona)
+— HUEVO POCHADO APARTE:
+• Huevos — 2 unidades
+• Agua — suficiente para pochar
+• Sal — pizca mínima al servir
+PREPARACION:
+1. Coloca la avena y el agua en una olla.
+2. Cocina a fuego bajo por 10-12 minutos, removiendo, hasta que quede cremosa pero semilíquida (más fluida que una avena espesa normal).
+3. Agrega el aceite de oliva, la canela y la stevia si la usarán.
+4. Divide en 2 tazas o bowls tibios.
+5. Agrega 1 cucharada de semillas de auyama a cada porción.
+6. Lleva agua a hervor suave.
+7. Baja el fuego hasta que el agua apenas tiemble.
+8. Casca cada huevo en una taza pequeña.
+9. Desliza cada huevo con cuidado al agua.
+10. Cocina 3 minutos si quieren yema suave, o 4 minutos si lo quieren más firme.
+11. Retira con espumadera.
+12. Sirve 1 huevo en un platito individual por persona con una pizca mínima de sal.
+JUSTIFICACION: Por qué esta versión es mejor: • La avena sigue funcionando como vendaje interno gástrico (betaglucanos + textura suave). • El huevo sigue aportando proteína completa, colina, lisina y arginina para cicatrización. • Las semillas de auyama siguen subiendo el zinc desde la primera comida del día. • Separar la avena del huevo hace el desayuno más lógico, más apetecible y mejor tolerado en un postoperatorio reciente. • Nutricionalmente no se pierde casi nada. Sensorialmente se gana mucho.
+ADVERTENCIAS: GEL DE LINAZA 10-15 min antes.|Medicamentos: si toman ibuprofeno en la mañana, tomarlo DESPUÉS de este desayuno, nunca con el estómago vacío.|Si alguno no tolera el huevo pochado, puede hacerse revuelto suave aparte, con la misma cantidad de huevo.
+VALOR_NUTRICIONAL:
+Calorías: ~250 kcal
+Proteínas: ~11-12g
+Carbohidratos: ~25g (Fibra: ~4g)
+Grasas: ~11-12g (Mono: ~5g)
+Zinc: ~3mg
+Colina: ~150mg
+Arginina: ~0.5g
+Lisina: ~0.5g
+IG estimado: Bajo
+CG estimada: Baja-Media
+--FIN_RECETA--
+
+--RECETA--
+ID: lechosa-con-linaza-y-chia
+TITULO: Lechosa con Linaza y Chía
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 2
+ICONO: vaso
+ETIQUETAS: Post-cirugía, Semana 1, Día 2
+CONCEPTO: Lechosa con linaza molida y chía hidratada: merienda de fibra y mucílago pensada para mover el intestino.
+INGREDIENTES:
+• Lechosa madura — 2 tazas en cubos (1 taza por persona)
+• Linaza molida — 2 cucharadas (1 por persona)
+• Chía hidratada — 2 cucharaditas (1 por persona, previamente remojada cada cucharadita en 2 cucharadas de agua por 15 min)
+• Aceite de oliva — 1 cucharadita total (½ por persona — lubricante intestinal directo)
+PREPARACION:
+1. Divide los cubos de lechosa en 2 platos (1 taza por persona).
+2. Espolvorea 1 cucharada de linaza molida sobre cada plato.
+3. Agrega 1 cucharadita de chía hidratada a cada plato.
+4. Rocía ½ cucharadita de aceite de oliva sobre cada porción.
+5. Comer lentamente. Masticar bien aunque la lechosa sea blanda. La masticación estimula el nervio vago → activa el peristaltismo.
+JUSTIFICACION: La ciencia detrás de cada ingrediente: • Lechosa: Papaína (enzima digestiva) + fibra soluble + agua (~88% agua). • Linaza molida: Fibra insoluble suave + mucílagos + omega-3. La linaza molida absorbe agua en el intestino → aumenta el volumen fecal → estímulo mecánico para evacuar. • Chía hidratada: Gel de mucílago que lubrica el tránsito intestinal. • Aceite de oliva: Lubricante directo del bolo fecal.
+ADVERTENCIAS: GEL DE LINAZA antes.|HIDRATACIÓN: Cada paciente debe tomar 1 vaso grande de agua tibia (250ml) junto con esta merienda. La fibra sin agua ESTREÑA en vez de soltar.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal
+Proteínas: ~3g
+Carbohidratos: ~15g (Fibra: ~5g)
+Grasas: ~6g (Omega-3 ALA: ~1.5g)
+Vitamina C: ~62mg
+Vitamina A: ~780 μg
+IG estimado: Bajo-Medio
+CG estimada: Baja
+--FIN_RECETA--
+
+--RECETA--
+ID: pollo-desmenuzado-en-crema-de-auyama-con-batata
+TITULO: Pollo Desmenuzado en Crema de Auyama con Batata Suave
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: olla humeante
+ETIQUETAS: Post-cirugía, Semana 1, Día 2
+CONCEPTO: Pollo desmenuzado y húmedo sobre crema espesa de auyama y batata: almuerzo blando, con proteína completa y betacaroteno.
+INGREDIENTES:
+— PROTEÍNA (para 2 personas):
+• Pechuga de pollo — 240g
+• Caldo de pollo postquirúrgico (del día 1) — 1 taza para cocinar
+• Cúrcuma — pizca
+• Sal — pizca mínima
+• Auyama — 2 tazas en cubos
+• Batata — 1 taza en cubos
+• Caldo de pollo — 1 taza
+• Aceite de oliva — 2 cucharaditas
+• Sal — pizca
+— MONTAJE (por persona):
+• Aceite de oliva — 1 cucharadita
+• Ajonjolí tostado — 1 cucharada
+PREPARACION:
+1. Hierve la pechuga en el caldo de pollo con la cúrcuma a fuego bajo por 20 minutos.
+2. Retira y desmenuza con dos tenedores hasta que quede en hilachas finas.
+3. Humedece las hilachas con 4-6 cucharadas del caldo de cocción (para que no quede seco).
+4. Divide en 2 porciones iguales. GUARNICIÓN — Crema de Auyama Espesa (para 2 personas):
+5. Hierve la auyama y la batata en el caldo hasta que estén muy blandas (15-18 min).
+6. Haz puré con tenedor (no licúes — hoy queremos textura con algo de cuerpo, no líquido).
+7. Agrega aceite de oliva y sal.
+8. Divide en 2 porciones.
+JUSTIFICACION: Análisis nutricional terapéutico: • Pollo: ~25g de proteína completa por persona con alta biodisponibilidad. Lisina, arginina, metionina para cicatrización. • Auyama: Vitamina A (betacaroteno) para diferenciación celular en la herida. Fibra soluble. • Batata: Carbohidrato complejo de bajo IG. Vitamina B6 (cofactor de síntesis proteica). Magnesio. • Ajonjolí: Zinc (~1mg/cda) + calcio + magnesio. Textura suave que no agrede. • Cúrcuma: Antiinflamatorio que reduce el edema de las heridas sin agredir el estómago en esta dosis mínima.
+ADVERTENCIAS: GEL DE LINAZA antes.|Comer en 20-25 minutos mínimo.|NO acostarse inmediatamente después. Sentarse reclinados a 30-45° por 30 minutos post-comida (previene reflujo + facilita vaciamiento gástrico).
+VALOR_NUTRICIONAL:
+Calorías: ~350 kcal
+Proteínas: ~28g
+Carbohidratos: ~30g (Fibra: ~5g,
+Azúcares: ~6g)
+Grasas: ~13g
+(Sat: 2g, Mono: 7g, Poli: 2g)
+Sodio: ~200mg
+Zinc: ~3mg
+Vitamina A: ~6,000 μg
+Vitamina C: ~25mg
+Magnesio: ~45mg
+Arginina: ~1.5g
+Lisina: ~2g
+Vitamina B6: ~0.6mg
+IG estimado: Bajo-Medio
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: yogur-con-semillas-y-guayaba
+TITULO: Yogur con Semillas y Guayaba
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 2
+ICONO: leche
+ETIQUETAS: Post-cirugía, Semana 1, Día 2
+CONCEPTO: Yogur natural con guayaba sin semillas, semillas de auyama y almendras picadas: merienda con probióticos, vitamina C y zinc.
+INGREDIENTES:
+• Yogur natural sin azúcar — 1 taza (½ taza por persona)
+• Guayaba madura — 1 unidad mediana, pelada y sin semillas, cortada en cubitos muy pequeños (½ guayaba por persona)
+• Semillas de auyama — 2 cucharadas (1 por persona)
+• Almendras — 8-10 unidades, picadas finamente (4-5 por persona)
+• Stevia — 4-6 gotas total
+PREPARACION:
+1. Divide el yogur en 2 bowls (½ taza por persona).
+2. Agrega los cubitos de guayaba a cada bowl.
+3. Espolvorea las semillas de auyama y las almendras picadas.
+4. Agrega stevia si quieren dulzor.
+5. Mezcla suavemente.
+JUSTIFICACION: Por qué guayaba AQUÍ y no antes: La guayaba es la fuente más concentrada de vitamina C disponible para ambos pacientes (228mg/100g — más que la naranja, más que el kiwi, más que la fresa). PERO la guayaba tiene cierta acidez natural. No la usamos el día 1 porque el estómago estaba demasiado sensible post-anestesia + ketorolaco. Hoy, con el gel de linaza + el omeprazol + la avena de la mañana protegiendo la mucosa, podemos introducirla en porción pequeña (½ guayaba por persona) y SIN semillas (las semillas son fibra insoluble dura que puede irritar).
+ADVERTENCIAS: GEL DE LINAZA antes.|Si alguno de los pacientes siente ardor o molestia al comer la guayaba: retirarla y sustituir por más lechosa (vitamina C sin acidez). La mucosa manda.|Separar 2-3h del antibiótico (el yogur tiene calcio + probióticos).
+VALOR_NUTRICIONAL:
+Calorías: ~180 kcal
+Proteínas: ~9g
+Carbohidratos: ~14g (Fibra: ~3g)
+Grasas: ~10g
+Vitamina C: ~85mg
+Zinc: ~3mg
+Vitamina E: ~3mg
+Calcio: ~180mg
+Magnesio: ~40mg
+Selenio: ~5μg
+IG estimado: Bajo
+CG estimada: Baja
+--FIN_RECETA--
+
+--RECETA--
+ID: sopa-espesa-de-lentejas-con-zanahoria-y-huevo
+TITULO: Sopa Espesa de Lentejas con Zanahoria y Huevo
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 4
+ICONO: olla humeante
+ETIQUETAS: Post-cirugía, Semana 1, Día 2
+CONCEPTO: Sopa espesa de lentejas muy cocidas con zanahoria y auyama, coronada con huevo: cena reconfortante, con proteína y hierro y poco gas.
+INGREDIENTES:
+• Lentejas — 1 taza (secas, lavadas)
+• Zanahoria — 2 medianas, peladas, en cubitos pequeños
+• Auyama — 1 taza en cubitos
+• Caldo de pollo postquirúrgico — 5 tazas
+• Aceite de oliva — 2 cucharaditas
+• Ají dulce — 4 unidades, sin semillas, picados finamente
+• Cúrcuma — pizca
+• Comino — pizca mínima
+• Sal — ½ cucharadita rasa
+• Huevos — 4 unidades (sancochados aparte, 1 por porción cortado en cuartos y puesto encima al servir)
+PREPARACION:
+1. En una olla, calienta el aceite de oliva a fuego medio.
+2. Agrega el ají dulce. Sofríe 2 minutos (sin cebolla, sin ajo — irritantes gástricos excluidos).
+3. Agrega las lentejas, zanahoria, auyama, cúrcuma y comino. Revuelve 30 segundos.
+4. Agrega el caldo de pollo.
+5. Lleva a hervor, baja a fuego bajo.
+6. Cocina tapado 25-30 minutos hasta que las lentejas estén MUY blandas (casi deshaciéndose — las lentejas duras generan gas y distensión).
+7. Con tenedor o prensapapas, aplasta ligeramente parte de las lentejas y la auyama para espesar la sopa (no licúes — la textura con trocitos blandos es mejor para estimular el intestino que un puré total).
+8. Sancocha los 4 huevos aparte. Pela y corta en cuartos.
+9. Al servir: 1 porción de sopa + 1 huevo en cuartos encima por persona. Porción hoy (POR PERSONA): • 1 taza de sopa + 1 huevo. • Comer en 20-25 minutos. • Guardar las 2 porciones restantes en la nevera para mañana.
+JUSTIFICACION: Análisis nutricional terapéutico: • Lentejas: Proteína vegetal (~9g/ ½ taza cocida) + hierro no hemo (~3mg/½ taza) + zinc (~1.3mg) + fibra soluble (~4g) + folato. Las lentejas son la legumbre que menos gas genera cuando están MUY bien cocidas. • Zanahoria: Betacaroteno. • Auyama: Vitamina A + fibra soluble + magnesio. • Huevo: Proteína completa + zinc + colina + vitamina D. • Caldo de pollo: Colágeno + glicina + prolina. Cada cucharada de este caldo lleva aminoácidos de cicatrización. • Ají dulce: Sabor criollo sin capsaicina. Seguro para gastritis. • Comino: En pizca mínima es carminativo (reduce gases).
+ADVERTENCIAS: GEL DE LINAZA antes.|Cenar mínimo 2-3 horas antes de acostarse (protocolo de Usuario).|Después de cenar: caminar lentamente por la casa 5-10 minutos cada uno (si el dolor lo permite). Esto estimula el peristaltismo para la evacuación de mañana.
+VALOR_NUTRICIONAL:
+Calorías: ~290 kcal
+Proteínas: ~20g
+Carbohidratos: ~30g (Fibra: ~8g,
+Azúcares: ~5g)
+Grasas: ~9g
+Sodio: ~250mg
+Zinc: ~4mg
+Hierro: ~4mg
+Vitamina A: ~5,500 μg
+Vitamina C: ~15mg
+Folato: ~120 μg
+Magnesio: ~50mg
+Arginina: ~1g
+IG estimado: Bajo
+CG estimada: Media
+Gastroprotección: ✅ Sin irritantes.
+Lentejas muy cocidas. Ají dulce sin
+capsaicina. Cúrcuma y comino en pizca.
+--FIN_RECETA--
+
+--RECETA--
+ID: yogur-de-sueno-con-ajonjoli-linaza-y-manzanilla
+TITULO: Yogur de Sueño con Ajonjolí, Linaza y Manzanilla
+CATEGORIA: Post-cirugía
+TIPO: Cierre Nocturno
+PORCIONES: 2
+ICONO: taza
+ETIQUETAS: Post-cirugía, Semana 1, Día 2
+CONCEPTO: Yogur con ajonjolí, linaza y una taza de manzanilla: combinación nocturna para conciliar el sueño y preparar la evacuación de la mañana.
+INGREDIENTES:
+• Yogur natural sin azúcar — 1 taza (½ taza por persona)
+• Ajonjolí tostado — 2 cucharadas (1 por persona)
+• Linaza molida — 2 cucharaditas (1 por persona — fibra + omega-3 para evacuación matutina de mañana)
+• Stevia — 4-6 gotas total
+• Infusión de manzanilla — 2 tazas tibias (1 por persona, aparte)
+PREPARACION:
+1. Saca el yogur de la nevera 10 minutos antes.
+2. Divide en 2 bowls (½ taza por persona).
+3. Mezcla cada porción con 1 cucharada de ajonjolí, 1 cucharadita de linaza y stevia al gusto.
+4. Prepara la manzanilla aparte (1 taza por persona).
+5. Comen el yogur lentamente.
+6. Cierran con la manzanilla como última bebida del día.
+JUSTIFICACION: El combo nocturno: El ajonjolí + yogur aportan triptófano → serotonina → melatonina. La manzanilla aporta apigenina → GABA. Juntos, son el mejor inductor de sueño natural que podemos ofrecer sin interactuar con el tramadol.
+ADVERTENCIAS: GEL DE LINAZA antes.|Separar 2-3h del antibiótico.|No acostarse completamente plano hasta 30 min después de esta toma (semi-incorporado para evitar reflujo).
+VALOR_NUTRICIONAL:
+Calorías: ~145 kcal
+Proteínas: ~8g
+Carbohidratos: ~7g
+Grasas: ~9g
+Zinc: ~2mg
+Calcio: ~230mg
+Magnesio: ~35mg
+Triptófano: ~80mg
+Omega-3 ALA: ~0.5g
+Fibra: ~2g
+IG estimado: Bajo
+--FIN_RECETA--
+
+--RECETA--
+ID: arepa-suave-gastroprotectora-con-huevo-revuelto
+TITULO: Arepa Suave Gastroprotectora con Huevo Revuelto y Aguacate
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: huevo frito
+ETIQUETAS: Post-cirugía, Semana 1, Día 3
+CONCEPTO: Arepa suave con linaza en la masa, rellena de huevo revuelto y aguacate: desayuno venezolano gastroprotector y con proteína.
+INGREDIENTES:
+— MASA (para 4 arepas pequeñas —:
+• Harina de maíz precocida — 8 cucharadas
+• Linaza molida — 2 cucharadas
+• Agua tibia — cantidad suficiente para una masa suave
+• Sal — pizca mínima
+• Aceite de oliva — 1 cucharadita mezclada en la masa
+— RELLENO:
+• Huevos — 4 unidades
+• Aguacate — ½ unidad mediana, en rodajas o aplastado
+• Aceite de oliva — 1 cucharadita (para el revuelto)
+• Sal — pizca
+PREPARACION:
+1. Mezcla la harina con la linaza molida y la sal.
+2. Agrega el agua tibia gradualmente.
+3. Agrega el aceite de oliva.
+4. Amasa hasta que quede suave, sin grietas.
+5. Forma 4 arepas pequeñas y delgadas (no gruesas — se digieren más fácil).
+6. Cocina en budare o sartén antiadherente a fuego medio-bajo. Sin aceite extra o con mínimo. Dorar suavemente por ambos lados (5-6 minutos por lado).
+7. NO hornear después — las queremos suaves por dentro, no crujientes.
+8. Haz el revuelto suave como el del día 1 (húmedo, cremoso, fuego muy bajo).
+9. Abre las arepas.
+10. Rellena con el huevo revuelto + las rodajas de aguacate.
+JUSTIFICACION: Por qué esta combinación: • La linaza en la masa convierte la arepa en un vehículo gastroprotector desde el primer bocado. • El huevo aporta ~12g de proteína por persona para la cicatrización de la mañana. • El aguacate aporta grasas monoinsaturadas que ralentizan la absorción del carbohidrato de la harina → IG más bajo → glucemia más plana. • Juntos: arepa + huevo + aguacate + linaza = comida reconfortante, venezolana, segura para la gastritis, estabilizadora de glicemia y con proteína real.
+ADVERTENCIAS: GEL DE LINAZA 10-15 min antes.|Si toman ibuprofeno en la mañana: DESPUÉS de esta arepa.|Masticar bien. Cada bocado masticado 15-20 veces.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal
+Proteínas: ~15g
+Carbohidratos: ~30g (Fibra: ~5g)
+Grasas: ~22g (Sat: 4g, Mono: 12g,
+Poli: 3g)
+Sodio: ~180mg
+Omega-3 ALA: ~1.5g
+Zinc: ~2mg
+Vitamina E: ~2mg
+Colina: ~300mg
+IG estimado: Medio (mitigado por linaza
++ aguacate + huevo)
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: batido-suave-de-lechosa-guayaba-y-avena
+TITULO: Batido Suave de Lechosa, Guayaba y Avena
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 2
+ICONO: vaso
+ETIQUETAS: Post-cirugía, Semana 1, Día 3
+CONCEPTO: Batido de lechosa, guayaba sin semillas y avena: merienda con mucha vitamina C, fibra suave y sin acidez molesta.
+INGREDIENTES:
+• Lechosa madura — 1 ½ tazas en cubos
+• Guayaba madura — 1 unidad mediana, pelada, sin semillas
+• Avena en hojuelas — 2 cucharadas
+• Agua — 1 taza
+• Linaza molida — 2 cucharaditas
+• Stevia — 4-6 gotas
+PREPARACION:
+1. Licúa todo hasta que quede completamente suave.
+2. Si quedó muy espeso, agrega un poco más de agua.
+3. Sirve a temperatura ambiente.
+4. Beber lentamente, en 10-15 minutos.
+5. Divide en 2 vasos iguales.
+JUSTIFICACION: Análisis terapéutico: • Lechosa: Papaína digestiva + vitamina C sin acidez + laxante suave. • Guayaba sin semillas: Bomba de vitamina C + licopeno. • Avena: Betaglucanos + espesa el batido → saciedad. • Linaza molida: Fibra + omega-3 + mucílago.
+ADVERTENCIAS: GEL DE LINAZA antes.|Si la guayaba causó alguna molestia ayer: eliminarla y usar solo lechosa (2 tazas totales).
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal
+Proteínas: ~3g
+Carbohidratos: ~25g (Fibra: ~5g,
+Azúcares: ~12g)
+Grasas: ~3g
+Vitamina C: ~117mg
+Vitamina A: ~650μg
+Omega-3 ALA: ~0.5g
+IG estimado: Medio (mitigado por avena
++ linaza + fibra de lechosa)
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: pollo-en-salsa-suave-de-auyama-con-quinoa-y
+TITULO: Pollo en Salsa Suave de Auyama con Quinoa y Ensalada Tibia de Zanahoria
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 1, Día 3
+CONCEPTO: Pollo bañado en salsa suave de auyama, con quinoa y zanahoria tibia: almuerzo completo, tierno y fácil de digerir.
+INGREDIENTES:
+• Pechuga de pollo — 260g, en 4-6 trozos
+• Auyama — 1 taza en cubos
+• Caldo de pollo postquirúrgico — 1 ½ tazas
+• Ají dulce — 4 unidades, picados
+• Cúrcuma — pizca
+• Aceite de oliva — 2 cucharaditas
+• Sal — pizca
+• Quinoa — ½ taza (seca)
+• Agua — 1 taza
+• Sal — pizca
+• Aceite de oliva — 1 cucharadita
+— ENSALADA TIBIA DE ZANAHORIA:
+• Zanahoria — 2 grandes, peladas
+• Ajonjolí tostado — 2 cucharadas
+• Perejil fresco — 2 cucharadas picadas
+• Aceite de oliva — 2 cucharaditas
+• Sal — pizca
+PREPARACION:
+1. Calienta el aceite en sartén a fuego medio.
+2. Sella el pollo por ambos lados (2 min por lado — solo dorar ligeramente).
+3. Agrega el ají dulce. Cocina 1 minuto.
+4. Agrega la auyama y el caldo.
+5. Tapa. Cocina a fuego bajo 15-18 minutos hasta que el pollo esté cocido y la auyama completamente blanda.
+6. Retira el pollo.
+7. Licúa o aplasta la auyama con parte del caldo restante para formar una salsa espesa y cremosa.
+8. Baña el pollo con la salsa.
+9. Divide en 2 porciones. GUARNICIÓN — Quinoa Suave (para 2 personas):
+10. Lava la quinoa muy bien bajo el chorro de agua.
+11. Hierve en el agua con la sal a fuego bajo, tapada, 15 min.
+12. Deja reposar 5 min tapada.
+13. Esponja con tenedor.
+14. Agrega el aceite de oliva.
+15. Divide en 2 porciones.
+16. Corta la zanahoria en rodajas finas o en bastones pequeños.
+17. Hierve o cocina al vapor hasta que estén tiernas pero no deshechas (8-10 min).
+18. Escurre.
+19. Mezcla con aceite de oliva, ajonjolí y perejil.
+20. Divide en 2 porciones.
+21. Sirve tibia.
+JUSTIFICACION: Por qué no ensalada cruda todavía: Los vegetales crudos requieren más trabajo digestivo. El intestino lleva pocos días funcionando a medias. La zanahoria cocida aporta lo mismo nutricionalmente con menos esfuerzo.
+ADVERTENCIAS: GEL DE LINAZA antes.|Comer en 25-30 minutos.|No acostarse hasta 30-45 min después.
+VALOR_NUTRICIONAL:
+Calorías: ~420 kcal
+Proteínas: ~35g
+Carbohidratos: ~32g (Fibra: ~6g,
+Azúcares: ~6g)
+Grasas: ~16g
+(Sat: 2g, Mono: 9g, Poli: 3g)
+Sodio: ~230mg
+Zinc: ~4mg
+Vitamina A: ~8,500μg
+Vitamina C: ~18mg
+Magnesio: ~70mg
+Hierro: ~3mg
+Selenio: ~12μg
+Arginina: ~1.8g
+Lisina: ~2.2g
+IG estimado: Bajo-Medio
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: parfait-de-yogur-cambur-y-almendras
+TITULO: Parfait de Yogur, Cambur y Almendras
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 2
+ICONO: manzana
+ETIQUETAS: Post-cirugía, Semana 1, Día 3
+CONCEPTO: Parfait de yogur, cambur semimaduro y almendras: merienda cremosa con probióticos, potasio y grasas buenas.
+INGREDIENTES:
+• Yogur natural sin azúcar — 1 taza (½ taza por persona)
+• Cambur semi-maduro — 1 unidad (½ por persona), en rodajas finas
+• Almendras — 12-16 unidades, picadas
+• Semillas de auyama — 2 cucharaditas (1 por persona)
+• Canela — pizca
+• Stevia — 4-6 gotas
+PREPARACION:
+1. En 2 vasos o tazas, coloca la mitad del yogur en cada uno.
+2. Reparte las rodajas de cambur.
+3. Agrega el resto del yogur.
+4. Espolvorea las almendras picadas, las semillas de auyama y la canela.
+5. Agrega stevia si la usarán.
+JUSTIFICACION: Análisis terapéutico: • Yogur: Probióticos para microbiota dañada por antibiótico + triptófano + calcio. • Cambur SEMI-MADURO: Triptófano + vitamina B6 + potasio. • Almendras: Vitamina E + magnesio + proteína. • Semillas de auyama: Zinc. • Canela: Sensibilizadora de insulina.
+ADVERTENCIAS: GEL DE LINAZA antes.|Separar 2-3h del antibiótico.
+VALOR_NUTRICIONAL:
+Calorías: ~210 kcal
+Proteínas: ~10g
+Carbohidratos: ~18g (Fibra: ~3g,
+Azúcares: ~10g)
+Grasas: ~12g
+(Mono: 6g)
+Zinc: ~2.5mg
+Calcio: ~190mg
+Magnesio: ~45mg
+Vitamina E: ~3.5mg
+Potasio: ~350mg
+Triptófano: ~70mg
+IG estimado: Medio (mitigado por grasa
+de almendras + proteína del yogur)
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: huevos-rellenos-suaves-con-pure-de-garbanzos-y
+TITULO: Huevos Rellenos Suaves con Puré de Garbanzos y Aguacate
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ETIQUETAS: Post-cirugía, Semana 1, Día 3
+CONCEPTO: Huevos rellenos con puré de garbanzos y aguacate: cena de proteína sin esfuerzo digestivo, fácil de comer.
+INGREDIENTES:
+• Huevos — 6 unidades, sancochados
+• Garbanzos cocidos — ½ taza (MUY bien cocidos, blandísimos)
+• Aguacate — ½ unidad mediana
+• Aceite de oliva — 2 cucharaditas
+• Cúrcuma — pizca
+• Comino — pizca mínima
+• Perejil fresco — 2 cucharadas picadas
+• Sal — pizca
+PREPARACION:
+1. Sancocha los huevos (10 min). Pélalos. Córtalos por la mitad.
+2. Retira las yemas. Colócalas en un bowl.
+3. Aplasta las yemas con tenedor.
+4. Aplasta los garbanzos hasta hacer un puré rústico.
+5. Aplasta el aguacate.
+6. Mezcla las yemas + garbanzos + aguacate + aceite de oliva + cúrcuma + comino + sal.
+7. Rellena las mitades de clara con esta mezcla.
+8. Espolvorea perejil fresco.
+JUSTIFICACION: Por qué esta cena: • 3 huevos por persona = ~18g de proteína completa. La cena aporta proteína para la síntesis nocturna de colágeno. • Garbanzos: Proteína vegetal + fibra soluble + zinc + hierro + inositol. Muy bien cocidos no generan gas importante en esta cantidad. • Aguacate: Grasas mono + vitamina E + potasio + B6. • Cúrcuma: Antiinflamatorio suave. • El formato huevo relleno es fácil de comer y se siente como un plato real.
+ADVERTENCIAS: GEL DE LINAZA antes.|Cenar mínimo 2-3 horas antes de acostarse.|Después de cenar: caminata lenta por la casa 5-10 minutos.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal
+Proteínas: ~22g
+Carbohidratos: ~12g (Fibra: ~4g)
+Grasas: ~27g (Sat: 5g, Mono: 14g,
+Poli: 4g)
+Sodio: ~220mg
+Zinc: ~4mg
+Hierro: ~3.5mg
+Vitamina E: ~3mg
+Vitamina A: ~450μg
+Vitamina B6: ~0.4mg
+Magnesio: ~45mg
+Arginina: ~1.2g
+Lisina: ~1g
+Triptófano: ~150mg
+Potasio: ~420mg
+IG estimado: Bajo
+CG estimada: Baja
+--FIN_RECETA--
+
+--RECETA--
+ID: avena-nocturna-con-lechosa-ajonjoli-y-manzanilla
+TITULO: Avena Nocturna con Lechosa, Ajonjolí y Manzanilla
+CATEGORIA: Post-cirugía
+TIPO: Cierre Nocturno
+PORCIONES: 2
+ICONO: taza
+ETIQUETAS: Post-cirugía, Semana 1, Día 3
+CONCEPTO: Avena tibia con lechosa, ajonjolí, linaza y manzanilla: cierre del día para dormir, proteger el estómago y favorecer la evacuación.
+INGREDIENTES:
+• Avena en hojuelas — 6 cucharadas
+• Agua — 1 ½ tazas
+• Lechosa — 1 taza en cubos pequeños
+• Ajonjolí tostado — 2 cucharadas
+• Linaza molida — 2 cucharaditas
+• Canela — pizca
+• Stevia — 4-6 gotas
+• Infusión de manzanilla — 2 tazas tibias (1 por persona, aparte)
+PREPARACION:
+1. Cocina la avena en el agua a fuego bajo por 8-10 minutos hasta que quede cremosa.
+2. Retira del fuego.
+3. Agrega los cubos de lechosa (se ablandan con el calor residual).
+4. Agrega el ajonjolí, la linaza, la canela y la stevia.
+5. Mezcla suavemente.
+6. Divide en 2 bowls.
+7. Prepara la manzanilla aparte.
+8. Cada persona come su avena lentamente y cierra con la manzanilla tibia.
+JUSTIFICACION: Estrategia nocturna triple: 1. Sueño: triptófano del ajonjolí + apigenina de la manzanilla + magnesio del ajonjolí. 2. Evacuación matutina: linaza molida + lechosa + fibra de la avena trabajan durante la noche. 3. Gastroprotección: avena + linaza forman una capa mucilaginosa que protege el estómago mientras duermen.
+ADVERTENCIAS: GEL DE LINAZA antes de la avena.|Separar 2-3h del antibiótico.|No acostarse completamente plano hasta 30 min después.
+VALOR_NUTRICIONAL:
+Calorías: ~200 kcal
+Proteínas: ~6g
+Carbohidratos: ~25g (Fibra: ~5g,
+Azúcares: ~7g)
+Grasas: ~9g
+Zinc: ~2mg
+Calcio: ~90mg
+Magnesio: ~45mg
+Triptófano: ~60mg
+Vitamina C: ~31mg
+Omega-3 ALA: ~0.5g
+IG estimado: Bajo-Medio
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: panquecas-suaves-de-avena-con-cambur-y-canela
+TITULO: Panquecas Suaves de Avena con Cambur y Canela
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 1, Día 4
+CONCEPTO: Panquecas suaves de avena con cambur y canela: desayuno dulce sin azúcar añadida, con proteína del huevo y fibra soluble.
+INGREDIENTES:
+• Avena en hojuelas — 1 taza (licuada 30 seg hasta harina)
+• Huevos — 4 unidades
+• Cambur semi-maduro — 1 unidad mediana, aplastado
+• Linaza molida — 2 cucharadas
+• Canela — ½ cucharadita
+• Polvo de hornear — 1 cucharadita
+• Aceite de oliva — 2 cucharaditas (para la sartén)
+• Stevia — 6-8 gotas
+• Sal — pizca mínima
+PREPARACION:
+1. Licúa la avena hasta hacerla harina fina.
+2. En un bowl, bate los huevos.
+3. Agrega el cambur aplastado, la harina de avena, la linaza, la canela, el polvo de hornear, la stevia y la sal.
+4. Mezcla hasta integrar. La masa debe quedar como un pancake batter normal (si está muy espesa: 2-3 cdas de agua).
+5. Calienta sartén antiadherente a fuego bajo-medio con el aceite de oliva.
+6. Vierte cucharadas de masa formando panquecas pequeñas (~8 cm de diámetro).
+7. Cocina 2-3 minutos por lado hasta que estén doradas y cocidas por dentro.
+8. Divide en 2 porciones iguales (4-5 panquecas por persona).
+JUSTIFICACION: Por qué este desayuno: • Avena: Betaglucanos = vendaje gástrico matutino + fibra soluble + estabilizador de glucemia. • Huevos: Cisteína y metionina → precursores de glutatión (hepatoprotección contra el acetaminofén). • Cambur semi-maduro: B6 + potasio + triptófano. El IG del cambur semi-maduro es ~42-50 (aceptable) y está mitigado por los huevos, la avena y la grasa. • Linaza: Mucílago + omega-3. • Canela: Sensibilizadora de insulina. En reposo absoluto, CADA herramienta contra la resistencia a la insulina importa.
+ADVERTENCIAS: GEL DE LINAZA 10-15 min antes.|Si toman ibuprofeno o acetaminofén en la mañana: DESPUÉS de este desayuno.|Comer despacio. Las panquecas son suaves pero masticarlas bien sigue siendo importante.
+VALOR_NUTRICIONAL:
+Calorías: ~370 kcal
+Proteínas: ~17g
+Carbohidratos: ~35g (Fibra: ~6g,
+Azúcares: ~7g)
+Grasas: ~18g
+(Sat: 4g, Mono: 8g, Poli: 3g)
+Zinc: ~2.5mg
+Calcio: ~110mg
+Vitamina B6: ~0.4mg
+Potasio: ~380mg
+Omega-3 ALA: ~1.5g
+Colina: ~300mg
+Cisteína: ~0.3g
+Metionina: ~0.4g
+IG estimado: Medio (mitigado por huevo
++ avena + linaza + grasa)
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: lechosa-con-chia-linaza-y-semillas-de-auyama
+TITULO: Lechosa con Chía, Linaza y Semillas de Auyama
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 2
+ICONO: vaso
+ETIQUETAS: Post-cirugía, Semana 1, Día 4
+CONCEPTO: Lechosa con chía, linaza y semillas de auyama: merienda de fibra, vitamina C y zinc, para tomar con abundante agua tibia.
+INGREDIENTES:
+• Lechosa madura — 2 tazas en cubos (1 taza por persona)
+• Chía hidratada — 2 cucharaditas (1 por persona, remojada 15 min en 2 cdas de agua cada una)
+• Linaza molida — 2 cucharaditas (1 por persona)
+• Semillas de auyama — 2 cucharadas (1 por persona)
+• Aceite de oliva — 1 cucharadita total (½ por persona)
+PREPARACION:
+1. Divide los cubos de lechosa en 2 platos (1 taza por persona).
+2. Agrega 1 cucharadita de chía hidratada a cada plato.
+3. Espolvorea 1 cucharadita de linaza sobre cada porción.
+4. Agrega 1 cucharada de semillas de auyama a cada plato.
+5. Rocía ½ cucharadita de aceite de oliva por porción.
+6. Mezcla suavemente.
+JUSTIFICACION: Vitamina C de esta merienda por persona: ~62mg solo de la lechosa. Sigue sumando a lo largo del día.
+ADVERTENCIAS: GEL DE LINAZA antes.|1 vaso grande de agua tibia por persona junto con esta merienda.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal
+Proteínas: ~4g
+Carbohidratos: ~16g (Fibra: ~5g)
+Grasas: ~7g
+Vitamina C: ~62mg
+Vitamina A: ~780μg
+Zinc: ~2.5mg
+Omega-3 ALA: ~1g
+Magnesio: ~35mg
+IG estimado: Bajo-Medio
+CG estimada: Baja
+--FIN_RECETA--
+
+--RECETA--
+ID: pechuga-a-la-plancha-con-arroz-integral-brocoli
+TITULO: Pechuga a la Plancha con Arroz Integral, Brócoli al Vapor y Ensalada Tibia de Remolacha
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: ensalada
+ETIQUETAS: Post-cirugía, Semana 1, Día 4
+CONCEPTO: Pechuga a la plancha con arroz integral, brócoli al vapor y remolacha tibia: almuerzo completo con proteína, fibra y control del índice glucémico.
+INGREDIENTES:
+• Pechuga de pollo — 280g total (2 pechugas de 140g)
+• Aceite de oliva — 2 cucharaditas
+• Cúrcuma — pizca
+• Comino — pizca mínima
+• Sal — pizca
+• Ají dulce — 4 unidades, picados finamente
+• Arroz integral — ½ taza (seco)
+• Agua — 1 ½ tazas
+• Sal — pizca
+• Aceite de oliva — 1 cucharadita
+• Remolacha — 2 pequeñas (200g total)
+• Perejil fresco — 2 cucharadas
+• Ajonjolí tostado — 2 cucharadas
+• Aceite de oliva — 2 cucharaditas
+• Sal — pizca
+• Brócoli — 2 tazas de floretes
+• Aceite de oliva — 1 cucharadita
+• Sal — pizca
+PREPARACION:
+1. Aplana ligeramente las pechugas entre dos plásticos para que tengan grosor uniforme (se cocinan parejo y quedan más tiernas).
+2. Sazona con cúrcuma, comino y sal.
+3. Calienta el aceite en sartén antiadherente a fuego medio.
+4. Cocina el pollo 5-6 minutos por lado hasta dorado y cocido por dentro.
+5. En el último minuto, agrega el ají dulce picado a la sartén.
+6. Retira. Deja reposar 3 minutos antes de cortar.
+7. Corta en tiras o trozos del tamaño de un bocado.
+8. Divide en 2 porciones. GUARNICIÓN — Arroz Integral Suave (para 2 personas):
+9. Lava el arroz.
+10. Hierve a fuego bajo, tapado, por 25-30 minutos hasta que esté bien cocido y suave.
+11. Esponja con tenedor.
+12. Agrega aceite de oliva.
+13. Divide en 2 porciones.
+14. Hierve las remolachas enteras con cáscara hasta que estén tiernas (30-40 min según tamaño, o 15 min en olla de presión).
+15. Pela bajo el chorro de agua.
+16. Corta en cubos pequeños.
+17. Mezcla con perejil, ajonjolí, aceite de oliva y sal.
+18. Divide en 2 porciones.
+19. Sirve tibia.
+20. Cocina al vapor 4-5 minutos máximo. Los floretes deben quedar verde brillante y ligeramente crujientes (NO blandos ni color oliva — la cocción excesiva destruye el sulforafano y la vitamina C).
+21. Retira inmediatamente del vapor.
+22. Rocía aceite de oliva y sal.
+23. Divide en 2 porciones.
+JUSTIFICACION: Por qué arroz INTEGRAL: El arroz blanco tiene IG ~72. El integral tiene IG ~50-55. Están acostados sin moverse. Sus músculos no están captando glucosa. Un pico glucémico de arroz blanco en reposo absoluto es exactamente lo que su perfil de riesgo NO necesita. Por qué remolacha HOY: La remolacha aporta betaína, un compuesto hepatoprotector que ayuda a la metilación hepática. Si están tomando acetaminofén, la combinación remolacha + brócoli + huevos (cisteína/metionina) está creando un escudo hepático desde la dieta.
+ADVERTENCIAS: IMPORTANTE SOBRE EL BRÓCOLI: El sulforafano se activa cuando la enzima mirosinasa entra en contacto con el glucorafanín al CORTAR o MASTICAR el brócoli. La cocción al vapor corta preserva parcialmente la mirosinasa. Si se hierve más de 5 minutos, la mirosinasa se destruye y el beneficio hepatoprotector se pierde.|PRECAUCIÓN GÁSTRICA CON BRÓCOLI: El brócoli puede generar gas en algunas personas. Porción: 1 taza máximo por persona. Si genera distensión abdominal o dolor en la zona operada: reducir a ½ taza o eliminar y sustituir por chayote al vapor (cero gas, cero riesgo).|GEL DE LINAZA antes.|Comer en 25-30 minutos.|Orden sugerido: brócoli primero, luego remolacha, luego pollo, luego arroz. (Vegetales primero → proteína → carbohidrato = menor pico glucémico postprandial.)
+VALOR_NUTRICIONAL:
+Calorías: ~480 kcal
+Proteínas: ~36g
+Carbohidratos: ~40g (Fibra: ~8g,
+Azúcares: ~6g)
+Grasas: ~18g
+(Sat: 3g, Mono: 10g, Poli: 3g)
+Sodio: ~250mg
+Zinc: ~4.5mg
+Hierro: ~4mg
+Vitamina C: ~75mg (brócoli ~56mg +
+remolacha ~5mg + ají dulce ~14mg)
+Vitamina A: ~2,500μg
+Magnesio: ~85mg
+Folato: ~180μg
+Selenio: ~15μg
+Sulforafano: presente
+Betaína: ~130mg
+Nitratos: ~250mg
+Arginina: ~1.8g
+Lisina: ~2.2g
+IG estimado: Bajo-Medio
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: huevo-sancochado-con-pure-de-aguacate-y-ajonjoli
+TITULO: Huevo Sancochado con Puré de Aguacate y Ajonjolí
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 2
+ICONO: huevo frito
+ETIQUETAS: Post-cirugía, Semana 1, Día 4
+CONCEPTO: Huevo sancochado sobre puré de aguacate con ajonjolí: merienda alta en proteína y grasas saludables, con aporte antioxidante.
+INGREDIENTES:
+• Huevos sancochados — 4 unidades (2 por persona)
+• Aguacate — ½ unidad, aplastado
+• Ajonjolí tostado — 2 cucharadas
+• Aceite de oliva — 1 cucharadita
+• Sal — pizca
+• Perejil — pizca picada
+PREPARACION:
+1. Pela los huevos. Córtalos por la mitad.
+2. En 2 platitos, coloca la mitad del aguacate aplastado en cada uno como base.
+3. Pon 2 mitades de huevo (1 huevo entero) encima de cada base.
+4. Espolvorea 1 cucharada de ajonjolí, perejil y sal sobre cada plato.
+5. Rocía ½ cucharadita de aceite de oliva sobre cada porción.
+JUSTIFICACION: Función hepatoprotectora: • Aguacate: una de las pocas fuentes alimentarias directas de glutatión (~27mg por ½ aguacate). También aporta vitamina E (antioxidante que protege membranas de hepatocitos). • Huevo: cisteína + metionina → precursores de glutatión. La cisteína es el aminoácido limitante en la síntesis de glutatión. • Ajonjolí: selenio (cofactor de la glutatión peroxidasa, la enzima que USA el glutatión para neutralizar los radicales libres generados por el NAPQI del acetaminofén).
+ADVERTENCIAS: GEL DE LINAZA antes.
+VALOR_NUTRICIONAL:
+Calorías: ~270 kcal
+Proteínas: ~14g
+Carbohidratos: ~5g (Fibra: ~3g)
+Grasas: ~22g (Sat: 5g, Mono: 12g,
+Poli: 3g)
+Zinc: ~3mg
+Vitamina E: ~3mg
+Selenio: ~18μg
+Glutatión directo: ~15mg
+Cisteína: ~0.3g
+Metionina: ~0.4g
+Calcio: ~95mg
+Magnesio: ~35mg
+IG estimado: Muy bajo
+CG estimada: Muy baja
+--FIN_RECETA--
+
+--RECETA--
+ID: sopa-espesa-de-pollo-desmenuzado-con-batata-y
+TITULO: Sopa Espesa de Pollo Desmenuzado con Batata y Auyama
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 4
+ICONO: olla humeante
+ETIQUETAS: Post-cirugía, Semana 1, Día 4
+CONCEPTO: Sopa espesa de pollo desmenuzado con batata y auyama en caldo con colágeno: cena reconfortante y sencilla de digerir.
+INGREDIENTES:
+• Pechuga o contramuslo de pollo — 300g
+• Caldo de pollo postquirúrgico (de la reserva) — 4 tazas
+• Batata — 1 taza en cubos pequeños
+• Auyama — 1 taza en cubos pequeños
+• Chayote — 1 taza en cubos pequeños
+• Ají dulce — 4 unidades, picados
+• Cilantro fresco — 2 cucharadas picadas (al final)
+• Aceite de oliva — 2 cucharaditas
+• Cúrcuma — pizca
+• Sal — pizca
+PREPARACION:
+1. Calienta el aceite en olla a fuego medio.
+2. Agrega el ají dulce. Sofríe 1 minuto.
+3. Agrega el pollo en trozos. Sella 2 minutos por lado.
+4. Agrega el caldo, la batata, la auyama, el chayote y la cúrcuma.
+5. Hierve. Baja a fuego bajo. Tapa.
+6. Cocina 20-25 minutos hasta que todo esté muy blando y el pollo cocido.
+7. Retira el pollo. Desmenuza con dos tenedores.
+8. Con prensapapas, aplasta PARCIALMENTE la batata y la auyama en la olla (esto espesa la sopa naturalmente sin licuar — deja trozos de chayote enteros para textura).
+9. Devuelve el pollo desmenuzado.
+10. Agrega cilantro fresco al servir. Porción hoy (POR PERSONA): • 1 taza y media abundante. • Guardar las 2 porciones sobrantes en nevera para mañana. Duran hasta 3 días.
+JUSTIFICACION: Análisis terapéutico: • Pollo desmenuzado en caldo de patas: proteína completa bañada en colágeno hidrolizado. • Batata: Carbohidrato complejo de bajo IG + vitamina A + B6 + magnesio. • Auyama: Betacaroteno + fibra soluble + magnesio. • Chayote: El vegetal más gentil para el estómago. Cero gas, cero irritación, alta hidratación, fibra suave. Perfecto para la cena nocturna. • Cilantro fresco: Sabor criollo venezolano. Identidad. Placer. También aporta vitamina K (cofactor de coagulación — relevante en postquirúrgico). • Cúrcuma: Antiinflamatorio nocturno para que la hinchazón inguinal/escrotal baje durante el sueño.
+ADVERTENCIAS: GEL DE LINAZA antes.|Cenar mínimo 2-3h antes de acostarse.|Caminar 5-10 minutos después de cenar si el dolor lo permite.
+VALOR_NUTRICIONAL:
+Calorías: ~310 kcal
+Proteínas: ~28g
+Carbohidratos: ~25g (Fibra: ~5g,
+Azúcares: ~5g)
+Grasas: ~10g
+(Sat: 2g, Mono: 5g)
+Sodio: ~230mg
+Zinc: ~2.5mg
+Vitamina A: ~6,000μg
+Vitamina C: ~20mg
+Magnesio: ~55mg
+Colágeno (del caldo): ~4-6g
+Vitamina B6: ~0.5mg
+Potasio: ~480mg
+Arginina: ~1.5g
+Lisina: ~2g
+IG estimado: Bajo
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: yogur-con-nueces-linaza-y-manzanilla
+TITULO: Yogur con Nueces, Linaza y Manzanilla
+CATEGORIA: Post-cirugía
+TIPO: Cierre Nocturno
+PORCIONES: 2
+ICONO: taza
+ETIQUETAS: Post-cirugía, Semana 1, Día 4
+CONCEPTO: Yogur con nueces, linaza y manzanilla: cierre nocturno con melatonina de las nueces, omega-3 y calma digestiva.
+INGREDIENTES:
+• Yogur natural sin azúcar — 1 taza (½ taza por persona)
+• Nueces — 10 mitades, picadas (5 por persona)
+• Linaza molida — 2 cucharaditas (1 por persona)
+• Ajonjolí tostado — 1 cucharada (½ por persona)
+• Stevia — 4-6 gotas total
+• Infusión de manzanilla — 2 tazas tibias (1 por persona, aparte)
+PREPARACION:
+1. Saca el yogur 10 minutos antes.
+2. Divide en 2 bowls.
+3. Mezcla cada porción con 5 mitades de nueces picadas, 1 cucharadita de linaza, ½ cucharada de ajonjolí y stevia al gusto.
+4. Prepara la manzanilla aparte.
+5. Cada persona come su yogur lentamente.
+6. Cierra con la manzanilla tibia.
+JUSTIFICACION: Combo de sueño del día 4: • Nueces: Melatonina directa (~3.5 ng/g — Reiter et al., 2005) + omega-3 ALA + magnesio + arginina. • Ajonjolí: Triptófano + magnesio + zinc + calcio. • Yogur: Triptófano + probióticos. • Manzanilla: Apigenina → GABA. • Linaza: Fibra para evacuación matutina.
+ADVERTENCIAS: GEL DE LINAZA antes.|Separar 2-3h del antibiótico.|Masticar las nueces MUY bien. Trozos grandes de nuez pueden irritar si se tragan sin masticar.|Dormir con torso ligeramente elevado.
+VALOR_NUTRICIONAL:
+Calorías: ~195 kcal
+Proteínas: ~9g
+Carbohidratos: ~8g (Fibra: ~2g)
+Grasas: ~14g (Mono: 4g, Poli: 6g,
+Omega-3 ALA: ~1.2g)
+Zinc: ~1.5mg
+Calcio: ~170mg
+Magnesio: ~40mg
+Triptófano: ~65mg
+Melatonina: ~1-2 ng
+Arginina: ~0.5g
+Selenio: ~5μg
+IG estimado: Bajo
+--FIN_RECETA--
+
+--RECETA--
+ID: tortilla-espanola-postquirurgica-con-batata-y
+TITULO: Tortilla Española Postquirúrgica con Batata y Ají Dulce
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: porción de pastel
+ETIQUETAS: Post-cirugía, Semana 1, Día 5
+CONCEPTO: Tortilla de huevo con batata y ají dulce al estilo español: desayuno sustancioso con proteína, colina y almidón de bajo índice glucémico.
+INGREDIENTES:
+• Huevos — 6 unidades (3 por persona)
+• Batata cocida — 1 taza en rodajas finas (cocinar previamente: hervir o al vapor 10 min)
+• Ají dulce — 6 unidades, picados
+• Aceite de oliva — 2 cucharaditas
+• Sal — pizca mínima
+• Cúrcuma — pizca
+• Perejil fresco — 2 cucharadas
+PREPARACION:
+1. Bate los 6 huevos con la sal y la cúrcuma. Divide en 2 bowls (3 huevos por bowl).
+2. Agrega la mitad del perejil picado a cada bowl.
+3. Calienta 1 cucharadita de aceite en sartén pequeña (18-20 cm) a fuego bajo.
+4. Agrega la mitad del ají dulce picado. Sofríe 1 minuto.
+5. Agrega la mitad de las rodajas de batata cocida.
+6. Vierte los huevos batidos del primer bowl sobre todo.
+7. Cocina a fuego muy bajo, tapado, 4-5 minutos hasta que el centro esté casi cuajado.
+8. Da vuelta con ayuda de un plato (desliza la tortilla sobre un plato, voltea la sartén sobre el plato, devuelve la tortilla a la sartén).
+9. Cocina 2-3 minutos más del otro lado.
+10. Sirve entera en el plato. Temperatura: tibia.
+11. Repite todo el proceso con la segunda tortilla.
+JUSTIFICACION: Por qué esta tortilla hoy: • 3 huevos por persona = ~18g de proteína completa + colina + cisteína + metionina (hepatoprotección contra acetaminofén). • Batata: IG bajo (~54) + vitamina A + B6 + potasio. La batata da volumen y saciedad con impacto glucémico menor que la papa blanca o la harina de maíz sola. • Ají dulce: Vitamina C (~14mg por unidad) + sabor criollo genuino sin capsaicina irritante. • Perejil: Vitamina K (cofactor de coagulación + cicatrización) + vitamina C adicional. • Formato tortilla: un solo huevo revuelto no llena. Una tortilla sí. Y ambos pacientes necesitan sentirse llenos con menos calorías — la tortilla logra eso con proteína y volumen.
+ADVERTENCIAS: GEL DE LINAZA 10-15 min antes.|Comer sentados a la mesa (no en la cama) si el dolor lo permite. La posición erecta facilita la digestión y el vaciamiento gástrico.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal
+Proteínas: ~20g
+Carbohidratos: ~22g (Fibra: ~3g,
+Azúcares: ~5g)
+Grasas: ~18g
+(Sat: 5g, Mono: 9g, Poli: 2g)
+Sodio: ~200mg
+Vitamina C: ~42mg
+Vitamina A: ~4,500μg
+Vitamina B6: ~0.5mg
+Vitamina K: ~40μg
+Potasio: ~450mg
+Zinc: ~2mg
+Colina: ~450mg
+Cisteína: ~0.4g
+Metionina: ~0.5g
+IG estimado: Bajo-Medio
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: bowl-de-fresas-y-guayaba-con-yogur-y-ajonjoli
+TITULO: Bowl de Fresas y Guayaba con Yogur y Ajonjolí
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 2
+ICONO: leche
+ETIQUETAS: Post-cirugía, Semana 1, Día 5
+CONCEPTO: Bowl de yogur con fresas, guayaba y ajonjolí: merienda con mucha vitamina C, probióticos y calcio.
+INGREDIENTES:
+• Fresas maduras — 10-12 unidades, cortadas por la mitad
+• Guayaba — 1 unidad mediana, pelada, sin semillas, en cubitos
+• Yogur natural sin azúcar — 6 cucharadas (3 por persona)
+• Ajonjolí tostado — 2 cucharadas (1 por persona)
+• Linaza molida — 2 cucharaditas (1 por persona)
+• Stevia — 4-6 gotas total
+PREPARACION:
+1. Coloca las fresas y la guayaba divididas en 2 bowls.
+2. Agrega 3 cucharadas de yogur encima de cada bowl.
+3. Espolvorea 1 cucharada de ajonjolí, 1 cucharadita de linaza y stevia sobre cada porción.
+4. Comer inmediatamente (las fresas sueltan agua si se dejan mucho tiempo).
+JUSTIFICACION: Vitamina C de esta merienda (por persona): Fresas (~32mg) + Guayaba (~70mg) = ~102mg en una sola merienda.
+ADVERTENCIAS: GEL DE LINAZA 10-15 min antes.|Si hay ardor con las fresas: retirar y sustituir por más lechosa.
+VALOR_NUTRICIONAL:
+Calorías: ~155 kcal
+Proteínas: ~7g
+Carbohidratos: ~15g (Fibra: ~4g,
+Azúcares: ~8g)
+Grasas: ~7g
+Vitamina C: ~102mg
+Zinc: ~2mg
+Calcio: ~130mg
+Magnesio: ~30mg
+Triptófano: ~45mg
+Probióticos: presentes
+IG estimado: Bajo-Medio
+CG estimada: Baja
+--FIN_RECETA--
+
+--RECETA--
+ID: caraotas-negras-guisadas-con-huevo-y-ensalada
+TITULO: Caraotas Negras Guisadas con Huevo y Ensalada Tibia de Brócoli, Zanahoria y Remolacha
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: ensalada
+ETIQUETAS: Post-cirugía, Semana 1, Día 5
+CONCEPTO: Caraotas negras guisadas con huevo y ensalada tibia de vegetales: almuerzo de reintroducción de leguminosas, con proteína vegetal y fibra.
+INGREDIENTES:
+• Caraotas negras cocidas — 1 ½ tazas (si son secas: remojar 12h + cocinar 60-90 min hasta que se deshagan. Si son de lata: enjuagar muy bien para eliminar sodio del líquido de conserva)
+• Ají dulce — 6 unidades, picados
+• Pimentón rojo — ½ taza picado fino
+• Caldo de pollo — ½ taza
+• Cúrcuma — pizca
+• Comino — pizca
+• Aceite de oliva — 2 cucharaditas
+• Sal — pizca mínima
+• Cilantro fresco — al gusto
+• Brócoli — 1 taza de floretes al vapor (4-5 min máximo)
+• Zanahoria — 2 medianas, hervidas, en rodajas
+• Remolacha — 1 pequeña, hervida, en cubitos
+• Aceite de oliva — 2 cucharaditas
+• Perejil fresco — 2 cucharadas
+• Ajonjolí tostado — 1 cucharada
+• Sal — pizca
+PREPARACION:
+1. Calienta el aceite en sartén.
+2. Sofríe el ají dulce y pimentón 2-3 minutos hasta ablandar.
+3. Agrega las caraotas cocidas y el caldo.
+4. Agrega cúrcuma, comino y sal.
+5. Cocina a fuego bajo 10 minutos, aplastando algunas caraotas con el cucharón para espesar.
+6. Agrega cilantro al servir.
+7. Divide en 2 porciones.
+8. Cocina cada vegetal por separado hasta que estén tiernos pero no deshechos.
+9. Combina en un bowl tibio.
+10. Aliña con aceite de oliva, perejil y ajonjolí.
+11. Divide en 2 porciones.
+JUSTIFICACION: Las caraotas para el postquirúrgico: ¾ taza de caraotas cocidas por persona aporta: ~11g de proteína vegetal, ~8g de fibra soluble (la más potente anti-estreñimiento + gastroprotectora de todas las legumbres), ~3mg de hierro no hemo, ~2mg de zinc, y ~128mg de magnesio — el mejor aporte de magnesio en una sola fuente del recetario. Esta ensalada es el escudo hepático de hoy: brócoli (sulforafano → glutatión), remolacha (betaína → metilación hepática), zanahoria (betacaroteno → vitamina A → inmunidad).
+ADVERTENCIAS: SIN guarnición de cereal hoy. La propia caraota es el carbohidrato + proteína + fibra. Agregar arroz o quinoa encima llevaría las calorías sobre el nuevo target de 1,400-1,500 kcal sin aportar beneficio adicional.|GEL DE LINAZA antes.|Orden: ensalada primero, luego caraotas con huevo.|Masticar BIEN las caraotas. Incluso estando muy cocidas, el trabajo de masticación activa la secreción de enzimas digestivas que ayudan a descomponer los oligosacáridos que generan gas.
+VALOR_NUTRICIONAL:
+Calorías: ~420 kcal
+Proteínas: ~25g
+Carbohidratos: ~35g (Fibra: ~12g,
+Azúcares: ~5g)
+Grasas: ~18g
+(Sat: 4g, Mono: 9g, Poli: 3g)
+Sodio: ~240mg
+Hierro: ~6.5mg
+Zinc: ~5mg
+Vitamina C: ~80mg
+Vitamina A: ~6,000μg
+Magnesio: ~160mg
+Folato: ~210μg
+Potasio: ~720mg
+Betaína: ~100mg
+Sulforafano: presente
+Colina: ~250mg
+Arginina: ~1.2g
+Lisina: ~1.5g
+IG estimado: Bajo
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: smoothie-verde-de-espinaca-lechosa-y-chia
+TITULO: Smoothie Verde de Espinaca, Lechosa y Chía
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 2
+ETIQUETAS: Post-cirugía, Semana 1, Día 5
+CONCEPTO: Smoothie verde de espinaca, lechosa y chía: merienda con magnesio, folato y fibra suave.
+INGREDIENTES:
+• Espinaca fresca — 2 tazas (hojas sin tallos gruesos)
+• Lechosa madura — 1 ½ tazas en cubos
+• Agua — 1 taza
+• Chía hidratada — 2 cucharaditas (remojadas 15 min en 4 cdas de agua)
+• Linaza molida — 2 cucharaditas
+• Jengibre fresco — 1 rodajita muy pequeña (antiinflamatorio + digestivo. En esta dosis mínima: no irrita la gastritis)
+• Stevia — 6-8 gotas total
+PREPARACION:
+1. Licúa todo hasta que quede completamente suave (mínimo 60 segundos de licuadora).
+2. Si quedó con fibra visible: licúa 30 segundos más.
+3. Sirve a temperatura ambiente.
+4. Divide en 2 vasos.
+5. Beber lentamente.
+JUSTIFICACION: Por qué espinaca HOY: La espinaca es la fuente de magnesio más concentrada del inventario después del ajonjolí (~157mg por taza cocida, ~30mg por taza cruda en smoothie). También aporta: • Folato (~58μg/taza cruda) — síntesis de ADN en las células nuevas de la herida. • Vitamina K (~145μg/taza cruda) — cofactor de coagulación y cicatrización. • Luteína y zeaxantina — antioxidantes de la membrana celular. • Hierro no hemo (~0.8mg/taza cruda) + la vitamina C de la lechosa para absorberlo.
+ADVERTENCIAS: GEL DE LINAZA antes.|Si el jengibre genera molestia gástrica: eliminar. Es opcional aunque beneficioso.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal
+Proteínas: ~4g
+Carbohidratos: ~18g (Fibra: ~5g,
+Azúcares: ~8g)
+Grasas: ~4g
+Vitamina C: ~55mg
+Vitamina K: ~100μg
+Folato: ~60μg
+Magnesio: ~45mg
+Hierro: ~1.5mg
+Omega-3 ALA: ~1g
+Zinc: ~1mg
+IG estimado: Bajo
+CG estimada: Baja
+--FIN_RECETA--
+
+--RECETA--
+ID: pescado-al-vapor-con-pure-suave-de-batata-y
+TITULO: Pescado al Vapor con Puré Suave de Batata y Aguacate
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: pescado
+ETIQUETAS: Post-cirugía, Semana 1, Día 5
+CONCEPTO: Pescado blanco al vapor con puré suave de batata y aguacate: cena ligera con omega-3 directo y proteína fácil de digerir.
+INGREDIENTES:
+• Filetes de pescado blanco o sardina fresca — 300g total (2 filetes de 150g: corvina, bagre, pargo, cachama, trucha, o cualquier pescado fresco disponible. Si es sardina: retirar espinas grandes)
+• Limón — SOLO la ralladura de ½ limón (la ralladura aporta aroma sin el ácido del jugo — gastroprotección mantenida)
+• Perejil — 2 cucharadas
+• Cúrcuma — pizca
+• Aceite de oliva — 2 cucharaditas (al servir, no durante la cocción)
+• Sal — pizca mínima
+• Batata mediana — 2 unidades, peladas, en cubos
+• Aguacate — ½ unidad
+• Aceite de oliva — 1 cucharadita
+• Sal — pizca
+PREPARACION:
+1. Coloca los filetes sobre papel de hornear o en el cesto de vapor.
+2. Espolvorea la ralladura de limón, el perejil, la cúrcuma y la sal.
+3. Cocina al vapor 8-12 minutos según el grosor (el pescado está listo cuando la carne se deshace fácilmente al tocar con un tenedor y ya no está translúcida).
+4. Al servir: rocía 1 cucharadita de aceite de oliva sobre cada filete. PURÉ SUAVE — Batata con Aguacate (para 2 personas):
+5. Hierve la batata hasta que esté completamente blanda (15-18 min).
+6. Aplasta con tenedor o prensapapas.
+7. Agrega el aguacate aplastado, el aceite de oliva y la sal.
+8. Mezcla hasta obtener un puré suave y cremoso.
+9. Divide en 2 porciones.
+10. Servir tibio.
+JUSTIFICACION: Por qué pescado + batata + aguacate para la cena: • Pescado blanco: omega-3 EPA/DHA directos (no ALA que necesita conversión como la linaza). El EPA es antiinflamatorio de acción directa sobre la hinchazón inguinal. El DHA es el componente estructural de las membranas neuronales → ayuda a la recuperación cognitiva del tramadol retirado. • Batata: IG bajo. El carbohidrato de bajo IG en la cena evita el pico glucémico nocturno — crítico para el perfil de riesgo en sedentarismo. • Aguacate: Glutatión + vitamina E + potasio + ácido oleico. La combinación batata + aguacate en puré es cremosa, saciante y con IG bajo-medio. • Ralladura de limón: El limoneno y los flavonoides de la cáscara del limón tienen propiedades hepatoprotectoras y antioxidantes. Sin el ácido del jugo. Seguro para la gastritis.
+ADVERTENCIAS: GEL DE LINAZA antes.|Cenar 2-3h antes de acostarse.|Comer el puré primero si prefieren, o mezclar el pescado con el puré en cada bocado.|El pescado al vapor no tiene mucho sabor propio — la ralladura de limón, el perejil y el aceite de oliva al final son los que dan sabor. No saltar estos pasos.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal
+Proteínas: ~32g
+Carbohidratos: ~28g (Fibra: ~5g,
+Azúcares: ~5g)
+Grasas: ~17g
+(Sat: 2g, Mono: 10g, Poli: 3g,
+Omega-3 EPA+DHA: ~0.8-1.5g según
+tipo de pescado)
+Sodio: ~200mg
+Vitamina A: ~4,500μg
+Vitamina D:
+~120 IU
+Vitamina E: ~2.5mg
+Vitamina C: ~15mg
+Potasio: ~720mg
+Magnesio: ~60mg
+Zinc: ~1.5mg
+Selenio: ~25μg
+Glutatión: ~15mg
+IG estimado: Bajo-Medio
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: avena-con-semillas-de-auyama-cambur-y-manzanilla
+TITULO: Avena con Semillas de Auyama, Cambur y Manzanilla
+CATEGORIA: Post-cirugía
+TIPO: Cierre Nocturno
+PORCIONES: 2
+ICONO: taza
+ETIQUETAS: Post-cirugía, Semana 1, Día 5
+CONCEPTO: Avena con semillas de auyama, cambur y manzanilla: cierre nocturno con potasio, magnesio y calma digestiva.
+INGREDIENTES:
+— 2. MAGNESIO NOCTURNO: El magnesio:
+• Avena en hojuelas — 6 cucharadas
+• Agua — 1 ½ tazas
+• Cambur semi-maduro — 1 unidad en rodajas (½ por persona, último ½ del día)
+• Semillas de auyama — 2 cucharadas (1 por persona)
+• Linaza molida — 2 cucharaditas (1 por persona)
+• Canela — pizca
+• Stevia — 4-6 gotas total
+• Infusión de manzanilla — 2 tazas tibias (1 por persona, aparte)
+PREPARACION:
+1. Cocina la avena en el agua 8-10 minutos a fuego bajo.
+2. Retira del fuego.
+3. Divide en 2 bowls.
+4. Agrega ½ cambur en rodajas por bowl.
+5. Espolvorea 1 cucharada de semillas de auyama, 1 cucharadita de linaza, canela y stevia por porción.
+6. Prepara la manzanilla aparte.
+7. Cada persona come la avena lentamente y cierra con la manzanilla tibia.
+JUSTIFICACION: Potasio acumulado en esta toma por persona: Cambur (~211mg) + avena (~30mg) + semillas de auyama (~115mg) = ~356mg de potasio en el cierre nocturno. Suficiente para el balance renal durante el sueño.
+ADVERTENCIAS: GEL DE LINAZA antes.|Torso elevado para dormir.
+VALOR_NUTRICIONAL:
+Calorías: ~210 kcal
+Proteínas: ~7g
+Carbohidratos: ~28g (Fibra: ~5g,
+Azúcares: ~8g)
+Grasas: ~7g
+Potasio: ~356mg
+Magnesio: ~40mg
+Zinc: ~2.5mg
+Omega-3 ALA: ~0.5g
+Vitamina B6: ~0.4mg
+Triptófano: ~55mg
+Calcio: ~50mg
+IG estimado: Bajo-Medio
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: arepa-de-linaza-rellena-de-huevo-queso-fresco-y
+TITULO: Arepa de Linaza Rellena de Huevo, Queso Fresco y Aguacate
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: huevo frito
+ETIQUETAS: Post-cirugía, Semana 1, Día 6
+CONCEPTO: Desayuno criollo de alta densidad nutricional sin riesgo de fermentación gástrica.
+INGREDIENTES:
+— MASA (para 4 arepas pequeñas —:
+• Harina de maíz precocida — 8 cucharadas
+• Linaza molida — 2 cucharadas
+• Chía molida — 1 cucharadita
+• Agua tibia — cantidad necesaria
+• Sal — pizca mínima
+• Aceite de oliva — 1 cucharadita (en la masa)
+— RELLENO:
+• Huevos — 4 unidades
+• Queso fresco paisa — 60g, desmenuzado (30g por persona)
+• Aguacate — ½ unidad, en rodajas
+• Aceite de oliva — 1 cucharadita (para cocinar el huevo)
+• Perejil o cilantro — al gusto
+PREPARACION:
+1. Mezcla los ingredientes secos: harina, linaza, chía y sal.
+2. Agrega el agua tibia gradualmente hasta obtener una consistencia suave.
+3. Incorpora el aceite de oliva.
+4. Amasa hasta que no se agriete.
+5. Forma 4 arepitas delgadas.
+6. Cocina en budare a fuego medio-bajo durante 5-6 minutos por lado. Deben quedar suaves por dentro.
+7. Bate ligeramente los huevos y haz un revuelto suave a fuego muy bajo para no resecar la proteína.
+8. Abre las arepas calientes.
+9. Rellena cada una con partes iguales de huevo revuelto, queso fresco y láminas de aguacate.
+10. Espolvorea perejil o cilantro.
+JUSTIFICACION: Justificación clínica: • Cero oligosacáridos = cero gas. • La linaza y chía reducen la carga glucémica de la harina de maíz. • El queso fresco aporta ~180mg de calcio por persona. • El aguacate aporta glutatión para protección hepática.
+ADVERTENCIAS: GEL DE LINAZA 10-15 min antes.|Si toman medicación matutina, hacerlo siempre DESPUÉS de comer.
+VALOR_NUTRICIONAL:
+Calorías: ~410 kcal
+Proteínas: ~18g
+Carbohidratos: ~32g (Fibra: ~5g)
+Grasas: ~24g (Sat: 7g, Mono: 12g,
+Poli: 3g)
+Sodio: ~260mg
+Calcio: ~180mg
+Zinc: ~2.5mg
+Hierro: ~2mg
+Magnesio: ~55mg
+Omega-3 ALA: ~1.8g
+Colina: ~300mg
+Glutatión: ~12mg
+Vitamina E: ~2mg
+IG estimado: Bajo-Medio
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: agua-de-jamaica-con-lechosa-y-semillas-de-auyama
+TITULO: Agua de Jamaica con Lechosa y Semillas de Auyama
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 2
+ETIQUETAS: Post-cirugía, Semana 1, Día 6
+CONCEPTO: Agua de Jamaica con lechosa y semillas de auyama: merienda refrescante con antocianinas, vitamina C y zinc.
+INGREDIENTES:
+• Flor de Jamaica seca — 4 cucharadas
+• Manzanilla seca — 2 cucharaditas
+• Agua — 3 tazas (750ml)
+• Stevia — al gusto
+• Lechosa fresca — 2 tazas en cubos
+• Semillas de auyama — 2 cucharadas (1 por persona)
+• Ajonjolí tostado — 1 cucharada (½ por persona)
+PREPARACION:
+1. Hierve el agua, añade la Jamaica y la manzanilla.
+2. Tapa y deja infusionar 8-10 min.
+3. Cuela y endulza con stevia.
+4. Deja enfriar a temperatura ambiente.
+5. Sirve la lechosa en 2 platos, espolvoreando por encima las semillas de auyama y el ajonjolí.
+6. Tomar la infusión tibia o a temperatura ambiente mientras se mastica la fruta con semillas.
+JUSTIFICACION: Justificación clínica: • Las antocianinas de la Jamaica apoyan el control glucémico y reducen el estrés oxidativo. • Las semillas de auyama y ajonjolí recuperan el magnesio (~119mg) y zinc (~3mg) que no entraron por legumbres.
+ADVERTENCIAS: GEL DE LINAZA antes.|Si presentan acidez con la Jamaica, sustituir por manzanilla pura.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal
+Proteínas: ~4g
+Carbohidratos: ~18g (Fibra: ~4g,
+Azúcares: ~10g)
+Grasas: ~5g
+Vitamina C: ~62mg
+Zinc: ~3mg
+Magnesio: ~119mg
+Calcio: ~55mg
+Vitamina A: ~780μg
+Antocianinas: ~150-200mg
+IG estimado: Bajo
+CG estimada: Baja
+--FIN_RECETA--
+
+--RECETA--
+ID: pollo-guisado-criollo-con-quinoa-espinaca
+TITULO: Pollo Guisado Criollo con Quinoa, Espinaca Salteada y Ensalada Tibia de Remolacha
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 1, Día 6
+CONCEPTO: Pollo guisado criollo con quinoa, espinaca salteada y ensalada tibia: almuerzo tradicional adaptado, completo y de buena tolerancia.
+INGREDIENTES:
+• Muslo o contramuslo deshuesado — 300g total (150g por persona)
+• Ají dulce — 6 unidades, picados
+• Pimentón rojo — ½ taza, picado
+• Tomate — 2 pequeños, pelados, sin semillas y picados (cocidos)
+• Caldo de pollo — 1 taza
+• Cúrcuma — pizca
+• Comino — pizca
+• Aceite de oliva — 2 cucharaditas
+• Sal — pizca
+• Cilantro fresco — picado al gusto
+• Quinoa — ⅔ taza (seca)
+• Agua — 1 ⅓ tazas
+• Ajonjolí tostado — 2 cucharadas
+• Aceite de oliva — 1 cucharadita
+• Sal — pizca
+• Espinaca fresca — 4 tazas (reduce a ~1 taza cocida)
+• Aceite de oliva — 2 cucharaditas
+• Semillas de auyama — 2 cucharadas
+• Sal — pizca
+• Remolacha — 2 pequeñas, hervidas, en cubitos
+• Pepino — 1 unidad, pelado y en rodajas finas
+• Perejil fresco — 2 cucharadas
+• Aceite de oliva — 2 cucharaditas
+• Sal — pizca
+PREPARACION:
+1. Dora el pollo en el aceite a fuego medio por 3 min por lado.
+2. Añade ají dulce, pimentón y tomate. Sofríe 3 minutos.
+3. Agrega el caldo, cúrcuma y comino.
+4. Tapa y cocina a fuego bajo por 20 minutos hasta que espese.
+5. Agrega cilantro fresco al apagar. GUARNICIÓN — Quinoa con Ajonjolí:
+6. Lava muy bien la quinoa en colador fino para retirar saponinas.
+7. Cocina con el agua y la sal a fuego bajo tapada por 15 minutos.
+8. Deja reposar 5 min y mezcla con el ajonjolí y aceite de oliva. ACOMPAÑAMIENTO — Espinaca Salteada:
+9. Saltea la espinaca en el aceite durante 2-3 minutos hasta que reduzca su volumen.
+10. Retira del fuego y añade las semillas de auyama por encima. ENSALADA TIBIA — Remolacha y Pepino:
+11. Mezcla la remolacha con el pepino.
+12. Aliña con aceite de oliva, perejil y sal.
+ADVERTENCIAS: GEL DE LINAZA antes.|ORDEN: Ensalada → espinaca → pollo → quinoa.
+VALOR_NUTRICIONAL:
+Calorías: ~510 kcal
+Proteínas: ~40g
+Carbohidratos: ~35g (Fibra: ~8g,
+Azúcares: ~6g)
+Grasas: ~22g
+(Sat: 4g, Mono: 12g, Poli: 4g)
+Sodio: ~280mg
+Zinc: ~7mg
+Hierro: ~9mg
+Vitamina C: ~85mg
+Vitamina A: ~7,500μg
+Magnesio: ~230mg
+Folato: ~310μg
+Potasio: ~900mg
+Calcio: ~160mg
+Betaína: ~100mg
+Licopeno: ~3mg
+Selenio: ~20μg
+Triptófano: ~200mg
+Arginina: ~2g
+Lisina: ~2.2g
+IG estimado: Bajo-Medio
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: yogur-con-guayaba-almendras-y-canela
+TITULO: Yogur con Guayaba, Almendras y Canela
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 2
+ICONO: leche
+ETIQUETAS: Post-cirugía, Semana 1, Día 6
+CONCEPTO: Yogur con guayaba, almendras y canela: merienda con calcio, vitamina C y canela para estabilizar la glucemia.
+INGREDIENTES:
+• Yogur natural sin azúcar — 1 ½ tazas (¾ taza por persona)
+• Guayaba — 1 unidad mediana, pelada, sin semillas y en cubitos
+• Almendras — 16 unidades, picadas
+• Canela — ½ cucharadita
+• Stevia — al gusto
+PREPARACION:
+1. Divide el yogur en 2 bowls.
+2. Distribuye los cubos de guayaba y las almendras picadas.
+3. Espolvorea la canela y endulza con stevia.
+JUSTIFICACION: Justificación clínica: • Aporta ~255mg de calcio por persona. • La canela actúa como agente sensibilizador de receptores insulínicos durante el reposo.
+ADVERTENCIAS: GEL DE LINAZA antes.
+VALOR_NUTRICIONAL:
+Calorías: ~220 kcal
+Proteínas: ~11g
+Carbohidratos: ~18g (Fibra: ~4g)
+Grasas: ~12g (Mono: 7g)
+Calcio: ~255mg
+Vitamina C: ~70mg
+Vitamina E: ~3.5mg
+Magnesio: ~45mg
+Zinc: ~1.5mg
+Triptófano: ~80mg
+IG estimado: Bajo
+CG estimada: Baja-Media
+--FIN_RECETA--
+
+--RECETA--
+ID: sopa-espesa-de-pollo-con-auyama-chayote-y
+TITULO: Sopa Espesa de Pollo con Auyama, Chayote y Plátano Verde
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 4
+ICONO: olla humeante
+ETIQUETAS: Post-cirugía, Semana 1, Día 6
+CONCEPTO: Sopa espesa de pollo con auyama, chayote y plátano verde: cena con almidón resistente que alimenta la microbiota.
+INGREDIENTES:
+• Pechuga de pollo — 300g total
+• Plátano verde (de patacón) — 1 unidad entera, pelada y en rodajas gruesas
+• Auyama — 1 taza en cubos
+• Chayote — 1 taza en cubos
+• Caldo de pollo postquirúrgico — 4-5 tazas
+• Ají dulce — 4 unidades, picados
+• Cilantro fresco — 2 cucharadas
+• Cúrcuma — pizca
+• Aceite de oliva — 2 cucharaditas
+• Sal — pizca
+PREPARACION:
+1. En olla mediana, calienta el aceite y sofríe el ají dulce 1 min.
+2. Añade el pollo en trozos y sella 2 minutos.
+3. Agrega el plátano verde, auyama, chayote, caldo, cúrcuma y sal.
+4. Tapa y cocina a fuego bajo por 25-30 minutos hasta que el plátano esté muy blando.
+5. Aplasta con tenedor parte de la auyama y del plátano para espesar el caldo de forma natural.
+6. Desmenuza el pollo en la sopa.
+7. Sirve 2 porciones con cilantro fresco. Refrigera las otras 2.
+JUSTIFICACION: Justificación clínica: • El almidón resistente del plátano verde fermenta de forma lenta, produciendo butirato (antiinflamatorio de mucosa colónica) sin hinchazón. • Aporte de potasio (~780mg) para evitar calambres en reposo.
+ADVERTENCIAS: GEL DE LINAZA antes.|Cenar 2-3 horas antes de dormir.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal
+Proteínas: ~28g
+Carbohidratos: ~32g (Fibra: ~5g,
+Almidón resistente: ~3g,
+Azúcares: ~5g)
+Grasas: ~8g
+Sodio: ~230mg
+Potasio: ~780mg
+Magnesio: ~65mg
+Vitamina A: ~4,500μg
+Vitamina C: ~18mg
+Zinc: ~2mg
+Colágeno (del caldo): ~4-6g
+Vitamina B6: ~0.5mg
+Arginina: ~1.5g
+IG estimado: Bajo-Medio
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: avena-con-ajonjoli-semillas-de-auyama-linaza-y
+TITULO: Avena con Ajonjolí, Semillas de Auyama, Linaza y Manzanilla
+CATEGORIA: Post-cirugía
+TIPO: Cierre Nocturno
+PORCIONES: 2
+ICONO: taza
+ETIQUETAS: Post-cirugía, Semana 1, Día 6
+CONCEPTO: Avena con ajonjolí reforzado, semillas de auyama, linaza y manzanilla: cierre nocturno rico en magnesio y calcio.
+INGREDIENTES:
+• Avena en hojuelas — 6 cucharadas
+• Agua — 1 ½ tazas
+• Ajonjolí tostado — 3 cucharadas (1 ½ cda por persona)
+• Semillas de auyama — 2 cucharaditas (1 cdta por persona)
+• Linaza molida — 2 cucharaditas
+• Canela — pizca
+• Stevia — al gusto
+• Infusión de manzanilla — 2 tazas tibias (aparte)
+PREPARACION:
+1. Cocina la avena con el agua por 8 minutos a fuego bajo.
+2. Retira y divide en 2 bowls.
+3. Añade a cada bowl: ajonjolí, semillas de auyama, linaza, canela y stevia.
+4. Tomar la manzanilla tibia después de comer la avena.
+JUSTIFICACION: Justificación clínica: • El ajonjolí reforzado aporta ~132mg de magnesio y ~130mg de calcio por persona en esta toma. • Apigenina de la manzanilla activa receptores GABA para inducir sueño reparador.
+ADVERTENCIAS: GEL DE LINAZA antes.|Dormir con el torso ligeramente elevado (30°).
+VALOR_NUTRICIONAL:
+Calorías: ~195 kcal
+Proteínas: ~6g
+Carbohidratos: ~18g (Fibra: ~5g)
+Grasas: ~11g
+Calcio: ~175mg
+Magnesio: ~172mg
+Zinc: ~2mg
+Triptófano: ~55mg
+Omega-3 ALA: ~0.8g
+IG estimado: Bajo-Medio
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: empanadas-horneadas-de-pollo-y-auyama
+TITULO: Empanadas Horneadas de Pollo y Auyama
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 1, Día 7
+CONCEPTO: Cierre de la primera semana con un formato venezolano clásico. Masa suave enriquecida con mucílagos y relleno jugoso que aporta proteína magra y betacaroteno.
+INGREDIENTES:
+— MASA (para 6 empanadas medianas —:
+• Harina de maíz precocida — 1 taza (120g)
+• Linaza molida — 2 cucharadas
+• Chía molida — 1 cucharadita
+• Agua tibia — cantidad necesaria (~¾ taza, ajustar según absorción)
+• Aceite de oliva — 1 cucharadita (en la masa)
+• Sal — ½ cucharadita rasa
+— RELLENO (para las 6 empanadas):
+• Pechuga de pollo — 200g
+• Auyama — ½ taza en cubos pequeños
+• Ají dulce — 4 unidades, picados
+• Pimentón rojo — ¼ taza, picado
+• Cúrcuma — pizca
+• Comino — pizca
+• Caldo de pollo — ¼ taza
+• Aceite de oliva — 1 cucharadita
+• Sal — pizca
+• Cilantro fresco — 1 cucharada picada
+PREPARACION:
+1. Mezcla los ingredientes secos: harina, linaza, chía y sal.
+2. Agrega el agua tibia poco a poco hasta lograr una masa dócil, suave y húmeda (textura plastilina blanda).
+3. Añade la cucharadita de aceite de oliva e integra bien.
+4. Deja reposar 10 minutos tapada.
+5. Hierve la pechuga en agua con sal y cúrcuma durante 20 minutos.
+6. Desmenuza muy fino con dos tenedores.
+7. En sartén con el aceite de oliva, sofríe el ají dulce y pimentón 2 min.
+8. Agrega la auyama y el caldo. Cocina tapado a fuego bajo 10 minutos hasta que la auyama esté muy blanda.
+9. Aplasta la auyama con tenedor dentro de la sartén (formará una salsa cremosa natural).
+10. Incorpora el pollo desmenuzado, comino y cilantro. Mezcla y deja enfriar.
+JUSTIFICACION: Justificación clínica: • Cero fritura = cero grasas oxidadas ni acrilamidas irritantes. • La linaza y chía reducen la carga glucémica de la harina de maíz. • Auyama en el relleno aporta vitamina A (~3,500μg) para la diferenciación epitelial de las incisiones.
+ADVERTENCIAS: GEL DE LINAZA 10-15 min antes.|Servir 3 empanadas por persona. Masticar con calma (15 masticaciones por bocado).
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal
+Proteínas: ~22g
+Carbohidratos: ~38g (Fibra: ~6g)
+Grasas: ~14g (Sat: 2g, Mono: 7g,
+Poli: 3g)
+Sodio: ~280mg
+Vitamina A: ~3,500μg
+Vitamina C: ~25mg
+Zinc: ~2.5mg
+Hierro: ~2.5mg
+Magnesio: ~55mg
+Omega-3 ALA: ~1.8g
+Arginina: ~1.2g
+Lisina: ~1.5g
+IG estimado: Medio
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: bowl-de-yogur-con-fresas-guayaba-y-semillas
+TITULO: Bowl de Yogur con Fresas, Guayaba y Semillas
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 2
+ICONO: leche
+ETIQUETAS: Post-cirugía, Semana 1, Día 7
+CONCEPTO: Bowl de yogur con fresas, guayaba y semillas: merienda con calcio, vitamina C y buena dosis de fibra.
+INGREDIENTES:
+• Yogur natural sin azúcar — 2 tazas (1 taza por persona)
+• Fresas maduras — 10-12 unidades, lavadas y cortadas a la mitad
+• Guayaba — 1 unidad mediana, pelada, sin semillas y en cubitos
+• Ajonjolí tostado — 2 cucharadas (1 por persona)
+• Semillas de auyama — 2 cucharaditas (1 por persona)
+• Linaza molida — 2 cucharaditas
+• Canela — ¼ cucharadita
+• Stevia — al gusto
+PREPARACION:
+1. Distribuye 1 taza de yogur en cada bowl.
+2. Reparte las fresas y los cubitos de guayaba.
+3. Espolvorea por encima el ajonjolí, las semillas de auyama, la linaza y la canela.
+4. Endulza con unas gotas de stevia.
+JUSTIFICACION: Justificación clínica: • Aporte masivo de calcio (~388mg por persona) gracias a la combinación de yogur natural y ajonjolí tostado. • Bomba de vitamina C (~146mg) que optimiza la hidroxilación de prolina y lisina para la maduración del colágeno en las heridas.
+ADVERTENCIAS: GEL DE LINAZA antes.|Si las fresas generan acidez gástrica individual, sustituir por 1 taza de lechosa madura en cubos.
+VALOR_NUTRICIONAL:
+Calorías: ~210 kcal
+Proteínas: ~12g
+Carbohidratos: ~22g (Fibra: ~5g,
+Azúcares: ~12g)
+Grasas: ~9g
+Calcio: ~388mg
+Vitamina C: ~146mg
+Zinc: ~2.5mg
+Magnesio: ~65mg
+Vitamina E: ~1.5mg
+Triptófano: ~90mg
+Omega-3 ALA: ~0.5g
+Probióticos: presentes
+IG estimado: Bajo-Medio
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: pescado-a-la-plancha-con-arroz-integral-brocoli
+TITULO: Pescado a la Plancha con Arroz Integral, Brócoli al Vapor y Ensalada Fresca de Pepino y Aguacate
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: pescado
+ETIQUETAS: Post-cirugía, Semana 1, Día 7
+CONCEPTO: Pescado a la plancha con arroz integral, brócoli al vapor y ensalada fresca: almuerzo con omega-3, fibra y bajo índice glucémico.
+INGREDIENTES:
+• Filetes de pescado blanco o sardina fresca — 300g total (2 filetes de 150g: corvina, pargo, merluza o trucha)
+• Aceite de oliva — 2 cucharaditas
+• Cúrcuma — pizca
+• Comino — pizca mínima
+• Perejil fresco — 2 cucharadas picadas
+• Ralladura de limón — de ½ limón (solo la cáscara externa, sin jugo)
+• Sal — pizca mínima
+• Arroz integral — ⅓ taza (seco)
+• Agua — ⅔ taza
+• Aceite de oliva — 1 cucharadita
+• Sal — pizca
+• Brócoli — 2 tazas de floretes
+• Ajonjolí tostado — 2 cucharadas
+• Aceite de oliva — 2 cucharaditas
+• Sal — pizca
+— ENSALADA FRESCA SUAVE:
+• Pepino — 1 unidad, pelado y en rodajas finas
+• Pimentón rojo — ½ unidad, en tiras finas
+• Aguacate — ½ unidad, en cubos
+• Zanahoria — 1 pequeña, rallada muy fina
+• Perejil — 2 cucharadas picadas
+• Aceite de oliva — 2 cucharaditas
+• Sal — pizca mínima
+PREPARACION:
+1. Seca los filetes con papel de cocina.
+2. Sazona con cúrcuma, comino, sal y la ralladura de limón.
+3. Calienta 1 cucharadita de aceite en sartén antiadherente a fuego medio.
+4. Cocina los filetes 3-4 minutos por lado sin moverlos para sellar bien.
+5. Al retirar, rocía la otra cucharadita de aceite de oliva y el perejil fresco. GUARNICIÓN — Arroz Integral Controlado:
+6. Cocina el arroz en el agua con sal a fuego bajo tapado por 25-30 minutos hasta que esté suave.
+7. Mezcla con el aceite de oliva y divide en 2 porciones (~¼ taza cocida c/u). GUARNICIÓN #2 — Brócoli con Ajonjolí:
+8. Cocina al vapor 4-5 minutos (debe quedar verde brillante y crujiente).
+9. Retira del vapor, rocía aceite de oliva y espolvorea el ajonjolí.
+10. Mezcla los vegetales en un bowl.
+11. Aliña con aceite de oliva, perejil y sal.
+12. Divide en 2 porciones.
+ADVERTENCIAS: GEL DE LINAZA antes.|ORDEN DE INGESTA: Ensalada/brócoli primero → pescado → arroz integral al final.
+VALOR_NUTRICIONAL:
+Calorías: ~430 kcal
+Proteínas: ~35g
+Carbohidratos: ~28g (Fibra: ~7g,
+Azúcares: ~4g)
+Grasas: ~20g
+(Sat: 3g, Mono: 12g, Poli: 3g,
+Omega-3 EPA+DHA: ~0.8-1.5g)
+Sodio: ~250mg
+Zinc: ~4mg
+Hierro: ~3.5mg
+Vitamina C: ~95mg
+Vitamina A: ~3,200μg
+Magnesio: ~120mg
+Calcio: ~150mg
+Potasio: ~850mg
+Selenio: ~25μg
+Sulforafano: presente
+Glutatión: ~15mg
+Vitamina E: ~3mg
+Folato: ~120μg
+IG estimado: Bajo-Medio
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: batido-verde-de-espinaca-cambur-y-chia
+TITULO: Batido Verde de Espinaca, Cambur y Chía
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 2
+ICONO: vaso
+ETIQUETAS: Post-cirugía, Semana 1, Día 7
+CONCEPTO: Batido verde de espinaca, cambur y chía: merienda con magnesio, folato y potasio, sin carga gástrica.
+INGREDIENTES:
+• Espinaca fresca — 2 tazas (hojas sin tallos gruesos)
+• Cambur semi-maduro — 1 unidad entera
+• Chía hidratada — 2 cucharaditas (remojada 15 min en 4 cdas de agua)
+• Agua — 1 taza
+• Canela — pizca
+• Stevia — al gusto
+• Jengibre fresco — 1 rodajita pequeña (opcional, antiinflamatorio)
+PREPARACION:
+1. Licúa todos los ingredientes por mínimo 60 segundos hasta que no queden trozos de hoja visibles.
+2. Servir a temperatura ambiente dividido en 2 vasos.
+JUSTIFICACION: Justificación clínica: • La espinaca aporta magnesio (~50mg) y folato sin carga gástrica. • El cambur semi-maduro aporta potasio (~380mg) y vitamina B6, esencial para la síntesis de neurotransmisores. • Cero fermentación pesada.
+ADVERTENCIAS: GEL DE LINAZA antes.
+VALOR_NUTRICIONAL:
+Calorías: ~95 kcal
+Proteínas: ~3g
+Carbohidratos: ~18g (Fibra: ~4g,
+Azúcares: ~7g)
+Grasas: ~2g
+Magnesio: ~50mg
+Potasio: ~380mg
+Vitamina K: ~75μg
+Folato: ~45μg
+Vitamina B6: ~0.3mg
+Omega-3 ALA: ~0.5g
+Triptófano: ~30mg
+IG estimado: Bajo-Medio
+CG estimada: Baja
+--FIN_RECETA--
+
+--RECETA--
+ID: sopa-reconstituyente-de-pollo-con-platano-verde
+TITULO: Sopa Reconstituyente de Pollo con Plátano Verde, Auyama y Espinaca
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 4
+ICONO: olla humeante
+ETIQUETAS: Post-cirugía, Semana 1, Día 7
+CONCEPTO: Sopa reconstituyente de pollo con plátano verde, auyama y espinaca: cena nutritiva con almidón resistente y minerales.
+INGREDIENTES:
+• Pechuga o muslo de pollo — 300g
+• Plátano verde (el de patacón) — 1 unidad entera, pelada y en rodajas gruesas
+• Auyama — 1 taza en cubos
+• Chayote — 1 unidad mediana, en cubos
+• Espinaca fresca — 2 tazas (se incorpora al final)
+• Caldo de pollo postquirúrgico — 5 tazas
+• Ají dulce — 4 unidades, picados
+• Cilantro fresco — 2 cucharadas picadas
+• Cúrcuma — ¼ cucharadita
+• Comino — pizca
+• Aceite de oliva — 2 cucharaditas
+• Sal — ½ cucharadita rasa
+PREPARACION:
+1. En olla grande, calienta el aceite de oliva y sofríe el ají dulce 1-2 min.
+2. Añade el pollo en trozos y sella 2 min.
+3. Agrega el caldo de pollo, plátano verde, auyama, chayote, cúrcuma, comino y sal.
+4. Lleva a hervor, baja el fuego al mínimo y tapa.
+5. Cocina 30-35 minutos hasta que el plátano esté completamente tierno.
+6. Aplasta parcialmente con prensapapas o tenedor la auyama y trozos de plátano para dar cuerpo espeso al caldo.
+7. Desmenuza el pollo en la misma olla.
+8. En los últimos 2 minutos de cocción, agrega las 2 tazas de espinaca fresca (se marchita con el calor residual).
+9. Sirve 2 porciones con cilantro fresco.
+10. Refrigera las 2 porciones sobrantes en recipiente hermético para el Día 8.
+JUSTIFICACION: Justificación clínica: • El almidón resistente del plátano verde alimenta la microbiota intestinal produciendo ácidos grasos de cadena corta (butirato), sin provocar distensión ni gases sobre las heridas inguinales. • Aporte nocturno de colágeno hidrolizado y prolina para la reparación tisular durante el descanso.
+ADVERTENCIAS: GEL DE LINAZA antes.|Cenar mínimo 2 a 3 horas antes de acostarse.
+VALOR_NUTRICIONAL:
+Calorías: ~280 kcal
+Proteínas: ~22g
+Carbohidratos: ~28g (Fibra: ~5g,
+Almidón resistente: ~2g)
+Grasas: ~8g
+Sodio: ~220mg
+Potasio: ~680mg
+Magnesio: ~90mg
+Vitamina A: ~5,200μg
+Vitamina C: ~20mg
+Vitamina K: ~85μg
+Folato: ~100μg
+Zinc: ~2mg
+Colágeno: ~4-6g
+Triptófano: ~140mg
+Arginina: ~1.2g
+IG estimado: Bajo-Medio
+CG estimada: Media
+--FIN_RECETA--
+
+--RECETA--
+ID: yogur-con-nueces-ajonjoli-linaza-y-manzanilla
+TITULO: Yogur con Nueces, Ajonjolí, Linaza y Manzanilla
+CATEGORIA: Post-cirugía
+TIPO: Cierre Nocturno
+PORCIONES: 2
+ICONO: taza
+ETIQUETAS: Post-cirugía, Semana 1, Día 7
+CONCEPTO: Yogur con nueces, ajonjolí, linaza y manzanilla: cierre nocturno con melatonina, omega-3 y minerales para el descanso.
+INGREDIENTES:
+• Yogur natural sin azúcar — 1 taza (½ taza por persona)
+• Nueces — 10 mitades, picadas (5 mitades por persona)
+• Ajonjolí tostado — 2 cucharadas (1 por persona)
+• Linaza molida — 2 cucharaditas
+• Canela — pizca
+• Stevia — al gusto
+• Infusión de manzanilla — 2 tazas tibias (1 por persona, aparte)
+PREPARACION:
+1. Divide el yogur en 2 bowls (½ taza por persona).
+2. Añade a cada bowl: nueces picadas, ajonjolí tostado, linaza molida, canela y stevia.
+3. Prepara la infusión de manzanilla.
+4. Comer el yogur despacio y finalizar tomando la manzanilla tibia.
+JUSTIFICACION: Justificación clínica: • Las nueces aportan melatonina directa y ácidos grasos poliinsaturados. • Ajonjolí + yogur suministran triptófano, calcio y magnesio para inhibir espasmos musculares nocturnos. • La apigenina de la manzanilla actúa sobre los receptores GABA-A.
+ADVERTENCIAS: GEL DE LINAZA antes.|Dormir con el torso ligeramente elevado (30°).
+VALOR_NUTRICIONAL:
+Calorías: ~185 kcal
+Proteínas: ~8g
+Carbohidratos: ~8g (Fibra: ~2.5g)
+Grasas: ~14g (Mono: 4g, Poli: 6g,
+Omega-3 ALA: ~1.2g)
+Calcio: ~175mg
+Magnesio: ~50mg
+Zinc: ~1.5mg
+Triptófano: ~65mg
+Melatonina: ~1-2 ng
+Probióticos: presentes
+IG estimado: Bajo
+--FIN_RECETA--
+
+--PACIENTE--
+NOMBRE: Postquirúrgico — Semana 1 (Días 1-7)
+DESCRIPCION: Plan alimentario progresivo para los primeros 7 días postoperatorios de hernioplastia inguinal bilateral con malla + varicocelectomía (2 pacientes). Prioridades: no vomitar, no estreñirse, apoyo a la mucosa gástrica (complementario al omeprazol indicado por el cirujano, nunca sustituto), inicio de cicatrización e hidratación.
+FASES:
+Fase 1a | Día 1 | Líquidos y semilíquidos progresivos | Dieta líquida estricta 0-12h, luego semilíquida; cero sólidos
+Fase 1b | Días 2-7 | Semisólidos y sólidos suaves | 6 tomas diarias (desayuno, merienda AM, almuerzo, merienda PM, cena, cierre nocturno); introducción gradual de textura y fibra
+CRONOGRAMA:
+7:00 AM | Toma 1 | Desayuno
+9:30 AM | Toma 2 | Merienda AM
+12:00 PM | Toma 3 | Almuerzo
+3:00 PM | Toma 4 | Merienda PM
+6:00 PM | Toma 5 | Cena
+8:30 PM | Toma 6 | Cierre Nocturno
+AJUSTES:
+- Hidratación mínima de 2 litros de agua/líquidos por persona al día (el tramadol, la anestesia y los antibióticos deshidratan).
+- Gel de linaza (3-4 cucharadas) 10-15 minutos antes de cada comida principal, como apoyo digestivo complementario — nunca sustituto del omeprazol indicado por el cirujano.
+- Cero frituras, cero picante, cero cítricos, cero tomate, cero alimentos que generen gas (prioridad por la hernia bilateral).
+- Incorporar el torso al menos 30° al comer; no acostarse completamente hasta 30 min después de comer.
+- Probióticos (yogur) separados 2-3 horas de cualquier antibiótico indicado.
+- Días 6-7 sin legumbres pesadas (línea segura); la reintroducción de leguminosas se retoma en la Semana 2.
+--FIN_PACIENTE--

@@ -1,0 +1,1835 @@
+--RECETA--
+ID: arepa-de-avena-y-linaza-con-queso-fresco-y
+TITULO: Arepa de avena y linaza con queso fresco y aguacate
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Desayunos
+CONCEPTO: Arepa de avena y linaza con queso fresco y aguacate: desayuno de fibra soluble y grasa monoinsaturada que apoya la digestión.
+INGREDIENTES:
+— Masa de arepa (sustitución de harina):
+• Harina de maíz precocida — ½ taza
+• Avena en hojuelas molida — ½ taza
+• Linaza molida — 2 cdas
+• Agua tibia — cantidad necesaria
+• Sal mínima
+— Relleno:
+• Queso fresco/paisa bajo en grasa — 100g en láminas
+• Aguacate — ½ unidad, en láminas
+PREPARACION:
+1. Mezclar harina de maíz, avena molida y linaza. Añadir agua tibia de a poco hasta lograr una masa moldeable.
+2. Formar 2 arepas medianas, cocinar en budare o sartén antiadherente a fuego medio-bajo, 5-6 min por lado, luego terminar en horno a 180°C por 10 min para asegurar cocción interna.
+3. Abrir y rellenar con queso fresco y aguacate.
+JUSTIFICACION: Fibra soluble (avena, linaza) + grasa monoinsaturada (aguacate) — apoyo digestivo y hepatoprotección continua (Usuario 2). Formato tradicional venezolano respetado, solo con harina modificada.
+ADVERTENCIAS: Verificar que el queso sea realmente bajo en grasa y sin exceso de sal (evitar quesos duros/madurados).|Gel de linaza: opcional, antes de comer.
+VALOR_NUTRICIONAL:
+Calorías: ~410 kcal
+Proteínas: ~19g
+Carbohidratos: ~40g (Fibra: ~7g)
+Grasas: ~19g (Mono: ~10g)
+Sodio: ~220mg
+IG estimado: Bajo-Moderado (la avena y linaza
+reducen el IG frente a la arepa tradicional)
+--FIN_RECETA--
+
+--RECETA--
+ID: panqueca-de-avena-y-cambur-con-queso-ricotta-y
+TITULO: Panqueca de avena y cambur con queso ricotta y canela
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Desayunos
+CONCEPTO: Panqueca de avena y cambur con ricotta y canela: desayuno dulce sin azúcar añadida, con el dulzor natural del cambur semimaduro.
+INGREDIENTES:
+• Avena en hojuelas molida — 1 taza
+• Cambur (banana) semi-maduro triturado — 1 unidad
+• Huevos — 2 unidades
+• Canela — 1 cdta
+• Queso ricotta o requesón bajo en grasa — 4 cdas (2 cdas/porción)
+• Aceite de oliva o coco — para la plancha
+PREPARACION:
+1. Mezclar avena molida, cambur triturado, huevos y canela hasta lograr una mezcla tipo panqueca.
+2. Cocinar en sartén antiadherente a fuego bajo, porciones pequeñas, volteando cuando burbujee.
+3. Servir con el queso ricotta encima o al lado, como si fuera "crema" de la panqueca.
+JUSTIFICACION: Formato dulce sin azúcar añadida — el cambur semi-maduro aporta el dulzor natural. Buena opción para variar textura frente a la arepa.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal
+Proteínas: ~18g
+Carbohidratos: ~38g (Fibra: ~6g)
+Grasas: ~15g
+IG estimado: Bajo-Moderado
+--FIN_RECETA--
+
+--RECETA--
+ID: pan-integral-con-huevos-pericos-suaves-y-queso
+TITULO: Pan integral con huevos pericos suaves y queso fresco
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Desayunos
+CONCEPTO: Huevos pericos suaves con pan integral y queso fresco: el clásico desayuno venezolano, con tomate y cebolla siempre cocidos.
+INGREDIENTES:
+• Pan integral bajo en sodio — 4 rebanadas
+• Huevos — 4 unidades
+• Tomate maduro, sin piel, cocido — 1 unidad pequeña, en cubos pequeños
+• Ají dulce — 1 unidad picado fino
+• Cebolla — 2 cdas picada fina, SOFRITA (nunca cruda)
+• Aceite de oliva — 2 cdtas
+• Queso fresco bajo en grasa — 60g desmenuzado
+PREPARACION:
+1. Sofreír la cebolla y el ají dulce en aceite de oliva a fuego bajo 3-4 min.
+2. Añadir el tomate cocido, cocinar 2 min más.
+3. Agregar los huevos batidos, revolver a fuego bajo hasta que cuajen suave (evitar textura reseca).
+4. Incorporar el queso fresco al final, apagar el fuego.
+5. Servir entre las rebanadas de pan integral, tipo sándwich abierto o cerrado.
+JUSTIFICACION: El clásico "perico" venezolano, adaptado: tomate y cebolla siempre cocidos (nunca crudos) por la gastritis erosiva del Usuario 1.
+ADVERTENCIAS: Vigilar la cantidad de tomate — mantenerla moderada, ya que el tomate crudo/mal cocido es un irritante conocido en gastritis.
+VALOR_NUTRICIONAL:
+Calorías: ~420 kcal
+Proteínas: ~24g
+Carbohidratos: ~35g (Fibra: ~5g)
+Grasas: ~18g
+Sodio: ~280mg
+--FIN_RECETA--
+
+--RECETA--
+ID: arepa-de-auyama-con-pollo-desmechado-y-aguacate
+TITULO: Arepa de auyama con pollo desmechado y aguacate
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Desayunos
+CONCEPTO: Arepa de auyama con pollo desmechado y aguacate: desayuno colorido, con betacaroteno extra y proteína magra.
+INGREDIENTES:
+— Masa de arepa:
+• Harina de maíz precocida — ½ taza
+• Auyama cocida y triturada — ½ taza
+• Linaza molida — 1 cda
+• Agua tibia — la necesaria
+— Relleno:
+• Pechuga de pollo cocida y desmechada — 150g (75g/porción)
+• Ají dulce — 1 unidad, sofrito
+• Aceite de oliva — 1 cdta
+• Aguacate — ½ unidad
+PREPARACION:
+1. Mezclar harina de maíz, auyama triturada y linaza con agua tibia hasta lograr masa moldeable. Formar 2 arepas y cocinar en budare + horno (igual que receta #1).
+2. Sofreír el ají dulce en aceite de oliva, añadir el pollo desmechado, calentar bien.
+3. Rellenar la arepa con el pollo y el aguacate en láminas.
+JUSTIFICACION: Arepa color naranja (auyama) — betacaroteno extra, buena opción visual y nutricional para variar de la arepa blanca clásica.
+VALOR_NUTRICIONAL:
+Calorías: ~430 kcal
+Proteínas: ~26g
+Carbohidratos: ~38g (Fibra: ~6g)
+Grasas: ~18g
+IG estimado: Bajo-Moderado
+--FIN_RECETA--
+
+--RECETA--
+ID: tortilla-de-espinaca-y-queso-fresco-con-arepita
+TITULO: Tortilla de espinaca y queso fresco con arepita fina de avena
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: huevo frito
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Desayunos
+CONCEPTO: Tortilla de espinaca y queso fresco con arepita fina de avena: desayuno distinto a la arepa o la panqueca, con proteína y hierro.
+INGREDIENTES:
+• Huevos — 4 unidades
+• Espinaca fresca — 1 taza, picada
+• Queso fresco bajo en grasa — 60g rallado
+• Aceite de oliva — 2 cdtas
+• Arepitas finas de avena (receta base #1, sin relleno) — 2 unidades pequeñas
+PREPARACION:
+1. Sofreír la espinaca 1-2 min en aceite de oliva hasta que baje volumen.
+2. Batir los huevos, verter sobre la espinaca en la sartén, dejar cuajar a fuego bajo, añadir el queso rallado antes de doblar la tortilla.
+3. Servir con la arepita fina de avena aparte.
+JUSTIFICACION: Formato de tortilla clásica, útil para variar de la arepa/panqueca sin perder estructura de "desayuno con pan" gracias a la arepita de acompañamiento.
+VALOR_NUTRICIONAL:
+Calorías: ~400 kcal
+Proteínas: ~23g
+Carbohidratos: ~28g (Fibra: ~5g)
+Grasas: ~20g
+Hierro y folato (espinaca)
+destacados
+--FIN_RECETA--
+
+--RECETA--
+ID: panqueca-salada-de-lenteja-roja-partida-con
+TITULO: Panqueca salada de lenteja roja partida con queso fresco y hierbas
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Desayunos
+CONCEPTO: Panqueca salada de lenteja roja partida con queso fresco y hierbas: desayuno de proteína vegetal y baja carga de gas.
+INGREDIENTES:
+• Lenteja roja partida (pelada) — ½ taza SECA (ver protocolo de preparación anti-gas ⬇️)
+• Huevo — 1 unidad
+• Perejil y cilantro picados — 2 cdas
+• Queso fresco bajo en grasa — 60g en cubos pequeños, integrado a la mezcla
+• Aceite de oliva — para la plancha
+PREPARACION:
+1. Remojar la lenteja roja partida en agua abundante (el triple de su volumen) por 8-12 horas, cambiando el agua una vez a la mitad del remojo.
+2. Descartar TODA el agua de remojo — nunca cocinar en ella.
+3. Hervir en agua fresca 8-10 minutos, descartar esa primera agua de cocción también.
+4. Terminar de cocinar en agua nueva hasta que estén completamente deshechas (las lentejas rojas partidas se deshacen solas, en 15-20 min adicionales — no se necesita colar, quedan tipo puré espeso naturalmente).
+5. Dejar enfriar un poco antes de mezclar con el huevo. Preparación de la panqueca:
+6. Triturar/aplastar la lenteja ya cocida (paso 4 de arriba) con el huevo hasta lograr una mezcla homogénea.
+7. Añadir las hierbas picadas y el queso en cubos.
+8. Cocinar en sartén antiadherente a fuego bajo-medio, 3-4 min por lado, hasta dorar.
+JUSTIFICACION: La lenteja roja partida (pelada) es, dentro de las legumbres del inventario, la de menor carga de oligosacáridos productores de gas: al estar pelada y partida, se cocina más rápido y se deshace más fácilmente que el garbanzo o la lenteja entera.
+ADVERTENCIAS: Con el protocolo de doble descarte de agua, la reducción de oligosacáridos productores de gas es sustancial (evidencia en legumbres similares muestra reducciones de ~50-80% con remojo + doble hervor), pero NO es una eliminación garantizada al 100% — ver nota técnica al final del documento.|PROTOCOLO DE PREPARACIÓN ANTI-GAS (aplicar siempre a esta receta, ver fundamento en sección "Nota técnica" al final del documento): 1. Remojar la lenteja roja partida en agua abundante (el triple de su volumen) por 8-12 horas, cambiando el agua una vez a la mitad del remojo. 2. Descartar TODA el agua de remojo — nunca cocinar en ella. 3. Hervir en agua fresca 8-10 minutos, descartar esa primera agua de cocción también. 4. Terminar de cocinar en agua nueva hasta que estén completamente deshechas (las lentejas rojas partidas se deshacen solas, en 15-20 min adicionales — no se necesita colar, quedan tipo puré espeso naturalmente). 5. Dejar enfriar un poco antes de mezclar con el huevo.
+VALOR_NUTRICIONAL:
+Calorías: ~360 kcal
+Proteínas: ~21g
+Carbohidratos: ~28g (Fibra: ~6g)
+Grasas: ~15g
+IG estimado: Bajo
+--FIN_RECETA--
+
+--RECETA--
+ID: pan-integral-con-hummus-de-lenteja-roja-huevo
+TITULO: Pan integral con "hummus" de lenteja roja, huevo duro y tomate cocido
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: huevo frito
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Desayunos
+CONCEPTO: Sándwich de pan integral con «hummus» de lenteja roja, huevo duro y tomate cocido: desayuno con doble fuente de proteína.
+INGREDIENTES:
+— "Hummus" de lenteja roja (sin ajo crudo ni limón directo):
+• Lenteja roja partida (pelada) — ½ taza SECA, preparada con el protocolo anti-gas de la receta #6 (remojo 8-12h + descarte de agua + doble hervor, hasta que se deshaga completamente)
+• Aceite de oliva — 2 cdas
+• Ajo sofrito — 1 diente
+• Comino — pizca
+• Cúrcuma — pizca (opcional, da color similar al hummus tradicional)
+— Armado:
+• Pan integral bajo en sodio — 4 rebanadas
+• Huevo duro — 2 unidades, en láminas
+• Tomate cocido en rodajas finas — 1 unidad pequeña
+PREPARACION:
+1. Preparar la lenteja roja siguiendo el protocolo anti-gas completo (ver receta #6).
+2. Licuar o triturar la lenteja ya cocida y deshecha con aceite de oliva, ajo sofrito, comino y cúrcuma hasta lograr una crema untable (la lenteja roja bien cocida ya tiene consistencia de puré, se integra fácil).
+3. Untar el pan integral con esta crema, añadir el huevo duro en láminas y el tomate cocido.
+JUSTIFICACION: Doble fuente de proteína (huevo + lenteja roja) en un formato de pan relleno tipo sándwich mediterráneo, sin vinagre ni limón directo, y con la carga de gas sustancialmente reducida frente a la versión original con garbanzo entero.
+VALOR_NUTRICIONAL:
+Calorías: ~410 kcal
+Proteínas: ~19g
+Carbohidratos: ~40g (Fibra: ~7g)
+Grasas: ~17g
+IG estimado: Bajo
+--FIN_RECETA--
+
+--RECETA--
+ID: arepa-integral-con-lentejas-guisadas-suaves-y
+TITULO: Arepa integral con lentejas guisadas suaves y queso fresco
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Desayunos
+CONCEPTO: Arepa integral con lentejas guisadas suaves y queso fresco: desayuno alto en fibra, para cuando la tolerancia ya es mejor.
+INGREDIENTES:
+— Masa (igual que receta #1:
+• harina de maíz + avena + linaza).
+— Relleno:
+• Lentejas cocidas — ¾ taza
+• Cebolla y ají dulce — sofritos, 2 cdas
+• Comino y cúrcuma — pizca de cada uno
+• Aceite de oliva — 1 cdta
+• Queso fresco bajo en grasa — 40g rallado
+PREPARACION:
+1. Sofreír cebolla y ají dulce, añadir las lentejas ya cocidas, comino y cúrcuma. Calentar bien, machacar ligeramente para que el relleno sea más manejable dentro de la arepa.
+2. Formar y cocinar las arepas (ver receta #1).
+3. Rellenar con las lentejas guisadas y el queso fresco.
+JUSTIFICACION: Alta en fibra soluble e insoluble — buen apoyo de tránsito intestinal, ya con mejor tolerancia esperada en semana 3-4 que en semana 1-2.
+ADVERTENCIAS: Si las lentejas aún no se toleraron bien en los hitos de semana 2, probar esta receta con lentejas bien coladas la primera vez.
+VALOR_NUTRICIONAL:
+Calorías: ~420 kcal
+Proteínas: ~21g
+Carbohidratos: ~44g (Fibra: ~10g)
+Grasas: ~14g
+IG estimado: Bajo
+--FIN_RECETA--
+
+--RECETA--
+ID: cachapa-adaptada-menor-ig-con-queso-fresco-de
+TITULO: Cachapa adaptada (menor IG) con queso fresco/de mano bajo en grasa
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Desayunos
+CONCEPTO: Cachapa adaptada con menor índice glucémico y queso fresco bajo en grasa: un ícono del desayuno venezolano, sin azúcar añadida.
+INGREDIENTES:
+• Maíz tierno (jojoto), en granos — 1 taza
+• Avena en hojuelas molida — 3 cdas (para bajar el IG frente a la cachapa tradicional)
+• Huevo — 1 unidad
+• Aceite de oliva — para la plancha
+• Queso fresco/de mano bajo en grasa — 80g
+PREPARACION:
+1. Licuar el maíz tierno con el huevo y la avena molida hasta lograr una mezcla espesa (sin agregar azúcar, a diferencia de la receta tradicional).
+2. Cocinar en sartén antiadherente a fuego bajo, como panqueca, 3-4 min por lado.
+3. Rellenar o acompañar con el queso.
+JUSTIFICACION: Recupera un ícono del desayuno venezolano sin azúcar añadida y con fibra extra.
+ADVERTENCIAS: Consideración honesta: sigue siendo, de las 10 recetas, la de mayor carga glucémica relativa — sugerida como variante ocasional, no como base semanal fija.
+VALOR_NUTRICIONAL:
+Calorías: ~400 kcal
+Proteínas: ~17g
+Carbohidratos: ~42g (Fibra: ~5g)
+Grasas: ~16g
+IG estimado: Moderado
+(la cachapa tradicional es de IG más alto;
+la avena y la ausencia de azúcar añadida lo
+reducen, pero sigue siendo la opción de mayor
+IG de este set — usar con moderación de
+frecuencia, no a diario)
+--FIN_RECETA--
+
+--RECETA--
+ID: pan-integral-relleno-de-pollo-desmechado-con
+TITULO: Pan integral relleno de pollo desmechado con aguacate y yogur (sin mayonesa)
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Desayunos
+CONCEPTO: Pan integral relleno de pollo desmechado con aguacate y yogur en lugar de mayonesa: desayuno ligero con probióticos.
+INGREDIENTES:
+• Pan integral bajo en sodio — 4 rebanadas
+• Pechuga de pollo cocida y desmechada — 150g
+• Aguacate — ½ unidad, triturado
+• Yogur natural sin azúcar — 3 cdas (sustituto de la mayonesa tradicional)
+• Cilantro picado — 1 cda
+• Pizca de sal
+PREPARACION:
+1. Mezclar el pollo desmechado con el aguacate triturado, el yogur y el cilantro hasta lograr una consistencia cremosa similar a la "reina pepiada" tradicional.
+2. Rellenar el pan integral con la mezcla.
+JUSTIFICACION: El yogur natural reemplaza la mayonesa tradicional — reduce grasa saturada y suma probióticos, sin perder la cremosidad característica del relleno. Buena opción de alta proteína para cerrar el set con variedad de formato (sándwich frío, distinto a las arepas/panquecas calientes).
+VALOR_NUTRICIONAL:
+Calorías: ~410 kcal
+Proteínas: ~27g
+Carbohidratos: ~34g (Fibra: ~6g)
+Grasas: ~17g
+IG estimado: Bajo-Moderado
+--FIN_RECETA--
+
+--RECETA--
+ID: pollo-al-horno-con-hierbas-pure-de-auyama-y
+TITULO: Pollo al horno con hierbas, puré de auyama y ensalada tibia de zanahoria y chayote
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Almuerzos
+CONCEPTO: Pollo al horno con hierbas, puré de auyama y ensalada tibia de zanahoria: almuerzo base, con proteína magra y cero irritantes.
+INGREDIENTES:
+— Proteína:
+• Pechuga de pollo — 300g total
+• Romero, tomillo, laurel, aceite de oliva — al gusto
+— Guarnición — Puré de auyama:
+• Auyama — 500g, cocida y triturada con 2 cdas de aceite de oliva
+— Ensalada tibia:
+• Zanahoria — 2 unidades, en rodajas, al vapor
+• Chayote — 1 unidad, en cubos, al vapor
+• Aceite de oliva + perejil, sin vinagre
+PREPARACION:
+Proteína:
+1. marinar el pollo con las hierbas y aceite de oliva, hornear a 180°C por 25-30 min hasta cocción completa.
+JUSTIFICACION: Base segura y de referencia del set — proteína magra, guarnición de bajo IG, cero irritantes.
+VALOR_NUTRICIONAL:
+Calorías: ~460 kcal
+Proteínas: ~35g
+Carbohidratos: ~32g (Fibra: ~6g)
+Grasas: ~18g
+Sodio: ~130mg
+--FIN_RECETA--
+
+--RECETA--
+ID: guiso-venezolano-de-carne-magra-con-arroz
+TITULO: Guiso venezolano de carne magra con arroz integral y vainitas al vapor
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Almuerzos
+CONCEPTO: Guiso venezolano de carne magra con arroz integral y vainitas al vapor: plato tradicional con la cocción ajustada.
+INGREDIENTES:
+— Proteína:
+• Carne de res magra (falda o solomo desgrasado) — 300g, en cubos
+• Ají dulce — 2 unidades, picado
+• Pimentón — ½ unidad, picado
+• Cebolla — ¼ taza, picada, SOFRITA
+• Ajo — 1 diente, sofrito
+• Comino, cúrcuma — al gusto
+• Aceite de oliva — 2 cdas
+• Caldo de res desgrasado — 1 taza
+— Guarnición:
+• Arroz integral cocido — 1 taza
+— Vegetal:
+• Vainitas (ejotes) al vapor — 1 taza, con aceite de oliva
+PREPARACION:
+1. sofreír ají dulce, pimentón, cebolla y ajo en aceite de oliva 5 min. Añadir la carne, dorar ligero, incorporar especias y caldo. Cocinar tapado a fuego bajo 35-40 min hasta que la carne esté tierna.
+JUSTIFICACION: Guiso tradicional venezolano, respetado en forma, ajustado en cocción (cebolla/ajo siempre cocidos) y en corte de carne (magro).
+ADVERTENCIAS: Contabilizar dentro del límite semanal de carne roja + cerdo combinados.
+VALOR_NUTRICIONAL:
+Calorías: ~510 kcal
+Proteínas: ~34g
+Carbohidratos: ~40g (Fibra: ~5g)
+Grasas: ~20g (Sat: ~6g)
+Sodio: ~150mg
+--FIN_RECETA--
+
+--RECETA--
+ID: lomo-de-cerdo-horneado-con-especias-suaves-pure
+TITULO: Lomo de cerdo horneado con especias suaves, puré de batata y ensalada de pepino
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Almuerzos
+CONCEPTO: Lomo de cerdo horneado con especias suaves, puré de batata y ensalada tibia: corte magro y sin fritura.
+INGREDIENTES:
+— Proteína:
+• Lomo de cerdo, sin grasa visible — 300g
+• Comino, cúrcuma, pimienta blanca, aceite de oliva — para marinar
+— Guarnición:
+• Batata — 500g, cocida y triturada con aceite de oliva
+— Ensalada:
+• Pepino sin cáscara — 2 unidades, en rodajas, con aceite de oliva y hierbabuena (moderada)
+PREPARACION:
+1. marinar el lomo con las especias y aceite de oliva mínimo 30 min. Hornear a 180°C por 30-35 min (verificar cocción interna completa). Cortar en medallones.
+JUSTIFICACION: Corte magro, horneado, sin nada de fritura.
+ADVERTENCIAS: Verificar bien que el corte esté realmente libre de grasa visible antes de cocinar — ahí está la mayor parte del riesgo con el cerdo.
+VALOR_NUTRICIONAL:
+Calorías: ~490 kcal
+Proteínas: ~33g
+Carbohidratos: ~35g (Fibra: ~5g)
+Grasas: ~21g (Sat: ~6g)
+Sodio: ~120mg
+--FIN_RECETA--
+
+--RECETA--
+ID: huevos-rellenos-horneados-version-saludable-con
+TITULO: Huevos rellenos horneados (versión saludable) con arroz integral y ensalada de espinaca
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: ensalada
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Almuerzos
+CONCEPTO: Huevos rellenos horneados con arroz integral y ensalada: versión saludable de un clásico, sin mayonesa comercial.
+INGREDIENTES:
+— Proteína:
+• Huevos — 6 unidades, duros
+• Aguacate — ¼ unidad, triturado
+• Yogur natural sin azúcar — 2 cdas
+• Pimentón cocido, picado fino — 1 cda
+• Cebollín — 1 cdta
+— Guarnición:
+• Arroz integral cocido — 1 taza
+— Ensalada:
+• Espinaca fresca — 1 taza, salteada ligera en aceite de oliva
+PREPARACION:
+1. cortar los huevos duros por la mitad, retirar la yema y mezclarla con aguacate, yogur, pimentón y cebollín. Rellenar las claras con esta mezcla. Hornear 8-10 min a 160°C solo para calentar y asentar el relleno (no es obligatorio, pero da mejor textura que servir frío).
+JUSTIFICACION: Versión horneada de un clásico que tradicionalmente se hace con mayonesa comercial — aquí sustituida por aguacate y yogur, mismo efecto cremoso.
+VALOR_NUTRICIONAL:
+Calorías: ~420 kcal
+Proteínas: ~22g
+Carbohidratos: ~34g (Fibra: ~5g)
+Grasas: ~20g
+Colina y B12 destacados
+--FIN_RECETA--
+
+--RECETA--
+ID: pollo-a-la-plancha-con-pure-de-apio-criollo
+TITULO: Pollo a la plancha con puré de apio criollo (arracacha) y brócoli al vapor
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Almuerzos
+CONCEPTO: Pollo a la plancha con puré de apio criollo (arracacha) y brócoli al vapor: usa el tubérculo, nunca el apio España.
+INGREDIENTES:
+— Proteína:
+• Pechuga de pollo — 300g
+• Aceite de oliva, laurel, pimienta blanca — para la plancha
+— Guarnición — Puré de apio criollo:
+• Apio criollo (Arracacia xanthorrhiza, el tubérculo, no el apio España) — 500g, pelado
+• Aceite de oliva — para triturar
+— Vegetal:
+• Brócoli — 1 taza de floretes
+• Aceite de oliva — un chorrito
+PREPARACION:
+1. Cocinar la pechuga de pollo a la plancha con aceite de oliva, laurel y pimienta blanca hasta dorar por ambos lados y cocinar por completo.
+2. Pelar y hervir el apio criollo hasta ablandar; triturar con aceite de oliva hasta lograr un puré suave.
+3. Cocinar el brócoli al vapor 3-4 minutos (no más, para minimizar gas) y rociar con aceite de oliva.
+4. Servir el pollo con el puré de apio criollo y el brócoli al vapor.
+JUSTIFICACION: Reafirma la distinción apio/apio España en la práctica: aquí se usa exclusivamente el tubérculo (apio criollo/arracacha).
+VALOR_NUTRICIONAL:
+Calorías: ~440 kcal
+Proteínas: ~35g
+Carbohidratos: ~30g (Fibra: ~6g)
+Grasas: ~17g
+Sodio: ~110mg
+--FIN_RECETA--
+
+--RECETA--
+ID: pasticho-de-pollo-con-capas-de-berenjena-y
+TITULO: Pasticho de pollo con capas de berenjena y bechamel de coliflor
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Almuerzos
+CONCEPTO: Pasticho de pollo con capas de berenjena y bechamel de coliflor: reinterpretación ligera, sin pasta ni bechamel tradicional.
+INGREDIENTES:
+— Relleno de pollo:
+• Pechuga de pollo cocida y desmechada — 300g
+• Salsa de tomate casera (tomate cocido, sin piel) — 1 taza
+• Cebolla, ajo, ají dulce — sofritos
+• Orégano, comino — al gusto
+— Capas (sustituto de pasta, para bajar IG y sumar fibra/vegetal):
+• Berenjena — 2 unidades grandes, en láminas finas, asadas al horno o a la plancha (nunca fritas) hasta ablandar
+— Bechamel de coliflor (sustituto de la bechamel tradicional de mantequilla):
+• Coliflor — 2 tazas, cocida
+• Leche descremada o leche de almendras sin azúcar — ½ taza
+• Queso fresco bajo en grasa — 60g
+• Nuez moscada — pizca Licuar todo hasta lograr una crema espesa.
+— Montaje:
+• Queso fresco rallado — 60g, para gratinar
+PREPARACION:
+1. Preparar el relleno de pollo en salsa (sofrito + tomate + pollo desmechado, cocinar 10 min).
+2. Asar las láminas de berenjena hasta que estén blandas y sin exceso de agua.
+3. Preparar la bechamel de coliflor.
+4. Armar en capas: berenjena → relleno de pollo → bechamel → repetir → terminar con queso rallado encima.
+5. Hornear a 180°C por 20-25 min hasta gratinar.
+JUSTIFICACION: Honestidad: esto ya no es un "pasticho" tradicional en sentido estricto (no lleva pasta ni bechamel de mantequilla), es una reinterpretación que conserva la estructura en capas y el gratinado — si prefieren la versión con pasta real, ver Pasticho #2. Berenjena aporta fibra y volumen con muy pocas calorías — reduce sustancialmente la carga glucémica frente al pasticho clásico.
+VALOR_NUTRICIONAL:
+Calorías: ~430 kcal
+Proteínas: ~32g
+Carbohidratos: ~22g (Fibra: ~7g)
+Grasas: ~22g
+Sodio: ~180mg
+IG estimado: Bajo (al usar berenjena en vez
+de pasta de trigo refinada)
+--FIN_RECETA--
+
+--RECETA--
+ID: pasticho-de-carne-magra-con-pasta-integral-y
+TITULO: Pasticho de carne magra con pasta integral y bechamel ligera
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Almuerzos
+CONCEPTO: Pasticho de carne magra con pasta integral y bechamel ligera: conserva la identidad del pasticho, con menos grasa y sodio.
+INGREDIENTES:
+— Relleno de carne:
+• Carne de res magra molida — 300g
+• Salsa de tomate casera cocida — 1 taza
+• Cebolla, ajo — sofritos
+• Orégano, laurel, comino — al gusto
+— Pasta:
+• Pasta integral tipo lasaña — 6 láminas, cocidas al dente
+— Bechamel ligera:
+• Leche descremada — 1 ½ tazas
+• Harina de avena — 2 cdas (espesante, en vez de harina de trigo + mantequilla)
+• Aceite de oliva — 1 cda
+• Nuez moscada — pizca
+— Para gratinar:
+• Queso fresco bajo en grasa rallado — 80g
+PREPARACION:
+1. Sofreír cebolla y ajo, añadir la carne molida, dorar, incorporar la salsa de tomate y las especias. Cocinar 15 min.
+2. Preparar la bechamel: calentar la leche con la harina de avena disuelta, revolver hasta espesar, añadir aceite de oliva y nuez moscada.
+3. Armar en capas: pasta → carne → bechamel → repetir → terminar con queso rallado.
+4. Hornear a 180°C por 25 min hasta gratinar.
+JUSTIFICACION: Esta sí conserva la identidad de "pasticho" real (pasta + bechamel + carne + gratinado), con tres ajustes: pasta integral, bechamel sin mantequilla (harina de avena como espesante), y carne magra sin embutido (el pasticho venezolano tradicional casi siempre lleva jamón — aquí se omite por completo).
+ADVERTENCIAS: De las 15 recetas, esta es de las más altas en calorías y carbohidratos — buena opción ocasional (1 vez/semana), no diaria.
+VALOR_NUTRICIONAL:
+Calorías: ~520 kcal
+Proteínas: ~33g
+Carbohidratos: ~48g (Fibra: ~6g)
+Grasas: ~22g (Sat: ~7g)
+Sodio: ~200mg
+--FIN_RECETA--
+
+--RECETA--
+ID: hallaca-individual-de-pollo-version-saludable
+TITULO: Hallaca individual de pollo, versión saludable (hervida, sin manteca de cochino ni embutidos)
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Almuerzos
+CONCEPTO: Hallaca individual de pollo, hervida y sin manteca de cerdo: reinterpretación saludable de un plato navideño.
+INGREDIENTES:
+— Masa (adaptada, menor IG que la tradicional):
+• Harina de maíz precocida — ¾ taza
+• Avena en hojuelas molida — ¼ taza
+• Caldo de pollo desgrasado tibio — cantidad necesaria para amasar
+• Onoto (achiote) en aceite de oliva — 1 cda, para el color tradicional (en vez de manteca de cochino con onoto)
+— Guiso de pollo:
+• Pechuga de pollo cocida y desmechada — 250g
+• Cebolla, ajo, ají dulce, pimentón — sofritos
+• Comino, pimienta blanca, un poco de onoto — al gusto
+• Aceitunas — solo 4-6 unidades TOTAL para las 2 hallacas (no una cucharada por hallaca como en la receta tradicional — las aceitunas son la principal fuente de sodio de este plato)
+• Sin pasas, sin garbanzo (se omiten por carga de azúcar simple y de gas respectivamente)
+— Envoltura:
+• Hojas de plátano, pasadas por calor directo para ablandar (si no se consiguen, usar papel aluminio como sustituto funcional, sabiendo que se pierde el aroma característico)
+PREPARACION:
+1. Preparar el guiso de pollo sofriendo los vegetales, añadiendo el pollo desmechado y las especias. Cocinar 10 min. Repartir las aceitunas dentro del relleno (2-3 por hallaca).
+2. Amasar la harina de maíz con avena molida, onoto y caldo tibio hasta lograr una masa moldeable de color naranja-amarillento.
+3. Extender una porción de masa sobre la hoja de plátano, colocar el relleno de pollo en el centro, doblar y envolver como hallaca tradicional, amarrar.
+4. Hervir en agua las hallacas envueltas por 45-50 min.
+JUSTIFICACION: Con honestidad: esto es una reinterpretación respetuosa, no una hallaca idéntica a la tradicional — se pierden las alcaparras y las pasas por completo, y las aceitunas se reducen drásticamente. El resultado conserva el formato, el método de cocción (hervido, nunca frito) y el sabor base, pero es deliberadamente más simple que el original.
+VALOR_NUTRICIONAL:
+Calorías: ~400 kcal
+Proteínas: ~28g
+Carbohidratos: ~38g (Fibra: ~5g)
+Grasas: ~14g
+Sodio: ~250mg (reducido
+frente a una hallaca tradicional, que puede
+superar fácilmente los 600-800mg por las
+aceitunas y alcaparras en cantidad)
+--FIN_RECETA--
+
+--RECETA--
+ID: hallaca-individual-de-carne-de-res-magra-version
+TITULO: Hallaca individual de carne de res magra, versión saludable
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Almuerzos
+CONCEPTO: Hallaca individual de carne de res magra: versión saludable, hervida y de porción individual.
+INGREDIENTES:
+— Masa:
+• igual que Hallaca #1 (harina de maíz + avena + onoto en aceite de oliva + caldo de res desgrasado en vez de caldo de pollo).
+— Guiso de carne:
+• Carne de res magra, cocida y desmechada o picada fina — 250g
+• Cebolla, ajo, ají dulce, pimentón — sofritos
+• Comino, laurel, pimienta blanca, un poco de onoto — al gusto
+• Aceitunas — 4-6 unidades TOTAL (igual criterio que Hallaca #1)
+• Sin pasas ni garbanzo
+— Envoltura:
+• igual que Hallaca #1.
+PREPARACION:
+1. igual procedimiento que Hallaca #1, sustituyendo el pollo por la carne de res magra y el caldo de pollo por caldo de res desgrasado.
+ADVERTENCIAS: Contabilizar junto con las demás recetas de carne roja/cerdo dentro del límite semanal sugerido de 1-2 veces combinadas.
+VALOR_NUTRICIONAL:
+Calorías: ~420 kcal
+Proteínas: ~27g
+Carbohidratos: ~38g (Fibra: ~5g)
+Grasas: ~16g (Sat: ~5g)
+Sodio: ~250mg
+--FIN_RECETA--
+
+--RECETA--
+ID: lomo-de-cerdo-a-la-plancha-con-pure-de-auyama-y
+TITULO: Lomo de cerdo a la plancha con puré de auyama y brócoli al vapor
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Almuerzos
+CONCEPTO: Lomo de cerdo a la plancha con puré de auyama y brócoli al vapor: versión más rápida para los días con menos tiempo.
+INGREDIENTES:
+— Proteína:
+• Lomo de cerdo, sin grasa visible, en medallones finos — 300g
+• Aceite de oliva, pimienta blanca, comino — para sazonar
+— Guarnición:
+• Puré de auyama (igual que receta #1).
+— Vegetal:
+• Brócoli al vapor (igual que receta #5).
+PREPARACION:
+Proteína:
+1. cocinar a la plancha con mínimo aceite, 4-5 min por lado.
+JUSTIFICACION: Versión más rápida de preparar que la receta #3 (plancha en vez de horno) para días con menos tiempo de cocina.
+VALOR_NUTRICIONAL:
+Calorías: ~460 kcal
+Proteínas: ~33g
+Carbohidratos: ~30g (Fibra: ~6g)
+Grasas: ~19g (Sat: ~5g)
+Sodio: ~110mg
+--FIN_RECETA--
+
+--RECETA--
+ID: tortilla-espanola-ligera-huevo-papa-cocida
+TITULO: Tortilla española ligera (huevo, papa cocida enfriada, cebolla sofrita) con ensalada de lechuga y zanahoria
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: ensalada
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Almuerzos
+CONCEPTO: Tortilla española ligera de huevo, papa cocida enfriada y cebolla sofrita: almuerzo distinto a la arepa o el pan.
+INGREDIENTES:
+— Proteína/plato principal:
+• Huevos — 6 unidades
+• Papa — 2 unidades medianas, cocidas Y ENFRIADAS antes de usar (el enfriado genera almidón resistente, reduce el IG frente a la papa recién cocida caliente), en rodajas finas
+• Cebolla — ½ unidad, sofrita
+• Aceite de oliva — 2 cdas
+— Ensalada:
+• Lechuga romana — 2 tazas
+• Zanahoria rallada — ½ taza
+• Aceite de oliva — 2 cdas
+PREPARACION:
+1. sofreír la cebolla en aceite de oliva, añadir la papa en rodajas, calentar bien. Batir los huevos, verter sobre la mezcla en una sartén, cocinar a fuego bajo tapado 6-8 min, voltear con ayuda de un plato y terminar de cocinar el otro lado 4-5 min.
+JUSTIFICACION: Formato distinto a los demás (tortilla entera, no arepa ni pan) — buena opción de variedad para el almuerzo.
+VALOR_NUTRICIONAL:
+Calorías: ~410 kcal
+Proteínas: ~19g
+Carbohidratos: ~28g (Fibra: ~4g)
+Grasas: ~24g
+IG estimado: Bajo-Moderado
+(gracias al enfriado de la papa)
+--FIN_RECETA--
+
+--RECETA--
+ID: carne-mechada-deshilachada-con-arroz-integral-y
+TITULO: Carne mechada (deshilachada) con arroz integral y tajadas de plátano horneadas
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Almuerzos
+CONCEPTO: Carne mechada con arroz integral y tajadas de plátano horneado: el sabor del almuerzo venezolano sin fritura.
+INGREDIENTES:
+— Proteína:
+• Carne de res magra para mechar (falda) — 300g, cocida en agua con laurel hasta ablandar, luego desmechada
+• Cebolla, ajo, ají dulce, pimentón — sofritos
+• Salsa de tomate casera cocida — ½ taza
+• Comino, cúrcuma — al gusto
+— Guarnición:
+• Arroz integral cocido — 1 taza
+• Plátano maduro — 1 unidad, en tajadas, HORNEADAS con un mínimo de aceite de oliva en spray o brocha (nunca fritas)
+PREPARACION:
+1. sofreír los vegetales, incorporar la carne desmechada y la salsa de tomate, cocinar 10-12 min a fuego bajo hasta integrar bien.
+JUSTIFICACION: El plátano frito es un ícono del almuerzo venezolano — aquí horneado, manteniendo sabor y textura razonablemente similares sin el aceite absorbido de la fritura.
+VALOR_NUTRICIONAL:
+Calorías: ~500 kcal
+Proteínas: ~32g
+Carbohidratos: ~48g (Fibra: ~5g)
+Grasas: ~17g (Sat: ~5g)
+Sodio: ~140mg
+--FIN_RECETA--
+
+--RECETA--
+ID: pollo-guisado-en-salsa-de-auyama-con-arroz
+TITULO: Pollo guisado en salsa de auyama con arroz integral y ensalada
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Almuerzos
+CONCEPTO: Pollo guisado en salsa de auyama con arroz integral y ensalada: cremosidad y color sin lácteos grasos ni harinas.
+INGREDIENTES:
+— Proteína:
+• Pechuga o muslo de pollo sin piel — 300g, en trozos
+• Auyama — 1 taza, cocida y triturada (se usa como base de la salsa, aporta cremosidad sin necesidad de crema de leche ni lácteos)
+• Cebolla, ajo, ají dulce — sofritos
+• Caldo de pollo desgrasado — ½ taza
+• Cúrcuma, comino — al gusto
+— Guarnición:
+• Arroz integral cocido — 1 taza
+— Ensalada:
+• Pepino y zanahoria rallada — 1 taza total, con aceite de oliva
+PREPARACION:
+1. sofreír los vegetales, dorar el pollo, añadir la auyama triturada y el caldo, cocinar tapado 20 min hasta que el pollo esté cocido y la salsa espesa.
+JUSTIFICACION: La auyama como base de salsa es un truco útil: da cremosidad y color sin lácteos grasos ni harina refinada como espesante.
+VALOR_NUTRICIONAL:
+Calorías: ~470 kcal
+Proteínas: ~34g
+Carbohidratos: ~40g (Fibra: ~6g)
+Grasas: ~16g
+Betacaroteno destacado
+--FIN_RECETA--
+
+--RECETA--
+ID: lomo-de-cerdo-al-horno-con-especias-venezolanas
+TITULO: Lomo de cerdo al horno con especias venezolanas, puré de batata y ensalada
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Almuerzos
+CONCEPTO: Lomo de cerdo al horno con especias venezolanas, puré de batata y ensalada: variante con otro perfil de sabor.
+INGREDIENTES:
+— Proteína:
+• Lomo de cerdo, sin grasa visible — 300g
+• Ajo sofrito, comino, orégano, pimienta blanca, aceite de oliva — para marinar mínimo 1 hora antes de hornear
+— Guarnición:
+• Batata — 500g, cocida y triturada con aceite de oliva
+— Ensalada:
+• Lechuga y rábano en láminas finas — 1 taza, con aceite de oliva
+PREPARACION:
+1. hornear a 180°C por 30-35 min, bañando con su propio jugo a mitad de cocción para mantenerlo jugoso sin añadir grasa extra.
+JUSTIFICACION: Variante de la receta #3, con perfil de especias distinto para no repetir sabor exacto dentro del mismo set.
+ADVERTENCIAS: Última receta con cerdo del set — recordar el límite combinado de cerdo+res de 1-2 veces/semana entre TODAS las recetas de este tipo.
+VALOR_NUTRICIONAL:
+Calorías: ~480 kcal
+Proteínas: ~33g
+Carbohidratos: ~34g (Fibra: ~5g)
+Grasas: ~20g (Sat: ~6g)
+Sodio: ~110mg
+--FIN_RECETA--
+
+--RECETA--
+ID: huevos-horneados-en-salsa-de-auyama-y-pimenton
+TITULO: Huevos horneados en salsa de auyama y pimentón (estilo shakshuka adaptado) con arroz integral
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Almuerzos
+CONCEPTO: Huevos horneados en salsa de auyama y pimentón, estilo shakshuka adaptado: almuerzo con huevo, vistoso y distinto.
+INGREDIENTES:
+— Base/salsa:
+• Auyama — ½ taza, cocida y triturada
+• Pimentón rojo — 1 unidad, en tiras, sofrito
+• Cebolla, ajo — sofritos
+• Tomate cocido, sin piel — ½ taza
+• Comino, pimentón dulce en polvo (opcional) — al gusto
+— Proteína:
+• Huevos — 4 unidades
+— Guarnición:
+• Arroz integral cocido — 1 taza
+PREPARACION:
+1. sofreír cebolla, ajo y pimentón, añadir el tomate cocido y la auyama triturada, cocinar 8-10 min hasta lograr una salsa espesa. Hacer 4 huecos en la salsa (ya en una sartén apta para horno, o transferir a una bandeja), cascar un huevo en cada hueco. Hornear a 180°C por 10-12 min hasta que la clara esté cuajada y la yema al punto deseado.
+JUSTIFICACION: Formato distinto y visualmente atractivo para variar el almuerzo con huevo, sin caer siempre en "huevo revuelto" o "huevo duro". Tomate siempre cocido, sin piel — coherente con el manejo de gastritis erosiva.
+VALOR_NUTRICIONAL:
+Calorías: ~400 kcal
+Proteínas: ~21g
+Carbohidratos: ~38g (Fibra: ~6g)
+Grasas: ~15g
+Betacaroteno y licopeno
+(tomate cocido) destacados
+--FIN_RECETA--
+
+--RECETA--
+ID: yogur-natural-con-fresas-y-chia
+TITULO: Yogur natural con fresas y chía
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 2
+ICONO: manzana
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Meriendas, Intercambiable AM-PM
+CONCEPTO: Yogur natural con fresas y chía: merienda con probióticos y antioxidantes, sin azúcar añadida.
+INGREDIENTES:
+• Yogur natural sin azúcar — 300g
+• Fresas — 8 unidades, en trozos
+• Chía — 2 cdtas
+• Canela — al gusto
+PREPARACION:
+1. mezclar todo, dejar reposar 5 min para que la chía se hidrate ligeramente.
+JUSTIFICACION: Probiótico + antioxidantes de la fresa, sin nada de azúcar añadida.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~135 kcal
+Proteína: ~7g
+Fibra: ~3g
+IG: Bajo
+--FIN_RECETA--
+
+--RECETA--
+ID: palitos-de-vegetales-con-hummus-de-lenteja-roja
+TITULO: Palitos de vegetales con "hummus" de lenteja roja (mini porción)
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 2
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Meriendas, Intercambiable AM-PM
+CONCEPTO: Palitos de vegetales con «hummus» de lenteja roja en mini porción: merienda de proteína vegetal y fibra.
+INGREDIENTES:
+• Zanahoria — 1 unidad, en bastones
+• Apio España (tallos, NO el tubérculo) — 4 tallos, en bastones
+• "Hummus" de lenteja roja — 4 cdas (usar el mismo preparado con el protocolo anti-gas ya establecido: remojo + doble hervor — ver Arquitectura sección 6.6; puede ser el mismo lote de la receta de desayuno #7)
+PREPARACION:
+1. cortar los vegetales en bastones, servir con el "hummus" para mojar.
+JUSTIFICACION: Aprovechamiento inteligente: si ya se preparó el "hummus" de lenteja para el desayuno #7, se usa el sobrante aquí sin cocinar nada nuevo.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~125 kcal
+Proteína: ~6g
+Fibra: ~5g
+IG: Bajo
+--FIN_RECETA--
+
+--RECETA--
+ID: bolitas-energeticas-de-avena-linaza-y-cambur-sin
+TITULO: Bolitas energéticas de avena, linaza y cambur (sin horno)
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 2
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Meriendas, Intercambiable AM-PM
+CONCEPTO: Bolitas energéticas de avena, linaza y cambur, sin horno ni azúcar: merienda fácil de preparar en lote.
+INGREDIENTES:
+• Avena en hojuelas molida — ½ taza
+• Cambur maduro triturado — ½ unidad
+• Linaza molida — 1 cda
+• Ajonjolí — 1 cda (para rebozar)
+• Canela — al gusto
+PREPARACION:
+1. mezclar todo hasta lograr una masa moldeable (si está muy húmeda, añadir más avena molida). Formar bolitas pequeñas, rebozar en ajonjolí. Refrigerar 30 min antes de servir para que tomen firmeza.
+JUSTIFICACION: Sin horno, sin azúcar, fácil de preparar en lote y guardar para varios días (refrigerar hasta 4-5 días).
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~130 kcal
+Proteína: ~5g
+Fibra: ~4g
+IG: Bajo-Moderado
+--FIN_RECETA--
+
+--RECETA--
+ID: guacamole-ligero-con-tostaditas-de-arepa
+TITULO: Guacamole ligero con tostaditas de arepa horneada
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 2
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Meriendas, Intercambiable AM-PM
+CONCEPTO: Guacamole ligero con tostaditas de arepa horneada: aguacate en formato crocante y cremoso, sin frituras.
+INGREDIENTES:
+• Aguacate — ½ unidad
+• Tomate cocido, sin piel, picado fino — 1 cda
+• Cilantro picado — 1 cdta
+• Arepa fina de avena (sobrante de recetas de desayuno, o hecha para la ocasión) — 1 unidad, cortada en triángulos y horneada hasta quedar crocante (tipo "tostada" o "totopo" casero)
+PREPARACION:
+1. triturar el aguacate con el tomate cocido y el cilantro. Hornear los triángulos de arepa a 180°C por 10-12 min, volteando a la mitad, hasta que estén crocantes. Servir el guacamole con las tostaditas.
+JUSTIFICACION: Aguacate diario cubierto en formato crocante-cremoso, sin frituras (las tostaditas van al horno, nunca a la sartén con aceite).
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~150 kcal
+Proteína: ~4g
+Fibra: ~4g
+Grasas: ~10g (Mono)
+--FIN_RECETA--
+
+--RECETA--
+ID: compota-tibia-de-manzana-y-canela-con-nueces
+TITULO: Compota tibia de manzana y canela con nueces picadas
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 2
+ICONO: manzana
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Meriendas, Intercambiable AM-PM
+CONCEPTO: Compota tibia de manzana y canela con nueces picadas: merienda reconfortante para un día frío o de poco ánimo.
+INGREDIENTES:
+• Manzana — 1 unidad, sin cáscara, en cubos
+• Canela — 1 cdta
+• Agua — ¼ taza
+• Nueces — 6 unidades, picadas
+PREPARACION:
+1. cocinar la manzana con canela y agua a fuego bajo 8-10 min hasta ablandar. Servir tibia con las nueces por encima.
+JUSTIFICACION: Opción tibia y reconfortante para un día frío o de poco ánimo — la comida también es consuelo, no solo nutrientes.
+ADVERTENCIAS: Proteína más baja que el resto del set — buena opción para combinar con una merienda del otro tiempo (AM/PM) que sea más alta en proteína ese mismo día.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~120 kcal
+Proteína: ~2g
+Fibra: ~3g
+Grasas: ~7g
+--FIN_RECETA--
+
+--RECETA--
+ID: batido-de-lechosa-yogur-y-chia
+TITULO: Batido de lechosa, yogur y chía
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 2
+ICONO: vaso
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Meriendas, Intercambiable AM-PM
+CONCEPTO: Batido de lechosa, yogur y chía: merienda de fácil digestión, buena si hay pesadez tras el desayuno.
+INGREDIENTES:
+• Lechosa — 1 taza en cubos
+• Yogur natural sin azúcar — ½ taza
+• Chía — 1 cdta
+• Canela — al gusto
+PREPARACION:
+1. licuar todo hasta homogeneizar. Servir fresco.
+JUSTIFICACION: Fácil digestión, buena opción de merienda mañanera si hay algo de pesadez tras el desayuno.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~130 kcal
+Proteína: ~7g
+Fibra: ~3g
+IG: Bajo
+--FIN_RECETA--
+
+--RECETA--
+ID: huevo-duro-con-pimenton-en-polvo-y-pepino-en
+TITULO: Huevo duro con pimentón en polvo y pepino en rodajas
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 2
+ICONO: huevo frito
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Meriendas, Intercambiable AM-PM
+CONCEPTO: Huevo duro con pimentón en polvo y pepino en rodajas: la merienda más alta en proteína del banco.
+INGREDIENTES:
+• Huevos — 3 unidades, duros
+• Pimentón dulce en polvo (paprika) — pizca
+• Pepino sin cáscara — 1 unidad, en rodajas
+• Sal mínima
+PREPARACION:
+1. cortar los huevos por la mitad, espolvorear con pimentón en polvo, servir con el pepino en rodajas.
+JUSTIFICACION: La merienda más alta en proteína del set — buena opción para los días donde el desayuno o almuerzo elegido fue de los más bajos en proteína (ej. tortilla española o shakshuka del almuerzo).
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~125 kcal
+Proteína: ~9g
+Grasas: ~8g
+Sodio: mínimo
+--FIN_RECETA--
+
+--RECETA--
+ID: queso-fresco-con-guayaba-asada-y-canela
+TITULO: Queso fresco con guayaba asada y canela
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 2
+ICONO: manzana
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Meriendas, Intercambiable AM-PM
+CONCEPTO: Queso fresco con guayaba asada y canela: combinación clásica venezolana con la guayaba horneada en vez de en dulce.
+INGREDIENTES:
+• Queso fresco bajo en grasa — 80g, en cubos
+• Guayaba — 1 unidad grande, en mitades, horneada a 180°C por 10 min con una pizca de canela hasta ablandar ligeramente
+PREPARACION:
+1. hornear la guayaba, servir tibia o a temperatura ambiente junto con el queso fresco.
+JUSTIFICACION: Combinación clásica venezolana (queso + guayaba), aquí con la guayaba horneada en vez de en dulce/conserva con azúcar.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~130 kcal
+Proteína: ~8g
+Fibra: ~3g
+Vitamina C (guayaba) destacada
+--FIN_RECETA--
+
+--RECETA--
+ID: palomitas-de-maiz-caseras-al-aire-sin-aceite-en
+TITULO: Palomitas de maíz caseras ("al aire", sin aceite en exceso) con especias
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 2
+ICONO: galleta
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Meriendas, Intercambiable AM-PM
+CONCEPTO: Palomitas de maíz caseras «al aire», con poco aceite y especias: merienda crocante y distinta al resto.
+INGREDIENTES:
+• Maíz para cotufas/palomitas — 3 cdas (sin reventar)
+• Aceite de oliva — ½ cdta (solo para facilitar el reventado, no para freír)
+• Comino y pimentón dulce en polvo — pizca de cada uno
+• Sal mínima
+PREPARACION:
+1. calentar el maíz en una olla tapada con el aceite de oliva a fuego medio-bajo hasta que reviente todo (técnica "al aire" con mínimo aceite, no fritura). Espolvorear las especias al sacar del fuego.
+JUSTIFICACION: Opción crocante y diferente al resto del set — variedad de textura real, no solo de sabor.
+ADVERTENCIAS: Proteína baja — combinar preferiblemente con un desayuno/almuerzo de ese día que tenga buena carga proteica.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~110 kcal
+Proteína: ~3g
+Fibra: ~4g
+IG: Moderado
+--FIN_RECETA--
+
+--RECETA--
+ID: pudin-de-chia-con-leche-de-almendras-canela-y
+TITULO: Pudín de chía con leche de almendras, canela y yogur
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 2
+ICONO: leche
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Meriendas, Intercambiable AM-PM
+CONCEPTO: Pudín de chía con leche de almendras, canela y yogur: se prepara la noche anterior y deja la merienda lista.
+INGREDIENTES:
+• Chía — 3 cdas
+• Leche de almendras sin azúcar — 1 taza
+• Yogur natural sin azúcar — 2 cdas
+• Canela y vainilla — al gusto
+PREPARACION:
+1. mezclar la chía con la leche de almendras, la canela y la vainilla. Refrigerar mínimo 3 horas (o toda la noche) hasta que espese tipo pudín. Servir con el yogur integrado o encima.
+JUSTIFICACION: Se prepara la noche anterior — útil para tener la merienda lista sin esfuerzo por la mañana.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~140 kcal
+Proteína: ~6g
+Fibra: ~6g
+Omega-3 (ALA) presente
+--FIN_RECETA--
+
+--RECETA--
+ID: mini-tostada-integral-con-aguacate-y-huevo
+TITULO: Mini tostada integral con aguacate y huevo picado
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 2
+ICONO: huevo frito
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Meriendas, Intercambiable AM-PM
+CONCEPTO: Mini tostada integral con aguacate y huevo picado: merienda rápida de armar, con grasas buenas y proteína.
+INGREDIENTES:
+• Pan integral bajo en sodio — 2 rebanadas
+• Aguacate — ½ unidad
+• Huevo duro — 1 unidad, picado
+• Pimienta blanca — pizca
+PREPARACION:
+1. tostar ligeramente el pan, untar con aguacate machacado, cubrir con el huevo picado y pimienta.
+JUSTIFICACION: Aguacate + huevo en un formato rápido de armar, sin cocción adicional más allá de tostar el pan.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~150 kcal
+Proteína: ~7g
+Fibra: ~4g
+Grasas: ~9g (Mono)
+--FIN_RECETA--
+
+--RECETA--
+ID: batido-verde-de-espinaca-cambur-yogur-y-un-toque
+TITULO: Batido verde de espinaca, cambur, yogur y un toque de aguacate
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 2
+ICONO: vaso
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Meriendas, Intercambiable AM-PM
+CONCEPTO: Batido verde de espinaca, cambur, yogur y un toque de aguacate: comodín que cubre yogur y aguacate en una sola merienda.
+INGREDIENTES:
+• Espinaca fresca — ½ taza
+• Cambur semi-maduro — ½ unidad
+• Yogur natural sin azúcar — ½ taza
+• Aguacate — ¼ unidad
+• Agua o hielo — al gusto para la textura
+PREPARACION:
+1. licuar todo hasta homogeneizar.
+JUSTIFICACION: Esta es la única receta del set que cubre YOGUR y AGUACATE a la vez — útil como "comodín" en los días donde ninguna otra comida incluyó ambos.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~145 kcal
+Proteína: ~6g
+Fibra: ~4g
+Hierro y folato (espinaca) destacados
+--FIN_RECETA--
+
+--RECETA--
+ID: barritas-caseras-de-avena-linaza-y-ajonjoli
+TITULO: Barritas caseras de avena, linaza y ajonjolí (horneadas)
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 2
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Meriendas, Intercambiable AM-PM
+CONCEPTO: Barritas caseras horneadas de avena, linaza y ajonjolí: merienda para preparar en lote y guardar varios días.
+INGREDIENTES:
+• Avena en hojuelas — ¾ taza
+• Linaza molida — 1 cda
+• Ajonjolí — 1 cda
+• Cambur maduro triturado — ½ unidad (actúa como "pegante" natural, sin miel ni azúcar)
+• Canela — al gusto
+PREPARACION:
+1. mezclar todo hasta lograr una masa uniforme. Extender en una bandeja pequeña forrada, aplanar bien, hornear a 170°C por 15-18 min hasta dorar. Dejar enfriar completamente antes de cortar en barritas (si se cortan calientes, se desarman).
+JUSTIFICACION: Se pueden preparar en lote grande y guardar hasta 5-6 días en un recipiente cerrado — buena opción "de emergencia" para tener siempre lista.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~140 kcal
+Proteína: ~5g
+Fibra: ~5g
+Omega-3 (ALA) presente
+--FIN_RECETA--
+
+--RECETA--
+ID: ensalada-de-frutas-de-baja-acidez-con-yogur
+TITULO: Ensalada de frutas de baja acidez con yogur
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 2
+ICONO: ensalada
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Meriendas, Intercambiable AM-PM
+CONCEPTO: Ensalada de frutas de baja acidez con yogur: merienda fresca, cuidadosa con la mucosa del estómago.
+INGREDIENTES:
+• Lechosa — ½ taza en cubos
+• Guayaba — ½ unidad, en cubos
+• Fresas — 4 unidades, en cuartos
+• Yogur natural sin azúcar — ¼ taza
+• Canela — al gusto
+PREPARACION:
+1. mezclar las frutas, servir con el yogur por encima y canela.
+JUSTIFICACION: Todas las frutas usadas son de baja acidez — coherente con el manejo de gastritis erosiva, a diferencia de una ensalada de frutas con cítricos concentrados.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~120 kcal
+Proteína: ~4g
+Fibra: ~4g
+Vitamina C destacada
+--FIN_RECETA--
+
+--RECETA--
+ID: mini-muffins-salados-de-huevo-y-espinaca
+TITULO: Mini muffins salados de huevo y espinaca (horneados)
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 2
+ICONO: huevo frito
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Meriendas, Intercambiable AM-PM
+CONCEPTO: Mini muffins salados de huevo y espinaca, horneados: merienda portátil para preparar en lote y guardar refrigerada.
+INGREDIENTES:
+• Huevos — 3 unidades
+• Espinaca fresca picada — ½ taza
+• Queso fresco bajo en grasa — 30g, en trocitos pequeños
+• Pimienta blanca — pizca
+PREPARACION:
+1. batir los huevos, mezclar con la espinaca picada, el queso y la pimienta. Verter en moldes de mini muffin (silicona o papel), hornear a 180°C por 15-18 min hasta que cuajen y doren ligeramente en la superficie.
+JUSTIFICACION: Formato portátil — se pueden preparar el fin de semana y guardar refrigerados para varios días, ideal para la merienda de media mañana si hay poco tiempo.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~130 kcal
+Proteína: ~9g
+Grasas: ~9g
+Hierro (espinaca) destacado
+--FIN_RECETA--
+
+--RECETA--
+ID: mini-hamburguesa-de-pollo-con-queso-fresco-y
+TITULO: Mini hamburguesa de pollo con queso fresco y cebolla caramelizada SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Cenas
+CONCEPTO: Mini hamburguesa de pollo con queso fresco y cebolla caramelizada, sin guarnición: el antojo en formato magro, sin fritura ni mayonesa.
+INGREDIENTES:
+• Pechuga de pollo molida — 250g
+• Pan integral tipo mini hamburguesa — 2 unidades pequeñas
+• Cebolla — ½ unidad, en juliana, caramelizada a fuego bajo con 1 cdta de aceite de oliva (sin azúcar, solo cocción lenta)
+• Queso fresco bajo en grasa — 2 láminas
+• Lechuga — 2 hojas
+• Tomate ligeramente asado — 2 rodajas finas
+• Aguacate — ¼ unidad, en láminas (sustituto de mayonesa)
+PREPARACION:
+1. Formar 2 mini medallones con el pollo molido, sazonar con pimienta blanca y comino. Cocinar a la plancha 4-5 min por lado.
+2. Caramelizar la cebolla aparte a fuego bajo, 10-12 min, revolviendo.
+3. Armar la hamburguesa: pan, lechuga, medallón de pollo, queso, cebolla caramelizada, tomate asado, aguacate, tapa del pan.
+JUSTIFICACION: El "antojo" respetado en formato, con proteína magra, sin fritura y sin mayonesa comercial.
+VALOR_NUTRICIONAL:
+Calorías: ~330 kcal
+Proteínas: ~24g
+Carbohidratos: ~26g (Fibra: ~4g)
+Grasas: ~14g
+Sodio: ~220mg
+--FIN_RECETA--
+
+--RECETA--
+ID: mini-hamburguesa-de-carne-de-res-magra-con
+TITULO: Mini hamburguesa de carne de res magra con aguacate SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Cenas
+CONCEPTO: Mini hamburguesa de carne de res magra con aguacate, sin guarnición: cena de antojo con grasas buenas.
+INGREDIENTES:
+• Carne de res magra molida — 250g
+• Pan integral tipo mini hamburguesa — 2 unidades pequeñas
+• Aguacate — ½ unidad, machacado
+• Lechuga — 2 hojas
+• Tomate ligeramente asado — 2 rodajas finas
+• Cebolla sofrita — 2 cdas
+PREPARACION:
+1. Formar 2 mini medallones con la carne molida, sazonar con pimienta blanca, comino y orégano. Cocinar a la plancha 3-4 min por lado.
+2. Armar con el pan, lechuga, medallón, cebolla sofrita, tomate asado y aguacate machacado.
+ADVERTENCIAS: Contabilizar dentro del límite semanal de carne roja/cerdo combinado.
+VALOR_NUTRICIONAL:
+Calorías: ~350 kcal
+Proteínas: ~25g
+Carbohidratos: ~24g (Fibra: ~4g)
+Grasas: ~17g (Sat: ~5g)
+Sodio: ~200mg
+--FIN_RECETA--
+
+--RECETA--
+ID: perro-caliente-de-pollo-salchicha-artesanal
+TITULO: Perro caliente de pollo (salchicha artesanal casera) con repollo cocido SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Cenas
+CONCEPTO: Perro caliente de pollo con salchicha artesanal casera y repollo cocido: el antojo clásico sin los aditivos de la salchicha comercial.
+INGREDIENTES:
+— "Salchicha" artesanal de pollo (casera, sin nitritos):
+• Pechuga de pollo molida — 250g
+• Ajo sofrito, pimentón dulce en polvo, comino — al gusto
+• Clara de huevo — 1 unidad (aglutinante)
+— Armado:
+• Pan integral tipo hot dog — 2 unidades
+• Repollo — ½ taza, cocido ligero (no crudo, para reducir gas y suavizar textura)
+• Mostaza natural — al gusto
+• Salsa de tomate casera cocida — 2 cdas
+PREPARACION:
+1. mezclar todo, formar 2 "salchichas" alargadas con las manos, envolver en papel aluminio o film apto para horno, hornear a 180°C por 15-18 min, o cocinar al vapor.
+2. tostar ligeramente el pan, colocar la salchicha casera, cubrir con repollo cocido, mostaza y salsa de tomate.
+JUSTIFICACION: La salchicha casera de pollo es la clave — sin ella, cualquier perro caliente tradicional trae nitritos y sodio muy por encima de lo que este protocolo permite.
+VALOR_NUTRICIONAL:
+Calorías: ~310 kcal
+Proteínas: ~26g
+Carbohidratos: ~28g (Fibra: ~4g)
+Grasas: ~9g
+Sodio: ~250mg
+--FIN_RECETA--
+
+--RECETA--
+ID: mini-pizza-individual-de-masa-integral-con-pollo
+TITULO: Mini pizza individual de masa integral con pollo desmechado y vegetales SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Cenas
+CONCEPTO: Mini pizza individual de masa integral con pollo desmechado y vegetales: salsa casera y base ligera.
+INGREDIENTES:
+• Masa integral individual (harina integral + avena molida + agua + levadura, o base de pan pita integral como atajo) — 2 discos pequeños (~15cm)
+• Salsa de tomate casera cocida — 4 cdas
+• Pechuga de pollo cocida y desmechada — 150g
+• Pimentón y cebolla — en tiras, sofritos
+• Queso fresco bajo en grasa rallado — 60g
+• Orégano — al gusto
+PREPARACION:
+1. Si se hace masa desde cero: amasar, dejar reposar 30 min, estirar en discos finos.
+2. Untar con salsa de tomate, distribuir el pollo, el pimentón y la cebolla sofritos, cubrir con el queso rallado.
+3. Hornear a 200°C por 12-15 min hasta que la masa esté dorada y el queso gratinado.
+JUSTIFICACION: Masa integral y salsa casera reemplazan la base más pesada y la salsa azucarada de una pizza comercial.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal
+Proteínas: ~25g
+Carbohidratos: ~34g (Fibra: ~5g)
+Grasas: ~12g
+Sodio: ~230mg
+--FIN_RECETA--
+
+--RECETA--
+ID: mini-pizza-individual-con-espinaca-queso-y-huevo
+TITULO: Mini pizza individual con espinaca, queso y huevo horneado encima SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: huevo frito
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Cenas
+CONCEPTO: Mini pizza individual con espinaca, queso y huevo horneado encima: opción vegetariana dentro de los antojos.
+INGREDIENTES:
+• Masa integral individual (igual que receta #4) — 2 discos pequeños
+• Salsa de tomate casera cocida — 4 cdas
+• Espinaca — ½ taza, salteada ligera
+• Queso fresco bajo en grasa rallado — 50g
+• Huevos — 2 unidades
+PREPARACION:
+1. Untar la masa con salsa de tomate, distribuir la espinaca salteada y el queso.
+2. Hacer un hueco pequeño en el centro, cascar un huevo en cada pizza individual.
+3. Hornear a 200°C por 12-14 min, hasta que la clara cuaje y la yema quede al punto deseado.
+JUSTIFICACION: Formato vegetariano dentro del set de "antojos" — variedad real sin depender siempre de pollo/carne.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal
+Proteínas: ~20g
+Carbohidratos: ~32g (Fibra: ~5g)
+Grasas: ~13g
+Hierro y folato (espinaca)
+--FIN_RECETA--
+
+--RECETA--
+ID: shawarma-de-pollo-en-pan-pita-integral-con-salsa
+TITULO: Shawarma de pollo en pan pita integral con salsa de yogur SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Cenas
+CONCEPTO: Shawarma de pollo en pan pita integral con salsa de yogur, sin guarnición: el yogur reemplaza la mayonesa de ajo.
+INGREDIENTES:
+— Pollo marinado:
+• Pechuga de pollo en tiras — 250g
+• Comino, cúrcuma, pimentón dulce en polvo, pimienta blanca, aceite de oliva, ajo sofrito — para marinar mínimo 30 min
+— Salsa de yogur (sustituto de la salsa de ajo/tahini tradicional, muy pesada en grasa):
+• Yogur natural sin azúcar — 4 cdas
+• Ajo sofrito — ½ diente, machacado
+• Perejil picado — 1 cda
+— Armado:
+• Pan pita integral (o arepa fina de avena como sustituto) — 2 unidades
+• Berenjena y pimentón asados — ½ taza, en tiras (sustituto de encurtidos/pepinillos comerciales, muy altos en sodio)
+PREPARACION:
+1. cocinar a la plancha o al horno (200°C, 15 min) hasta dorar bien.
+2. rellenar el pan pita con el pollo, la salsa de yogur y los vegetales asados.
+JUSTIFICACION: La salsa de yogur reemplaza tanto la mayonesa de ajo tradicional como reduce significativamente la grasa total del plato.
+VALOR_NUTRICIONAL:
+Calorías: ~350 kcal
+Proteínas: ~28g
+Carbohidratos: ~30g (Fibra: ~4g)
+Grasas: ~13g
+Sodio: ~180mg
+--FIN_RECETA--
+
+--RECETA--
+ID: shawarma-de-carne-de-res-magra-con-salsa-de
+TITULO: Shawarma de carne de res magra con salsa de yogur SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Cenas
+CONCEPTO: Shawarma de carne de res magra con salsa de yogur, sin guarnición: antojo en formato ligero.
+INGREDIENTES:
+— Carne marinada:
+• Carne de res magra en tiras finas — 250g
+• Comino, cúrcuma, pimentón dulce en polvo, pimienta blanca, aceite de oliva, ajo sofrito — para marinar mínimo 30 min
+— Salsa de yogur:
+• Yogur natural sin azúcar — 4 cdas
+• Ajo sofrito — ½ diente, machacado
+• Perejil picado — 1 cda
+— Armado:
+• Pan pita integral (o arepa fina de avena como sustituto) — 2 unidades
+• Berenjena y pimentón asados — ½ taza, en tiras
+PREPARACION:
+1. Marinar la carne de res en tiras finas con las especias, el aceite de oliva y el ajo sofrito durante mínimo 30 minutos.
+2. Cocinar a la plancha 3-4 minutos por lado, hasta que esté bien cocida pero jugosa.
+3. Mezclar el yogur natural con el ajo machacado y el perejil picado para la salsa.
+4. Rellenar el pan pita con la carne, la salsa de yogur y los vegetales asados.
+ADVERTENCIAS: Contabilizar junto con las demás recetas de carne roja/cerdo del pool completo (desayuno+almuerzo+cena) dentro del límite semanal sugerido.
+VALOR_NUTRICIONAL:
+Calorías: ~360 kcal
+Proteínas: ~27g
+Carbohidratos: ~30g (Fibra: ~4g)
+Grasas: ~15g (Sat: ~5g)
+Sodio: ~180mg
+NOTAS_DEL_CHEF:
+• Misma estructura que el Shawarma de pollo casero, sustituyendo la proteína por carne de res magra.
+--FIN_RECETA--
+
+--RECETA--
+ID: arepa-de-avena-y-linaza-con-queso-fresco-2
+TITULO: Arepa de avena y linaza con queso fresco y espinaca salteada SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Cenas
+CONCEPTO: Arepa de avena y linaza con queso fresco y espinaca salteada: la cena venezolana más simple y clásica del banco.
+INGREDIENTES:
+• Masa de arepa (avena + harina de maíz + linaza, igual que recetas de desayuno) — 2 arepas pequeñas
+• Queso fresco bajo en grasa — 80g
+• Espinaca — ½ taza, salteada ligera en aceite de oliva
+PREPARACION:
+1. cocinar las arepas (budare + horno). Rellenar con el queso y la espinaca salteada.
+JUSTIFICACION: La cena venezolana más simple y clásica de todo el set — buena opción para los días de menos tiempo o energía para cocinar.
+ADVERTENCIAS: Proteína ligeramente por debajo de la meta (17g vs 20-25g) — si se elige esta cena, asegurar que la merienda de la tarde ese día haya sido de las más altas en proteína.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal
+Proteínas: ~17g
+Carbohidratos: ~34g (Fibra: ~6g)
+Grasas: ~13g
+Sodio: ~160mg
+--FIN_RECETA--
+
+--RECETA--
+ID: tortilla-de-huevo-con-champinones-y-queso-fresco
+TITULO: Tortilla de huevo con champiñones y queso fresco SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: huevo frito
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Cenas
+CONCEPTO: Tortilla de huevo con champiñones y queso fresco: cena muy baja en carbohidratos y liviana.
+INGREDIENTES:
+• Huevos — 4 unidades
+• Champiñones — 1 taza, en láminas, salteados en aceite de oliva hasta que suelten su agua y se doren ligeramente
+• Queso fresco bajo en grasa — 50g, rallado
+• Perejil picado — al gusto
+PREPARACION:
+1. saltear los champiñones, incorporar el queso, verter los huevos batidos encima, cocinar a fuego bajo tapado hasta cuajar, doblar como tortilla.
+JUSTIFICACION: Cena muy baja en carbohidratos y ligera en volumen — buena opción para una noche donde el almuerzo fue de los más pesados del día.
+VALOR_NUTRICIONAL:
+Calorías: ~300 kcal
+Proteínas: ~22g
+Carbohidratos: ~6g (Fibra: ~2g)
+Grasas: ~21g
+Sodio: ~180mg
+--FIN_RECETA--
+
+--RECETA--
+ID: empanada-horneada-de-lentejas-guisadas-con-queso
+TITULO: Empanada horneada de lentejas guisadas con queso fresco SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Cenas
+CONCEPTO: Empanada horneada de lentejas guisadas con queso fresco: la empanada venezolana, siempre horneada y nunca frita.
+INGREDIENTES:
+— Masa (horneada, nunca frita):
+• Harina de maíz precocida — ½ taza
+• Avena en hojuelas molida — ¼ taza
+• Agua tibia — la necesaria
+— Relleno:
+• Lenteja entera bien colada, guisada con cebolla/ajo/ají dulce sofritos, comino y cúrcuma — ¾ taza
+• Queso fresco bajo en grasa — 40g
+PREPARACION:
+1. amasar y formar 2-3 discos pequeños, rellenar con la mezcla de lenteja y queso, cerrar bien los bordes. Hornear a 190°C por 20-22 min, volteando a la mitad, hasta dorar.
+JUSTIFICACION: La empanada venezolana, siempre horneada en este protocolo — nunca frita.
+ADVERTENCIAS: Proteína por debajo de meta (16g) y carbohidrato más alto que el resto del set — buena opción ocasional, no la cena base de cada semana.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal
+Proteínas: ~16g
+Carbohidratos: ~48g (Fibra: ~8g)
+Grasas: ~9g
+Sodio: ~140mg
+--FIN_RECETA--
+
+--RECETA--
+ID: tequenos-horneados-de-queso-fresco-con-ensalada
+TITULO: Tequeños horneados de queso fresco con ensalada SIN guarnición (la ensalada no cuenta como guarnición almidonada)
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: ensalada
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Cenas
+CONCEPTO: Tequeños horneados de queso fresco con ensalada: antojo clásico sin fritura.
+INGREDIENTES:
+— Tequeños:
+• Harina de trigo integral — ½ taza
+• Avena en hojuelas molida — 2 cdas
+• Agua — la necesaria para amasar
+• Queso fresco/paisa bajo en grasa, en bastones — 100g
+— Ensalada de acompañamiento:
+• Lechuga y pepino — 1 taza, con aceite de oliva
+PREPARACION:
+1. amasar harina, avena y agua hasta lograr una masa manejable. Estirar en tiras finas, envolver cada bastón de queso, hornear a 200°C por 12-15 min hasta dorar (nunca fritos).
+ADVERTENCIAS: Proteína por debajo de meta — los tequeños son más un antojo festivo que una cena proteica; usar la ensalada y combinar con una merienda alta en proteína ese día.
+VALOR_NUTRICIONAL:
+Calorías: ~330 kcal
+Proteínas: ~15g
+Carbohidratos: ~32g (Fibra: ~3g)
+Grasas: ~15g
+Sodio: ~220mg
+--FIN_RECETA--
+
+--RECETA--
+ID: lomo-de-cerdo-a-la-plancha-en-laminas-finas-con
+TITULO: Lomo de cerdo a la plancha en láminas finas con ensalada tibia SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Cenas
+CONCEPTO: Lomo de cerdo a la plancha en láminas finas con ensalada tibia: cena de proteína magra.
+INGREDIENTES:
+• Lomo de cerdo, sin grasa visible, en láminas finas — 250g
+• Aceite de oliva, comino, pimienta blanca — para sazonar
+• Zanahoria y calabacín — 1 taza total, en tiras, al vapor o a la plancha
+PREPARACION:
+1. cocinar el lomo a la plancha 3-4 min por lado (las láminas finas se cocinan rápido). Servir con las tiras de zanahoria y calabacín.
+ADVERTENCIAS: Última receta de cerdo/res del pool completo — recordar el límite combinado semanal.
+VALOR_NUTRICIONAL:
+Calorías: ~310 kcal
+Proteínas: ~26g
+Carbohidratos: ~14g (Fibra: ~3g)
+Grasas: ~16g (Sat: ~5g)
+Sodio: ~90mg
+--FIN_RECETA--
+
+--RECETA--
+ID: berenjenas-rellenas-al-horno-con-queso-fresco-y
+TITULO: Berenjenas rellenas al horno con queso fresco y tomate SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: leche
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Cenas
+CONCEPTO: Berenjenas rellenas al horno con queso fresco y tomate: cena vegetal, la más alta en fibra y la más ligera en calorías.
+INGREDIENTES:
+• Berenjenas — 2 unidades medianas, partidas a la mitad
+• Tomate cocido, sin piel, picado — ½ taza
+• Cebolla y ajo — sofritos
+• Queso fresco bajo en grasa — 60g, rallado
+• Orégano — al gusto
+PREPARACION:
+1. Ahuecar ligeramente las berenjenas (reservar la pulpa), hornear las mitades vacías 15 min a 190°C para pre-cocinar.
+2. Sofreír cebolla y ajo, añadir la pulpa de berenjena picada y el tomate cocido, cocinar 8 min.
+3. Rellenar las berenjenas con esta mezcla, cubrir con queso rallado, hornear 10 min más hasta gratinar.
+JUSTIFICACION: Formato 100% vegetal + queso — la cena más alta en fibra del set y la más ligera en calorías, útil para noches después de un almuerzo pesado.
+ADVERTENCIAS: Proteína algo por debajo de meta — mismo criterio de combinación que otras recetas bajas en proteína.
+VALOR_NUTRICIONAL:
+Calorías: ~290 kcal
+Proteínas: ~16g
+Carbohidratos: ~22g (Fibra: ~9g)
+Grasas: ~15g
+Sodio: ~140mg
+--FIN_RECETA--
+
+--RECETA--
+ID: sandwich-club-de-huevo-queso-fresco-y-aguacate
+TITULO: Sándwich club de huevo, queso fresco y aguacate SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: huevo frito
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Cenas
+CONCEPTO: Sándwich club de huevo, queso fresco y aguacate: cena que asegura el aguacate diario.
+INGREDIENTES:
+• Pan integral bajo en sodio — 4 rebanadas
+• Huevo duro — 2 unidades, en láminas
+• Queso fresco bajo en grasa — 60g, en láminas
+• Aguacate — ½ unidad, en láminas
+• Lechuga — 2 hojas
+• Tomate ligeramente asado — 2 rodajas finas
+PREPARACION:
+1. armar el sándwich en capas — pan, lechuga, huevo, queso, tomate asado, aguacate, pan.
+JUSTIFICACION: Aguacate cubierto también en la cena — opción adicional para asegurar la regla diaria si no se cubrió antes en el día.
+VALOR_NUTRICIONAL:
+Calorías: ~350 kcal
+Proteínas: ~19g
+Carbohidratos: ~28g (Fibra: ~5g)
+Grasas: ~19g (Mono destacada)
+Sodio: ~260mg
+--FIN_RECETA--
+
+--RECETA--
+ID: pechuga-de-pollo-a-la-plancha-con-ensalada-tibia
+TITULO: Pechuga de pollo a la plancha con ensalada tibia de vegetales SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 3-4, Banco Cenas
+CONCEPTO: Pechuga de pollo a la plancha con ensalada tibia de vegetales: la cena de referencia, alta en proteína y baja en sodio.
+INGREDIENTES:
+• Pechuga de pollo — 250g, a la plancha con aceite de oliva, laurel y pimienta blanca
+• Calabacín y zanahoria — 1 taza total, en tiras, al vapor o a la plancha
+• Aceite de oliva y perejil — para aliñar
+PREPARACION:
+1. cocinar el pollo a la plancha 5-6 min por lado. Servir con los vegetales salteados/al vapor.
+JUSTIFICACION: La cena "de referencia" del set — la más alta en proteína y más baja en sodio, ideal para cualquier noche donde el resto del día ya cubrió suficiente variedad y solo hace falta algo simple y confiable.
+VALOR_NUTRICIONAL:
+Calorías: ~300 kcal
+Proteínas: ~30g
+Carbohidratos: ~12g (Fibra: ~3g)
+Grasas: ~11g
+Sodio: ~90mg
+--FIN_RECETA--
+
+--RECETA--
+ID: trucha-al-horno-con-hierbas-pure-de-auyama-y
+TITULO: Trucha al horno con hierbas, puré de auyama y ensalada de zanahoria
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: pescado
+ETIQUETAS: Post-cirugía, Semana 3-4, Nueva, Omega-3
+CONCEPTO: Trucha al horno con hierbas, puré de auyama y ensalada de zanahoria: primer plato con omega-3 EPA/DHA directo.
+INGREDIENTES:
+— Proteína:
+• Filete de trucha o sardina fresca — 300g
+• Aceite de oliva, laurel, pimienta blanca, perejil — para hornear
+— Guarnición:
+• Puré de auyama — 500g, cocida y triturada con aceite de oliva
+— Ensalada:
+• Zanahoria rallada — 1 taza, con aceite de oliva y perejil
+PREPARACION:
+Proteína:
+1. hornear a 180°C por 15-18 min (el pescado se cocina más rápido que el pollo o la carne — vigilar para no resecarlo).
+JUSTIFICACION: Esta es la primera receta de todo el recetario de Semana 3-4 con omega-3 EPA/DHA directo (no vegetal) — cierra un vacío real detectado en la auditoría, relevante para la hipertrigliceridemia del Usuario 2.
+VALOR_NUTRICIONAL:
+Calorías: ~470 kcal
+Proteínas: ~30g
+Carbohidratos: ~30g (Fibra: ~6g)
+Grasas: ~22g
+Omega-3 (EPA/DHA directo):
+~1.5-2g por porción
+--FIN_RECETA--
+
+--RECETA--
+ID: filete-de-pescado-a-la-plancha-con-ratatouille
+TITULO: Filete de pescado a la plancha con ratatouille de calabacín, berenjena y pimentón SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 2
+ICONO: pescado
+ETIQUETAS: Post-cirugía, Semana 3-4, Nueva, Omega-3
+CONCEPTO: Filete de pescado a la plancha con ratatouille de calabacín y berenjena: cena ligera con omega-3 directo.
+INGREDIENTES:
+— Proteína:
+• Filete de pescado blanco o sardina fresca — 250g
+• Aceite de oliva, laurel, pimienta blanca
+— "Ratatouille" (vegetales guisados suaves):
+• Calabacín — 1 unidad, en cubos
+• Berenjena — ½ unidad, en cubos
+• Pimentón — ½ unidad, en tiras
+• Tomate cocido, sin piel — ½ taza
+• Cebolla y ajo — sofritos
+• Orégano — al gusto
+PREPARACION:
+1. cocinar a la plancha 4-5 min por lado.
+2. sofreír cebolla y ajo, añadir el resto de los vegetales, cocinar tapado a fuego bajo 15-18 min hasta que estén blandos pero no deshechos.
+JUSTIFICACION: Segunda fuente de omega-3 directo del recetario, en formato de cena ligera — el pescado se cocina rápido y no compromete la regla de "cenar 2-3h antes de dormir" con tiempos largos de preparación.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal
+Proteínas: ~24g
+Carbohidratos: ~18g (Fibra: ~6g)
+Grasas: ~16g
+Omega-3 (EPA/DHA): ~1.3-1.8g
+--FIN_RECETA--
+
+--RECETA--
+ID: jugo-de-remolacha-zanahoria-y-manzana-verde
+TITULO: Jugo de remolacha, zanahoria y manzana verde
+CATEGORIA: Post-cirugía
+TIPO: Bebida
+PORCIONES: 2
+ICONO: vaso
+ETIQUETAS: Post-cirugía, Semana 3-4, Nueva, Hepatoprotector
+CONCEPTO: Jugo de remolacha, zanahoria y manzana verde: bebida con la betaína de la remolacha, de apoyo hepático.
+INGREDIENTES:
+• Remolacha — ½ unidad pequeña, cruda, pelada
+• Zanahoria — 1 unidad
+• Manzana verde — ½ unidad, sin semillas
+• Agua — ½ taza
+• Jengibre — una lámina muy fina (opcional)
+PREPARACION:
+1. licuar todo con el agua, colar si se prefiere una textura más ligera. Servir fresco, NUNCA en ayunas (la remolacha cruda, aunque no es cítrica, tiene cierta carga de azúcares naturales que se toleran mejor con algo de alimento en el estómago).
+JUSTIFICACION: Cierra el segundo vacío detectado: la remolacha (fuente de betaína, compuesto hepatoprotector priorizado en el protocolo original del Usuario 2) no aparecía en ninguna de las 55 recetas. Esta bebida cumple doble función: cierra ese vacío Y forma parte de la sección de bebidas que también faltaba (ver Parte B).
+ADVERTENCIAS: Uso moderado: 1-2 veces por semana, no a diario — la remolacha en exceso puede dar color a la orina/heces (inofensivo, pero puede generar alarma innecesaria si no se sabe) y aporta azúcares naturales que no conviene sumar todos los días.
+VALOR_NUTRICIONAL:
+Calorías: ~55 kcal
+Carbohidratos: ~13g
+(Fibra: ~2g)
+Betaína (remolacha) y
+betacaroteno (zanahoria) destacados
+--FIN_RECETA--
+
+--RECETA--
+ID: infusion-de-manzanilla-tibia-sin-azucar
+TITULO: Infusión de manzanilla tibia sin azúcar
+CATEGORIA: Post-cirugía
+TIPO: Bebida
+PORCIONES: 2
+ICONO: taza
+ETIQUETAS: Post-cirugía, Semana 3-4, Bebida general, Cualquier comida
+CONCEPTO: Gastroprotectora y calmante. Válida para desayuno o cena.
+INGREDIENTES:
+• Flores de manzanilla secas o 1 bolsita — 1 cdta / 1 unidad
+• Agua caliente — 1 taza
+PREPARACION:
+1. Verter el agua caliente sobre la manzanilla, dejar reposar 5 minutos y colar.
+2. Servir tibia, sin azúcar.
+--FIN_RECETA--
+
+--RECETA--
+ID: te-verde-suave
+TITULO: Té verde suave
+CATEGORIA: Post-cirugía
+TIPO: Bebida
+PORCIONES: 2
+ICONO: taza
+ETIQUETAS: Post-cirugía, Semana 3-4, Bebida general, Cualquier comida
+CONCEPTO: EGCG antiinflamatorio y hepatoprotector suave.
+INGREDIENTES:
+• Té verde en bolsita o a granel — 1 unidad/cdta
+• Agua caliente (no hirviendo) — 1 taza
+PREPARACION:
+1. Verter el agua a unos 80°C sobre el té verde, reposar 2-3 minutos y colar (evitar que amargue).
+2. Tomar siempre después de haber comido, nunca en ayunas.
+--FIN_RECETA--
+
+--RECETA--
+ID: agua-de-linaza-colada
+TITULO: Agua de linaza colada
+CATEGORIA: Post-cirugía
+TIPO: Bebida
+PORCIONES: 2
+ICONO: vaso
+ETIQUETAS: Post-cirugía, Semana 3-4, Bebida general, Cualquier comida
+CONCEPTO: Apoyo digestivo suave, opcional en esta fase.
+INGREDIENTES:
+• Linaza entera — 2 cucharadas
+• Agua — 2 tazas
+PREPARACION:
+1. Hervir la linaza en el agua 5-8 minutos.
+2. Colar y descartar las semillas, dejar entibiar.
+3. Servir como bebida ligera (no es el gel espeso, sino una versión más líquida).
+--FIN_RECETA--
+
+--RECETA--
+ID: cafe-despues-de-comer-maximo-1-taza-dia-entre
+TITULO: Café después de comer (máximo 1 taza/día entre los dos)
+CATEGORIA: Post-cirugía
+TIPO: Bebida
+PORCIONES: 2
+ICONO: taza
+ETIQUETAS: Post-cirugía, Semana 3-4, Bebida general, Cualquier comida
+CONCEPTO: Única mención de café en todo el recetario: bebida de hábito diario, no ingrediente de receta.
+INGREDIENTES:
+• Café molido, tueste medio-oscuro — al gusto
+• Agua caliente — 1 taza
+PREPARACION:
+1. Preparar el café como de costumbre.
+2. Servir siempre después de haber comido, nunca en ayunas.
+--FIN_RECETA--
+
+--RECETA--
+ID: infusion-fria-de-flor-de-jamaica-sin-azucar
+TITULO: Infusión fría de flor de Jamaica sin azúcar
+CATEGORIA: Post-cirugía
+TIPO: Bebida
+PORCIONES: 2
+ICONO: vaso
+ETIQUETAS: Post-cirugía, Semana 3-4, Bebida general, Cualquier comida
+CONCEPTO: Antioxidante y refrescante, ideal para el almuerzo.
+INGREDIENTES:
+• Flor de Jamaica seca — 2 cucharadas
+• Agua — 2 tazas
+PREPARACION:
+1. Hervir el agua con la flor de Jamaica 5 minutos.
+2. Dejar enfriar, colar y refrigerar.
+3. Servir fría, sin azúcar añadida.
+--FIN_RECETA--
+
+--RECETA--
+ID: agua-de-coco-natural
+TITULO: Agua de coco natural
+CATEGORIA: Post-cirugía
+TIPO: Bebida
+PORCIONES: 2
+ICONO: vaso
+ETIQUETAS: Post-cirugía, Semana 3-4, Bebida general, Cualquier comida
+CONCEPTO: Hidratación con electrolitos, sin azúcar añadida.
+INGREDIENTES:
+• Agua de coco natural — 1 vaso (250ml)
+PREPARACION:
+1. Servir fresca, directamente del coco o envasada sin azúcar añadida.
+--FIN_RECETA--
+
+--RECETA--
+ID: infusion-suave-de-toronjil-o-hierbabuena
+TITULO: Infusión suave de toronjil o hierbabuena
+CATEGORIA: Post-cirugía
+TIPO: Bebida
+PORCIONES: 2
+ICONO: taza
+ETIQUETAS: Post-cirugía, Semana 3-4, Bebida general, Cualquier comida
+CONCEPTO: Favorece el sueño. Con moderación si hay reflujo activo esa noche, ya que puede relajar el esfínter esofágico.
+INGREDIENTES:
+• Hojas de toronjil o hierbabuena, frescas o secas — 1 cdita
+• Agua caliente — 1 taza
+PREPARACION:
+1. Verter el agua caliente sobre las hojas, dejar reposar 5 minutos y colar.
+2. Servir tibia.
+--FIN_RECETA--
+
+--PACIENTE--
+NOMBRE: Postquirúrgico — Semana 3-4 (Remodelación)
+DESCRIPCION: Fase de remodelación de colágeno (post-agudo). Ya no hay un evento agudo diario que justifique gastroprotección extrema, así que en vez de un menú fijo por día se ofrece un banco de recetas intercambiables: 10 desayunos + 15 almuerzos + 15 meriendas (mañaneras y/o vespertinas) + 15 cenas, más 3 recetas nuevas que cierran vacíos detectados en la auditoría (omega-3 EPA/DHA directo del pescado y remolacha/betaína) y una sección de bebidas. Total: 58 recetas de comida + 7 bebidas de acompañamiento.
+FASES:
+Fase 3-4 | Semanas 3-4 | Remodelación (post-agudo) | Gel de linaza opcional, más variedad de textura y formato, banco de recetas intercambiable sin día fijo
+CRONOGRAMA:
+Desayuno | Toma 1 | Elegir 1 de 10 desayunos del banco
+Merienda AM | Toma 2 | Elegir 1 de 15 meriendas (intercambiables AM/PM)
+Almuerzo | Toma 3 | Elegir 1 de 16 almuerzos del banco (incluye la Trucha nueva)
+Merienda PM | Toma 4 | Elegir 1 de 15 meriendas (intercambiables AM/PM)
+Cena | Toma 5 | Elegir 1 de 16 cenas del banco (incluye el Pescado nuevo)
+AJUSTES:
+- Objetivo calórico diario: 1,400-1,500 kcal / 70-85g de proteína entre los dos (Usuario 1 + Usuario 2), sumando los 5 tiempos.
+- Gel de linaza: opcional, ya no obligatorio antes de cada comida — mantener solo si persiste molestia digestiva o estreñimiento.
+- Incluir aguacate y/o yogur natural sin azúcar todos los días (la mayoría de las meriendas cargan con ese peso: 5 llevan yogur, 3 llevan aguacate).
+- Priorizar el pescado (trucha, sardina, pescado blanco) al menos 1-2 veces por semana para cubrir omega-3 EPA/DHA directo — vacío detectado en la auditoría del recetario.
+- El jugo de remolacha, zanahoria y manzana verde se usa 1-2 veces por semana, nunca a diario ni en ayunas.
+- No repetir carne roja o cerdo en almuerzo Y cena el mismo día.
+- Se mantiene sin excepción: cero fritura, cero azúcar refinada (solo stevia), cero cítricos crudos concentrados, cebolla/ajo siempre sofritos (nunca crudos), porciones moderadas.
+- Bebidas: agua natural como base siempre; café máximo 1 taza/día entre los dos, siempre después de comer, nunca en ayunas; ninguna bebida carbonatada ni con azúcar añadida.
+- Cantidades de cada receta calculadas para 2 porciones (Usuario 1 + Usuario 2); multiplicar si se repite la misma receta varias veces en la semana.
+MENUS_SUGERIDOS:
+Opción 1 (clásico): Arepa avena/linaza+queso+aguacate | Yogur con fresas y chía | Pollo al horno+puré de auyama | Barritas de avena/linaza/ajonjolí | Pollo a la plancha+ensalada — 1,445 kcal / 96g proteína.
+Opción 2 (con pescado nuevo): Tortilla de espinaca y queso+arepita | Batido verde espinaca/cambur/yogur/aguacate | Trucha al horno+puré de auyama | Bolitas energéticas | Arepa de queso y espinaca — 1,465 kcal / 81g proteína.
+Opción 3 (carne roja controlada): Panqueca de lenteja roja+queso | Guacamole+tostaditas | Carne mechada+plátano horneado | Ensalada de frutas con yogur | Pescado a la plancha con ratatouille — 1,450 kcal / 85g proteína.
+Opción 4 (sin carne roja): Sándwich de pollo tipo reina pepiada | Batido de lechosa/yogur/chía | Pollo a la plancha+puré de apio criollo | Palitos de vegetales+hummus de lenteja | Mini pizza de pollo y vegetales — 1,445 kcal / 100g proteína.
+Opción 5 (ligero/vegetariano): Pan con hummus de lenteja+huevo+tomate | Pudín de chía con leche de almendras y yogur | Pasticho de pollo con berenjena | Guacamole+tostaditas | Berenjenas rellenas con queso — 1,420 kcal / 77g proteína.
+Opción 6 (ocasión especial): Arepa de auyama+pollo desmechado+aguacate | Queso fresco con guayaba asada | Hallaca de pollo adaptada+jugo de remolacha | Palomitas de maíz con especias | Tortilla de huevo con champiñones y queso — 1,370 kcal / 87g proteína (sin yogur, excepción ocasional).
+--FIN_PACIENTE--

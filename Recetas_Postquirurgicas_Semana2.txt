@@ -1,0 +1,499 @@
+--RECETA--
+ID: arepitas-de-avena-y-linaza-con-huevo-revuelto
+TITULO: Arepitas de avena y linaza con huevo revuelto suave y auyama
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 6
+ICONO: huevo frito
+ETIQUETAS: Post-cirugía, Semana 2, Menú A, Día 8, Día 11, Día 14
+CONCEPTO: Arepitas horneadas de avena y linaza con huevo revuelto suave y auyama: desayuno del menú A, con mucílago y proteína.
+INGREDIENTES:
+• Avena en hojuelas molida — 2 tazas
+• Linaza molida — 4 cucharadas
+• Harina de maíz precocida — ½ taza
+• Agua tibia — cantidad necesaria para amasar
+• Auyama cocida y triturada — 1 taza (se integra a la masa, aporta humedad y betacaroteno)
+• Huevos de gallina — 9 unidades (1.5 por porción)
+• Aceite de oliva extra virgen — 3 cucharaditas
+• Sal — mínima
+PREPARACION:
+1. Mezclar avena molida, linaza, harina de maíz y auyama triturada. Agregar agua tibia de a poco hasta lograr una masa moldeable (no pegajosa).
+2. Formar 6 arepitas pequeñas y finas. Hornear a 180°C por 20-25 min, volteando a la mitad, hasta dorar ligeramente.
+3. Batir los huevos con una pizca de sal. Cocinar a fuego bajo en sartén con aceite de oliva, revolviendo constantemente hasta que estén apenas cuajados (textura suave, no seca).
+4. Servir cada arepita con su porción de huevo.
+ADVERTENCIAS: Consideración: si hay reflujo activo esa mañana, reducir la porción de huevo a 1 unidad y aumentar ligeramente la auyama en la arepita.|Gel de linaza: 3 cucharadas por persona, 10-15 min antes de esta comida.
+VALOR_NUTRICIONAL:
+Calorías: ~410 kcal
+Proteínas: ~19g
+Carbohidratos: ~42g (Fibra: ~7g)
+Grasas: ~17g (Sat: ~4g, Mono: ~8g, Poli: ~3g)
+Sodio: ~180mg
+IG estimado: Bajo-Moderado
+Micronutrientes destacados: Betacaroteno (auyama),
+colina y B12 (huevo), omega-3 ALA (linaza)
+NOTAS_DEL_CHEF:
+• Gastroprotección: linaza + avena aportan mucílago y betaglucanos antes de la comida más "pesada" del día en carbohidrato.
+• Hepatoprotección (Usuario 2): huevo aporta colina, relevante en metabolismo hepático de grasas.
+--FIN_RECETA--
+
+--RECETA--
+ID: yogur-con-guayaba-y-semillas
+TITULO: Yogur con guayaba y semillas
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 6
+ICONO: manzana
+ETIQUETAS: Post-cirugía, Semana 2, Menú A, Día 8, Día 11, Día 14
+CONCEPTO: Yogur natural con guayaba, semillas de auyama y canela: merienda sencilla con probióticos, vitamina C y zinc.
+INGREDIENTES:
+• Yogur natural sin azúcar — 900g (150g/porción)
+• Guayaba madura, sin semillas duras — 3 unidades medianas, en cubos
+• Semillas de auyama tostadas sin sal — 6 cdas (1 cda/porción)
+• Canela en polvo — al gusto
+PREPARACION:
+1. Servir el yogur en 6 porciones individuales.
+2. Añadir guayaba en cubos y semillas de auyama.
+3. Espolvorear canela.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~155 kcal
+Proteína: ~7g
+Carbohidratos: ~16g (Fibra: ~4g)
+Grasas: ~6g
+NOTAS_DEL_CHEF:
+• Probiótico (yogur) + vitamina C de baja acidez (guayaba) + zinc y magnesio (semillas de auyama).
+--FIN_RECETA--
+
+--RECETA--
+ID: pollo-al-vapor-con-pure-de-apio-criollo-y
+TITULO: Pollo al vapor con puré de apio criollo y ensalada tibia de zanahoria y chayote
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 6
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 2, Menú A, Día 8, Día 11, Día 14
+CONCEPTO: Pollo al vapor con puré de apio criollo y ensalada tibia de zanahoria y chayote: almuerzo del menú A, sin gases y con proteína completa.
+INGREDIENTES:
+• Pechuga de pollo — 900 g total (150 g/porción), al vapor con laurel y una rama de romero
+• Apio criollo (arracacha, Arracacia xanthorrhiza), pelado y en trozos — 900 g
+• Aceite de oliva — 3 cdas (para el puré)
+• Sal mínima y pizca de comino
+• Zanahoria en rodajas — 3 unidades, al vapor
+• Chayote en cubos — 2 unidades, al vapor
+• Aceite de oliva — 2 cdas, y perejil picado (para la ensalada)
+PREPARACION:
+1. Cocinar el pollo al vapor 20 min con laurel.
+2. Preparar el puré de apio criollo en paralelo.
+3. Cocinar zanahoria y chayote al vapor 10-12 min.
+4. Servir todo junto, aliñando la ensalada al momento con aceite de oliva y perejil.
+ADVERTENCIAS: Se usa el TUBÉRCULO (apio criollo/arracacha), NO el apio España — son plantas distintas.|Gel de linaza: 3 cdas por persona antes de comer.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~480 kcal
+Proteína: ~38g
+Carbohidratos: ~35g (Fibra: ~7g)
+Grasas: ~18g (Mono: ~11g)
+Sodio: ~140mg IG estimado: Bajo-Moderado
+NOTAS_DEL_CHEF:
+• Antihernia: cero productores de gas, porción moderada, apio criollo de fácil digestión (almidón de cadena corta).
+• Cicatrización: proteína completa + vitamina A (zanahoria) para regeneración epitelial.
+--FIN_RECETA--
+
+--RECETA--
+ID: batido-de-lechosa-avena-y-chia
+TITULO: Batido de lechosa, avena y chía
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 6
+ICONO: vaso
+ETIQUETAS: Post-cirugía, Semana 2, Menú A, Día 8, Día 11, Día 14
+CONCEPTO: Batido de lechosa, avena y chía: merienda de fácil digestión, con papaína y fibra, apta para una mucosa sensible.
+INGREDIENTES:
+• Lechosa (papaya) — 3 tazas en cubos
+• Avena en hojuelas — 6 cdas
+• Chía — 3 cdtas (hidratada 10 min en agua)
+• Agua o leche de almendras sin azúcar — 3 tazas
+• Canela al gusto
+PREPARACION:
+1. Licuar todo hasta homogeneizar.
+2. Servir fresco (no helado).
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~110 kcal
+Fibra: ~4g
+Proteína: ~3g
+Grasas: ~2g
+NOTAS_DEL_CHEF:
+• Lechosa: enzima papaína, ayuda digestiva suave, baja acidez, apto para mucosa erosionada.
+--FIN_RECETA--
+
+--RECETA--
+ID: crema-de-auyama-con-pollo-desmenuzado-sin
+TITULO: Crema de auyama con pollo desmenuzado SIN guarnición
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 6
+ICONO: olla humeante
+ETIQUETAS: Post-cirugía, Semana 2, Menú A, Día 8, Día 11, Día 14
+CONCEPTO: Crema de auyama con pollo desmenuzado, sin guarnición: cena ligera del menú A, con betacaroteno y proteína.
+INGREDIENTES:
+• Auyama — 1.2 kg en cubos
+• Pechuga de pollo cocida y desmenuzada — 450g (75g/porción)
+• Caldo de pollo casero desgrasado — 4 tazas
+• Aceite de oliva — 3 cdas
+• Cúrcuma — ½ cdta + pizca de pimienta negra
+• Sal mínima
+PREPARACION:
+1. Cocinar la auyama en el caldo hasta ablandar (20 min).
+2. Licuar hasta obtener crema homogénea.
+3. Regresar al fuego bajo, añadir cúrcuma, pimienta y aceite de oliva.
+4. Servir con el pollo desmenuzado encima.
+ADVERTENCIAS: Gel de linaza: 3 cdas por persona antes de cenar.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~320 kcal
+Proteína: ~24g
+Carbohidratos: ~22g (Fibra: ~4g)
+Grasas: ~14g
+Sodio: ~150mg
+NOTAS_DEL_CHEF:
+• Hepatoprotección: cúrcuma + pimienta + grasa (biodisponibilidad de curcumina — Shoba et al., 1998, *Planta Medica*, aumento de biodisponibilidad ~2000% con piperina; este es el estudio real detrás de la recomendación "cúrcuma + pimienta negra", no un dato inventado).
+• Cena ligera, sin guarnición, volumen moderado.
+--FIN_RECETA--
+
+--RECETA--
+ID: panqueca-de-avena-linaza-y-cambur-con-aguacate
+TITULO: Panqueca de avena, linaza y cambur con aguacate
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 6
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 2, Menú B, Día 9, Día 12, Día 15
+CONCEPTO: Panqueca de avena, linaza y cambur con aguacate: desayuno del menú B, con fibra soluble y grasa monoinsaturada.
+INGREDIENTES:
+• Avena en hojuelas molida — 2 tazas
+• Linaza molida — 4 cdas
+• Cambur (banana) semi-maduro triturado — 3 unidades
+• Huevos — 6 unidades
+• Canela — 1 cdta
+• Aceite de oliva o coco — para la plancha
+• Aguacate — 1 ½ unidades (¼ por porción)
+PREPARACION:
+1. Mezclar avena, linaza, cambur triturado, huevos y canela hasta obtener una mezcla espesa tipo panqueca.
+2. Cocinar en sartén antiadherente a fuego bajo, porciones pequeñas, volteando cuando burbujee.
+3. Servir con ¼ de aguacate en láminas por porción.
+ADVERTENCIAS: Gel de linaza antes de comer.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~390 kcal
+Proteína: ~14g
+Carbohidratos: ~38g (Fibra: ~7g)
+Grasas: ~19g (Mono: ~11g)
+IG: Bajo-Moderado
+NOTAS_DEL_CHEF:
+• Aguacate diario cumplido desde el desayuno (glutatión/hepatoprotección — Usuario 2).
+--FIN_RECETA--
+
+--RECETA--
+ID: compota-de-manzana-con-canela-y-almendras
+TITULO: Compota de manzana con canela y almendras
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 6
+ICONO: vaso
+ETIQUETAS: Post-cirugía, Semana 2, Menú B, Día 9, Día 12, Día 15
+CONCEPTO: Compota de manzana con canela y almendras: merienda tibia y suave, con fibra soluble y grasas buenas.
+INGREDIENTES:
+• Manzana — 3 unidades, sin cáscara, en cubos
+• Canela — 1 cdta
+• Agua — ½ taza
+• Almendras crudas — 18 unidades (3/porción)
+PREPARACION:
+1. Cocinar la manzana con la canela y el agua a fuego bajo hasta ablandar (10-12 min).
+2. Triturar ligeramente (textura de compota, no puré liso).
+3. Servir con las almendras aparte.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~95 kcal
+Fibra: ~3g
+Grasas: ~5g
+--FIN_RECETA--
+
+--RECETA--
+ID: pescado-blanco-al-vapor-con-arroz-integral-pure
+TITULO: Pescado blanco al vapor con arroz integral, puré de batata y brócoli
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 6
+ICONO: pescado
+ETIQUETAS: Post-cirugía, Semana 2, Menú B, Día 9, Día 12, Día 15
+CONCEPTO: Pescado blanco al vapor con arroz integral, puré de batata y brócoli: almuerzo del menú B, con omega-3 y fibra.
+INGREDIENTES:
+• Filete de pescado blanco (mero, pargo o similar) — 900 g total, al vapor con laurel y un chorrito mínimo de aceite de oliva
+• Arroz integral — 1 ½ tazas (secas), cocido
+• Batata cocida y triturada — 900 g, con aceite de oliva
+• Brócoli al vapor (solo floretes, 3-4 min) — 3 tazas
+• Aceite de oliva y jugo de limón MUY diluido (opcional, con moderación por la gastritis)
+PREPARACION:
+1. Cocinar el pescado al vapor 8-10 min.
+2. Cocinar arroz integral por separado.
+3. Hervir batata, triturar con aceite de oliva.
+4. Vapor de brócoli, aliñar ligero.
+ADVERTENCIAS: Gel de linaza antes de comer.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~460 kcal
+Proteína: ~32g
+Carbohidratos: ~42g (Fibra: ~6g)
+Grasas: ~14g
+Omega-3 (EPA/DHA): presente
+NOTAS_DEL_CHEF:
+• Omega-3 directo del pescado — antiinflamatorio, relevante para hipertrigliceridemia (Usuario 2).
+• Brócoli en porción moderada y bien cocido: sulforafano sin riesgo significativo de gas para la hernia.
+--FIN_RECETA--
+
+--RECETA--
+ID: yogur-con-avena-y-guayaba
+TITULO: Yogur con avena y guayaba
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 6
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 2, Menú B, Día 9, Día 12, Día 15
+CONCEPTO: Yogur con avena y guayaba: merienda con probióticos, betaglucanos y vitamina C.
+INGREDIENTES:
+• Yogur natural — 900g
+• Avena en hojuelas — 6 cdas
+• Guayaba en cubos — 2 unidades
+PREPARACION:
+1. Mezclar el yogur con la avena y la guayaba en cubos.
+2. Dejar reposar 5 minutos para que la avena se hidrate un poco.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~165 kcal
+Proteína: ~8g
+Fibra: ~4g
+--FIN_RECETA--
+
+--RECETA--
+ID: sopa-ligera-de-pollo-con-platano-verde-y
+TITULO: Sopa ligera de pollo con plátano verde y zanahoria SIN guarnición adicional
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 6
+ICONO: olla humeante
+ETIQUETAS: Post-cirugía, Semana 2, Menú B, Día 9, Día 12, Día 15
+CONCEPTO: Sopa ligera de pollo con plátano verde y zanahoria, sin guarnición: cena del menú B, suave y con almidón resistente.
+INGREDIENTES:
+• Pechuga de pollo — 450g, en trozos pequeños
+• Plátano verde — 1 ½ unidades, en rodajas
+• Zanahoria — 2 unidades, en rodajas
+• Apio España (tallos, NO el tubérculo) — ½ taza picado fino, para aromatizar el caldo
+• Caldo de pollo casero — 6 tazas
+• Cilantro fresco al gusto
+PREPARACION:
+1. Hervir el pollo en el caldo con laurel 15 min.
+2. Añadir plátano verde y zanahoria, cocinar 15 min más hasta ablandar.
+3. Agregar el apio España picado fino en los últimos 5 min (solo para aroma, no como ingrediente principal — evitar exceso de fibra insoluble en la cena).
+4. Servir con cilantro fresco.
+ADVERTENCIAS: Gel de linaza antes de cenar.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~260 kcal
+Proteína: ~22g
+Carbohidratos: ~26g (Fibra: ~4g)
+Grasas: ~6g
+NOTAS_DEL_CHEF:
+• Plátano verde: almidón resistente, prebiótico, bajo IG.
+• Cena ligera y caliente, favorece el sueño y no compromete el reflujo nocturno.
+--FIN_RECETA--
+
+--RECETA--
+ID: huevos-revueltos-con-espinaca-y-arepa-de-avena
+TITULO: Huevos revueltos con espinaca y arepa de avena
+CATEGORIA: Post-cirugía
+TIPO: Desayuno
+PORCIONES: 6
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 2, Menú C, Día 10, Día 13
+CONCEPTO: Huevos revueltos con espinaca y arepa de avena: desayuno del menú C, con proteína, hierro y fibra.
+INGREDIENTES:
+• Huevos — 9 unidades
+• Espinaca fresca — 3 tazas, bien lavada y picada
+• Arepitas de avena (ver Día A, receta base, sin auyama esta vez) — 6 unidades pequeñas
+• Aceite de oliva — 3 cdtas
+PREPARACION:
+1. Sofreír la espinaca 2-3 min en aceite de oliva hasta que baje volumen.
+2. Añadir los huevos batidos, revolver a fuego bajo hasta cuajar suave.
+3. Servir con la arepita de avena.
+ADVERTENCIAS: Gel de linaza antes de comer.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~340 kcal
+Proteína: ~18g
+Carbohidratos: ~30g (Fibra: ~5g)
+Grasas: ~15g Hierro y folato (espinaca) destacados
+--FIN_RECETA--
+
+--RECETA--
+ID: batido-de-lechosa-y-yogur
+TITULO: Batido de lechosa y yogur
+CATEGORIA: Post-cirugía
+TIPO: Merienda AM
+PORCIONES: 6
+ICONO: vaso
+ETIQUETAS: Post-cirugía, Semana 2, Menú C, Día 10, Día 13
+CONCEPTO: Batido de lechosa y yogur: merienda cremosa con papaína y probióticos, fácil de digerir.
+INGREDIENTES:
+• Lechosa — 3 tazas en cubos
+• Yogur natural — 900g
+• Canela al gusto
+PREPARACION:
+1. Licuar la lechosa con el yogur y la canela hasta homogeneizar.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~120 kcal
+Proteína: ~6g
+--FIN_RECETA--
+
+--RECETA--
+ID: pollo-guisado-suave-con-arroz-integral-y-pure-de
+TITULO: Pollo guisado suave con arroz integral y puré de auyama
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 6
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 2, Menú C, Día 10, Día 13
+CONCEPTO: Pollo guisado suave con arroz integral y puré de auyama: almuerzo del menú C, en formato de guiso venezolano tradicional adaptado.
+INGREDIENTES:
+• Pechuga de pollo en trozos — 900 g
+• Ají dulce picado fino — 6 unidades
+• Pimentón rojo picado — ½ taza
+• Cebolla SOFRITA (nunca cruda) — ½ taza
+• Ajo sofrito — 2 dientes
+• Comino y cúrcuma — al gusto
+• Aceite de oliva — 3 cdas
+• Caldo de pollo — 1 taza
+• Arroz integral — 1 ½ tazas (secas), cocido
+• Puré de auyama — 900 g, con aceite de oliva
+• Pepino sin cáscara en rodajas — 2 unidades
+• Aceite de oliva e hierbabuena picada (con moderación, ver nota de reflujo)
+PREPARACION:
+1. Sofreír el ají dulce, el pimentón, la cebolla y el ajo en aceite de oliva a fuego bajo (5 min).
+2. Añadir el pollo, dorar ligero y agregar el comino y la cúrcuma.
+3. Cubrir con el caldo y cocinar tapado 20 min a fuego bajo, hasta que el pollo esté tierno y la salsa reducida.
+4. Cocer el arroz integral y preparar el puré de auyama con aceite de oliva.
+5. Armar la ensalada de pepino con aceite de oliva e hierbabuena.
+6. Servir todo junto.
+ADVERTENCIAS: Gel de linaza antes de comer.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~510 kcal
+Proteína: ~35g
+Carbohidratos: ~44g (Fibra: ~6g)
+Grasas: ~17g
+NOTAS_DEL_CHEF:
+• Formato de guiso venezolano tradicional, adaptado: cebolla y ajo SIEMPRE sofritos (nunca crudos) por la gastritis erosiva.
+--FIN_RECETA--
+
+--RECETA--
+ID: tostada-de-arepa-de-avena-con-aguacate
+TITULO: Tostada de arepa de avena con aguacate
+CATEGORIA: Post-cirugía
+TIPO: Merienda PM
+PORCIONES: 6
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 2, Menú C, Día 10, Día 13
+CONCEPTO: Tostada de arepa de avena con aguacate: merienda sencilla con fibra y grasas monoinsaturadas.
+INGREDIENTES:
+• Arepitas de avena pequeñas — 6 unidades (sobrantes o hechas frescas, receta Día A)
+• Aguacate — 1 ½ unidades
+PREPARACION:
+1. Tostar ligeramente la arepita.
+2. Untar con el aguacate machacado.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~180 kcal
+Grasas: ~10g (Mono)
+NOTAS_DEL_CHEF:
+• Segunda dosis opcional de aguacate si no se consumió en el desayuno ese día — flexible según cuál desayuno (A, B o C) corresponda.
+--FIN_RECETA--
+
+--RECETA--
+ID: pescado-al-vapor-con-pure-de-chayote-sin
+TITULO: Pescado al vapor con puré de chayote SIN guarnición adicional
+CATEGORIA: Post-cirugía
+TIPO: Cena
+PORCIONES: 6
+ICONO: pescado
+ETIQUETAS: Post-cirugía, Semana 2, Menú C, Día 10, Día 13
+CONCEPTO: Pescado al vapor con puré de chayote, sin guarnición: cena ligera del menú C, de muy baja carga digestiva.
+INGREDIENTES:
+• Filete de pescado blanco — 900g
+• Chayote — 3 unidades grandes, cocido y triturado con aceite de oliva
+• Laurel, sal mínima
+PREPARACION:
+1. Cocinar el pescado al vapor con laurel (8-10 min).
+2. Preparar el puré de chayote en paralelo (chayote cocido y triturado con aceite de oliva).
+3. Servir juntos.
+ADVERTENCIAS: Gel de linaza antes de cenar.
+VALOR_NUTRICIONAL:
+POR PORCIÓN: ~290 kcal
+Proteína: ~28g
+Carbohidratos: ~14g (Fibra: ~3g)
+Grasas: ~9g
+NOTAS_DEL_CHEF:
+• Cena muy ligera y de bajísima carga digestiva — ideal para los días con más cansancio.
+--FIN_RECETA--
+
+--RECETA--
+ID: pure-de-lentejas-coladas-reintroduccion-de
+TITULO: Puré de Lentejas Coladas (Reintroducción de Leguminosas)
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: espiga
+ETIQUETAS: Post-cirugía, Semana 2, Hito, Día 8, Día 9
+CONCEPTO: Sustituto puntual de la guarnición del Almuerzo A (puré de apio criollo) para reintroducir leguminosas de forma controlada. Un solo día de prueba dentro de la ventana Día 8-9, observando tolerancia 24-48h antes de repetir.
+INGREDIENTES:
+• Lentejas bien cocidas — ½ taza cocida por persona
+• Aceite de oliva — al gusto
+• Sal mínima
+PREPARACION:
+1. Cocinar las lentejas hasta que estén muy bien cocidas y blandas.
+2. Colar y triturar hasta obtener un puré suave (sin hollejo, para minimizar oligosacáridos fermentables).
+3. Servir en sustitución del puré de apio criollo, únicamente en el almuerzo, un solo día de prueba.
+ADVERTENCIAS: Observar tolerancia 24-48h (distensión, gases, dolor) antes de repetir esta variante.|Si hay buena tolerancia, se puede repetir una vez más antes del día 12; si no, suspender y reintentar más adelante.
+NOTAS_DEL_CHEF:
+• La lenteja colada en puré es la legumbre menos flatulenta por su bajo contenido de hollejo.
+--FIN_RECETA--
+
+--RECETA--
+ID: caraotas-negras-en-pure-reintroduccion-gradual
+TITULO: Caraotas Negras en Puré (Reintroducción Gradual)
+CATEGORIA: Post-cirugía
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: proteína
+ETIQUETAS: Post-cirugía, Semana 2, Hito, Día 12, Día 13, Día 14
+CONCEPTO: Reintroducción gradual de caraotas negras muy bien cocidas, en puré o muy trituradas, un solo día de prueba dentro de la ventana Día 12-14. No repetir hasta la semana 3.
+INGREDIENTES:
+• Caraotas negras — 3 cucharadas por persona, en crudo antes de remojo
+• Agua para remojo — abundante (mínimo 8-12 horas)
+PREPARACION:
+1. Remojar las caraotas negras mínimo 8-12 horas.
+2. Cocinar por tiempo largo hasta que estén muy bien cocidas.
+3. Triturar en puré o machacar muy bien.
+4. Servir 3 cucharadas por persona, únicamente en el almuerzo.
+ADVERTENCIAS: Un solo día de prueba dentro de esta ventana, no repetir hasta la semana 3.|Si aparece distensión notoria o dolor en la zona inguinal, suspender y volver a intentar la semana siguiente, sin prisa.
+--FIN_RECETA--
+
+--PACIENTE--
+NOMBRE: Postquirúrgico — Semana 2 (Días 8-15)
+DESCRIPCION: Fase de consolidación tras la Semana 1. En vez de un menú distinto cada día, se usa un menú tipo rotativo de 3 días (A-B-C-A-B-C-A/B) con reglas fijas diarias, más hitos puntuales (reintroducción de leguminosas, retiro de puntos, evaluación de peso). Recetas calculadas para 6 porciones (2 personas × 3 repeticiones semanales).
+FASES:
+Fase 2 | Días 8-15 | Consolidación | Menú rotativo A-B-C, reglas fijas diarias, reintroducción gradual de leguminosas
+CRONOGRAMA:
+Desayuno | Toma 1 | Según menú A/B/C del día
+Merienda AM | Toma 2 | Según menú A/B/C del día
+Almuerzo | Toma 3 | Según menú A/B/C del día
+Merienda PM | Toma 4 | Según menú A/B/C del día
+Cena | Toma 5 | Según menú A/B/C del día (sin guarnición adicional)
+AJUSTES:
+- Calorías objetivo: 1,400-1,500 kcal/persona/día. Proteína: 70-85g/persona/día (~1.2g/kg).
+- Gel de linaza (3 cdas/persona) antes de las 3 comidas principales (ya no antes de cada toma como en semana 1).
+- Yogur natural sin azúcar 1 porción diaria (150-200g) como probiótico; aguacate ½ unidad diaria (hepatoprotección).
+- Rotación sugerida: Día 8=Menú A, Día 9=Menú B, Día 10=Menú C, Día 11=Menú A, Día 12=Menú B, Día 13=Menú C, Día 14=Menú A, Día 15=Menú B.
+- Día 8-9: reintroducir lentejas coladas en puré (ver receta de hito) solo un día, observando tolerancia.
+- Día 10-12: retiro de puntos; no implica relajar las reglas de anticonstipación ni las porciones.
+- Día 12-14: reintroducir caraotas negras muy bien cocidas (ver receta de hito) solo un día, sin repetir hasta semana 3.
+- Día 14-15: evaluación de peso; ajustar calorías de la semana 3 según resultado (recortar 100-150 kcal/día si hubo ganancia).
+- Cero frituras, azúcar, embutidos y ultraprocesados. Cenas sin guarnición, 2-3h antes de acostarse. Café ≤1 taza/día, después de comer.
+--FIN_PACIENTE--
