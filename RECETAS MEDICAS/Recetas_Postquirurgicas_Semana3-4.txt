@@ -37,6 +37,7 @@ reducen el IG frente a la arepa tradicional)
 ID: panqueca-de-avena-y-cambur-con-queso-ricotta-y
 TITULO: Panqueca de avena y cambur con queso ricotta y canela
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten, Lácteos
 TIPO: Desayuno
 PORCIONES: 2
 ICONO: espiga
@@ -66,6 +67,7 @@ IG estimado: Bajo-Moderado
 ID: pan-integral-con-huevos-pericos-suaves-y-queso
 TITULO: Pan integral con huevos pericos suaves y queso fresco
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten, Lácteos
 TIPO: Desayuno
 PORCIONES: 2
 ICONO: espiga
@@ -132,6 +134,7 @@ IG estimado: Bajo-Moderado
 ID: tortilla-de-espinaca-y-queso-fresco-con-arepita
 TITULO: Tortilla de espinaca y queso fresco con arepita fina de avena
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten, Lácteos
 TIPO: Desayuno
 PORCIONES: 2
 ICONO: huevo frito
@@ -161,6 +164,7 @@ destacados
 ID: panqueca-salada-de-lenteja-roja-partida-con
 TITULO: Panqueca salada de lenteja roja partida con queso fresco y hierbas
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Desayuno
 PORCIONES: 2
 ICONO: espiga
@@ -260,6 +264,7 @@ IG estimado: Bajo
 ID: cachapa-adaptada-menor-ig-con-queso-fresco-de
 TITULO: Cachapa adaptada (menor IG) con queso fresco/de mano bajo en grasa
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten, Lácteos
 TIPO: Desayuno
 PORCIONES: 2
 ICONO: espiga
@@ -294,6 +299,7 @@ frecuencia, no a diario)
 ID: pan-integral-relleno-de-pollo-desmechado-con
 TITULO: Pan integral relleno de pollo desmechado con aguacate y yogur (sin mayonesa)
 CATEGORIA: Post-cirugía
+RIESGOS: Huevo crudo, Gluten, Lácteos
 TIPO: Desayuno
 PORCIONES: 2
 ICONO: proteína
@@ -417,6 +423,7 @@ Sodio: ~120mg
 ID: huevos-rellenos-horneados-version-saludable-con
 TITULO: Huevos rellenos horneados (versión saludable) con arroz integral y ensalada de espinaca
 CATEGORIA: Post-cirugía
+RIESGOS: Huevo crudo
 TIPO: Almuerzo
 PORCIONES: 2
 ICONO: ensalada
@@ -813,6 +820,7 @@ Betacaroteno y licopeno
 ID: yogur-natural-con-fresas-y-chia
 TITULO: Yogur natural con fresas y chía
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Merienda AM
 PORCIONES: 2
 ICONO: manzana
@@ -827,7 +835,7 @@ PREPARACION:
 1. mezclar todo, dejar reposar 5 min para que la chía se hidrate ligeramente.
 JUSTIFICACION: Probiótico + antioxidantes de la fresa, sin nada de azúcar añadida.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~135 kcal
+Calorías: ~135 kcal (por porción)
 Proteína: ~7g
 Fibra: ~3g
 IG: Bajo
@@ -849,7 +857,7 @@ PREPARACION:
 1. cortar los vegetales en bastones, servir con el "hummus" para mojar.
 JUSTIFICACION: Aprovechamiento inteligente: si ya se preparó el "hummus" de lenteja para el desayuno #7, se usa el sobrante aquí sin cocinar nada nuevo.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~125 kcal
+Calorías: ~125 kcal (por porción)
 Proteína: ~6g
 Fibra: ~5g
 IG: Bajo
@@ -859,6 +867,7 @@ IG: Bajo
 ID: bolitas-energeticas-de-avena-linaza-y-cambur-sin
 TITULO: Bolitas energéticas de avena, linaza y cambur (sin horno)
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten
 TIPO: Merienda AM
 PORCIONES: 2
 ICONO: espiga
@@ -874,7 +883,7 @@ PREPARACION:
 1. mezclar todo hasta lograr una masa moldeable (si está muy húmeda, añadir más avena molida). Formar bolitas pequeñas, rebozar en ajonjolí. Refrigerar 30 min antes de servir para que tomen firmeza.
 JUSTIFICACION: Sin horno, sin azúcar, fácil de preparar en lote y guardar para varios días (refrigerar hasta 4-5 días).
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~130 kcal
+Calorías: ~130 kcal (por porción)
 Proteína: ~5g
 Fibra: ~4g
 IG: Bajo-Moderado
@@ -884,6 +893,7 @@ IG: Bajo-Moderado
 ID: guacamole-ligero-con-tostaditas-de-arepa
 TITULO: Guacamole ligero con tostaditas de arepa horneada
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten
 TIPO: Merienda PM
 PORCIONES: 2
 ICONO: espiga
@@ -898,7 +908,7 @@ PREPARACION:
 1. triturar el aguacate con el tomate cocido y el cilantro. Hornear los triángulos de arepa a 180°C por 10-12 min, volteando a la mitad, hasta que estén crocantes. Servir el guacamole con las tostaditas.
 JUSTIFICACION: Aguacate diario cubierto en formato crocante-cremoso, sin frituras (las tostaditas van al horno, nunca a la sartén con aceite).
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~150 kcal
+Calorías: ~150 kcal (por porción)
 Proteína: ~4g
 Fibra: ~4g
 Grasas: ~10g (Mono)
@@ -908,6 +918,7 @@ Grasas: ~10g (Mono)
 ID: compota-tibia-de-manzana-y-canela-con-nueces
 TITULO: Compota tibia de manzana y canela con nueces picadas
 CATEGORIA: Post-cirugía
+RIESGOS: Frutos secos
 TIPO: Merienda AM
 PORCIONES: 2
 ICONO: manzana
@@ -923,7 +934,7 @@ PREPARACION:
 JUSTIFICACION: Opción tibia y reconfortante para un día frío o de poco ánimo — la comida también es consuelo, no solo nutrientes.
 ADVERTENCIAS: Proteína más baja que el resto del set — buena opción para combinar con una merienda del otro tiempo (AM/PM) que sea más alta en proteína ese mismo día.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~120 kcal
+Calorías: ~120 kcal (por porción)
 Proteína: ~2g
 Fibra: ~3g
 Grasas: ~7g
@@ -933,6 +944,7 @@ Grasas: ~7g
 ID: batido-de-lechosa-yogur-y-chia
 TITULO: Batido de lechosa, yogur y chía
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Merienda PM
 PORCIONES: 2
 ICONO: vaso
@@ -947,7 +959,7 @@ PREPARACION:
 1. licuar todo hasta homogeneizar. Servir fresco.
 JUSTIFICACION: Fácil digestión, buena opción de merienda mañanera si hay algo de pesadez tras el desayuno.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~130 kcal
+Calorías: ~130 kcal (por porción)
 Proteína: ~7g
 Fibra: ~3g
 IG: Bajo
@@ -971,7 +983,7 @@ PREPARACION:
 1. cortar los huevos por la mitad, espolvorear con pimentón en polvo, servir con el pepino en rodajas.
 JUSTIFICACION: La merienda más alta en proteína del set — buena opción para los días donde el desayuno o almuerzo elegido fue de los más bajos en proteína (ej. tortilla española o shakshuka del almuerzo).
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~125 kcal
+Calorías: ~125 kcal (por porción)
 Proteína: ~9g
 Grasas: ~8g
 Sodio: mínimo
@@ -981,6 +993,7 @@ Sodio: mínimo
 ID: queso-fresco-con-guayaba-asada-y-canela
 TITULO: Queso fresco con guayaba asada y canela
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Merienda PM
 PORCIONES: 2
 ICONO: manzana
@@ -993,7 +1006,7 @@ PREPARACION:
 1. hornear la guayaba, servir tibia o a temperatura ambiente junto con el queso fresco.
 JUSTIFICACION: Combinación clásica venezolana (queso + guayaba), aquí con la guayaba horneada en vez de en dulce/conserva con azúcar.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~130 kcal
+Calorías: ~130 kcal (por porción)
 Proteína: ~8g
 Fibra: ~3g
 Vitamina C (guayaba) destacada
@@ -1018,7 +1031,7 @@ PREPARACION:
 JUSTIFICACION: Opción crocante y diferente al resto del set — variedad de textura real, no solo de sabor.
 ADVERTENCIAS: Proteína baja — combinar preferiblemente con un desayuno/almuerzo de ese día que tenga buena carga proteica.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~110 kcal
+Calorías: ~110 kcal (por porción)
 Proteína: ~3g
 Fibra: ~4g
 IG: Moderado
@@ -1028,6 +1041,7 @@ IG: Moderado
 ID: pudin-de-chia-con-leche-de-almendras-canela-y
 TITULO: Pudín de chía con leche de almendras, canela y yogur
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Merienda PM
 PORCIONES: 2
 ICONO: leche
@@ -1042,7 +1056,7 @@ PREPARACION:
 1. mezclar la chía con la leche de almendras, la canela y la vainilla. Refrigerar mínimo 3 horas (o toda la noche) hasta que espese tipo pudín. Servir con el yogur integrado o encima.
 JUSTIFICACION: Se prepara la noche anterior — útil para tener la merienda lista sin esfuerzo por la mañana.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~140 kcal
+Calorías: ~140 kcal (por porción)
 Proteína: ~6g
 Fibra: ~6g
 Omega-3 (ALA) presente
@@ -1052,6 +1066,7 @@ Omega-3 (ALA) presente
 ID: mini-tostada-integral-con-aguacate-y-huevo
 TITULO: Mini tostada integral con aguacate y huevo picado
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten
 TIPO: Merienda AM
 PORCIONES: 2
 ICONO: huevo frito
@@ -1066,7 +1081,7 @@ PREPARACION:
 1. tostar ligeramente el pan, untar con aguacate machacado, cubrir con el huevo picado y pimienta.
 JUSTIFICACION: Aguacate + huevo en un formato rápido de armar, sin cocción adicional más allá de tostar el pan.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~150 kcal
+Calorías: ~150 kcal (por porción)
 Proteína: ~7g
 Fibra: ~4g
 Grasas: ~9g (Mono)
@@ -1076,6 +1091,7 @@ Grasas: ~9g (Mono)
 ID: batido-verde-de-espinaca-cambur-yogur-y-un-toque
 TITULO: Batido verde de espinaca, cambur, yogur y un toque de aguacate
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Merienda PM
 PORCIONES: 2
 ICONO: vaso
@@ -1091,7 +1107,7 @@ PREPARACION:
 1. licuar todo hasta homogeneizar.
 JUSTIFICACION: Esta es la única receta del set que cubre YOGUR y AGUACATE a la vez — útil como "comodín" en los días donde ninguna otra comida incluyó ambos.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~145 kcal
+Calorías: ~145 kcal (por porción)
 Proteína: ~6g
 Fibra: ~4g
 Hierro y folato (espinaca) destacados
@@ -1101,6 +1117,7 @@ Hierro y folato (espinaca) destacados
 ID: barritas-caseras-de-avena-linaza-y-ajonjoli
 TITULO: Barritas caseras de avena, linaza y ajonjolí (horneadas)
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten
 TIPO: Merienda AM
 PORCIONES: 2
 ICONO: espiga
@@ -1116,7 +1133,7 @@ PREPARACION:
 1. mezclar todo hasta lograr una masa uniforme. Extender en una bandeja pequeña forrada, aplanar bien, hornear a 170°C por 15-18 min hasta dorar. Dejar enfriar completamente antes de cortar en barritas (si se cortan calientes, se desarman).
 JUSTIFICACION: Se pueden preparar en lote grande y guardar hasta 5-6 días en un recipiente cerrado — buena opción "de emergencia" para tener siempre lista.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~140 kcal
+Calorías: ~140 kcal (por porción)
 Proteína: ~5g
 Fibra: ~5g
 Omega-3 (ALA) presente
@@ -1126,6 +1143,7 @@ Omega-3 (ALA) presente
 ID: ensalada-de-frutas-de-baja-acidez-con-yogur
 TITULO: Ensalada de frutas de baja acidez con yogur
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Merienda PM
 PORCIONES: 2
 ICONO: ensalada
@@ -1141,7 +1159,7 @@ PREPARACION:
 1. mezclar las frutas, servir con el yogur por encima y canela.
 JUSTIFICACION: Todas las frutas usadas son de baja acidez — coherente con el manejo de gastritis erosiva, a diferencia de una ensalada de frutas con cítricos concentrados.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~120 kcal
+Calorías: ~120 kcal (por porción)
 Proteína: ~4g
 Fibra: ~4g
 Vitamina C destacada
@@ -1151,6 +1169,7 @@ Vitamina C destacada
 ID: mini-muffins-salados-de-huevo-y-espinaca
 TITULO: Mini muffins salados de huevo y espinaca (horneados)
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Merienda AM
 PORCIONES: 2
 ICONO: huevo frito
@@ -1165,7 +1184,7 @@ PREPARACION:
 1. batir los huevos, mezclar con la espinaca picada, el queso y la pimienta. Verter en moldes de mini muffin (silicona o papel), hornear a 180°C por 15-18 min hasta que cuajen y doren ligeramente en la superficie.
 JUSTIFICACION: Formato portátil — se pueden preparar el fin de semana y guardar refrigerados para varios días, ideal para la merienda de media mañana si hay poco tiempo.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~130 kcal
+Calorías: ~130 kcal (por porción)
 Proteína: ~9g
 Grasas: ~9g
 Hierro (espinaca) destacado
@@ -1175,6 +1194,7 @@ Hierro (espinaca) destacado
 ID: mini-hamburguesa-de-pollo-con-queso-fresco-y
 TITULO: Mini hamburguesa de pollo con queso fresco y cebolla caramelizada SIN guarnición
 CATEGORIA: Post-cirugía
+RIESGOS: Huevo crudo, Gluten, Lácteos
 TIPO: Cena
 PORCIONES: 2
 ICONO: proteína
@@ -1205,6 +1225,7 @@ Sodio: ~220mg
 ID: mini-hamburguesa-de-carne-de-res-magra-con
 TITULO: Mini hamburguesa de carne de res magra con aguacate SIN guarnición
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten
 TIPO: Cena
 PORCIONES: 2
 ICONO: proteína
@@ -1264,6 +1285,7 @@ Sodio: ~250mg
 ID: mini-pizza-individual-de-masa-integral-con-pollo
 TITULO: Mini pizza individual de masa integral con pollo desmechado y vegetales SIN guarnición
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten, Lácteos
 TIPO: Cena
 PORCIONES: 2
 ICONO: proteína
@@ -1293,6 +1315,7 @@ Sodio: ~230mg
 ID: mini-pizza-individual-con-espinaca-queso-y-huevo
 TITULO: Mini pizza individual con espinaca, queso y huevo horneado encima SIN guarnición
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten, Lácteos
 TIPO: Cena
 PORCIONES: 2
 ICONO: huevo frito
@@ -1321,6 +1344,7 @@ Hierro y folato (espinaca)
 ID: shawarma-de-pollo-en-pan-pita-integral-con-salsa
 TITULO: Shawarma de pollo en pan pita integral con salsa de yogur SIN guarnición
 CATEGORIA: Post-cirugía
+RIESGOS: Huevo crudo
 TIPO: Cena
 PORCIONES: 2
 ICONO: proteína
@@ -1389,6 +1413,7 @@ NOTAS_DEL_CHEF:
 ID: arepa-de-avena-y-linaza-con-queso-fresco-2
 TITULO: Arepa de avena y linaza con queso fresco y espinaca salteada SIN guarnición
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Cena
 PORCIONES: 2
 ICONO: espiga
@@ -1414,6 +1439,7 @@ Sodio: ~160mg
 ID: tortilla-de-huevo-con-champinones-y-queso-fresco
 TITULO: Tortilla de huevo con champiñones y queso fresco SIN guarnición
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Cena
 PORCIONES: 2
 ICONO: huevo frito
@@ -1520,6 +1546,7 @@ Sodio: ~90mg
 ID: berenjenas-rellenas-al-horno-con-queso-fresco-y
 TITULO: Berenjenas rellenas al horno con queso fresco y tomate SIN guarnición
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Cena
 PORCIONES: 2
 ICONO: leche
@@ -1549,6 +1576,7 @@ Sodio: ~140mg
 ID: sandwich-club-de-huevo-queso-fresco-y-aguacate
 TITULO: Sándwich club de huevo, queso fresco y aguacate SIN guarnición
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten, Lácteos
 TIPO: Cena
 PORCIONES: 2
 ICONO: huevo frito

@@ -2,6 +2,7 @@
 ID: arepitas-de-avena-y-linaza-con-huevo-revuelto
 TITULO: Arepitas de avena y linaza con huevo revuelto suave y auyama
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten
 TIPO: Desayuno
 PORCIONES: 6
 ICONO: huevo frito
@@ -40,6 +41,7 @@ NOTAS_DEL_CHEF:
 ID: yogur-con-guayaba-y-semillas
 TITULO: Yogur con guayaba y semillas
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten, Lácteos
 TIPO: Merienda AM
 PORCIONES: 6
 ICONO: manzana
@@ -55,7 +57,7 @@ PREPARACION:
 2. Añadir guayaba en cubos y semillas de auyama.
 3. Espolvorear canela.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~155 kcal
+Calorías: ~155 kcal (por porción)
 Proteína: ~7g
 Carbohidratos: ~16g (Fibra: ~4g)
 Grasas: ~6g
@@ -87,7 +89,7 @@ PREPARACION:
 4. Servir todo junto, aliñando la ensalada al momento con aceite de oliva y perejil.
 ADVERTENCIAS: Se usa el TUBÉRCULO (apio criollo/arracacha), NO el apio España — son plantas distintas.|Gel de linaza: 3 cdas por persona antes de comer.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~480 kcal
+Calorías: ~480 kcal (por porción)
 Proteína: ~38g
 Carbohidratos: ~35g (Fibra: ~7g)
 Grasas: ~18g (Mono: ~11g)
@@ -101,6 +103,7 @@ NOTAS_DEL_CHEF:
 ID: batido-de-lechosa-avena-y-chia
 TITULO: Batido de lechosa, avena y chía
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten
 TIPO: Merienda PM
 PORCIONES: 6
 ICONO: vaso
@@ -116,7 +119,7 @@ PREPARACION:
 1. Licuar todo hasta homogeneizar.
 2. Servir fresco (no helado).
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~110 kcal
+Calorías: ~110 kcal (por porción)
 Fibra: ~4g
 Proteína: ~3g
 Grasas: ~2g
@@ -147,7 +150,7 @@ PREPARACION:
 4. Servir con el pollo desmenuzado encima.
 ADVERTENCIAS: Gel de linaza: 3 cdas por persona antes de cenar.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~320 kcal
+Calorías: ~320 kcal (por porción)
 Proteína: ~24g
 Carbohidratos: ~22g (Fibra: ~4g)
 Grasas: ~14g
@@ -161,6 +164,7 @@ NOTAS_DEL_CHEF:
 ID: panqueca-de-avena-linaza-y-cambur-con-aguacate
 TITULO: Panqueca de avena, linaza y cambur con aguacate
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten
 TIPO: Desayuno
 PORCIONES: 6
 ICONO: espiga
@@ -180,7 +184,7 @@ PREPARACION:
 3. Servir con ¼ de aguacate en láminas por porción.
 ADVERTENCIAS: Gel de linaza antes de comer.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~390 kcal
+Calorías: ~390 kcal (por porción)
 Proteína: ~14g
 Carbohidratos: ~38g (Fibra: ~7g)
 Grasas: ~19g (Mono: ~11g)
@@ -193,6 +197,7 @@ NOTAS_DEL_CHEF:
 ID: compota-de-manzana-con-canela-y-almendras
 TITULO: Compota de manzana con canela y almendras
 CATEGORIA: Post-cirugía
+RIESGOS: Frutos secos
 TIPO: Merienda AM
 PORCIONES: 6
 ICONO: vaso
@@ -208,7 +213,7 @@ PREPARACION:
 2. Triturar ligeramente (textura de compota, no puré liso).
 3. Servir con las almendras aparte.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~95 kcal
+Calorías: ~95 kcal (por porción)
 Fibra: ~3g
 Grasas: ~5g
 --FIN_RECETA--
@@ -235,7 +240,7 @@ PREPARACION:
 4. Vapor de brócoli, aliñar ligero.
 ADVERTENCIAS: Gel de linaza antes de comer.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~460 kcal
+Calorías: ~460 kcal (por porción)
 Proteína: ~32g
 Carbohidratos: ~42g (Fibra: ~6g)
 Grasas: ~14g
@@ -249,6 +254,7 @@ NOTAS_DEL_CHEF:
 ID: yogur-con-avena-y-guayaba
 TITULO: Yogur con avena y guayaba
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten, Lácteos
 TIPO: Merienda PM
 PORCIONES: 6
 ICONO: espiga
@@ -262,7 +268,7 @@ PREPARACION:
 1. Mezclar el yogur con la avena y la guayaba en cubos.
 2. Dejar reposar 5 minutos para que la avena se hidrate un poco.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~165 kcal
+Calorías: ~165 kcal (por porción)
 Proteína: ~8g
 Fibra: ~4g
 --FIN_RECETA--
@@ -290,7 +296,7 @@ PREPARACION:
 4. Servir con cilantro fresco.
 ADVERTENCIAS: Gel de linaza antes de cenar.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~260 kcal
+Calorías: ~260 kcal (por porción)
 Proteína: ~22g
 Carbohidratos: ~26g (Fibra: ~4g)
 Grasas: ~6g
@@ -303,6 +309,7 @@ NOTAS_DEL_CHEF:
 ID: huevos-revueltos-con-espinaca-y-arepa-de-avena
 TITULO: Huevos revueltos con espinaca y arepa de avena
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten
 TIPO: Desayuno
 PORCIONES: 6
 ICONO: espiga
@@ -319,7 +326,7 @@ PREPARACION:
 3. Servir con la arepita de avena.
 ADVERTENCIAS: Gel de linaza antes de comer.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~340 kcal
+Calorías: ~340 kcal (por porción)
 Proteína: ~18g
 Carbohidratos: ~30g (Fibra: ~5g)
 Grasas: ~15g Hierro y folato (espinaca) destacados
@@ -329,6 +336,7 @@ Grasas: ~15g Hierro y folato (espinaca) destacados
 ID: batido-de-lechosa-y-yogur
 TITULO: Batido de lechosa y yogur
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Merienda AM
 PORCIONES: 6
 ICONO: vaso
@@ -341,7 +349,7 @@ INGREDIENTES:
 PREPARACION:
 1. Licuar la lechosa con el yogur y la canela hasta homogeneizar.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~120 kcal
+Calorías: ~120 kcal (por porción)
 Proteína: ~6g
 --FIN_RECETA--
 
@@ -376,7 +384,7 @@ PREPARACION:
 6. Servir todo junto.
 ADVERTENCIAS: Gel de linaza antes de comer.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~510 kcal
+Calorías: ~510 kcal (por porción)
 Proteína: ~35g
 Carbohidratos: ~44g (Fibra: ~6g)
 Grasas: ~17g
@@ -388,6 +396,7 @@ NOTAS_DEL_CHEF:
 ID: tostada-de-arepa-de-avena-con-aguacate
 TITULO: Tostada de arepa de avena con aguacate
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten
 TIPO: Merienda PM
 PORCIONES: 6
 ICONO: espiga
@@ -400,7 +409,7 @@ PREPARACION:
 1. Tostar ligeramente la arepita.
 2. Untar con el aguacate machacado.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~180 kcal
+Calorías: ~180 kcal (por porción)
 Grasas: ~10g (Mono)
 NOTAS_DEL_CHEF:
 • Segunda dosis opcional de aguacate si no se consumió en el desayuno ese día — flexible según cuál desayuno (A, B o C) corresponda.
@@ -425,7 +434,7 @@ PREPARACION:
 3. Servir juntos.
 ADVERTENCIAS: Gel de linaza antes de cenar.
 VALOR_NUTRICIONAL:
-POR PORCIÓN: ~290 kcal
+Calorías: ~290 kcal (por porción)
 Proteína: ~28g
 Carbohidratos: ~14g (Fibra: ~3g)
 Grasas: ~9g

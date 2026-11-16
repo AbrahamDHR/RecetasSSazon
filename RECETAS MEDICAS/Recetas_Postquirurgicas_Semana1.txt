@@ -136,6 +136,7 @@ CG estimada: Baja
 ID: avena-liquida-medicinal
 TITULO: Avena Líquida Medicinal
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten
 TIPO: Desayuno
 PORCIONES: 4
 ICONO: espiga
@@ -242,6 +243,7 @@ IG: 0
 ID: yogur-natural-probiotico
 TITULO: Yogur Natural Probiótico
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Cierre Nocturno
 PORCIONES: 2
 ICONO: leche
@@ -409,6 +411,7 @@ CG estimada: Media
 ID: yogur-con-semillas-y-guayaba
 TITULO: Yogur con Semillas y Guayaba
 CATEGORIA: Post-cirugía
+RIESGOS: Frutos secos, Lácteos
 TIPO: Merienda PM
 PORCIONES: 2
 ICONO: leche
@@ -500,6 +503,7 @@ capsaicina. Cúrcuma y comino en pizca.
 ID: yogur-de-sueno-con-ajonjoli-linaza-y-manzanilla
 TITULO: Yogur de Sueño con Ajonjolí, Linaza y Manzanilla
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Cierre Nocturno
 PORCIONES: 2
 ICONO: taza
@@ -588,6 +592,7 @@ CG estimada: Media
 ID: batido-suave-de-lechosa-guayaba-y-avena
 TITULO: Batido Suave de Lechosa, Guayaba y Avena
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten
 TIPO: Merienda AM
 PORCIONES: 2
 ICONO: vaso
@@ -697,6 +702,7 @@ CG estimada: Media
 ID: parfait-de-yogur-cambur-y-almendras
 TITULO: Parfait de Yogur, Cambur y Almendras
 CATEGORIA: Post-cirugía
+RIESGOS: Frutos secos, Lácteos
 TIPO: Merienda PM
 PORCIONES: 2
 ICONO: manzana
@@ -788,6 +794,7 @@ CG estimada: Baja
 ID: avena-nocturna-con-lechosa-ajonjoli-y-manzanilla
 TITULO: Avena Nocturna con Lechosa, Ajonjolí y Manzanilla
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten
 TIPO: Cierre Nocturno
 PORCIONES: 2
 ICONO: taza
@@ -833,6 +840,7 @@ CG estimada: Media
 ID: panquecas-suaves-de-avena-con-cambur-y-canela
 TITULO: Panquecas Suaves de Avena con Cambur y Canela
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten
 TIPO: Desayuno
 PORCIONES: 2
 ICONO: espiga
@@ -1096,6 +1104,7 @@ CG estimada: Media
 ID: yogur-con-nueces-linaza-y-manzanilla
 TITULO: Yogur con Nueces, Linaza y Manzanilla
 CATEGORIA: Post-cirugía
+RIESGOS: Frutos secos, Lácteos
 TIPO: Cierre Nocturno
 PORCIONES: 2
 ICONO: taza
@@ -1189,6 +1198,7 @@ CG estimada: Media
 ID: bowl-de-fresas-y-guayaba-con-yogur-y-ajonjoli
 TITULO: Bowl de Fresas y Guayaba con Yogur y Ajonjolí
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Merienda AM
 PORCIONES: 2
 ICONO: leche
@@ -1606,6 +1616,7 @@ CG estimada: Media
 ID: yogur-con-guayaba-almendras-y-canela
 TITULO: Yogur con Guayaba, Almendras y Canela
 CATEGORIA: Post-cirugía
+RIESGOS: Frutos secos, Lácteos
 TIPO: Merienda PM
 PORCIONES: 2
 ICONO: leche
@@ -1692,6 +1703,7 @@ CG estimada: Media
 ID: avena-con-ajonjoli-semillas-de-auyama-linaza-y
 TITULO: Avena con Ajonjolí, Semillas de Auyama, Linaza y Manzanilla
 CATEGORIA: Post-cirugía
+RIESGOS: Gluten
 TIPO: Cierre Nocturno
 PORCIONES: 2
 ICONO: taza
@@ -1791,6 +1803,7 @@ CG estimada: Media
 ID: bowl-de-yogur-con-fresas-guayaba-y-semillas
 TITULO: Bowl de Yogur con Fresas, Guayaba y Semillas
 CATEGORIA: Post-cirugía
+RIESGOS: Lácteos
 TIPO: Merienda AM
 PORCIONES: 2
 ICONO: leche
@@ -2001,6 +2014,7 @@ CG estimada: Media
 ID: yogur-con-nueces-ajonjoli-linaza-y-manzanilla
 TITULO: Yogur con Nueces, Ajonjolí, Linaza y Manzanilla
 CATEGORIA: Post-cirugía
+RIESGOS: Frutos secos, Lácteos
 TIPO: Cierre Nocturno
 PORCIONES: 2
 ICONO: taza

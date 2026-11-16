@@ -156,6 +156,7 @@ VINCULAR_CON:
 ID: avena-cremosa-de-cambur-con-huevo-duro
 TITULO: Avena Cremosa de Cambur con Huevo Duro
 CATEGORIA: Malestar estomacal (diarrea y cólicos)
+RIESGOS: Gluten
 TIPO: Desayuno
 PORCIONES: 1
 ICONO: 🥣
@@ -201,6 +202,7 @@ VINCULAR_CON:
 ID: yogur-natural-con-cambur-semimaduro
 TITULO: Yogur Natural con Cambur Semimaduro
 CATEGORIA: Malestar estomacal (diarrea y cólicos)
+RIESGOS: Lácteos
 TIPO: Merienda AM
 PORCIONES: 1
 ICONO: yogur
@@ -918,6 +920,7 @@ VINCULAR_CON:
 ID: galletas-blandas-de-avena-y-cambur
 TITULO: Galletas Blandas de Avena y Cambur
 CATEGORIA: Malestar estomacal (diarrea y cólicos)
+RIESGOS: Gluten
 TIPO: Merienda PM
 PORCIONES: 3 (6 galletas; porción = 2 galletas)
 ICONO: galleta
