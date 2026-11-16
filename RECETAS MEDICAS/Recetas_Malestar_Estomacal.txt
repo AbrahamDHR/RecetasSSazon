@@ -1,0 +1,1851 @@
+--PACIENTE--
+NOMBRE: Malestar estomacal — Diarrea y Cólicos
+DESCRIPCION: Banco de recetas para diarrea con cólicos dolorosos (sin vómito), sobre gastritis erosiva, hernia inguinal bilateral y control glucémico. Todo bajo en FODMAP, bajo en grasa, sin lactosa relevante, sin irritantes y servido tibio. Las recetas de un mismo tipo son intercambiables; los menús sugeridos A, B y C son combinaciones de referencia.
+FASES:
+Fase 1 | Mientras haya diarrea | Diarrea + cólicos | Usar este banco. SRO a sorbos todo el día. Sin linaza, chía, legumbres, crudos ni lácteos en exceso.
+Fase 2 | Heces semiformadas | Mejoría | Pasar a arroz mitad integral, aumentar avena, reintroducir aceite de oliva en crudo.
+Fase 3 | ~48 h con heces formadas y sin cólicos | Recuperado | Volver al protocolo de Usuario completo (linaza, legumbres bien remojadas, ensaladas).
+CRONOGRAMA:
+7:30 AM | Toma 1 | Desayuno
+10:30 AM | Toma 2 | Merienda AM
+12:30 PM | Toma 3 | Almuerzo
+3:30 PM | Toma 4 | Merienda PM
+6:30 PM | Toma 5 | Cena
+8:30 PM | Toma 6 | Cierre Nocturno
+AJUSTES:
+- Suero de rehidratación oral a sorbos todo el día; 200-250 ml extra tras cada evacuación líquida.
+- Porciones pequeñas, todo tibio, masticar despacio y sin hablar mucho al comer (tragar aire aumenta los cólicos).
+- Grasa mínima: la grasa estimula el reflejo gastrocólico y acelera el tránsito, lo que intensifica los cólicos.
+- Calor local suave (bolsa de agua tibia, no caliente) sobre el abdomen puede aliviar los cólicos.
+- Sin AINEs (ibuprofeno, aspirina), sin subsalicilato de bismuto (oscurece las heces y es salicilato) y sin loperamida hasta tener el coproanálisis y criterio médico.
+- URGENCIAS si hay: sangre en las heces o heces negras, fiebre ≥38,5 °C, signos de deshidratación (orina escasa u oscura, boca seca, mareo al pararse), dolor intenso y constante que no cede, o diarrea que no mejora en 3-4 días.
+- URGENCIAS si el bulto de la hernia se pone duro, doloroso, no se reduce, o hay distensión abdominal sin expulsar gases.
+--FIN_PACIENTE--
+
+--RECETA--
+ID: pure-de-cambur-verde-con-huevo-pochado
+TITULO: Puré de Cambur Verde con Huevo Pochado
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Desayuno
+PORCIONES: 1
+ICONO: 🍌
+ETIQUETAS: Malestar estomacal, Antidiarreico, Bajo FODMAP, Sin grasa añadida, Venezolana
+CONCEPTO: Puré tibio de cambur verde sancochado con un huevo pochado encima. Suave, sin grasa añadida y con almidón que ayuda a dar consistencia a las heces.
+INGREDIENTES:
+• Cambur verde — 1 unidad (~120 g)
+• Huevo — 1 unidad
+• Sal — 1 pizca
+PREPARACION:
+1. Corta el cambur verde en dos, con concha, y sancóchalo 15-20 minutos hasta que esté blando.
+2. Pela y tritura con tenedor, agregando 2-3 cucharadas del agua de cocción hasta lograr un puré suave. Añade la sal.
+3. Para pochar: lleva agua a hervor suave (burbujas pequeñas), crea un remolino con una cuchara y deja caer el huevo en el centro. Cocina 3-4 minutos hasta que la clara esté firme.
+4. Retira con espumadera y sirve sobre el puré tibio.
+JUSTIFICACION: El cambur verde aporta almidón resistente y pectina, que ayudan a dar consistencia a las heces; en ensayos con niños con diarrea persistente en Bangladesh, el cambur verde cocido redujo la duración del cuadro (Rabbani et al., 2001, Gastroenterology). Tiene índice glucémico bajo, ideal para la glicemia del Usuario 1, y es bajo en FODMAP. El huevo pochado da proteína sin grasa de fritura.
+ADVERTENCIAS: Comer despacio: tragar aire empeora los cólicos.|Si la yema le cae pesada, usar solo la clara.
+VALOR_NUTRICIONAL:
+Calorías: ~180 kcal
+Proteínas: ~7,5 g
+Carbohidratos: ~27 g
+Grasas: ~5 g
+Fibra: ~3 g (soluble)
+Sodio: ~220 mg
+IG: Bajo
+NOTAS_DEL_CHEF:
+• Si el huevo pochado se te desarma, cocínalo duro (10 minutos) y pícalo fino.
+VINCULAR_CON:
+• Desayuno: Avena Cremosa de Cambur con Huevo Duro
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (principal): Pescado Blanco al Vapor con Perejil
+• Almuerzo (guarnición): Puré de Papa y Zanahoria sin Grasa
+• Almuerzo (vegetal): Chayote Sancochado Tibio
+• Sopa (opcional): Sopa Reparadora de Pollo con Arroz y Zanahoria
+• Merienda PM: Crema de Papa y Zanahoria
+• Cena: Arepita Blanda con Pollo Desmechado Suave
+• Postre: Cambur Horneado con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión de Manzanilla y Jengibre Suave
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--
+
+--RECETA--
+ID: panquequitas-blandas-de-cambur-verde-y-huevo
+TITULO: Panquequitas Blandas de Cambur Verde y Huevo
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Desayuno
+PORCIONES: 1 (4 panquequitas)
+ICONO: 🥞
+ETIQUETAS: Malestar estomacal, Antidiarreico, Venezolana, Sin fritura, Bajo FODMAP
+CONCEPTO: Panquequitas suaves hechas solo con cambur verde sancochado y huevo, cocinadas sin aceite. Cara de panqueca venezolana, apta para la diarrea.
+INGREDIENTES:
+• Cambur verde — 1 unidad (~120 g)
+• Huevo — 1 unidad entero + 1 clara
+• Sal — 1 pizca
+PREPARACION:
+1. Sancocha el cambur verde con concha 15-20 minutos. Pela y tritura hasta hacer un puré liso.
+2. Bate el huevo y la clara, mézclalos con el puré y la sal hasta obtener una masa espesa.
+3. Calienta un sartén antiadherente a fuego bajo, sin aceite (o con 2-3 gotas esparcidas con papel).
+4. Forma 4 discos pequeños y cocina 3-4 minutos por lado hasta que cuajen y doren apenas.
+5. Sirve tibias, sin miel ni sirope.
+JUSTIFICACION: Almidón resistente y pectina del cambur verde (antidiarreico, IG bajo) más proteína completa del huevo. Cocinadas a fuego bajo y sin aceite, no aportan grasa que estimule el reflejo gastrocólico (la grasa acelera el tránsito y puede intensificar los cólicos).
+ADVERTENCIAS: Sin miel, papelón ni sirope.|Fuego bajo para que cuajen por dentro sin quemarse.
+VALOR_NUTRICIONAL:
+Calorías: ~195 kcal
+Proteínas: ~11 g
+Carbohidratos: ~27 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~200 mg
+IG: Bajo
+NOTAS_DEL_CHEF:
+• Si la masa queda muy líquida, agrega 1 cucharada de harina de maíz precocida.
+VINCULAR_CON:
+• Merienda AM: Huevos de Codorniz Cocidos con Medio Cambur
+• Almuerzo (principal): Pollo Desmechado en Salsa Suave de Zanahoria
+• Almuerzo (guarnición): Arroz Blanco Suave con Perejil
+• Almuerzo (vegetal): Calabacín y Zanahoria al Vapor
+• Sopa (opcional): Caldo Claro de Pescado con Papa
+• Merienda PM: Crema Suave de Auyama y Papa
+• Cena: Tortilla Ligera de Papa y Calabacín al Horno
+• Postre: Arroz Cremoso con Canela sin Leche
+• Bebida: Suero de Rehidratación Oral Casero, Agua de Coco Natural
+• Cierre Nocturno: Agua de Arroz Tibia con Vainilla
+--FIN_RECETA--
+
+--RECETA--
+ID: arepita-blanda-con-huevo-revuelto-al-vapor
+TITULO: Arepita Blanda con Huevo Revuelto al Vapor
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Desayuno
+PORCIONES: 1
+ICONO: arepa
+ETIQUETAS: Malestar estomacal, Venezolana, Sin fritura, Sin grasa añadida, Bajo FODMAP
+CONCEPTO: Arepita pequeña y blanda, asada sin grasa, rellena de huevo revuelto cocinado con agua en lugar de aceite.
+INGREDIENTES:
+• Harina de maíz precocida — 40 g (⅓ taza)
+• Huevo — 1 unidad entero + 1 clara
+• Agua tibia — ⅓ taza (masa) + 2 cucharadas (huevo)
+• Sal — 1 pizca
+PREPARACION:
+1. Amasa la harina con el agua tibia y la sal. Forma una arepa delgada.
+2. Ásala en budare sin grasa, a fuego medio, hasta que esté cocida pero blanda: la concha no debe quedar dura.
+3. En sartén antiadherente pon 2 cucharadas de agua, agrega el huevo y la clara batidos y revuelve a fuego bajo hasta que cuajen suaves.
+4. Rellena la arepita con el huevo y sirve tibia.
+JUSTIFICACION: Conserva el desayuno venezolano que el Usuario 1 acepta, sin grasa añadida y con proteína para estabilizar la glicemia. Concha blanda para no raspar la mucosa erosionada. Sin linaza en la masa mientras haya diarrea: su efecto laxante no conviene ahora.
+ADVERTENCIAS: Sin mantequilla, queso amarillo ni salsas.|Sin linaza ni chía hasta que las heces sean formadas.
+VALOR_NUTRICIONAL:
+Calorías: ~235 kcal
+Proteínas: ~13 g
+Carbohidratos: ~31 g
+Grasas: ~5 g
+Fibra: ~1,5 g
+Sodio: ~250 mg
+IG: Medio
+VINCULAR_CON:
+• Merienda AM: Bastoncitos de Batata Horneada con Huevo Duro
+• Almuerzo (principal): Albondiguitas Tiernas de Pollo en Caldo Claro
+• Almuerzo (guarnición): Ñame Sancochado Suave
+• Almuerzo (vegetal): Auyama y Chayote al Vapor con Perejil
+• Sopa (opcional): Crema de Calabacín y Papa
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Cena: Pescado en Papillote con Calabacín y Zanahoria
+• Postre: Lechosa Tibia con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión Suave de Hierbabuena
+• Cierre Nocturno: Taza de Caldo Claro Desgrasado
+--FIN_RECETA--
+
+--RECETA--
+ID: avena-cremosa-de-cambur-con-huevo-duro
+TITULO: Avena Cremosa de Cambur con Huevo Duro
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Desayuno
+PORCIONES: 1
+ICONO: 🥣
+ETIQUETAS: Malestar estomacal, Betaglucanos, Bajo FODMAP, Antidiarreico, Canela
+CONCEPTO: Avena cocida en agua con cambur semimaduro y una pizca de canela, con un huevo duro al lado. Alternativa de desayuno cuando ya se quiere variar.
+INGREDIENTES:
+• Avena en hojuelas — ⅓ taza (27 g)
+• Agua — 1 taza
+• Cambur semimaduro — ½ unidad pequeña
+• Canela en polvo — 1 pizca
+• Stevia — al gusto
+• Huevo — 1 unidad
+PREPARACION:
+1. Cocina el huevo 10 minutos en agua hirviendo; enfría y pela.
+2. Hierve la avena en el agua a fuego bajo 6-8 minutos, removiendo, hasta que quede cremosa.
+3. Agrega el cambur machacado, la canela y la stevia. Cocina 1 minuto más.
+4. Sirve tibia con el huevo duro al lado.
+JUSTIFICACION: Los betaglucanos de la avena son fibra soluble: forman un gel que ayuda a dar consistencia a las heces y amortigua la glicemia. ⅓ taza se mantiene baja en FODMAP. El huevo completa la proteína del desayuno.
+ADVERTENCIAS: Avena cocida en agua, no en leche.|Canela solo una pizca (dosis altas irritan la mucosa).
+VALOR_NUTRICIONAL:
+Calorías: ~225 kcal
+Proteínas: ~10 g
+Carbohidratos: ~31 g
+Grasas: ~6,5 g
+Fibra: ~4 g
+Sodio: ~75 mg
+IG: Bajo
+VINCULAR_CON:
+• Desayuno: Puré de Cambur Verde con Huevo Pochado
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (principal): Pescado Blanco al Vapor con Perejil
+• Almuerzo (guarnición): Puré de Papa y Zanahoria sin Grasa
+• Almuerzo (vegetal): Chayote Sancochado Tibio
+• Sopa (opcional): Sopa Reparadora de Pollo con Arroz y Zanahoria
+• Merienda PM: Crema de Papa y Zanahoria
+• Cena: Arepita Blanda con Pollo Desmechado Suave
+• Postre: Cambur Horneado con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión de Manzanilla y Jengibre Suave
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--
+
+--RECETA--
+ID: yogur-natural-con-cambur-semimaduro
+TITULO: Yogur Natural con Cambur Semimaduro
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Merienda AM
+PORCIONES: 1
+ICONO: yogur
+ETIQUETAS: Malestar estomacal, Probiótico, Bajo FODMAP, Rápida, Potasio
+CONCEPTO: Porción pequeña de yogur natural con medio cambur semimaduro: probióticos y potasio.
+INGREDIENTES:
+• Yogur natural sin azúcar — 3 cucharadas (45 g)
+• Cambur semimaduro — ½ unidad pequeña
+PREPARACION:
+1. Saca el yogur de la nevera 10 minutos antes para que no esté frío.
+2. Corta el cambur en rodajas y mézclalo con el yogur.
+JUSTIFICACION: El yogur aporta probióticos para recuperar la microbiota alterada por la diarrea; el cambur repone potasio. La porción es pequeña porque tras un cuadro diarreico puede haber intolerancia transitoria a la lactosa: 3 cucharadas se mantienen bajas en lactosa.
+ADVERTENCIAS: Si aumentan los cólicos o la diarrea tras el yogur, suspenderlo unos días.|Yogur sin azúcar ni sabor.|No comerlo frío de nevera.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal
+Proteínas: ~2,5 g
+Carbohidratos: ~15 g
+Grasas: ~1,5 g
+Fibra: ~1,5 g
+Potasio: ~260 mg
+IG: Bajo
+SI_NO_LO_TOLERA:
+• Cambiar por Huevos de Codorniz Cocidos con Medio Cambur.
+VINCULAR_CON:
+• Desayuno: Puré de Cambur Verde con Huevo Pochado, Avena Cremosa de Cambur con Huevo Duro
+• Almuerzo (principal): Pescado Blanco al Vapor con Perejil
+• Almuerzo (guarnición): Puré de Papa y Zanahoria sin Grasa
+• Almuerzo (vegetal): Chayote Sancochado Tibio
+• Sopa (opcional): Sopa Reparadora de Pollo con Arroz y Zanahoria
+• Merienda PM: Crema de Papa y Zanahoria
+• Cena: Arepita Blanda con Pollo Desmechado Suave
+• Postre: Cambur Horneado con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión de Manzanilla y Jengibre Suave
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--
+
+--RECETA--
+ID: huevos-de-codorniz-cocidos-con-medio-cambur
+TITULO: Huevos de Codorniz Cocidos con Medio Cambur
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Merienda AM
+PORCIONES: 1
+ICONO: huevo
+ETIQUETAS: Malestar estomacal, Proteína, Sin lácteos, Bajo FODMAP, Rápida
+CONCEPTO: Cuatro huevitos de codorniz cocidos con medio cambur semimaduro: merienda proteica, sin lácteos y sin grasa añadida.
+INGREDIENTES:
+• Huevos de codorniz — 4 unidades
+• Cambur semimaduro — ½ unidad pequeña
+• Sal — 1 pizca (opcional)
+PREPARACION:
+1. Hierve los huevos de codorniz 4 minutos. Pásalos a agua fría y pélalos.
+2. Sirve con el cambur en rodajas.
+JUSTIFICACION: Proteína completa que estabiliza la glicemia entre comidas, sin lactosa (útil si el yogur da cólicos). El cambur aporta potasio y carbohidrato suave.
+ADVERTENCIAS: Bien cocidos, nunca tiernos.|Masticar despacio.
+VALOR_NUTRICIONAL:
+Calorías: ~105 kcal
+Proteínas: ~5 g
+Carbohidratos: ~13 g
+Grasas: ~4 g
+Fibra: ~1,5 g
+Sodio: ~100 mg
+IG: Bajo
+CONSERVACION:
+Cocidos y sin pelar, refrigerados hasta 3 días.
+VINCULAR_CON:
+• Desayuno: Panquequitas Blandas de Cambur Verde y Huevo
+• Almuerzo (principal): Pollo Desmechado en Salsa Suave de Zanahoria
+• Almuerzo (guarnición): Arroz Blanco Suave con Perejil
+• Almuerzo (vegetal): Calabacín y Zanahoria al Vapor
+• Sopa (opcional): Caldo Claro de Pescado con Papa
+• Merienda PM: Crema Suave de Auyama y Papa
+• Cena: Tortilla Ligera de Papa y Calabacín al Horno
+• Postre: Arroz Cremoso con Canela sin Leche
+• Bebida: Suero de Rehidratación Oral Casero, Agua de Coco Natural
+• Cierre Nocturno: Agua de Arroz Tibia con Vainilla
+--FIN_RECETA--
+
+--RECETA--
+ID: bastoncitos-de-batata-horneada-con-huevo-duro
+TITULO: Bastoncitos de Batata Horneada con Huevo Duro
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Merienda AM
+PORCIONES: 1
+ICONO: 🍠
+ETIQUETAS: Malestar estomacal, Horno, Sin fritura, Bajo FODMAP, Betacaroteno
+CONCEPTO: Bastones de batata horneados sin aceite, suaves por dentro, con una pizca de canela y un huevo duro para equilibrar.
+INGREDIENTES:
+• Batata — 75 g (un trozo mediano)
+• Canela en polvo — 1 pizca
+• Huevo — 1 unidad
+PREPARACION:
+1. Precalienta el horno a 200 °C y cubre una bandeja con papel encerado.
+2. Pela la batata y córtala en bastones de 1 cm. Espolvorea la canela.
+3. Hornea 20-25 minutos, volteando a la mitad, hasta que estén tiernos.
+4. Mientras, cocina el huevo 10 minutos; enfría y pela. Sirve todo tibio.
+JUSTIFICACION: La batata aporta betacaroteno (regeneración de la mucosa) y almidón suave. Se limita a ~75 g porque en porciones mayores sube su contenido de polioles (FODMAP) y podría aumentar los cólicos. El huevo evita que sea un carbohidrato solo, protegiendo la glicemia.
+ADVERTENCIAS: No pasar de ~75 g de batata por toma.|Sin aceite ni sal en exceso.|Pelar la batata.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal
+Proteínas: ~7,5 g
+Carbohidratos: ~15 g
+Grasas: ~5 g
+Fibra: ~2,2 g
+Sodio: ~110 mg
+IG: Medio
+VINCULAR_CON:
+• Desayuno: Arepita Blanda con Huevo Revuelto al Vapor
+• Almuerzo (principal): Albondiguitas Tiernas de Pollo en Caldo Claro
+• Almuerzo (guarnición): Ñame Sancochado Suave
+• Almuerzo (vegetal): Auyama y Chayote al Vapor con Perejil
+• Sopa (opcional): Crema de Calabacín y Papa
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Cena: Pescado en Papillote con Calabacín y Zanahoria
+• Postre: Lechosa Tibia con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión Suave de Hierbabuena
+• Cierre Nocturno: Taza de Caldo Claro Desgrasado
+--FIN_RECETA--
+
+--RECETA--
+ID: pescado-blanco-al-vapor-con-perejil
+TITULO: Pescado Blanco al Vapor con Perejil
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 1
+ICONO: pescado
+ETIQUETAS: Malestar estomacal, Alta proteína, Al vapor, Sin grasa, Bajo FODMAP
+CONCEPTO: Filete de pescado blanco magro cocido al vapor, tierno y desmenuzable, con perejil fresco picado fino.
+INGREDIENTES:
+• Filete de pescado blanco magro (merluza, mero o pargo) — 120 g
+• Perejil fresco — 1 cucharadita picado muy fino
+• Sal — 1 pizca
+PREPARACION:
+1. Revisa el filete y retira cualquier espina.
+2. Colócalo en un colador o vaporera sobre una olla con agua hirviendo, tapado.
+3. Cocina 8-10 minutos, hasta que esté opaco y se separe en lascas con un tenedor.
+4. Añade la sal y el perejil. Sirve tibio.
+JUSTIFICACION: El pescado blanco magro es de las proteínas más digeribles: poca grasa y fibras musculares cortas. Al vapor no se añade grasa, lo que evita estimular el reflejo gastrocólico y los cólicos. Pescados grasos (sardina, atún) se dejan para después.
+ADVERTENCIAS: Retirar todas las espinas.|Sin limón ni salsas mientras haya cólicos.|Pescado fresco y bien cocido.
+VALOR_NUTRICIONAL:
+Calorías: ~105 kcal
+Proteínas: ~22 g
+Carbohidratos: ~0 g
+Grasas: ~1,5 g
+Sodio: ~170 mg
+IG: Bajo
+CONSERVACION:
+Mejor recién hecho. Si sobra, refrigerar máximo 1 día.
+VINCULAR_CON:
+• Desayuno: Puré de Cambur Verde con Huevo Pochado, Avena Cremosa de Cambur con Huevo Duro
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (guarnición): Puré de Papa y Zanahoria sin Grasa
+• Almuerzo (vegetal): Chayote Sancochado Tibio
+• Sopa (opcional): Sopa Reparadora de Pollo con Arroz y Zanahoria
+• Merienda PM: Crema de Papa y Zanahoria
+• Cena: Arepita Blanda con Pollo Desmechado Suave
+• Postre: Cambur Horneado con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión de Manzanilla y Jengibre Suave
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--
+
+--RECETA--
+ID: pollo-desmechado-en-salsa-suave-de-zanahoria
+TITULO: Pollo Desmechado en Salsa Suave de Zanahoria
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 1
+ICONO: pollo
+ETIQUETAS: Malestar estomacal, Alta proteína, Sin fritura, Bajo FODMAP, Sin ajo ni cebolla
+CONCEPTO: Pollo desmechado en una salsa naranja y aterciopelada de zanahoria cocida, con un hilo opcional de aceite de oliva al final.
+INGREDIENTES:
+• Pechuga de pollo sin piel — 100 g
+• Zanahoria — 1 mediana (80 g)
+• Caldo de cocción del pollo, desgrasado — ½ taza
+• Aceite de oliva extra virgen — ½ cucharadita (opcional)
+• Sal — 1 pizca
+PREPARACION:
+1. Hierve el pollo con la zanahoria en trozos por 20 minutos. Desgrasa el caldo.
+2. Desmecha el pollo fino.
+3. Licúa la zanahoria cocida con ½ taza del caldo y la sal hasta lograr una salsa lisa.
+4. Calienta la salsa a fuego bajo, agrega el pollo y deja integrar 3-4 minutos.
+5. Fuera del fuego, añade el aceite de oliva en crudo (solo si los cólicos están cediendo). Sirve tibio.
+JUSTIFICACION: Ración completa de proteína magra. La salsa de zanahoria da sabor y color sin tomate, ajo ni cebolla, que irritarían la mucosa o fermentarían (ajo y cebolla son altos en fructanos, un FODMAP clave en los cólicos).
+ADVERTENCIAS: El aceite es opcional: omitirlo si los cólicos son intensos.|Sin tomate, ajo ni cebolla.
+VALOR_NUTRICIONAL:
+Calorías: ~215 kcal
+Proteínas: ~32 g
+Carbohidratos: ~8 g
+Grasas: ~6 g
+Fibra: ~2,5 g
+Sodio: ~250 mg
+IG: Bajo
+CONSERVACION:
+Refrigerado hasta 2 días. Recalentar a fuego bajo con un chorrito de agua.
+VINCULAR_CON:
+• Desayuno: Panquequitas Blandas de Cambur Verde y Huevo
+• Merienda AM: Huevos de Codorniz Cocidos con Medio Cambur
+• Almuerzo (guarnición): Arroz Blanco Suave con Perejil
+• Almuerzo (vegetal): Calabacín y Zanahoria al Vapor
+• Sopa (opcional): Caldo Claro de Pescado con Papa
+• Merienda PM: Crema Suave de Auyama y Papa
+• Cena: Tortilla Ligera de Papa y Calabacín al Horno
+• Postre: Arroz Cremoso con Canela sin Leche
+• Bebida: Suero de Rehidratación Oral Casero, Agua de Coco Natural
+• Cierre Nocturno: Agua de Arroz Tibia con Vainilla
+--FIN_RECETA--
+
+--RECETA--
+ID: albondiguitas-tiernas-de-pollo-en-caldo-claro
+TITULO: Albondiguitas Tiernas de Pollo en Caldo Claro
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 1 (8 albondiguitas)
+ICONO: pollo
+ETIQUETAS: Malestar estomacal, Alta proteína, Sin fritura, Bajo FODMAP, Textura suave
+CONCEPTO: Albondiguitas pequeñas de pollo con arroz, escalfadas en un caldo claro con zanahoria. Tiernas, jugosas y muy fáciles de digerir.
+INGREDIENTES:
+• Pechuga de pollo molida (sin piel) — 100 g
+• Arroz blanco cocido — 2 cucharadas
+• Clara de huevo — 1 unidad
+• Perejil fresco — 1 cucharadita picado
+• Zanahoria — ½ unidad (40 g) en rodajas
+• Agua — 2 tazas
+• Sal — 1 pizca
+PREPARACION:
+1. Si no consigues pollo molido, pica la pechuga muy fina o pásala por el procesador.
+2. Mezcla el pollo con el arroz, la clara, el perejil y la sal. Forma 8 bolitas del tamaño de una nuez, con las manos húmedas.
+3. Hierve el agua con la zanahoria. Baja a fuego suave y agrega las albondiguitas una por una.
+4. Cocina 15 minutos a fuego bajo, sin que hierva fuerte, hasta que estén cocidas por dentro.
+5. Sirve las albondiguitas con un poco del caldo y la zanahoria.
+JUSTIFICACION: El pollo molido es más fácil de digerir que en trozos, y escalfado en caldo no necesita grasa. El caldo suma hidratación y sodio, que se pierden con la diarrea. Todos los ingredientes son bajos en FODMAP.
+ADVERTENCIAS: Cocción suave para que no se desarmen.|Verificar que estén cocidas en el centro (sin partes rosadas).
+VALOR_NUTRICIONAL:
+Calorías: ~175 kcal
+Proteínas: ~27 g
+Carbohidratos: ~9 g
+Grasas: ~3 g
+Fibra: ~1 g
+Sodio: ~300 mg
+IG: Bajo
+CONSERVACION:
+Refrigeradas en su caldo hasta 2 días. Se pueden congelar crudas hasta 1 mes.
+VINCULAR_CON:
+• Desayuno: Arepita Blanda con Huevo Revuelto al Vapor
+• Merienda AM: Bastoncitos de Batata Horneada con Huevo Duro
+• Almuerzo (guarnición): Ñame Sancochado Suave
+• Almuerzo (vegetal): Auyama y Chayote al Vapor con Perejil
+• Sopa (opcional): Crema de Calabacín y Papa
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Cena: Pescado en Papillote con Calabacín y Zanahoria
+• Postre: Lechosa Tibia con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión Suave de Hierbabuena
+• Cierre Nocturno: Taza de Caldo Claro Desgrasado
+--FIN_RECETA--
+
+--RECETA--
+ID: pure-de-papa-y-zanahoria-sin-grasa
+TITULO: Puré de Papa y Zanahoria sin Grasa
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 1
+ICONO: 🥔
+ETIQUETAS: Malestar estomacal, Guarnición, Sin grasa, Bajo FODMAP, Textura suave
+CONCEPTO: Guarnición suave y cremosa hecha solo con papa, zanahoria y su propia agua de cocción.
+INGREDIENTES:
+• Papa — 1 mediana (150 g), pelada
+• Zanahoria — ½ unidad (50 g)
+• Sal — 1 pizca
+PREPARACION:
+1. Sancocha papa y zanahoria en trozos 20 minutos hasta que estén muy blandas.
+2. Reserva ¼ taza del agua de cocción.
+3. Tritura agregando agua de cocción hasta la textura deseada.
+4. Ajusta la sal y sirve tibio.
+JUSTIFICACION: Guarnición sustanciosa adaptada a la diarrea: almidón de fácil digestión y pectina de zanahoria, sin mantequilla ni leche.
+ADVERTENCIAS: Sin mantequilla ni leche.|Al terminar el cuadro, la papa vuelve a limitarse por IG (preferir batata).
+VALOR_NUTRICIONAL:
+Calorías: ~135 kcal
+Proteínas: ~3 g
+Carbohidratos: ~30 g
+Grasas: <1 g
+Fibra: ~3 g
+Sodio: ~150 mg
+IG: Medio
+VINCULAR_CON:
+• Desayuno: Puré de Cambur Verde con Huevo Pochado, Avena Cremosa de Cambur con Huevo Duro
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (principal): Pescado Blanco al Vapor con Perejil
+• Almuerzo (vegetal): Chayote Sancochado Tibio
+• Sopa (opcional): Sopa Reparadora de Pollo con Arroz y Zanahoria
+• Merienda PM: Crema de Papa y Zanahoria
+• Cena: Arepita Blanda con Pollo Desmechado Suave
+• Postre: Cambur Horneado con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión de Manzanilla y Jengibre Suave
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--
+
+--RECETA--
+ID: arroz-blanco-suave-con-perejil
+TITULO: Arroz Blanco Suave con Perejil
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 1
+ICONO: arroz
+ETIQUETAS: Malestar estomacal, Guarnición, Bajo FODMAP, Antidiarreico, Sin sofrito
+CONCEPTO: Arroz blanco bien cocido, tierno, con perejil fresco picado. Sin sofrito.
+INGREDIENTES:
+• Arroz blanco crudo — ¼ taza (50 g)
+• Agua — ¾ taza
+• Perejil fresco — 1 cucharadita picado
+• Sal — 1 pizca
+PREPARACION:
+1. Lava el arroz hasta que el agua salga clara.
+2. Hierve el agua con la sal, agrega el arroz, tapa y cocina a fuego bajo 18-20 minutos.
+3. Deja reposar tapado 5 minutos, suelta con tenedor y mezcla el perejil.
+JUSTIFICACION: El arroz blanco es uno de los almidones mejor tolerados en diarrea: casi sin fibra, sin grasa y bajo en FODMAP. Se usa blanco y no integral solo mientras dure el cuadro.
+ADVERTENCIAS: Sin sofrito de ajo ni cebolla.|Porción controlada: ½ taza cocida.
+VALOR_NUTRICIONAL:
+Calorías: ~180 kcal
+Proteínas: ~3,5 g
+Carbohidratos: ~40 g
+Grasas: <1 g
+Fibra: ~0,5 g
+Sodio: ~100 mg
+IG: Alto (amortiguado con la proteína del plato)
+NOTAS_DEL_CHEF:
+• Cuando las heces sean formadas, pasa a mitad blanco y mitad integral, y luego a integral.
+VINCULAR_CON:
+• Desayuno: Panquequitas Blandas de Cambur Verde y Huevo
+• Merienda AM: Huevos de Codorniz Cocidos con Medio Cambur
+• Almuerzo (principal): Pollo Desmechado en Salsa Suave de Zanahoria
+• Almuerzo (vegetal): Calabacín y Zanahoria al Vapor
+• Sopa (opcional): Caldo Claro de Pescado con Papa
+• Merienda PM: Crema Suave de Auyama y Papa
+• Cena: Tortilla Ligera de Papa y Calabacín al Horno
+• Postre: Arroz Cremoso con Canela sin Leche
+• Bebida: Suero de Rehidratación Oral Casero, Agua de Coco Natural
+• Cierre Nocturno: Agua de Arroz Tibia con Vainilla
+--FIN_RECETA--
+
+--RECETA--
+ID: name-sancochado-suave
+TITULO: Ñame Sancochado Suave
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 1
+ICONO: 🍠
+ETIQUETAS: Malestar estomacal, Guarnición, IG bajo, Bajo FODMAP, Sin grasa
+CONCEPTO: Ñame sancochado hasta quedar tierno, servido en trozos o ligeramente aplastado con un poco de su agua.
+INGREDIENTES:
+• Ñame — 120 g, pelado
+• Sal — 1 pizca
+• Perejil — unas hojitas (opcional)
+PREPARACION:
+1. Pela el ñame (usa guantes si te pica la piel) y córtalo en trozos.
+2. Sancocha 20-25 minutos hasta que esté muy tierno.
+3. Escurre, aplasta ligeramente con tenedor y un chorrito del agua de cocción. Añade la sal.
+JUSTIFICACION: Tubérculo criollo de índice glucémico bajo, suave y sin grasa, que da variedad frente a papa y arroz sin comprometer la glicemia del Usuario 1.
+ADVERTENCIAS: Bien cocido y blando.|Porción: unos 120 g.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal
+Proteínas: ~2 g
+Carbohidratos: ~33 g
+Grasas: <1 g
+Fibra: ~4 g
+Sodio: ~100 mg
+IG: Bajo
+VINCULAR_CON:
+• Desayuno: Arepita Blanda con Huevo Revuelto al Vapor
+• Merienda AM: Bastoncitos de Batata Horneada con Huevo Duro
+• Almuerzo (principal): Albondiguitas Tiernas de Pollo en Caldo Claro
+• Almuerzo (vegetal): Auyama y Chayote al Vapor con Perejil
+• Sopa (opcional): Crema de Calabacín y Papa
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Cena: Pescado en Papillote con Calabacín y Zanahoria
+• Postre: Lechosa Tibia con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión Suave de Hierbabuena
+• Cierre Nocturno: Taza de Caldo Claro Desgrasado
+--FIN_RECETA--
+
+--RECETA--
+ID: chayote-sancochado-tibio
+TITULO: Chayote Sancochado Tibio
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 1
+ICONO: verduras
+ETIQUETAS: Malestar estomacal, Vegetal cocido, Sustituto de ensalada, Bajo FODMAP, Sin grasa
+CONCEPTO: Sustituto cocido de la ensalada mientras haya cólicos: chayote tierno en cubos, suave y neutro.
+INGREDIENTES:
+• Chayote — ½ unidad (100 g), pelado y sin semilla
+• Sal — 1 pizca
+• Perejil — unas hojitas (opcional)
+PREPARACION:
+1. Pela el chayote, retira la semilla y córtalo en cubos.
+2. Sancocha 10-12 minutos hasta que esté tierno.
+3. Escurre, añade la sal y el perejil. Sirve tibio.
+JUSTIFICACION: Ocupa el lugar de la ensalada sin fibra cruda ni gases (los gases agravan los cólicos y presionan la hernia). Suave, neutro y bajo en FODMAP.
+ADVERTENCIAS: Sin vinagre ni limón.|Pelar bien.
+VALOR_NUTRICIONAL:
+Calorías: ~20 kcal
+Proteínas: ~0,8 g
+Carbohidratos: ~4,5 g
+Fibra: ~1,7 g
+Sodio: ~80 mg
+IG: Bajo
+VINCULAR_CON:
+• Desayuno: Puré de Cambur Verde con Huevo Pochado, Avena Cremosa de Cambur con Huevo Duro
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (principal): Pescado Blanco al Vapor con Perejil
+• Almuerzo (guarnición): Puré de Papa y Zanahoria sin Grasa
+• Sopa (opcional): Sopa Reparadora de Pollo con Arroz y Zanahoria
+• Merienda PM: Crema de Papa y Zanahoria
+• Cena: Arepita Blanda con Pollo Desmechado Suave
+• Postre: Cambur Horneado con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión de Manzanilla y Jengibre Suave
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--
+
+--RECETA--
+ID: calabacin-y-zanahoria-al-vapor
+TITULO: Calabacín y Zanahoria al Vapor
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 1
+ICONO: verduras
+ETIQUETAS: Malestar estomacal, Vegetal cocido, Sustituto de ensalada, Bajo FODMAP, Al vapor
+CONCEPTO: Calabacín pelado y zanahoria tiernos al vapor, en reemplazo de la ensalada cruda.
+INGREDIENTES:
+• Calabacín — 65 g (½ taza en medias lunas), pelado
+• Zanahoria — 40 g en rodajas finas
+• Perejil — unas hojitas (opcional)
+• Sal — 1 pizca
+PREPARACION:
+1. Corta el calabacín pelado en medias lunas y la zanahoria en rodajas finas.
+2. Cocina al vapor la zanahoria 5 minutos, agrega el calabacín y cocina 5 minutos más.
+3. Añade la sal y el perejil. Sirve tibio.
+JUSTIFICACION: Calabacín (en ~65 g) y zanahoria son bajos en FODMAP y no producen gases. Pelado y al vapor, el calabacín pierde su parte más fibrosa.
+ADVERTENCIAS: Mantener el calabacín en ~65 g por toma (por encima sube en FODMAP).|Sin vinagre ni limón.
+VALOR_NUTRICIONAL:
+Calorías: ~25 kcal
+Proteínas: ~1 g
+Carbohidratos: ~5,5 g
+Fibra: ~1,8 g
+Sodio: ~90 mg
+IG: Bajo
+VINCULAR_CON:
+• Desayuno: Panquequitas Blandas de Cambur Verde y Huevo
+• Merienda AM: Huevos de Codorniz Cocidos con Medio Cambur
+• Almuerzo (principal): Pollo Desmechado en Salsa Suave de Zanahoria
+• Almuerzo (guarnición): Arroz Blanco Suave con Perejil
+• Sopa (opcional): Caldo Claro de Pescado con Papa
+• Merienda PM: Crema Suave de Auyama y Papa
+• Cena: Tortilla Ligera de Papa y Calabacín al Horno
+• Postre: Arroz Cremoso con Canela sin Leche
+• Bebida: Suero de Rehidratación Oral Casero, Agua de Coco Natural
+• Cierre Nocturno: Agua de Arroz Tibia con Vainilla
+--FIN_RECETA--
+
+--RECETA--
+ID: auyama-y-chayote-al-vapor-con-perejil
+TITULO: Auyama y Chayote al Vapor con Perejil
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 1
+ICONO: verduras
+ETIQUETAS: Malestar estomacal, Vegetal cocido, Sustituto de ensalada, Betacaroteno, Bajo FODMAP
+CONCEPTO: Cubos de auyama y chayote al vapor, con color, dulzor suave y perejil fresco.
+INGREDIENTES:
+• Auyama — 45 g (⅓ taza en cubos), pelada
+• Chayote — 80 g, pelado y sin semilla
+• Perejil fresco — 1 cucharadita picado
+• Sal — 1 pizca
+PREPARACION:
+1. Corta auyama y chayote en cubos del mismo tamaño.
+2. Cocina al vapor 10-12 minutos hasta que estén tiernos.
+3. Añade la sal y el perejil. Sirve tibio.
+JUSTIFICACION: La auyama aporta betacaroteno para la regeneración de la mucosa; se limita a ~45 g porque en porciones mayores sube en FODMAP. El chayote completa el volumen sin ese riesgo.
+ADVERTENCIAS: No superar ~45 g de auyama por toma.|Sin vinagre ni limón.
+VALOR_NUTRICIONAL:
+Calorías: ~27 kcal
+Proteínas: ~0,8 g
+Carbohidratos: ~6 g
+Fibra: ~1,8 g
+Sodio: ~80 mg
+IG: Bajo
+VINCULAR_CON:
+• Desayuno: Arepita Blanda con Huevo Revuelto al Vapor
+• Merienda AM: Bastoncitos de Batata Horneada con Huevo Duro
+• Almuerzo (principal): Albondiguitas Tiernas de Pollo en Caldo Claro
+• Almuerzo (guarnición): Ñame Sancochado Suave
+• Sopa (opcional): Crema de Calabacín y Papa
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Cena: Pescado en Papillote con Calabacín y Zanahoria
+• Postre: Lechosa Tibia con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión Suave de Hierbabuena
+• Cierre Nocturno: Taza de Caldo Claro Desgrasado
+--FIN_RECETA--
+
+--RECETA--
+ID: sopa-reparadora-de-pollo-con-arroz-y-zanahoria
+TITULO: Sopa Reparadora de Pollo con Arroz y Zanahoria
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 1
+ICONO: sopa
+ETIQUETAS: Malestar estomacal, Sopa, Hidratación, Sin grasa, Bajo FODMAP
+CONCEPTO: Sopa clásica de convalecencia: pollo desmenuzado, arroz muy cocido, papa y zanahoria en caldo desgrasado. Sirve como sopa del almuerzo o como plato único en un día de muchos cólicos.
+INGREDIENTES:
+• Pechuga de pollo sin piel — 60 g
+• Arroz blanco crudo — 2 cucharadas
+• Zanahoria — ½ unidad (40 g)
+• Papa — ½ unidad pequeña (50 g), pelada
+• Agua — 2 tazas
+• Sal — 1 pizca
+PREPARACION:
+1. Hierve el pollo en el agua 20 minutos. Retira la grasa de la superficie.
+2. Agrega el arroz lavado, la zanahoria y la papa en cubos pequeños.
+3. Cocina 20-25 minutos más, hasta que el arroz quede muy blando.
+4. Desmenuza el pollo fino, regrésalo a la olla y ajusta la sal. Sirve tibia.
+JUSTIFICACION: El caldo hidrata y repone sodio y potasio. Arroz, papa y zanahoria cocidos son almidones suaves con pectina; el pollo aporta proteína sin grasa.
+ADVERTENCIAS: Desgrasar bien el caldo.|Sin ajo, cebolla ni cubitos.
+VALOR_NUTRICIONAL:
+Calorías: ~180 kcal
+Proteínas: ~16 g
+Carbohidratos: ~22 g
+Grasas: ~2 g
+Fibra: ~2 g
+Sodio: ~300 mg
+IG: Medio
+CONSERVACION:
+Refrigerada hasta 2 días. Recalentar a fuego bajo con un chorrito de agua.
+NOTAS_DEL_CHEF:
+• Si se sirve como plato único, duplica el pollo a 120 g.
+VINCULAR_CON:
+• Desayuno: Puré de Cambur Verde con Huevo Pochado, Avena Cremosa de Cambur con Huevo Duro
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (principal): Pescado Blanco al Vapor con Perejil
+• Almuerzo (guarnición): Puré de Papa y Zanahoria sin Grasa
+• Almuerzo (vegetal): Chayote Sancochado Tibio
+• Merienda PM: Crema de Papa y Zanahoria
+• Cena: Arepita Blanda con Pollo Desmechado Suave
+• Postre: Cambur Horneado con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión de Manzanilla y Jengibre Suave
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--
+
+--RECETA--
+ID: caldo-claro-de-pescado-con-papa
+TITULO: Caldo Claro de Pescado con Papa
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 1
+ICONO: caldo
+ETIQUETAS: Malestar estomacal, Sopa, Hidratación, Bajo FODMAP, Sin grasa
+CONCEPTO: Caldo ligero de pescado blanco con papa y zanahoria, perfumado con perejil.
+INGREDIENTES:
+• Pescado blanco magro — 80 g, sin espinas
+• Papa — 1 pequeña (100 g), pelada
+• Zanahoria — ¼ unidad (30 g)
+• Perejil — 1 ramita
+• Agua — 2 tazas
+• Sal — 1 pizca
+PREPARACION:
+1. Hierve el agua con la papa y la zanahoria en cubos pequeños por 15 minutos.
+2. Agrega el pescado en trozos y la ramita de perejil. Cocina a fuego bajo 6-8 minutos.
+3. Retira la ramita, ajusta la sal y sirve tibio.
+JUSTIFICACION: Variedad de proteína en formato líquido: hidrata, aporta sodio y proteína muy digerible, sin grasa ni irritantes.
+ADVERTENCIAS: Revisar espinas antes de servir.|Sin limón.
+VALOR_NUTRICIONAL:
+Calorías: ~160 kcal
+Proteínas: ~17 g
+Carbohidratos: ~20 g
+Grasas: ~1 g
+Fibra: ~2 g
+Sodio: ~280 mg
+IG: Medio
+VINCULAR_CON:
+• Desayuno: Panquequitas Blandas de Cambur Verde y Huevo
+• Merienda AM: Huevos de Codorniz Cocidos con Medio Cambur
+• Almuerzo (principal): Pollo Desmechado en Salsa Suave de Zanahoria
+• Almuerzo (guarnición): Arroz Blanco Suave con Perejil
+• Almuerzo (vegetal): Calabacín y Zanahoria al Vapor
+• Merienda PM: Crema Suave de Auyama y Papa
+• Cena: Tortilla Ligera de Papa y Calabacín al Horno
+• Postre: Arroz Cremoso con Canela sin Leche
+• Bebida: Suero de Rehidratación Oral Casero, Agua de Coco Natural
+• Cierre Nocturno: Agua de Arroz Tibia con Vainilla
+--FIN_RECETA--
+
+--RECETA--
+ID: crema-de-calabacin-y-papa
+TITULO: Crema de Calabacín y Papa
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 1
+ICONO: crema
+ETIQUETAS: Malestar estomacal, Sopa, Crema, Bajo FODMAP, Sin lácteos
+CONCEPTO: Crema verde clara, lisa y tibia, de calabacín pelado y papa.
+INGREDIENTES:
+• Calabacín — 65 g, pelado
+• Papa — 1 pequeña (100 g), pelada
+• Caldo de pollo desgrasado o agua — 1 taza
+• Sal — 1 pizca
+PREPARACION:
+1. Sancocha la papa y el calabacín en cubos 15 minutos.
+2. Licúa con el caldo hasta obtener una crema lisa.
+3. Ajusta la sal y sirve tibia.
+JUSTIFICACION: Sopa suave baja en FODMAP y sin lácteos; el calabacín pelado aporta volumen sin fibra irritante.
+ADVERTENCIAS: Sin leche ni crema.|Calabacín máximo ~65 g.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal
+Proteínas: ~2,5 g
+Carbohidratos: ~20 g
+Grasas: <1 g
+Fibra: ~2,5 g
+Sodio: ~200 mg
+IG: Medio
+VINCULAR_CON:
+• Desayuno: Arepita Blanda con Huevo Revuelto al Vapor
+• Merienda AM: Bastoncitos de Batata Horneada con Huevo Duro
+• Almuerzo (principal): Albondiguitas Tiernas de Pollo en Caldo Claro
+• Almuerzo (guarnición): Ñame Sancochado Suave
+• Almuerzo (vegetal): Auyama y Chayote al Vapor con Perejil
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Cena: Pescado en Papillote con Calabacín y Zanahoria
+• Postre: Lechosa Tibia con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión Suave de Hierbabuena
+• Cierre Nocturno: Taza de Caldo Claro Desgrasado
+--FIN_RECETA--
+
+--RECETA--
+ID: crema-de-papa-y-zanahoria
+TITULO: Crema de Papa y Zanahoria
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Merienda PM
+PORCIONES: 1
+ICONO: crema
+ETIQUETAS: Malestar estomacal, Sin grasa, Bajo FODMAP, Textura suave, Hidratación
+CONCEPTO: Crema fluida y tibia que sostiene hasta la cena sin cargar el estómago.
+INGREDIENTES:
+• Papa — 1 pequeña (80 g), pelada
+• Zanahoria — ½ unidad (30 g)
+• Caldo de pollo desgrasado o agua — ¾ taza
+• Sal — 1 pizca
+PREPARACION:
+1. Sancocha la papa y la zanahoria en cubos 15-20 minutos.
+2. Licúa con el caldo hasta lograr una crema fluida.
+3. Ajusta la sal y sirve tibia.
+JUSTIFICACION: Almidón suave y pectina de zanahoria con líquido extra. Sin grasa ni fibra insoluble.
+ADVERTENCIAS: Sin leche ni crema.|Servir tibia.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal
+Proteínas: ~3 g
+Carbohidratos: ~23 g
+Grasas: <1 g
+Fibra: ~2,5 g
+Sodio: ~200 mg
+IG: Medio
+CONSERVACION:
+Refrigerada hasta 2 días. Aligerar con agua caliente al recalentar.
+VINCULAR_CON:
+• Desayuno: Puré de Cambur Verde con Huevo Pochado, Avena Cremosa de Cambur con Huevo Duro
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (principal): Pescado Blanco al Vapor con Perejil
+• Almuerzo (guarnición): Puré de Papa y Zanahoria sin Grasa
+• Almuerzo (vegetal): Chayote Sancochado Tibio
+• Sopa (opcional): Sopa Reparadora de Pollo con Arroz y Zanahoria
+• Cena: Arepita Blanda con Pollo Desmechado Suave
+• Postre: Cambur Horneado con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión de Manzanilla y Jengibre Suave
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--
+
+--RECETA--
+ID: crema-suave-de-auyama-y-papa
+TITULO: Crema Suave de Auyama y Papa
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Merienda PM
+PORCIONES: 1
+ICONO: crema
+ETIQUETAS: Malestar estomacal, Betacaroteno, Sin grasa, Bajo FODMAP, Textura suave
+CONCEPTO: Crema tibia de auyama en porción controlada, ligada con papa.
+INGREDIENTES:
+• Auyama — 45 g (⅓ taza en cubos)
+• Papa — 1 pequeña (100 g), pelada
+• Caldo de pollo desgrasado o agua — ¾ taza
+• Sal — 1 pizca
+PREPARACION:
+1. Sancocha la auyama y la papa en cubos 15 minutos.
+2. Licúa con el caldo hasta obtener una crema lisa.
+3. Ajusta la sal y sirve tibia.
+JUSTIFICACION: Betacaroteno para la mucosa y fibra soluble suave. La auyama se limita por FODMAP; la papa completa el volumen.
+ADVERTENCIAS: No superar ~45 g de auyama por toma.|Sin leche ni crema.
+VALOR_NUTRICIONAL:
+Calorías: ~95 kcal
+Proteínas: ~2,5 g
+Carbohidratos: ~21 g
+Grasas: <1 g
+Fibra: ~2,5 g
+Sodio: ~200 mg
+IG: Medio
+VINCULAR_CON:
+• Desayuno: Panquequitas Blandas de Cambur Verde y Huevo
+• Merienda AM: Huevos de Codorniz Cocidos con Medio Cambur
+• Almuerzo (principal): Pollo Desmechado en Salsa Suave de Zanahoria
+• Almuerzo (guarnición): Arroz Blanco Suave con Perejil
+• Almuerzo (vegetal): Calabacín y Zanahoria al Vapor
+• Sopa (opcional): Caldo Claro de Pescado con Papa
+• Cena: Tortilla Ligera de Papa y Calabacín al Horno
+• Postre: Arroz Cremoso con Canela sin Leche
+• Bebida: Suero de Rehidratación Oral Casero, Agua de Coco Natural
+• Cierre Nocturno: Agua de Arroz Tibia con Vainilla
+--FIN_RECETA--
+
+--RECETA--
+ID: galletas-blandas-de-avena-y-cambur
+TITULO: Galletas Blandas de Avena y Cambur
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Merienda PM
+PORCIONES: 3 (6 galletas; porción = 2 galletas)
+ICONO: galleta
+ETIQUETAS: Malestar estomacal, Horno, Sin azúcar, Bajo FODMAP, Betaglucanos
+CONCEPTO: Galletas caseras de tres ingredientes, suaves, sin azúcar ni grasa añadida.
+INGREDIENTES:
+• Avena en hojuelas — ½ taza (40 g)
+• Cambur semimaduro — 1 unidad mediana (100 g)
+• Huevo — 1 unidad
+• Canela en polvo — 1 pizca
+• Stevia — al gusto
+PREPARACION:
+1. Precalienta el horno a 180 °C y cubre una bandeja con papel encerado.
+2. Machaca el cambur. Agrega el huevo, la canela y la stevia; bate.
+3. Incorpora la avena y deja reposar 5 minutos.
+4. Forma 6 galletas con una cuchara, aplanándolas un poco.
+5. Hornea 15-18 minutos hasta que estén firmes. Deja enfriar antes de despegar.
+JUSTIFICACION: Fibra soluble de la avena (ayuda a dar consistencia), proteína del huevo y dulzor natural del cambur, sin azúcar ni grasa. Repartido en 6 galletas, el cambur queda en porción baja en FODMAP.
+ADVERTENCIAS: Porción: 2 galletas.|Sin chispas de chocolate ni pasas.
+VALOR_NUTRICIONAL:
+Calorías: ~105 kcal (2 galletas)
+Proteínas: ~4 g
+Carbohidratos: ~17 g
+Grasas: ~2,5 g
+Fibra: ~2 g
+Sodio: ~25 mg
+IG: Bajo
+CONSERVACION:
+En envase hermético refrigerado hasta 3 días. Congeladas hasta 1 mes.
+VINCULAR_CON:
+• Desayuno: Arepita Blanda con Huevo Revuelto al Vapor
+• Merienda AM: Bastoncitos de Batata Horneada con Huevo Duro
+• Almuerzo (principal): Albondiguitas Tiernas de Pollo en Caldo Claro
+• Almuerzo (guarnición): Ñame Sancochado Suave
+• Almuerzo (vegetal): Auyama y Chayote al Vapor con Perejil
+• Sopa (opcional): Crema de Calabacín y Papa
+• Cena: Pescado en Papillote con Calabacín y Zanahoria
+• Postre: Lechosa Tibia con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión Suave de Hierbabuena
+• Cierre Nocturno: Taza de Caldo Claro Desgrasado
+--FIN_RECETA--
+
+--RECETA--
+ID: arepita-blanda-con-pollo-desmechado-suave
+TITULO: Arepita Blanda con Pollo Desmechado Suave
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Cena
+PORCIONES: 1
+ICONO: arepa
+ETIQUETAS: Malestar estomacal, Venezolana, Alta proteína, Sin fritura, Bajo FODMAP
+CONCEPTO: Arepita blanda rellena de pollo desmechado jugoso con zanahoria rallada cocida, sin sofrito. Sin guarnición.
+INGREDIENTES:
+• Harina de maíz precocida — 40 g (⅓ taza)
+• Pechuga de pollo sin piel — 70 g
+• Zanahoria — 20 g, rallada fina
+• Agua tibia — ⅓ taza (masa) + ½ taza (pollo)
+• Sal — 1 pizca
+PREPARACION:
+1. Hierve el pollo 20 minutos y desmecha muy fino.
+2. Cocina el pollo con la zanahoria rallada y ½ taza de agua a fuego bajo 8-10 minutos, hasta que quede jugoso.
+3. Amasa la harina con el agua tibia y la sal; forma una arepa delgada y ásala sin grasa, cocida pero blanda.
+4. Rellena con el pollo y sirve tibia.
+JUSTIFICACION: Proteína magra en formato venezolano. El pollo se jugosea con agua y zanahoria en vez de sofrito con ajo y cebolla, que irritarían la mucosa y fermentarían.
+ADVERTENCIAS: Cenar 2-3 horas antes de acostarse.|Sin ajo, cebolla ni ají.|Concha blanda, no tostada.
+VALOR_NUTRICIONAL:
+Calorías: ~260 kcal
+Proteínas: ~24 g
+Carbohidratos: ~32 g
+Grasas: ~3 g
+Fibra: ~1,5 g
+Sodio: ~250 mg
+IG: Medio
+VINCULAR_CON:
+• Desayuno: Puré de Cambur Verde con Huevo Pochado, Avena Cremosa de Cambur con Huevo Duro
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (principal): Pescado Blanco al Vapor con Perejil
+• Almuerzo (guarnición): Puré de Papa y Zanahoria sin Grasa
+• Almuerzo (vegetal): Chayote Sancochado Tibio
+• Sopa (opcional): Sopa Reparadora de Pollo con Arroz y Zanahoria
+• Merienda PM: Crema de Papa y Zanahoria
+• Postre: Cambur Horneado con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión de Manzanilla y Jengibre Suave
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--
+
+--RECETA--
+ID: tortilla-ligera-de-papa-y-calabacin-al-horno
+TITULO: Tortilla Ligera de Papa y Calabacín al Horno
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Cena
+PORCIONES: 1
+ICONO: huevo
+ETIQUETAS: Malestar estomacal, Horno, Alta proteína, Sin fritura, Baja en grasa
+CONCEPTO: Tortilla esponjosa de huevo con papa cocida y calabacín, horneada sobre papel encerado, sin aceite. Sin guarnición.
+INGREDIENTES:
+• Huevo — 1 unidad entero + 2 claras
+• Papa cocida — 80 g en cubos pequeños
+• Calabacín — 50 g, pelado y rallado
+• Sal — 1 pizca
+PREPARACION:
+1. Precalienta el horno a 180 °C. Forra un molde pequeño con papel encerado.
+2. Exprime el calabacín rallado para quitar el exceso de agua.
+3. Bate el huevo y las claras con la sal; agrega la papa y el calabacín.
+4. Vierte en el molde y hornea 15-20 minutos, hasta que el centro esté firme.
+5. Deja reposar 3 minutos, desmolda y sirve tibia.
+JUSTIFICACION: Cena con proteína completa y poca grasa (solo una yema), moderada en carbohidratos. Horneada sin aceite, no estimula el reflejo gastrocólico como lo haría una tortilla frita.
+ADVERTENCIAS: Cenar 2-3 horas antes de acostarse.|Huevo bien cuajado.|Sin cebolla en la mezcla.
+VALOR_NUTRICIONAL:
+Calorías: ~175 kcal
+Proteínas: ~15 g
+Carbohidratos: ~16 g
+Grasas: ~5 g
+Fibra: ~1,8 g
+Sodio: ~260 mg
+IG: Bajo
+CONSERVACION:
+Refrigerada hasta 2 días. Recalentar al horno 8 minutos a 160 °C.
+VINCULAR_CON:
+• Desayuno: Panquequitas Blandas de Cambur Verde y Huevo
+• Merienda AM: Huevos de Codorniz Cocidos con Medio Cambur
+• Almuerzo (principal): Pollo Desmechado en Salsa Suave de Zanahoria
+• Almuerzo (guarnición): Arroz Blanco Suave con Perejil
+• Almuerzo (vegetal): Calabacín y Zanahoria al Vapor
+• Sopa (opcional): Caldo Claro de Pescado con Papa
+• Merienda PM: Crema Suave de Auyama y Papa
+• Postre: Arroz Cremoso con Canela sin Leche
+• Bebida: Suero de Rehidratación Oral Casero, Agua de Coco Natural
+• Cierre Nocturno: Agua de Arroz Tibia con Vainilla
+--FIN_RECETA--
+
+--RECETA--
+ID: pescado-en-papillote-con-calabacin-y-zanahoria
+TITULO: Pescado en Papillote con Calabacín y Zanahoria
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Cena
+PORCIONES: 1
+ICONO: pescado
+ETIQUETAS: Malestar estomacal, Horno, Alta proteína, Bajo FODMAP, Sin fritura
+CONCEPTO: Pescado blanco horneado dentro de un sobre de papel con calabacín y zanahoria: se cocina en su propio vapor y queda jugoso. Plato único, sin guarnición.
+INGREDIENTES:
+• Filete de pescado blanco magro — 120 g, sin espinas
+• Calabacín — 60 g, pelado, en rodajas finas
+• Zanahoria — 40 g, en rodajas finas
+• Perejil fresco — 1 cucharadita picado
+• Aceite de oliva extra virgen — ½ cucharadita
+• Sal — 1 pizca
+PREPARACION:
+1. Precalienta el horno a 200 °C.
+2. Corta un rectángulo grande de papel encerado o aluminio. Coloca la zanahoria y el calabacín en el centro y el pescado encima.
+3. Añade la sal, el perejil y el aceite. Cierra el sobre doblando los bordes varias veces para que no escape el vapor.
+4. Hornea 15-18 minutos. Abre con cuidado (sale vapor caliente) y sirve tibio.
+JUSTIFICACION: La cocción en papillote no necesita grasa extra y conserva la humedad, dando un pescado muy tierno y digerible. Los vegetales se cuecen al vapor dentro del sobre, sin fibra cruda.
+ADVERTENCIAS: Cenar 2-3 horas antes de acostarse.|Abrir el sobre con cuidado.|Calabacín máximo ~65 g.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal
+Proteínas: ~23 g
+Carbohidratos: ~6 g
+Grasas: ~3,5 g
+Fibra: ~1,8 g
+Sodio: ~230 mg
+IG: Bajo
+VINCULAR_CON:
+• Desayuno: Arepita Blanda con Huevo Revuelto al Vapor
+• Merienda AM: Bastoncitos de Batata Horneada con Huevo Duro
+• Almuerzo (principal): Albondiguitas Tiernas de Pollo en Caldo Claro
+• Almuerzo (guarnición): Ñame Sancochado Suave
+• Almuerzo (vegetal): Auyama y Chayote al Vapor con Perejil
+• Sopa (opcional): Crema de Calabacín y Papa
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Postre: Lechosa Tibia con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión Suave de Hierbabuena
+• Cierre Nocturno: Taza de Caldo Claro Desgrasado
+--FIN_RECETA--
+
+--RECETA--
+ID: cambur-horneado-con-canela
+TITULO: Cambur Horneado con Canela
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Postre
+PORCIONES: 1
+ICONO: postre
+ETIQUETAS: Malestar estomacal, Sin azúcar, Horno, Postre ligero, Bajo FODMAP
+CONCEPTO: Medio cambur semimaduro horneado con una pizca de canela. Postre ligero y opcional.
+INGREDIENTES:
+• Cambur semimaduro — ½ unidad pequeña
+• Canela en polvo — 1 pizca
+PREPARACION:
+1. Precalienta el horno a 180 °C.
+2. Corta el cambur a lo largo y colócalo en una bandeja con papel encerado.
+3. Espolvorea la canela y hornea 10-12 minutos. Sirve tibio.
+JUSTIFICACION: Dulce sin azúcar añadida. Media unidad semimadura se mantiene baja en FODMAP y moderada en carga glucémica.
+ADVERTENCIAS: Opcional: solo si hay hambre.|Media unidad máximo.
+VALOR_NUTRICIONAL:
+Calorías: ~50 kcal
+Proteínas: ~0,6 g
+Carbohidratos: ~13 g
+Fibra: ~1,5 g
+IG: Medio
+VINCULAR_CON:
+• Desayuno: Puré de Cambur Verde con Huevo Pochado, Avena Cremosa de Cambur con Huevo Duro
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (principal): Pescado Blanco al Vapor con Perejil
+• Almuerzo (guarnición): Puré de Papa y Zanahoria sin Grasa
+• Almuerzo (vegetal): Chayote Sancochado Tibio
+• Sopa (opcional): Sopa Reparadora de Pollo con Arroz y Zanahoria
+• Merienda PM: Crema de Papa y Zanahoria
+• Cena: Arepita Blanda con Pollo Desmechado Suave
+• Bebida: Suero de Rehidratación Oral Casero, Infusión de Manzanilla y Jengibre Suave
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--
+
+--RECETA--
+ID: arroz-cremoso-con-canela-sin-leche
+TITULO: Arroz Cremoso con Canela sin Leche
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Postre
+PORCIONES: 1
+ICONO: postre
+ETIQUETAS: Malestar estomacal, Sin azúcar, Sin lácteos, Antidiarreico, Venezolana
+CONCEPTO: Un 'arroz con leche' adaptado: arroz cocido lentamente en agua con una rajita de canela y vainilla hasta quedar cremoso, endulzado con stevia.
+INGREDIENTES:
+• Arroz blanco crudo — 2 cucharadas (25 g)
+• Agua — 1¼ taza
+• Canela en rama — 1 trocito pequeño
+• Vainilla — 2 gotas
+• Stevia — al gusto
+PREPARACION:
+1. Hierve el agua con la canela en rama 3 minutos.
+2. Agrega el arroz lavado y cocina a fuego bajo 30 minutos, removiendo a menudo, hasta que esté cremoso. Añade agua si se seca.
+3. Retira la canela, agrega la vainilla y la stevia. Sirve tibio.
+JUSTIFICACION: Conserva el sabor del arroz con leche venezolano sin la lactosa de la leche (que podría aumentar los cólicos). El arroz muy cocido es suave y antidiarreico.
+ADVERTENCIAS: La rama de canela se retira: aporta aroma sin exceso.|Porción pequeña: es postre, no comida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal
+Proteínas: ~1,7 g
+Carbohidratos: ~20 g
+Grasas: <0,5 g
+Fibra: ~0,3 g
+IG: Alto (porción pequeña, tras la cena)
+VINCULAR_CON:
+• Desayuno: Panquequitas Blandas de Cambur Verde y Huevo
+• Merienda AM: Huevos de Codorniz Cocidos con Medio Cambur
+• Almuerzo (principal): Pollo Desmechado en Salsa Suave de Zanahoria
+• Almuerzo (guarnición): Arroz Blanco Suave con Perejil
+• Almuerzo (vegetal): Calabacín y Zanahoria al Vapor
+• Sopa (opcional): Caldo Claro de Pescado con Papa
+• Merienda PM: Crema Suave de Auyama y Papa
+• Cena: Tortilla Ligera de Papa y Calabacín al Horno
+• Bebida: Suero de Rehidratación Oral Casero, Agua de Coco Natural
+• Cierre Nocturno: Agua de Arroz Tibia con Vainilla
+--FIN_RECETA--
+
+--RECETA--
+ID: lechosa-tibia-con-canela
+TITULO: Lechosa Tibia con Canela
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Postre
+PORCIONES: 1
+ICONO: fruta
+ETIQUETAS: Malestar estomacal, Sin azúcar, Bajo FODMAP, Vitamina C suave, Postre ligero
+CONCEPTO: Cubos de lechosa entibiados a la sartén con una pizca de canela. Fruta de baja acidez, en porción pequeña.
+INGREDIENTES:
+• Lechosa madura — ½ taza en cubos (70 g)
+• Canela en polvo — 1 pizca
+• Agua — 1 cucharada
+PREPARACION:
+1. Coloca la lechosa en un sartén pequeño con el agua.
+2. Calienta a fuego bajo 2-3 minutos, solo hasta que esté tibia.
+3. Espolvorea la canela y sirve.
+JUSTIFICACION: La lechosa es baja en acidez y en FODMAP, con vitamina C y betacaroteno para la mucosa. Tibia resulta más amable con los cólicos que fría.
+ADVERTENCIAS: Si nota heces más blandas tras la lechosa, preferir los otros postres.|Porción: ½ taza.
+VALOR_NUTRICIONAL:
+Calorías: ~30 kcal
+Proteínas: ~0,3 g
+Carbohidratos: ~8 g
+Fibra: ~1,2 g
+Vitamina C: ~40 mg
+IG: Bajo
+VINCULAR_CON:
+• Desayuno: Arepita Blanda con Huevo Revuelto al Vapor
+• Merienda AM: Bastoncitos de Batata Horneada con Huevo Duro
+• Almuerzo (principal): Albondiguitas Tiernas de Pollo en Caldo Claro
+• Almuerzo (guarnición): Ñame Sancochado Suave
+• Almuerzo (vegetal): Auyama y Chayote al Vapor con Perejil
+• Sopa (opcional): Crema de Calabacín y Papa
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Cena: Pescado en Papillote con Calabacín y Zanahoria
+• Bebida: Suero de Rehidratación Oral Casero, Infusión Suave de Hierbabuena
+• Cierre Nocturno: Taza de Caldo Claro Desgrasado
+--FIN_RECETA--
+
+--RECETA--
+ID: suero-de-rehidratacion-oral-casero
+TITULO: Suero de Rehidratación Oral Casero
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Bebida
+PORCIONES: 4 (1 litro)
+ICONO: 💧
+ETIQUETAS: Malestar estomacal, Rehidratación, Diarrea, Pilar del día
+CONCEPTO: El pilar mientras haya diarrea: repone agua, sodio y glucosa. Si hay suero oral de farmacia, ese es la primera opción; este es el respaldo casero.
+INGREDIENTES:
+• Agua potable hervida y fría — 1 litro
+• Azúcar — 6 cucharaditas rasas
+• Sal — ½ cucharadita rasa
+PREPARACION:
+1. Hierve el agua 3 minutos y déjala enfriar tapada.
+2. Mide el azúcar y la sal con cucharitas RASAS.
+3. Disuelve todo y mezcla bien.
+4. Toma a sorbos a lo largo del día.
+JUSTIFICACION: Fórmula casera clásica de OMS/UNICEF. El intestino absorbe sodio y agua acoplados a la glucosa (transportador SGLT1); por eso el azúcar aquí cumple una función médica y no puede sustituirse por stevia. Es la única excepción al azúcar dentro del protocolo de Usuario; a sorbos repartidos, su impacto glucémico es bajo.
+ADVERTENCIAS: Medir exacto: más concentrado puede empeorar la diarrea.|No sustituir por bebidas deportivas, jugos ni gaseosas.|Desechar a las 24 h.
+VALOR_NUTRICIONAL:
+Calorías: ~25 kcal (por vaso de 250 ml)
+Proteínas: ~0 g
+Carbohidratos: ~6 g
+Sodio: ~290 mg
+IG: Alto (uso terapéutico, a sorbos)
+DOSIS_DEL_DIA:
+• Sorbos frecuentes durante todo el día.
+• 200-250 ml extra tras cada evacuación líquida.
+• Suspender cuando las heces sean formadas.
+CONSERVACION:
+Refrigerado en jarra tapada, máximo 24 horas. Tomar a temperatura ambiente.
+VINCULAR_CON:
+Menú sugerido A
+• Desayuno: Puré de Cambur Verde con Huevo Pochado, Avena Cremosa de Cambur con Huevo Duro
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (principal): Pescado Blanco al Vapor con Perejil
+• Almuerzo (guarnición): Puré de Papa y Zanahoria sin Grasa
+• Almuerzo (vegetal): Chayote Sancochado Tibio
+• Sopa (opcional): Sopa Reparadora de Pollo con Arroz y Zanahoria
+• Merienda PM: Crema de Papa y Zanahoria
+• Cena: Arepita Blanda con Pollo Desmechado Suave
+• Postre: Cambur Horneado con Canela
+• Bebida: Infusión de Manzanilla y Jengibre Suave
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+Menú sugerido B
+• Desayuno: Panquequitas Blandas de Cambur Verde y Huevo
+• Merienda AM: Huevos de Codorniz Cocidos con Medio Cambur
+• Almuerzo (principal): Pollo Desmechado en Salsa Suave de Zanahoria
+• Almuerzo (guarnición): Arroz Blanco Suave con Perejil
+• Almuerzo (vegetal): Calabacín y Zanahoria al Vapor
+• Sopa (opcional): Caldo Claro de Pescado con Papa
+• Merienda PM: Crema Suave de Auyama y Papa
+• Cena: Tortilla Ligera de Papa y Calabacín al Horno
+• Postre: Arroz Cremoso con Canela sin Leche
+• Bebida: Agua de Coco Natural
+• Cierre Nocturno: Agua de Arroz Tibia con Vainilla
+Menú sugerido C
+• Desayuno: Arepita Blanda con Huevo Revuelto al Vapor
+• Merienda AM: Bastoncitos de Batata Horneada con Huevo Duro
+• Almuerzo (principal): Albondiguitas Tiernas de Pollo en Caldo Claro
+• Almuerzo (guarnición): Ñame Sancochado Suave
+• Almuerzo (vegetal): Auyama y Chayote al Vapor con Perejil
+• Sopa (opcional): Crema de Calabacín y Papa
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Cena: Pescado en Papillote con Calabacín y Zanahoria
+• Postre: Lechosa Tibia con Canela
+• Bebida: Infusión Suave de Hierbabuena
+• Cierre Nocturno: Taza de Caldo Claro Desgrasado
+--FIN_RECETA--
+
+--RECETA--
+ID: infusion-de-manzanilla-y-jengibre-suave
+TITULO: Infusión de Manzanilla y Jengibre Suave
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Bebida
+PORCIONES: 1
+ICONO: té
+ETIQUETAS: Malestar estomacal, Infusión, Cólicos, Antiespasmódica, Gastroprotectora
+CONCEPTO: Manzanilla con dos rodajas finas de jengibre fresco: una infusión tibia pensada para los cólicos.
+INGREDIENTES:
+• Manzanilla — 1 bolsita o 1 cucharadita de flores secas
+• Jengibre fresco — 2 rodajas muy finas (~1 g)
+• Agua — 1 taza (250 ml)
+PREPARACION:
+1. Calienta el agua hasta que empiece a burbujear y retírala del fuego.
+2. Agrega la manzanilla y el jengibre, tapa y deja reposar 7 minutos.
+3. Cuela y deja entibiar antes de tomar.
+JUSTIFICACION: La manzanilla tiene uso tradicional y evidencia preclínica como antiespasmódica suave; el jengibre en dosis baja ayuda con la náusea y la motilidad. Se mantiene en ~1 g porque en dosis mayores puede irritar la mucosa erosionada.
+ADVERTENCIAS: Jengibre máximo ~1 g al día (una sola taza con jengibre).|Sin azúcar ni miel.|Evitar si hay alergia a plantas de la familia de las margaritas.
+VALOR_NUTRICIONAL:
+Calorías: ~3 kcal
+Proteínas: ~0 g
+Carbohidratos: ~0,5 g
+IG: Bajo
+VINCULAR_CON:
+• Desayuno: Puré de Cambur Verde con Huevo Pochado, Avena Cremosa de Cambur con Huevo Duro
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (principal): Pescado Blanco al Vapor con Perejil
+• Almuerzo (guarnición): Puré de Papa y Zanahoria sin Grasa
+• Almuerzo (vegetal): Chayote Sancochado Tibio
+• Sopa (opcional): Sopa Reparadora de Pollo con Arroz y Zanahoria
+• Merienda PM: Crema de Papa y Zanahoria
+• Cena: Arepita Blanda con Pollo Desmechado Suave
+• Postre: Cambur Horneado con Canela
+• Bebida: Suero de Rehidratación Oral Casero
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--
+
+--RECETA--
+ID: agua-de-coco-natural-malestar
+TITULO: Agua de Coco Natural
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Bebida
+PORCIONES: 1
+ICONO: 🥥
+ETIQUETAS: Malestar estomacal, Potasio, Hidratación, Bajo FODMAP
+CONCEPTO: Media taza de agua de coco fresca para reponer potasio.
+INGREDIENTES:
+• Agua de coco natural (de coco fresco) — ½ taza (100 ml)
+PREPARACION:
+1. Abre el coco y vierte el agua en un vaso.
+2. Toma a temperatura ambiente, a sorbos.
+JUSTIFICACION: Aporta potasio y algo de magnesio, que se pierden con la diarrea. Se limita a ½ taza porque en volúmenes mayores sube en FODMAP. Tiene poco sodio: complementa al suero oral, no lo reemplaza.
+ADVERTENCIAS: Máximo ½ taza por toma.|Solo natural, nunca envasada con azúcar.
+VALOR_NUTRICIONAL:
+Calorías: ~19 kcal
+Proteínas: ~0,7 g
+Carbohidratos: ~4 g
+Potasio: ~250 mg
+Sodio: ~100 mg
+IG: Bajo
+VINCULAR_CON:
+• Desayuno: Panquequitas Blandas de Cambur Verde y Huevo
+• Merienda AM: Huevos de Codorniz Cocidos con Medio Cambur
+• Almuerzo (principal): Pollo Desmechado en Salsa Suave de Zanahoria
+• Almuerzo (guarnición): Arroz Blanco Suave con Perejil
+• Almuerzo (vegetal): Calabacín y Zanahoria al Vapor
+• Sopa (opcional): Caldo Claro de Pescado con Papa
+• Merienda PM: Crema Suave de Auyama y Papa
+• Cena: Tortilla Ligera de Papa y Calabacín al Horno
+• Postre: Arroz Cremoso con Canela sin Leche
+• Bebida: Suero de Rehidratación Oral Casero
+• Cierre Nocturno: Agua de Arroz Tibia con Vainilla
+--FIN_RECETA--
+
+--RECETA--
+ID: infusion-suave-de-hierbabuena
+TITULO: Infusión Suave de Hierbabuena
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Bebida
+PORCIONES: 1
+ICONO: té
+ETIQUETAS: Malestar estomacal, Infusión, Cólicos, Antiespasmódica, Solo de día
+CONCEPTO: Infusión ligera de hierbabuena fresca para los cólicos, solo en horas del día.
+INGREDIENTES:
+• Hierbabuena fresca — 5-6 hojas
+• Agua — 1 taza (250 ml)
+PREPARACION:
+1. Calienta el agua hasta que empiece a burbujear y retírala del fuego.
+2. Agrega las hojas, tapa y deja reposar solo 5 minutos.
+3. Cuela y toma tibia.
+JUSTIFICACION: El aceite de menta tiene evidencia en el alivio del dolor abdominal de tipo espasmódico (estudiado sobre todo en síndrome de intestino irritable); esta infusión es una versión mucho más suave, con efecto modesto. Su punto débil: relaja el esfínter esofágico inferior y puede provocar reflujo, por eso es solo diurna y suave.
+ADVERTENCIAS: Suspender si aparece ardor o reflujo.|No tomarla en las 3 horas antes de acostarse.|Máximo 1 taza al día.
+VALOR_NUTRICIONAL:
+Calorías: ~2 kcal
+Proteínas: ~0 g
+Carbohidratos: ~0 g
+IG: Bajo
+SI_NO_LO_TOLERA:
+• Cambiar por Infusión de Manzanilla y Jengibre Suave.
+VINCULAR_CON:
+• Desayuno: Arepita Blanda con Huevo Revuelto al Vapor
+• Merienda AM: Bastoncitos de Batata Horneada con Huevo Duro
+• Almuerzo (principal): Albondiguitas Tiernas de Pollo en Caldo Claro
+• Almuerzo (guarnición): Ñame Sancochado Suave
+• Almuerzo (vegetal): Auyama y Chayote al Vapor con Perejil
+• Sopa (opcional): Crema de Calabacín y Papa
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Cena: Pescado en Papillote con Calabacín y Zanahoria
+• Postre: Lechosa Tibia con Canela
+• Bebida: Suero de Rehidratación Oral Casero
+• Cierre Nocturno: Taza de Caldo Claro Desgrasado
+--FIN_RECETA--
+
+--RECETA--
+ID: manzanilla-tibia-antiespasmodica
+TITULO: Manzanilla Tibia Antiespasmódica
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Cierre Nocturno
+PORCIONES: 1
+ICONO: té
+ETIQUETAS: Malestar estomacal, Infusión, Cólicos, Sueño, Gastroprotectora
+CONCEPTO: Taza de manzanilla sola, tibia y sin azúcar, para cerrar el día y calmar los cólicos nocturnos.
+INGREDIENTES:
+• Manzanilla — 1 bolsita o 1 cucharadita de flores secas
+• Agua — 1 taza (250 ml)
+PREPARACION:
+1. Calienta el agua hasta que empiece a burbujear y retírala del fuego (~85 °C).
+2. Agrega la manzanilla, tapa y deja reposar 7 minutos.
+3. Cuela y toma tibia, sentado.
+JUSTIFICACION: Antiespasmódica y calmante suave, sin acidez ni cafeína: compatible con gastritis erosiva y reflujo, y ayuda a conciliar el sueño cuando hay molestia abdominal.
+ADVERTENCIAS: Sin azúcar ni miel.|Evitar si hay alergia a plantas de la familia de las margaritas.
+VALOR_NUTRICIONAL:
+Calorías: ~2 kcal
+Proteínas: ~0 g
+Carbohidratos: ~0 g
+IG: Bajo
+VINCULAR_CON:
+• Desayuno: Puré de Cambur Verde con Huevo Pochado, Avena Cremosa de Cambur con Huevo Duro
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (principal): Pescado Blanco al Vapor con Perejil
+• Almuerzo (guarnición): Puré de Papa y Zanahoria sin Grasa
+• Almuerzo (vegetal): Chayote Sancochado Tibio
+• Sopa (opcional): Sopa Reparadora de Pollo con Arroz y Zanahoria
+• Merienda PM: Crema de Papa y Zanahoria
+• Cena: Arepita Blanda con Pollo Desmechado Suave
+• Postre: Cambur Horneado con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión de Manzanilla y Jengibre Suave
+--FIN_RECETA--
+
+--RECETA--
+ID: agua-de-arroz-tibia-con-vainilla
+TITULO: Agua de Arroz Tibia con Vainilla
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Cierre Nocturno
+PORCIONES: 4
+ICONO: 🍚
+ETIQUETAS: Malestar estomacal, Hidratación, Diarrea, Bajo FODMAP, Sin grasa
+CONCEPTO: El agua de cocción del arroz, colada y tibia, con unas gotas de vainilla. Asienta el estómago antes de dormir.
+INGREDIENTES:
+• Arroz blanco — ¼ taza (50 g)
+• Agua — 1 litro
+• Vainilla — 2-3 gotas por taza
+PREPARACION:
+1. Lava el arroz hasta que el agua salga casi clara.
+2. Hiérvelo en el litro de agua a fuego medio-bajo 20 minutos.
+3. Cuela y reserva el líquido (el arroz puedes usarlo en una sopa o crema).
+4. Al servir, añade la vainilla y toma tibia.
+JUSTIFICACION: Líquido con almidón muy suave, sin fibra, grasa ni acidez. Complementa la hidratación nocturna, pero no reemplaza al suero oral: su sodio es mínimo.
+ADVERTENCIAS: No sustituye al suero oral.|Servir tibia, nunca caliente.
+VALOR_NUTRICIONAL:
+Calorías: ~30 kcal (por taza)
+Proteínas: ~0,5 g
+Carbohidratos: ~7 g
+Sodio: ~10 mg
+IG: Medio
+CONSERVACION:
+Refrigerada hasta 24 horas. Entibiar a fuego bajo.
+VINCULAR_CON:
+• Desayuno: Panquequitas Blandas de Cambur Verde y Huevo
+• Merienda AM: Huevos de Codorniz Cocidos con Medio Cambur
+• Almuerzo (principal): Pollo Desmechado en Salsa Suave de Zanahoria
+• Almuerzo (guarnición): Arroz Blanco Suave con Perejil
+• Almuerzo (vegetal): Calabacín y Zanahoria al Vapor
+• Sopa (opcional): Caldo Claro de Pescado con Papa
+• Merienda PM: Crema Suave de Auyama y Papa
+• Cena: Tortilla Ligera de Papa y Calabacín al Horno
+• Postre: Arroz Cremoso con Canela sin Leche
+• Bebida: Suero de Rehidratación Oral Casero, Agua de Coco Natural
+--FIN_RECETA--
+
+--RECETA--
+ID: taza-de-caldo-claro-desgrasado
+TITULO: Taza de Caldo Claro Desgrasado
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Cierre Nocturno
+PORCIONES: 4
+ICONO: caldo
+ETIQUETAS: Malestar estomacal, Hidratación, Electrolitos, Sin grasa, Bajo FODMAP
+CONCEPTO: Una taza de caldo de pollo claro, sin grasa y sin vegetales irritantes. Cierre salado que hidrata y repone sodio.
+INGREDIENTES:
+• Carcasa o huesos de pollo sin piel — 300 g
+• Zanahoria — 1 unidad en trozos
+• Perejil — 2 ramitas
+• Agua — 1,5 litros
+• Sal — ½ cucharadita para toda la olla
+PREPARACION:
+1. Pon todo en una olla y lleva a hervor. Retira la espuma.
+2. Cocina a fuego bajo 1 hora.
+3. Cuela, deja enfriar y refrigera: la grasa se solidifica arriba y se retira fácilmente.
+4. Calienta una taza y sírvela tibia.
+JUSTIFICACION: Aporta líquido y sodio, que se pierden con la diarrea, en un formato salado y reconfortante. Sin ajo, cebolla ni apio, que son altos en FODMAP.
+ADVERTENCIAS: Retirar toda la grasa solidificada.|Sin cubitos industriales.
+VALOR_NUTRICIONAL:
+Calorías: ~20 kcal (por taza)
+Proteínas: ~2 g
+Carbohidratos: ~1 g
+Grasas: <0,5 g
+Sodio: ~300 mg
+IG: Bajo
+CONSERVACION:
+Refrigerado hasta 3 días o congelado en porciones hasta 2 meses.
+VINCULAR_CON:
+• Desayuno: Arepita Blanda con Huevo Revuelto al Vapor
+• Merienda AM: Bastoncitos de Batata Horneada con Huevo Duro
+• Almuerzo (principal): Albondiguitas Tiernas de Pollo en Caldo Claro
+• Almuerzo (guarnición): Ñame Sancochado Suave
+• Almuerzo (vegetal): Auyama y Chayote al Vapor con Perejil
+• Sopa (opcional): Crema de Calabacín y Papa
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Cena: Pescado en Papillote con Calabacín y Zanahoria
+• Postre: Lechosa Tibia con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión Suave de Hierbabuena
+--FIN_RECETA--
+
+--RECETA--
+ID: caldo-de-pollo-con-platano-verde-y-papa
+TITULO: Caldo de Pollo con Plátano Verde y Papa
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: caldo
+ETIQUETAS: Malestar estomacal, Caldo, Antidiarreico, Plato único, Venezolana
+CONCEPTO: Caldo de pollo optimizado: pollo sin piel, plátano verde despedazado a mano para espesar, papa y zanahoria, todo en un caldo desgrasado con cilantro. Funciona como plato único del almuerzo.
+INGREDIENTES:
+• Pechuga de pollo sin piel (o muslos sin piel) — 200 g
+• Plátano verde — 1 unidad (~180 g)
+• Papa — 2 pequeñas (160 g), peladas
+• Zanahoria — 1 pequeña (80 g)
+• Cilantro fresco — 4 ramitas
+• Ají dulce — 1 unidad sin semillas (opcional, se retira)
+• Agua — 5 tazas
+• Sal — ½ cucharadita (para toda la olla)
+PREPARACION:
+1. Hierve el pollo en el agua 20 minutos a fuego medio. Retira la espuma.
+2. Pela el plátano verde con las manos untadas de unas gotas de aceite (o bajo el chorro de agua) para que no manche. Despedázalo con las manos en trozos irregulares: los bordes rotos sueltan almidón y espesan el caldo mejor que el corte con cuchillo.
+3. Agrega el plátano, la zanahoria en rodajas y el ají dulce entero. Cocina 15 minutos.
+4. Agrega la papa en cubos y cocina 15-20 minutos más, hasta que el plátano esté muy tierno.
+5. Retira el pollo, desmenúzalo y regrésalo. Retira el ají dulce. Desgrasa la superficie.
+6. Agrega la sal y el cilantro en los últimos 2 minutos. Sirve tibio.
+JUSTIFICACION: El plátano verde aporta almidón resistente y pectina, que ayudan a dar consistencia a las heces y tienen índice glucémico bajo; la papa y la zanahoria cocidas suman almidón suave y más pectina. El caldo repone agua y sodio perdidos con la diarrea, y el pollo sin piel da proteína sin la grasa que dispara los cólicos. El ají dulce entero da aroma criollo sin picante y se retira para no aportar fibra de su piel.
+ADVERTENCIAS: Desgrasar bien antes de servir.|Sin ajo, cebolla, cubitos ni apio España.|Servir tibio, nunca hirviendo.|El plátano debe estar bien verde: pintón o maduro pierde el efecto antidiarreico y sube la glicemia.|Porción: 1 plato hondo (≈2 tazas).
+VALOR_NUTRICIONAL:
+Calorías: ~310 kcal
+Proteínas: ~26 g
+Carbohidratos: ~47 g
+Grasas: ~2,5 g
+Fibra: ~4 g
+Sodio: ~350 mg
+Potasio: ~850 mg
+IG: Medio
+COMO_DESGRASAR:
+• Rápido: inclina la olla y retira la grasa de la superficie con un cucharón; pasa una hoja de papel absorbente por encima.
+• Óptimo: prepara el caldo con anticipación, refrigéralo unas horas y retira la capa de grasa solidificada antes de recalentar.
+CONSERVACION:
+Refrigerado hasta 2 días. El plátano espesa al enfriar: añadir agua caliente al recalentar.
+NOTAS_DEL_CHEF:
+• Si las heces ya están semiformadas, puede añadir 1 mazorca tierna en ruedas para la Fase 2 (aún no durante la diarrea: la piel del grano es fibra insoluble).
+• Para más proteína, usa 250 g de pollo.
+VINCULAR_CON:
+• Desayuno: Arepita Blanda con Huevo Revuelto al Vapor
+• Merienda AM: Huevos de Codorniz Cocidos con Medio Cambur
+• Almuerzo (vegetal, opcional): Chayote Sancochado Tibio
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Cena: Pescado en Papillote con Calabacín y Zanahoria
+• Postre: Lechosa Tibia con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión de Manzanilla y Jengibre Suave
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--
+
+--RECETA--
+ID: caldo-de-pollo-con-name-y-zanahoria
+TITULO: Caldo de Pollo con Ñame y Zanahoria
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: caldo
+ETIQUETAS: Malestar estomacal, Caldo, IG bajo, Plato único, Bajo FODMAP
+CONCEPTO: Caldo de pollo espesado naturalmente con ñame, con zanahoria y perejil. Más cremoso que el de papa y con índice glucémico bajo.
+INGREDIENTES:
+• Pechuga de pollo sin piel — 200 g
+• Ñame — 200 g, pelado
+• Zanahoria — 1 mediana (120 g)
+• Perejil fresco — 4 ramitas
+• Agua — 5 tazas
+• Sal — ½ cucharadita (para toda la olla)
+PREPARACION:
+1. Hierve el pollo en el agua 20 minutos. Retira la espuma.
+2. Pela el ñame (con guantes si te pica la piel) y córtalo en trozos medianos.
+3. Agrega el ñame y la zanahoria en rodajas. Cocina 20-25 minutos, hasta que el ñame esté muy tierno.
+4. Aplasta 2-3 trozos de ñame contra la pared de la olla para espesar.
+5. Desmenuza el pollo, regrésalo y desgrasa. Agrega la sal y el perejil al final.
+JUSTIFICACION: El ñame es un tubérculo criollo de índice glucémico bajo que espesa el caldo sin harina. La zanahoria cocida aporta pectina y betacaroteno para la mucosa. Sin grasa ni fermentables.
+ADVERTENCIAS: Desgrasar bien antes de servir.|Sin ajo, cebolla, cubitos ni apio España.|Servir tibio, nunca hirviendo.|El ñame debe quedar muy blando.
+VALOR_NUTRICIONAL:
+Calorías: ~265 kcal
+Proteínas: ~25 g
+Carbohidratos: ~33 g
+Grasas: ~2,5 g
+Fibra: ~5 g
+Sodio: ~330 mg
+IG: Bajo
+COMO_DESGRASAR:
+• Rápido: inclina la olla y retira la grasa de la superficie con un cucharón; pasa una hoja de papel absorbente por encima.
+• Óptimo: prepara el caldo con anticipación, refrigéralo unas horas y retira la capa de grasa solidificada antes de recalentar.
+CONSERVACION:
+Refrigerado hasta 2 días.
+VINCULAR_CON:
+• Desayuno: Panquequitas Blandas de Cambur Verde y Huevo
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (vegetal, opcional): Calabacín y Zanahoria al Vapor
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Cena: Tortilla Ligera de Papa y Calabacín al Horno
+• Postre: Cambur Horneado con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Agua de Coco Natural
+• Cierre Nocturno: Agua de Arroz Tibia con Vainilla
+--FIN_RECETA--
+
+--RECETA--
+ID: caldo-de-pollo-con-arroz-y-auyama
+TITULO: Caldo de Pollo con Arroz y Auyama
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: caldo
+ETIQUETAS: Malestar estomacal, Caldo, Antidiarreico, Betacaroteno, Bajo FODMAP
+CONCEPTO: Caldo de pollo con arroz blanco muy cocido y cubitos de auyama que tiñen el caldo de naranja. Suave y reconfortante.
+INGREDIENTES:
+• Pechuga de pollo sin piel — 200 g
+• Arroz blanco crudo — ¼ taza (50 g)
+• Auyama — 90 g en cubos pequeños
+• Zanahoria — ½ unidad (60 g)
+• Cilantro o perejil — 4 ramitas
+• Agua — 5 tazas
+• Sal — ½ cucharadita (para toda la olla)
+PREPARACION:
+1. Hierve el pollo en el agua 20 minutos. Retira la espuma.
+2. Agrega el arroz lavado y la zanahoria en cubos. Cocina 10 minutos.
+3. Agrega la auyama y cocina 15 minutos más, hasta que el arroz esté muy blando y la auyama se deshaga un poco.
+4. Desmenuza el pollo, regrésalo y desgrasa. Termina con la sal y la hierba.
+JUSTIFICACION: El arroz muy cocido es de los almidones mejor tolerados en diarrea. La auyama aporta betacaroteno para la regeneración de la mucosa; se limita a ~45 g por porción para mantenerla baja en FODMAP.
+ADVERTENCIAS: Desgrasar bien antes de servir.|Sin ajo, cebolla, cubitos ni apio España.|Servir tibio, nunca hirviendo.|No superar ~45 g de auyama por porción.
+VALOR_NUTRICIONAL:
+Calorías: ~235 kcal
+Proteínas: ~25 g
+Carbohidratos: ~25 g
+Grasas: ~2,5 g
+Fibra: ~2 g
+Sodio: ~330 mg
+IG: Medio
+COMO_DESGRASAR:
+• Rápido: inclina la olla y retira la grasa de la superficie con un cucharón; pasa una hoja de papel absorbente por encima.
+• Óptimo: prepara el caldo con anticipación, refrigéralo unas horas y retira la capa de grasa solidificada antes de recalentar.
+CONSERVACION:
+Refrigerado hasta 2 días. El arroz absorbe caldo: añadir agua al recalentar.
+VINCULAR_CON:
+• Desayuno: Avena Cremosa de Cambur con Huevo Duro
+• Merienda AM: Bastoncitos de Batata Horneada con Huevo Duro
+• Almuerzo (vegetal, opcional): Chayote Sancochado Tibio
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Cena: Tortilla Ligera de Papa y Calabacín al Horno
+• Postre: Lechosa Tibia con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión Suave de Hierbabuena
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--
+
+--RECETA--
+ID: caldo-de-pescado-con-platano-verde-y-cilantro
+TITULO: Caldo de Pescado con Plátano Verde y Cilantro
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: pescado
+ETIQUETAS: Malestar estomacal, Caldo, Antidiarreico, Plato único, Venezolana
+CONCEPTO: Versión ligera de un sancocho de pescado: pescado blanco magro con plátano verde y zanahoria en un caldo perfumado con cilantro.
+INGREDIENTES:
+• Filete de pescado blanco magro (merluza, mero o pargo) — 240 g, sin espinas
+• Plátano verde — 1 unidad (~180 g)
+• Zanahoria — ½ unidad (60 g)
+• Cilantro fresco — 1 manojito pequeño
+• Ají dulce — 1 unidad sin semillas (opcional, se retira)
+• Agua — 5 tazas
+• Sal — ½ cucharadita (para toda la olla)
+PREPARACION:
+1. Hierve el agua con el plátano verde despedazado a mano, la zanahoria en rodajas, el ají dulce entero y la mitad del cilantro (tallos). Cocina 25-30 minutos, hasta que el plátano esté muy tierno.
+2. Retira el ají dulce y los tallos de cilantro.
+3. Agrega el pescado en trozos grandes y cocina a fuego bajo 6-8 minutos, sin revolver mucho para que no se deshaga.
+4. Añade la sal y las hojas de cilantro picadas. Sirve tibio.
+JUSTIFICACION: El pescado blanco es la proteína más digerible y casi sin grasa; el plátano verde aporta almidón resistente y pectina antidiarreicos. Da variedad frente al pollo sin perder ninguno de los cuidados.
+ADVERTENCIAS: Revisar espinas antes de servir.|Sin ajo, cebolla ni cubitos.|Pescado fresco, agregado al final para que no se deshaga.|Plátano bien verde.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal
+Proteínas: ~23 g
+Carbohidratos: ~32 g
+Grasas: ~1,5 g
+Fibra: ~3 g
+Sodio: ~330 mg
+IG: Bajo
+CONSERVACION:
+Mejor recién hecho. Refrigerado máximo 1 día.
+VINCULAR_CON:
+• Desayuno: Arepita Blanda con Huevo Revuelto al Vapor
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (vegetal, opcional): Auyama y Chayote al Vapor con Perejil
+• Merienda PM: Crema de Papa y Zanahoria
+• Cena: Arepita Blanda con Pollo Desmechado Suave
+• Postre: Arroz Cremoso con Canela sin Leche
+• Bebida: Suero de Rehidratación Oral Casero, Infusión de Manzanilla y Jengibre Suave
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--
+
+--RECETA--
+ID: caldo-de-pollo-con-cambur-verde-y-chayote
+TITULO: Caldo de Pollo con Cambur Verde y Chayote
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Cena
+PORCIONES: 2
+ICONO: caldo
+ETIQUETAS: Malestar estomacal, Caldo, Cena ligera, Antidiarreico, Bajo FODMAP
+CONCEPTO: Caldo más liviano, pensado para la cena: pollo, cambur verde y chayote. Menos carbohidrato que los de almuerzo. Sin guarnición.
+INGREDIENTES:
+• Pechuga de pollo sin piel — 180 g
+• Cambur verde — 2 unidades pequeñas (~180 g)
+• Chayote — 1 unidad (200 g), pelado y sin semilla
+• Perejil fresco — 4 ramitas
+• Agua — 4 tazas
+• Sal — ½ cucharadita (para toda la olla)
+PREPARACION:
+1. Hierve el pollo en el agua 20 minutos. Retira la espuma.
+2. Pela los cambures verdes (bajo el chorro de agua) y córtalos en ruedas gruesas.
+3. Agrega el cambur y el chayote en cubos. Cocina 15-20 minutos hasta que estén tiernos.
+4. Desmenuza el pollo, regrésalo y desgrasa. Agrega la sal y el perejil.
+JUSTIFICACION: Para la noche conviene menos carbohidrato (menor sensibilidad a la insulina). El cambur verde aporta almidón resistente con IG bajo y el chayote da volumen casi sin calorías ni gases. Ligero para no cargar el estómago antes de acostarse.
+ADVERTENCIAS: Desgrasar bien antes de servir.|Sin ajo, cebolla, cubitos ni apio España.|Servir tibio, nunca hirviendo.|Cenar 2-3 horas antes de acostarse.|Porción moderada: 1 plato hondo pequeño.
+VALOR_NUTRICIONAL:
+Calorías: ~210 kcal
+Proteínas: ~22 g
+Carbohidratos: ~26 g
+Grasas: ~2 g
+Fibra: ~4 g
+Sodio: ~320 mg
+IG: Bajo
+COMO_DESGRASAR:
+• Rápido: inclina la olla y retira la grasa de la superficie con un cucharón; pasa una hoja de papel absorbente por encima.
+• Óptimo: prepara el caldo con anticipación, refrigéralo unas horas y retira la capa de grasa solidificada antes de recalentar.
+VINCULAR_CON:
+• Desayuno: Avena Cremosa de Cambur con Huevo Duro
+• Merienda AM: Huevos de Codorniz Cocidos con Medio Cambur
+• Almuerzo (principal): Pescado Blanco al Vapor con Perejil
+• Almuerzo (guarnición): Arroz Blanco Suave con Perejil
+• Almuerzo (vegetal, opcional): Calabacín y Zanahoria al Vapor
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Postre: Lechosa Tibia con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Agua de Coco Natural
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--
+
+--RECETA--
+ID: caldo-de-pollo-con-yuca-y-zanahoria
+TITULO: Caldo de Pollo con Yuca y Zanahoria
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Almuerzo
+PORCIONES: 2
+ICONO: caldo
+ETIQUETAS: Malestar estomacal, Caldo, Plato único, Bajo FODMAP, Venezolana
+CONCEPTO: Caldo de pollo con yuca bien cocida, que queda suave y se deshace, más zanahoria y cilantro.
+INGREDIENTES:
+• Pechuga de pollo sin piel — 200 g
+• Yuca — 140 g, pelada y sin la vena central
+• Zanahoria — 1 pequeña (100 g)
+• Cilantro fresco — 4 ramitas
+• Agua — 5 tazas
+• Sal — ½ cucharadita (para toda la olla)
+PREPARACION:
+1. Hierve el pollo en el agua 20 minutos. Retira la espuma.
+2. Pela la yuca, córtala a lo largo y retira la vena fibrosa del centro. Córtala en trozos.
+3. Agrega la yuca y la zanahoria. Cocina 20-25 minutos, hasta que la yuca esté muy blanda y empiece a abrirse.
+4. Desmenuza el pollo, regrésalo y desgrasa. Agrega la sal y el cilantro al final.
+JUSTIFICACION: La yuca bien cocida es un almidón suave y bajo en FODMAP que da variedad al caldo. Se usa en porción moderada (~70 g por persona) porque su índice glucémico es más alto que el del ñame o el plátano verde.
+ADVERTENCIAS: Desgrasar bien antes de servir.|Sin ajo, cebolla, cubitos ni apio España.|Servir tibio, nunca hirviendo.|Retirar siempre la vena central fibrosa de la yuca.|Porción de yuca: ~70 g por persona.
+VALOR_NUTRICIONAL:
+Calorías: ~255 kcal
+Proteínas: ~24 g
+Carbohidratos: ~32 g
+Grasas: ~2,5 g
+Fibra: ~2 g
+Sodio: ~330 mg
+IG: Medio
+COMO_DESGRASAR:
+• Rápido: inclina la olla y retira la grasa de la superficie con un cucharón; pasa una hoja de papel absorbente por encima.
+• Óptimo: prepara el caldo con anticipación, refrigéralo unas horas y retira la capa de grasa solidificada antes de recalentar.
+CONSERVACION:
+Refrigerado hasta 2 días.
+VINCULAR_CON:
+• Desayuno: Arepita Blanda con Huevo Revuelto al Vapor
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (vegetal, opcional): Calabacín y Zanahoria al Vapor
+• Merienda PM: Crema Suave de Auyama y Papa
+• Cena: Pescado en Papillote con Calabacín y Zanahoria
+• Postre: Cambur Horneado con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión Suave de Hierbabuena
+• Cierre Nocturno: Agua de Arroz Tibia con Vainilla
+--FIN_RECETA--
+
+--RECETA--
+ID: pisca-andina-adaptada-con-huevo-y-papa
+TITULO: Pisca Andina Adaptada con Huevo y Papa
+CATEGORIA: Malestar estomacal (diarrea y cólicos)
+TIPO: Desayuno
+PORCIONES: 2
+ICONO: sopa
+ETIQUETAS: Malestar estomacal, Caldo, Desayuno andino, Sin lácteos, Venezolana
+CONCEPTO: La pisca andina del desayuno, adaptada: caldo claro con papa y cilantro, y un huevo escalfado dentro. Sin leche ni cebolla.
+INGREDIENTES:
+• Caldo claro de pollo desgrasado — 3 tazas (o agua)
+• Papa — 2 medianas (240 g), peladas
+• Huevos — 2 unidades + 2 claras
+• Cilantro fresco — 4 ramitas picadas
+• Sal — 1 pizca (si el caldo no tiene)
+PREPARACION:
+1. Calienta el caldo y agrega la papa en cubos pequeños. Cocina 15 minutos hasta que esté muy tierna.
+2. Aplasta algunos cubos de papa contra la olla para espesar ligeramente.
+3. Baja a fuego suave. Bate las claras y viértelas en hilo, removiendo para que formen hebras.
+4. Rompe los huevos enteros directamente en el caldo y deja escalfar 3-4 minutos, sin hervir fuerte, hasta que la clara cuaje.
+5. Agrega el cilantro y sirve tibio, un huevo por plato.
+JUSTIFICACION: Mantiene un desayuno muy andino que es reconfortante y fácil de digerir. Se omiten la leche (lactosa, cólicos) y la cebolla (fructanos, fermentación). El huevo da proteína y el caldo hidrata desde temprano.
+ADVERTENCIAS: Sin leche ni cebolla mientras haya diarrea o cólicos.|Huevo con la clara bien cuajada.|Sin queso fresco por ahora.
+VALOR_NUTRICIONAL:
+Calorías: ~215 kcal
+Proteínas: ~13 g
+Carbohidratos: ~23 g
+Grasas: ~5 g
+Fibra: ~2 g
+Sodio: ~350 mg
+IG: Medio
+NOTAS_DEL_CHEF:
+• Si no tienes caldo hecho, usa la receta Taza de Caldo Claro Desgrasado del banco o prepara la pisca con agua y una pizca más de sal.
+• Cuando pase el cuadro puede volver a añadir un chorrito de leche al final, como la tradicional.
+VINCULAR_CON:
+• Merienda AM: Yogur Natural con Cambur Semimaduro
+• Almuerzo (principal): Pollo Desmechado en Salsa Suave de Zanahoria
+• Almuerzo (guarnición): Arroz Blanco Suave con Perejil
+• Almuerzo (vegetal, opcional): Chayote Sancochado Tibio
+• Merienda PM: Galletas Blandas de Avena y Cambur
+• Cena: Pescado en Papillote con Calabacín y Zanahoria
+• Postre: Lechosa Tibia con Canela
+• Bebida: Suero de Rehidratación Oral Casero, Infusión de Manzanilla y Jengibre Suave
+• Cierre Nocturno: Manzanilla Tibia Antiespasmódica
+--FIN_RECETA--

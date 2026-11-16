@@ -1,0 +1,117 @@
+SAN SAZÓN · SUGERENCIAS DE CAMBIO PARA EL MOTOR (programa)
+==========================================================
+Origen: observaciones surgidas al convertir «La cuchara de plata» al formato de San Sazón
+(Cocina_Italiana.txt, 200 recetas) y al probar el lector real de la app.
+Estado: SUGERENCIAS. Ninguna está construida. Ya corregido aparte (CORRECCIONES_SANSAZON.zip):
+miles con coma en calorías, «Carga glucémica» pisando al IG, Ü y números en nombres de partes,
+tildes en secciones extra, «N porciones» duplicado y suma de ingredientes en la lista de compras.
+Prioridad: A = alta · M = media · B = baja.
+
+----------------------------------------------------------------------
+1. [A] RECETAS QUE USAN OTRAS RECETAS (enlaces entre recetas)
+----------------------------------------------------------------------
+Problema: el libro dice «1 ración de bechamel (véase pág. 50)», «ensaladilla rusa (véase pág. 116)»,
+«masa quebrada (véase pág. 140)», «masa de pizza», «mayonesa», «velouté», «caldo». Hoy esas líneas
+son texto suelto: no se ven como enlace, no se abre la receta citada y la lista de compras no incluye
+los ingredientes de la receta citada.
+Propuesta: permitir citar otra receta por su ID dentro de INGREDIENTES, por ejemplo:
+    • [[it-antipasto-ensaladilla-rusa]] — 200 g
+La app mostraría el título como enlace tocable y, en la lista de compras, expandiría los ingredientes
+de la receta enlazada en proporción (200 g de ~1.000 g). Si el ID no existe, mostrar un aviso ámbar
+(igual que cuando un menú pierde una receta).
+
+----------------------------------------------------------------------
+2. [A] ESCALADO DE PORCIONES
+----------------------------------------------------------------------
+Problema: PORCIONES es texto libre y las cantidades son fijas. Muchas recetas están escritas
+«para 4», otras «para 6-8» o «35-50 barquitas».
+Propuesta: botón «×½ · ×1 · ×2 · otra cantidad» en la receta que recalcule las cantidades numéricas
+y que el menú recuerde cuántas raciones se cocinan. La lista de compras usaría esa escala.
+Requisito: aceptar rangos y fracciones en las cantidades («2-3 cdas», «1½ cdta»).
+
+----------------------------------------------------------------------
+3. [A] «RACIONES CONSUMIDAS» EN UN MENÚ
+----------------------------------------------------------------------
+Problema: una salsa o una mantequilla rinde para 4, pero en una toma se come una parte. Al agregar
+la receta a un menú, las calorías suman la «porción» completa de la receta.
+Propuesta: al agregar una receta a una toma, permitir indicar cuántas porciones se consumen
+(1 de 4, ½, 2). El resumen del día (calorías, proteína) usaría ese factor.
+
+----------------------------------------------------------------------
+4. [M] TIPOS DE COMIDA ADICIONALES O CONFIGURABLES
+----------------------------------------------------------------------
+Problema: los 8 tipos actuales no cubren «Salsa», «Aperitivo» o «Snack», «Merienda», «Base para salsas» o
+«Marinada». Hoy se usa «Almuerzo» y la distinción vive en CATEGORIA.
+Propuesta: lista de tipos editable (nombre, color, icono) o un campo SUBTIPO aparte, sin romper
+las recetas que ya traen uno de los 8 tipos. Resolvería también el aviso pendiente del tipo
+«Merienda» (sin AM/PM).
+
+----------------------------------------------------------------------
+5. [M] FILTROS JERÁRQUICOS: CAPÍTULO > SUBSECCIÓN
+----------------------------------------------------------------------
+Problema: con 2000 recetas (y más a futuro) la fila de categorías y etiquetas se hace larga.
+Propuesta: campos opcionales SECCION: y SUBSECCION: con un filtro en dos niveles
+(p. ej. «Antipasti > de pescado»), contados y plegables.
+
+----------------------------------------------------------------------
+6. [M] CAMPOS DE FUENTE Y ORDEN (IGNORAR ESTA SECCION)
+----------------------------------------------------------------------
+Problema: el banco ordena alfabéticamente, así que se pierde el orden de un libro; tampoco hay
+dónde anotar de qué libro y página viene una receta.
+Propuesta: FUENTE: (texto informativo, p. ej. «La cuchara de plata · p. 116») y ORDEN: (número)
+con opción «ordenar por: A-Z / orden del libro».
+
+----------------------------------------------------------------------
+7. [M] ALÉRGENOS Y RIESGOS COMO DATO ESTRUCTURADO
+----------------------------------------------------------------------
+Problema: «lleva huevo crudo», «pescado crudo», «contiene alcohol» están dentro de ADVERTENCIAS
+(texto). No se pueden filtrar ni destacar.
+Propuesta: campo RIESGOS: (huevo crudo, carne cruda, pescado crudo, alcohol, frutos secos, marisco,
+gluten, lácteos) con insignias de color y un filtro «sin …».
+
+----------------------------------------------------------------------
+8. [M] AVISO DE TÍTULOS REPETIDOS AL IMPORTAR
+----------------------------------------------------------------------
+Problema: el libro tiene dos recetas distintas llamadas «Salsa de mantequilla». La app las
+distingue por ID, pero en la lista se ven iguales.
+Propuesta: en la vista previa de importación, avisar «mismo título que otra receta (distinto ID)»
+y mostrar la categoría junto al título en las tarjetas cuando haya coincidencia.
+
+----------------------------------------------------------------------
+9. [A] SUBIR EL LÍMITE DE TAMAÑO DE ARCHIVO A 10 MB
+----------------------------------------------------------------------
+Dato: el límite actual de «Actualizar» es 2 MB por archivo y 300 archivos. Cocina_Italiana.txt ya pesa
+unos 0,75 MB con 724 recetas (~1 KB por receta) y el libro tiene unas 2.000, así que al terminar
+superaría los 2 MB.
+Propuesta (decisión del usuario): subir el límite por archivo a 10 MB (caben unas 10.000 recetas en un
+solo archivo) y mantener los 300 archivos. Así no hace falta partir los libros por capítulos.
+Detalle técnico: el tope es la constante MAX_BYTES_ARCHIVO = 2_000_000 en src/lib/github.ts (pasar a 10_000_000); además conviene comprobar que la
+importación de un archivo grande no congele la pantalla (mostrar progreso o leer por bloques, me gusta mas el mostrar progreso).
+
+----------------------------------------------------------------------
+10. [B] TIEMPO, DIFICULTAD Y REPOSO
+----------------------------------------------------------------------
+Propuesta: campos opcionales TIEMPO: (minutos), DIFICULTAD: (Fácil/Media/Difícil) y REPOSO:
+(horas) para filtrar recetas «rápidas» y avisar de las que necesitan preparación con antelación
+(marinadas de 24 horas, patés de 6 horas, tiramisú de una noche).
+
+----------------------------------------------------------------------
+11. [B] TEMPORIZADOR DESDE LOS PASOS
+----------------------------------------------------------------------
+Propuesta: detectar «durante 15 minutos» / «1 hora» en un paso y ofrecer un botón de temporizador.
+
+----------------------------------------------------------------------
+12. [B] LISTA DE COMPRAS: EQUIVALENCIAS Y DESPENSA
+----------------------------------------------------------------------
+Propuesta: convertir unidades equivalentes comunes (1 cda ≈ 15 ml, 1 taza ≈ 240 ml) cuando la
+receta lo permita.
+
+----------------------------------------------------------------------
+13. [B] RECETAS SIN VALOR NUTRICIONAL EXPLÍCITO
+----------------------------------------------------------------------
+Dato: marinadas y caldos se escribieron sin VALOR_NUTRICIONAL porque se descartan o se cuelan.
+Propuesta: mostrar un texto discreto «sin valor nutricional (preparación auxiliar)» en lugar de
+omitir la sección sin explicación.
+
+----------------------------------------------------------------------
+
