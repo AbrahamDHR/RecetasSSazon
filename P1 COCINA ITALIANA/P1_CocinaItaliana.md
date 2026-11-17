@@ -3,7 +3,7 @@
 # Una receta por bloque --RECETA-- … --FIN_RECETA--. Lo que está fuera de los bloques se ignora.
 # Cada receta lleva la etiqueta «Perfil1». Los ID empiezan con «p1-» (el original italiano empieza con «it-»).
 # Valores nutricionales estimados por porción (tablas de composición estándar).
-# Recetas en el orden del libro original. Lote 2: posiciones 1 a 250.
+# Recetas en el orden del libro original. Lote 5: posiciones 1 a 1000.
 
 --RECETA--
 ID: p1-bruschetta-tomate
@@ -9130,6 +9130,42 @@ ADAPTACIÓN:
 --FIN_RECETA--
 
 --RECETA--
+ID: p1-aperitivo-cestillos-masa-quebrada-integral
+TITULO: Cestillos de Masa Quebrada Integral
+CATEGORIA: Base para aperitivos
+ICONO: 🥣
+SUBSECCION: Bases
+SECCION: Antipasti
+TIPO: Almuerzo
+PORCIONES: 12
+RIESGOS: Gluten, Huevo
+OCULTA: SI
+ETIQUETAS: Italiana, Base, Perfil1
+CONCEPTO: Cestillos pequeños y grandes horneados con masa quebrada integral, para rellenar con cremas, mariscos o verduras; sustituyen a los cestillos fritos o de hojaldre.
+INGREDIENTES:
+• Masa Quebrada Integral (receta de este recetario) — 1 ración
+• Harina integral — un poco para estirar
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar los moldes)
+PREPARACION:
+1. Estira la masa a 3 mm sobre un poco de harina y corta círculos algo mayores que los moldes.
+2. Forra moldes de tartaleta (pequeños para aperitivo, grandes para entrada) engrasados con el aceite y pincha el fondo con un tenedor.
+3. Cubre con papel y legumbres secas y hornea 15 minutos a 180 °C; retira el papel y hornea 5 minutos más hasta dorar.
+4. Desmolda y deja enfriar antes de rellenar.
+JUSTIFICACION: Cestillos horneados, sin fritura ni hojaldre.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por cestillo pequeño)
+Proteínas: ~2 g
+Carbohidratos: ~10 g
+Grasas: ~5 g
+Fibra: ~1 g
+Sodio: ~5 mg
+IG: Medio
+ADAPTACIÓN:
+• Cestillos fritos o de hojaldre → masa quebrada integral horneada.
+--FIN_RECETA--
+
+--RECETA--
 ID: p1-aperitivo-pasta-crepes
 TITULO: Pasta de Crepes Integral (Receta Básica)
 CATEGORIA: Pasta, arroz y masas
@@ -9230,7 +9266,7 @@ INGREDIENTES:
 • Mozzarella baja en grasa picada fina — 50 g
 • Parmesano rallado — 20 g
 • Emmental ligero rallado — 20 g
-• Bechamel ligera (receta de este recetario) — ½ ración
+• Salsa Bechamel (receta de este recetario) — ½ ración
 • 25-35 barquitas de masa quebrada integral — según receta de Masa Quebrada Integral
 PREPARACION:
 1. Cuece la pasta al dente 8-10 minutos, escúrrela y mézclala con el aceite y todos los quesos.
@@ -9582,7 +9618,7 @@ INGREDIENTES:
 • Salmón fresco horneado y desmenuzado — 80 g
 • Perejil picado — 1 cda
 • Parmesano rallado — 2 cdas (15 g)
-• Bechamel ligera (receta de este recetario) — ½ ración
+• Salsa Bechamel (receta de este recetario) — ½ ración
 • Nuez moscada — 1 pizca
 • Lionesas grandes (horneadas) — 8 unidades
 PREPARACION:
@@ -9840,4 +9876,28065 @@ IG: Medio
 ADAPTACIÓN:
 • Mortadela → pollo; carne 300 → 200 g de res magra; mantequilla → aceite.
 • Hojaldre → masa quebrada integral; parmesano 40 → 25 g; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-hatillos-achicoria
+TITULO: Hatillos de Achicoria y Queso
+CATEGORIA: Bocadito y hojaldre
+ICONO: 🥣
+SUBSECCION: Bocaditos y hojaldres
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Masa integral rellena de achicoria (o escarola) rehogada y queso, plegada en hatillos; champiñón asado en vez de trufa.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cogollos de achicoria troceados — 2
+• Masa quebrada integral (receta de este recetario) — 250 g
+• Queso fontina o mozzarella baja en grasa en lonchas — 60 g
+• Champiñones asados en rodajas finas — 40 g
+• Yema de huevo — 1
+PREPARACION:
+1. Rehoga la achicoria en el aceite hasta que esté tierna.
+2. Corta círculos de masa, pon achicoria, una loncha de queso y champiñón; pliega los extremos formando hatillos.
+3. Píntalos con yema y hornea 15 minutos a 200 °C.
+JUSTIFICACION: Mismo bocado de horno con masa integral y menos queso.
+ADVERTENCIAS: Es una evocación: sin el aroma de la trufa blanca.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~19 g
+Grasas: ~10 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Hojaldre → masa quebrada integral; mantequilla → aceite.
+• Trufa → champiñones asados; queso 80 → 60 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-galletitas-queso
+TITULO: Galletitas de Batata y Queso
+CATEGORIA: Bocadito y hojaldre
+ICONO: 🥣
+SUBSECCION: Bocaditos y hojaldres
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Frutos secos, Gluten, Huevo, Lácteos
+PORCIONES: 7
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Masa de batata y avena rellena de queso azul suave, queso fresco y nueces, horneada en triángulos.
+INGREDIENTES:
+• Batata (camote) — 800 g
+• Harina integral — 120 g
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Queso azul desmenuzado — 25 g
+• Queso fresco bajo en grasa — 60 g
+• Nueces troceadas — 25 g
+• Lonchas finas de queso bajo en grasa — 5
+• Yema de huevo — 1
+PREPARACION:
+1. Hornea la batata con piel hasta que esté blanda; pélala, aplástala y mezcla con la harina y 1 cucharada de aceite.
+2. Extiende la masa de 5 mm y corta triángulos; mezcla los quesos, el aceite restante y las nueces y úsalo para rellenar.
+3. Cubre con la loncha, cierra, pinta con yema y hornea 15 minutos a 180 °C.
+JUSTIFICACION: La batata aporta dulzor y fibra; menos grasa que la papa con mantequilla.
+ADVERTENCIAS: Es una evocación: textura más húmeda que la masa de papa.
+VALOR_NUTRICIONAL:
+Calorías: ~210 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~31 g
+Grasas: ~7 g
+Fibra: ~4 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Papa y harina de trigo → batata y harina integral; mantequilla → aceite.
+• Gorgonzola 80 → 25 g con queso fresco; nueces 50 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-medialunas-romanas
+TITULO: Medialunas Romanas al Horno
+CATEGORIA: Bocadito y hojaldre
+ICONO: 🥣
+SUBSECCION: Bocaditos y hojaldres
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Medialunas de masa integral rellenas de pollo, queso y salvia, horneadas en vez de rebozadas y fritas.
+INGREDIENTES:
+• Harina integral — 250 g
+• Aceite de oliva extra virgen — 3 cdas (30 g)
+• Yemas de huevo — 2
+• Huevo (relleno) — 1
+• Pechuga de pollo cocida picada — 100 g
+• Queso mozzarella baja en grasa en dados — 60 g
+• Hojas de salvia picadas — 10
+• Parmesano rallado — 1 cda
+• Clara de huevo — 1
+PREPARACION:
+1. Haz un volcán con la harina y una pizca de sal; añade el aceite, las yemas y un poco de agua y trabaja hasta una bola suave; reposa 1 hora.
+2. Mezcla el relleno: huevo, pollo, mozzarella, salvia y parmesano.
+3. Estira fino, corta círculos, rellena, dobla en media luna y sella con clara.
+4. Colócalas en bandeja y hornea 20 minutos a 200 °C hasta dorar.
+JUSTIFICACION: Mismo relleno sabroso, horneado y con pollo en vez de jamón.
+ADVERTENCIAS: Sin sal añadida en el relleno.
+VALOR_NUTRICIONAL:
+Calorías: ~265 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~28 g
+Grasas: ~11 g
+Fibra: ~4 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Fritura → horno; jamón y provolone → pollo y mozzarella baja en grasa.
+• Harina integral; mantequilla → aceite; pimienta fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-piconcini-marcas
+TITULO: Piconcini de las Marcas
+CATEGORIA: Bocadito y hojaldre
+ICONO: 🥣
+SUBSECCION: Bocaditos y hojaldres
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 7
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Medialunas de masa integral rellenas de huevo, parmesano y queso fresco, horneadas.
+INGREDIENTES:
+• Harina integral — 250 g
+• Huevo — 1
+• Aceite de oliva extra virgen — 3 cdas (30 g)
+• Leche descremada — 2 cdas
+• Huevos para el relleno — 2
+• Parmesano rallado — 40 g
+• Queso fresco bajo en grasa — 60 g
+PREPARACION:
+1. Haz un volcán con la harina; añade el huevo, el aceite y la leche y trabaja hasta una bola; refrigera 20 minutos.
+2. Mezcla los huevos con el parmesano y el queso fresco para el relleno.
+3. Estira, corta círculos de 5 cm, rellena, dobla y sella; píntalos con leche.
+4. Hornea unos 20 minutos a 180 °C.
+JUSTIFICACION: Mismo sabor a parmesano con una cuarta parte del queso.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~215 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~22 g
+Grasas: ~9 g
+Fibra: ~3 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 100 → aceite 30 g; parmesano 150 → 40 g con queso fresco.
+• Harina integral; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-bocaditos-pollo-curry
+TITULO: Bocaditos de Pollo al Curry
+CATEGORIA: Bocadito y hojaldre
+ICONO: 🥣
+SUBSECCION: Bocaditos y hojaldres
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Círculos de masa integral rellenos de pollo asado, bechamel ligera y curry suave.
+INGREDIENTES:
+• Masa quebrada integral (receta de este recetario) — 250 g
+• Pechuga de pollo asada picada fino — 200 g
+• Curry dulce en polvo — ¼ cdta
+• Salsa Bechamel (receta de este recetario) — ½ ración
+• Yemas de huevo — 2
+PREPARACION:
+1. Corta 12 círculos de masa y hornéalos 15 minutos a 180 °C hasta dorar; enfríalos.
+2. Mezcla el pollo con el curry, la bechamel y las yemas.
+3. Rellena los bocaditos y caliéntalos 10 minutos a 180 °C.
+JUSTIFICACION: Curry suave (dulce, no picante) y bechamel ligera.
+ADVERTENCIAS: Usa curry sin picante.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~15 g
+Grasas: ~8 g
+Fibra: ~2 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Hojaldre → masa quebrada integral; bechamel → ligera.
+• Curry reducido y sin picante.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-bocaditos-champinones
+TITULO: Bocaditos de Champiñones y Pollo
+CATEGORIA: Bocadito y hojaldre
+ICONO: 🥣
+SUBSECCION: Bocaditos y hojaldres
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Frutos secos, Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Masa integral con champiñones, pollo, almendras y fontina, en medias lunas horneadas.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Champiñones en láminas — 300 g
+• Ralladura de limón — de ½ limón
+• Masa quebrada integral (receta de este recetario) — 300 g
+• Pechuga de pollo cocida en lonchas finas — 100 g
+• Almendras laminadas — 20 g
+• Fontina o mozzarella baja en grasa — 80 g
+• Yema de huevo — 1
+PREPARACION:
+1. Rehoga los champiñones en el aceite 7 minutos hasta reducir el líquido; añade la ralladura.
+2. Corta círculos de masa de 10 cm, cúbrelos con pollo, champiñones, almendras y queso; dobla y sella.
+3. Pinta con yema y hornea 15 minutos a 200 °C.
+JUSTIFICACION: Pollo en vez de jamón, almendras en vez de piñones, menos queso.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~20 g
+Grasas: ~11 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón → pollo; piñones → almendras 40 → 20 g; fontina 150 → 80 g.
+• Hojaldre → masa integral; zumo de limón → ralladura; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-bocaditos-rabano-salchicha
+TITULO: Bocaditos de Pollo con Crema de Jengibre
+CATEGORIA: Bocadito y hojaldre
+ICONO: 🥣
+SUBSECCION: Bocaditos y hojaldres
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pollo hervido finamente picado con una crema de queso fresco y jengibre suave sobre círculos de masa integral horneada.
+INGREDIENTES:
+• Pechuga de pollo cocida — 200 g
+• Queso fresco bajo en grasa — 60 g
+• Jengibre fresco rallado — 1 cdta
+• Perejil picado — 1 cda
+• Masa quebrada integral (receta de este recetario) — 150 g
+PREPARACION:
+1. Pica el pollo muy fino y mézclalo con el queso, el jengibre y el perejil.
+2. Corta 12 círculos de masa, hornéalos 15 minutos a 180 °C y deja enfriar.
+3. Sirve la mezcla sobre los círculos.
+JUSTIFICACION: El jengibre evoca el picor del rábano de manera suave.
+ADVERTENCIAS: Es una evocación: sin salchicha ni rábano picante.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~9 g
+Grasas: ~5 g
+Fibra: ~1 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Salchicha → pollo; mantequilla de rábano → queso fresco y jengibre.
+• Hojaldre → masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-bocaditos-cigalas-curry
+TITULO: Bocaditos de Langostinos al Curry Suave
+CATEGORIA: Bocadito y hojaldre
+ICONO: 🥣
+SUBSECCION: Bocaditos y hojaldres
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Langostinos con salsa suave de curry dulce y yema sobre círculos de masa integral, tibios del horno.
+INGREDIENTES:
+• Langostinos — 200 g
+• Cebolla en rodajas — ½
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Harina de avena fina — 1 cdta
+• Curry dulce en polvo — ¼ cdta
+• Yema de huevo — 1
+• Masa quebrada integral (receta de este recetario) — 150 g
+PREPARACION:
+1. Hierve los langostinos con la cebolla 3-4 minutos; reserva el caldo y pélalos.
+2. Mezcla aceite, harina y curry, añade el caldo y cuece 10 minutos; liga con la yema.
+3. Hornea 12 círculos de masa 15 minutos a 180 °C; coloca encima los langostinos con la salsa y caliéntalos 5 minutos.
+JUSTIFICACION: Salsa ligera de caldo y curry suave.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~125 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~12 g
+Grasas: ~5 g
+Fibra: ~2 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Cigalas → langostinos; mantequilla → aceite; harina → avena.
+• Hojaldre → masa integral; curry suave.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-crepes-esparragos
+TITULO: Crepes con Espárragos
+CATEGORIA: Crepe
+ICONO: 🥣
+SUBSECCION: Crepes
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Crepes integrales rellenas de espárragos con crema de yogur y parmesano, gratinadas.
+INGREDIENTES:
+• Espárragos limpios — 600 g
+• Aceite de oliva extra virgen — 2 cdtas (10 g)
+• Crepes integrales (receta Pasta de Crepes Integral) — 12 unidades
+• Yogur natural espeso — 150 g
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Cuece los espárragos 12 minutos en agua, escúrrelos y trocéalos.
+2. Rehoga la mitad con el aceite 5 minutos y úntalas sobre las crepes con la mitad del yogur.
+3. Enróllalas y colócalas en una fuente con el resto del yogur y el parmesano.
+4. Hornea 10 minutos a 200 °C hasta que burbujee.
+JUSTIFICACION: Verdura tierna con crema ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~18 g
+Grasas: ~5 g
+Fibra: ~4 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite; parmesano 50 → 25 g.
+• Crepes integrales.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-crepes-champinones
+TITULO: Crepes con Champiñones
+CATEGORIA: Crepe
+ICONO: 🥣
+SUBSECCION: Crepes
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Crepes integrales rellenas de champiñones con caldo y bechamel ligera, gratinadas con parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Champiñones en láminas finas — 200 g
+• Perejil picado — 1 cda
+• Caldo de pollo casero sin sal — 4 cdas
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Crepes integrales (receta Pasta de Crepes Integral) — 12 unidades
+• Parmesano rallado — 2 cdas (15 g)
+PREPARACION:
+1. Rehoga los champiñones y el perejil en el aceite 5 minutos; añade el caldo y reduce.
+2. Unta cada crepe con bechamel, pon encima champiñones y enróllalas.
+3. Colócalas en una fuente con el resto de la bechamel y el parmesano y hornea 10-15 minutos a 200 °C.
+JUSTIFICACION: El caldo reemplaza al brandy; sabor terroso intacto.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~17 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Brandy → caldo; mantequilla → aceite; champiñones 100 → 200 g.
+• Bechamel ligera; crepes integrales.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-crepes-anchoas
+TITULO: Crepes con Crema de Anchoa
+CATEGORIA: Crepe
+ICONO: 🥣
+SUBSECCION: Crepes
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos, Pescado
+PORCIONES: 6
+ETIQUETAS: Italiana, Perfil1
+CONCEPTO: Crepes integrales tibias untadas con crema de queso fresco y anchoa, enrolladas con un trozo de anchoa.
+INGREDIENTES:
+• Filetes de anchoa muy bien desalados — 6
+• Queso fresco bajo en grasa — 80 g
+• Mantequilla a punto de pomada — 15 g
+• Crepes integrales (receta Pasta de Crepes Integral) — 12 unidades
+PREPARACION:
+1. Pica 2 filetes de anchoa y mézclalos con el queso y la mantequilla.
+2. Unta las crepes tibias con la mezcla y pon un trocito de anchoa en el centro.
+3. Enróllalas y sírvelas enseguida.
+JUSTIFICACION: El sabor intenso de la anchoa con mucha menos grasa y sal.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~12 g
+Grasas: ~4 g
+Fibra: ~2 g
+Sodio: ~220 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 100 → 15 g con queso fresco; anchoas 16 → 6.
+• Crepes integrales.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-crepes-jamon-fontina
+TITULO: Crepes de Pollo y Queso
+CATEGORIA: Crepe
+ICONO: 🥣
+SUBSECCION: Crepes
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Crepes integrales rellenas de pollo y queso, gratinadas con bechamel ligera, parmesano y nuez moscada.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+• Crepes integrales (receta Pasta de Crepes Integral) — 12 unidades
+• Pechuga de pollo cocida picada — 200 g
+• Fontina o mozzarella baja en grasa en dados — 80 g
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Parmesano rallado — 2 cdas (15 g)
+• Nuez moscada — 1 pizca
+PREPARACION:
+1. Calienta el horno a 200 °C y engrasa una fuente.
+2. Reparte pollo y queso sobre las crepes y enróllalas; colócalas en la fuente en una sola capa.
+3. Cubre con bechamel, esparce parmesano y nuez moscada y hornea 10 minutos hasta dorar.
+JUSTIFICACION: Pollo en vez de jamón; el gratinado se mantiene.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~16 g
+Grasas: ~6 g
+Fibra: ~2 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón cocido → pollo; fontina 100 → 80 g; mantequilla → aceite.
+• Bechamel ligera; crepes integrales.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-bavarois-pina
+TITULO: Bavarois de Piña con Pollo Asado
+CATEGORIA: Paté y terrina
+ICONO: 🥣
+SUBSECCION: Patés y terrinas
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Postre, Frío, Perfil1
+CONCEPTO: Crema bávara de piña con gelatina, yogur y leche, servida con lonchas finas de pollo asado frío en vez de jamón.
+INGREDIENTES:
+• Láminas de gelatina — 4
+• Piña natural troceada — 200 g
+• Ralladura de limón — de ½ limón
+• Leche descremada — 4 cdas
+• Yogur natural espeso — 250 g
+• Stevia en polvo — ½ cdta
+• Lonchas finas de pechuga de pollo asada para servir — al gusto
+PREPARACION:
+1. Remoja la gelatina 5 minutos en agua fría y escúrrela.
+2. Tritura la piña con la ralladura; calienta la leche con la gelatina hasta disolver y añádela a la piña.
+3. Deja enfriar, incorpora el yogur con la stevia y vierte en un molde; refrigera 6-7 horas.
+4. Desmolda y sirve con el pollo.
+JUSTIFICACION: Cremoso y fresco; el yogur reemplaza la nata montada.
+ADVERTENCIAS: La piña es fruta: cuenta como tu porción de fruta.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~10 g
+Grasas: ~1 g
+Fibra: ~1 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Nata montada 350 ml → yogur espeso 250 g; jamón curado → pollo asado.
+• Zumo de limón → ralladura; stevia.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-molde-florentina
+TITULO: Molde a la Florentina de Pollo y Verduras
+CATEGORIA: Paté y terrina
+ICONO: 🥣
+SUBSECCION: Patés y terrinas
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Lácteos
+PORCIONES: 10
+ETIQUETAS: Italiana, Frío, Perfil1
+CONCEPTO: Terrina fría de res magra y pollo con zanahoria y guisantes, cocida en molde, sin brandy, marsala ni jamón.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Cebolla en rodajas finas — 1
+• Carne magra picada de res — 400 g
+• Caldo de pollo casero sin sal — 100 ml
+• Queso fresco bajo en grasa — 150 g
+• Zanahoria en dados — 100 g
+• Guisantes pelados — 100 g
+• Pechuga de pollo sin piel — 1
+PREPARACION:
+1. Rehoga la cebolla en el aceite; añade la carne, dórala bien; deja enfriar y tritura con el queso fresco.
+2. Cuece el pollo en agua 15 minutos, píquelo y mézclalo con el caldo; cuece zanahoria y guisantes.
+3. Monta el molde en capas, refrigera 4-5 horas y desmolda sobre un plato.
+JUSTIFICACION: Misma terrina fría con carne magra y queso fresco en lugar de 200 g de mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~5 g
+Grasas: ~6 g
+Fibra: ~1 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 200 g → queso fresco 150 g; brandy y marsala → caldo.
+• Jamón → fuera; carne 600 → 400 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-mousse-gorgonzola
+TITULO: Mousse Ligera de Queso Azul
+CATEGORIA: Paté y terrina
+ICONO: 🥣
+SUBSECCION: Patés y terrinas
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Frutos secos, Lácteos
+PORCIONES: 7
+ETIQUETAS: Italiana, Frío, Perfil1
+CONCEPTO: Mousse fría de queso fresco con un poco de queso azul, servida con zanahoria cruda y nueces.
+INGREDIENTES:
+• Queso azul desmenuzado — 40 g
+• Queso fresco bajo en grasa — 300 g
+• Ricota baja en grasa — 100 g
+• Yogur natural espeso — 100 g
+• Nueces partidas por la mitad — 15 g
+• Zanahoria cruda para acompañar — 2
+PREPARACION:
+1. Tritura los quesos con el yogur hasta obtener una crema suave.
+2. Forra un molde con film, vierte la mezcla y alisa; cubre con film y refrigera 3 horas.
+3. Desmolda en una fuente y decora con nueces; sirve con zanahoria.
+JUSTIFICACION: Mismo efecto cremoso sin mantequilla.
+ADVERTENCIAS: Es una evocación: el sabor del azul es más suave.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~5 g
+Grasas: ~5 g
+Fibra: ~1 g
+Sodio: ~230 mg
+IG: Bajo
+ADAPTACIÓN:
+• Gorgonzola 200 → 40 g; queso cremoso y mantequilla → queso fresco, ricota y yogur.
+• Nueces 15 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-mousse-pichon
+TITULO: Mousse de Pollo y Champiñones con Vinagreta Suave
+CATEGORIA: Paté y terrina
+ICONO: 🥣
+SUBSECCION: Patés y terrinas
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Lácteos
+PORCIONES: 10
+ETIQUETAS: Italiana, Frío, Perfil1
+CONCEPTO: Mousse fría de pollo y champiñones asados con una vinagreta tibia de chalote y naranja reducida, y galletitas: la elegancia del original sin pichón, hígados ni alcohol.
+INGREDIENTES:
+• Pechuga de pollo — 500 g
+• Champiñones asados — 150 g
+• Aceite de oliva extra virgen — 3 cdas (30 g)
+• Chalotes picados y escaldados — 2
+• Perejil picado — 1 cda
+• Queso fresco bajo en grasa — 150 g
+• Yogur natural espeso — 100 g
+• Gelatina en láminas — 4
+• Zumo de naranja reducido — 3 cdas
+• Ralladura de limón — de 1 limón
+• Galletitas integrales sin sal — para acompañar
+PREPARACION:
+1. Cuece el pollo en agua 15 minutos; tritúralo con los champiñones asados y el queso fresco hasta obtener una pasta fina.
+2. Hidrata la gelatina, disuélvela en 2 cucharadas de agua caliente e incorpórala con el yogur; refrigera 6 horas en un molde.
+3. Mezcla chalote, perejil, naranja reducida, aceite y ralladura para la vinagreta.
+4. Forma bolas de mousse y sírvelas con la vinagreta y galletitas.
+JUSTIFICACION: Textura de mousse con proteína magra y sin vísceras.
+ADVERTENCIAS: Es una evocación: sin pichón ni trufa.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~4 g
+Grasas: ~6 g
+Fibra: ~1 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Pichón, hígados, armañac y paté de trufa → pollo y champiñones asados.
+• Vinagre y mostaza → naranja reducida y ralladura; nata → yogur.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-mousse-flores
+TITULO: Mousse de Flores Comestibles
+CATEGORIA: Paté y terrina
+ICONO: 🥣
+SUBSECCION: Patés y terrinas
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Frío, Perfil1
+CONCEPTO: Queso fresco ligero con flores comestibles en cúpula sobre pan integral tostado.
+INGREDIENTES:
+• Flores comestibles (capuchinas, pensamientos, pétalos de rosa) — 30
+• Queso fresco bajo en grasa — 100 g
+• Leche descremada — 1 cda
+• Ralladura de limón — una pizca
+• Pan integral tostado — para acompañar
+PREPARACION:
+1. Lava las flores, sécalas y reserva ocho para decorar; pica el resto.
+2. Mezcla el queso con la leche y la ralladura, añade las flores picadas.
+3. Forma una cúpula en una fuente y decora con las flores reservadas; sirve con pan tostado.
+JUSTIFICACION: Muy fresco y bajo en calorías.
+ADVERTENCIAS: Usa solo flores comestibles sin pesticidas.
+VALOR_NUTRICIONAL:
+Calorías: ~75 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~10 g
+Grasas: ~1 g
+Fibra: ~2 g
+Sodio: ~120 mg
+IG: Medio
+ADAPTACIÓN:
+• Mascarpone → queso fresco bajo en grasa; limón → ralladura; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-mousse-jamon-kiwi
+TITULO: Mousse de Pollo y Kiwi
+CATEGORIA: Paté y terrina
+ICONO: 🥣
+SUBSECCION: Patés y terrinas
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Lácteos
+PORCIONES: 7
+ETIQUETAS: Italiana, Frío, Perfil1
+CONCEPTO: Mousse de pollo cocido y queso fresco con rodajas de kiwi fresco.
+INGREDIENTES:
+• Pechuga de pollo cocida en dados — 350 g
+• Queso fresco bajo en grasa — 150 g
+• Mantequilla a punto de pomada — 15 g
+• Kiwis pelados y en rodajas — 3
+PREPARACION:
+1. Tritura el pollo con el queso y la mantequilla hasta lograr una mezcla homogénea.
+2. Forra un molde con film, vierte la mousse y alisa; refrigera 3 horas.
+3. Desmolda y decora con rodajas de kiwi.
+JUSTIFICACION: El kiwi aporta frescura y vitamina C.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~115 kcal (por porción)
+Proteínas: ~16 g
+Carbohidratos: ~5 g
+Grasas: ~3 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo cocido; robiola → queso fresco; mantequilla 50 → 15 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-mousse-salmon-gambas
+TITULO: Mousse de Salmón con Crema de Gambas
+CATEGORIA: Paté y terrina
+ICONO: 🥣
+SUBSECCION: Patés y terrinas
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Marisco, Pescado, Huevo, Lácteos
+PORCIONES: 7
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Mousse de salmón horneada al baño maría con yogur, con crema de gambas ligera en el centro.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+• Filetes de salmón sin piel ni espinas — 500 g
+• Claras de huevo — 2
+• Yogur natural espeso — 200 g
+• Pizca de nuez moscada
+PREPARACION:
+1. Precalienta el horno a 160 °C y engrasa un molde de corona.
+2. Tritura el salmón, añade las claras montadas y el yogur con movimientos envolventes.
+3. Hornea al baño maría 45-50 minutos; mientras, prepara la crema de gambas.
+4. Desmolda y rellena el centro con la crema.
+INGREDIENTES_CREMA_DE_GAMBAS:
+• Gambas cocidas — 18
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Harina de avena fina — 1 cda
+• Yogur natural espeso — 2 cdas
+PREPARACION_CREMA_DE_GAMBAS:
+1. Pela las gambas y cuece las cáscaras en agua; cuela el caldo.
+2. Tritura las gambas con el aceite y la harina, añade el caldo hasta obtener una crema algo líquida y cuela.
+3. Incorpora el yogur sin hervir.
+JUSTIFICACION: Salmón rico en omega-3; yogur en vez de nata, sin brandy.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~205 kcal (por porción)
+Proteínas: ~24 g
+Carbohidratos: ~4 g
+Grasas: ~10 g
+Fibra: ~0 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata 250 ml → yogur 200 g; mantequilla → aceite; brandy → fuera.
+• Salmón 600 → 500 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-mousse-tomate
+TITULO: Mousse Fría de Tomate Asado
+CATEGORIA: Paté y terrina
+ICONO: 🥣
+SUBSECCION: Patés y terrinas
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Frío, Perfil1
+CONCEPTO: Mousse de tomate asado con ajo asado, cebollino y una crema ligera de yogur y yema dura, en platos individuales.
+INGREDIENTES:
+• Tomates maduros asados, pelados y sin semillas — 8
+• Cebollino picado — 1 cda
+• Ajo asado — 1 diente
+• Yogur natural espeso — 250 g
+• Yema de huevo duro — 2
+• Gelatina en láminas — 3
+• Hojas de albahaca — para adornar
+PREPARACION:
+1. Tritura los tomates asados con el ajo y el cebollino.
+2. Hidrata la gelatina, disuélvela en 2 cucharadas de agua caliente e incorpórala al puré.
+3. Mezcla con el yogur y las yemas machacadas; sazona con una pizca de sal.
+4. Reparte en platos individuales, refrigera 3 horas y adorna con albahaca.
+JUSTIFICACION: Mousse dulce y fresca; el tomate asado suaviza la acidez.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~75 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~8 g
+Grasas: ~2 g
+Fibra: ~2 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mayonesa y nata → yogur y yema dura; tomate crudo y ajo → asados.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pate-higadillo-pollo
+TITULO: Paté Suave de Pollo y Champiñones (a la manera del Paté de Higadillo)
+CATEGORIA: Paté y terrina
+ICONO: 🥣
+SUBSECCION: Patés y terrinas
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Frío, Perfil1
+CONCEPTO: Paté untuoso de pollo y champiñones con cebolla, tomillo y queso fresco, sin vísceras ni alcohol.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pechuga de pollo — 350 g
+• Champiñones laminados — 150 g
+• Cebolla cocida picada — ¼
+• Hojas de tomillo — 5
+• Caldo de pollo casero sin sal — 4 cdas
+• Queso fresco bajo en grasa — 100 g
+• Mantequilla — 20 g
+PREPARACION:
+1. Rehoga la cebolla y el tomillo en el aceite; añade el pollo y los champiñones 5 minutos y el caldo y cuece 5 minutos más.
+2. Tritura con el queso y la mantequilla fundida.
+3. Refrigera unas 6 horas.
+JUSTIFICACION: Untuoso sin la grasa del paté clásico.
+ADVERTENCIAS: Es una evocación: sin el sabor ferroso del hígado.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~18 g
+Carbohidratos: ~3 g
+Grasas: ~5 g
+Fibra: ~1 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Higadillos, marsala y brandy → pollo, champiñones y caldo.
+• Mantequilla 150 → 20 g con queso fresco; nata → fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pate-suave-pollo
+TITULO: Paté Suave de Pollo
+CATEGORIA: Paté y terrina
+ICONO: 🥣
+SUBSECCION: Patés y terrinas
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+PORCIONES: 8
+ETIQUETAS: Italiana, Frío, Perfil1
+CONCEPTO: Paté de pollo y batata con queso fresco y bechamel ligera, en molde con gelatina y huevo.
+INGREDIENTES:
+• Pechuga de pollo — 450 g
+• Batata pequeña — 1
+• Queso fresco bajo en grasa — 150 g
+• Salsa Bechamel (receta de este recetario) — 100 ml
+• Mantequilla — 20 g
+• Gelatina en polvo — 15 g
+• Huevo duro — 1
+• Hojas de perejil — para decorar
+PREPARACION:
+1. Enfría un molde rectangular; cuece el pollo 15 minutos en agua y tritúralo.
+2. Cuece la batata, hazla puré y mézclala con el pollo, el queso, la bechamel y la mantequilla.
+3. Prepara la gelatina con caldo casero; forra el molde con ella y decora con huevo y perejil.
+4. Añade el paté al molde y refrigera 5 horas; desmolda.
+JUSTIFICACION: Muy proteico y suave.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~6 g
+Grasas: ~5 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → fuera; nata y brandy → queso fresco; mantequilla 120 → 20 g.
+• Patata → batata; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pate-higado-ternera
+TITULO: Paté Suave de Res Magra y Champiñones (a la manera del Paté de Hígado de Ternera)
+CATEGORIA: Paté y terrina
+ICONO: 🥣
+SUBSECCION: Patés y terrinas
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Lácteos
+PORCIONES: 7
+ETIQUETAS: Italiana, Frío, Perfil1
+CONCEPTO: Res magra cocida con salvia y champiñones, triturada con queso fresco y yema dura, refrigerada y servida sobre triángulos de pan integral.
+INGREDIENTES:
+• Res magra (pulpa) en lonchas — 300 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Champiñones asados — 100 g
+• Caldo de res casero sin sal — 4 cdas
+• Queso fresco bajo en grasa — 100 g
+• Yema de huevo duro — 1
+• Hojas de salvia — para adornar
+• Triángulos de pan integral tostados — para acompañar
+PREPARACION:
+1. Cocina la res con el aceite 5 minutos; añade el caldo y cuece 7 minutos hasta que evapore.
+2. Tritura con los champiñones, el queso y la yema.
+3. Forra un molde con film, vierte el paté y refrigera 5 horas; desmolda y adorna con salvia.
+JUSTIFICACION: Menos grasa y sin vísceras.
+ADVERTENCIAS: Es una evocación: sin el hígado ni el jamón curado.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~18 g
+Carbohidratos: ~7 g
+Grasas: ~4 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Hígado, marsala y jamón curado → res magra, caldo y champiñones.
+• Mantequilla 120 → queso fresco 100 g; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pate-salmon-ahumado
+TITULO: Paté de Salmón con Batata
+CATEGORIA: Paté y terrina
+ICONO: 🥣
+SUBSECCION: Patés y terrinas
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Pescado, Lácteos
+PORCIONES: 7
+ETIQUETAS: Italiana, Frío, Perfil1
+CONCEPTO: Paté de salmón fresco horneado con puré de batata, aceitunas y un toque de anchoa, refrigerado en molde.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Batatas — 3
+• Salmón fresco horneado y desmenuzado — 200 g
+• Aceitunas negras enjuagadas — 1 cda
+• Filete de anchoa muy bien desalado — 1
+• Pepino fresco para adornar — al gusto
+PREPARACION:
+1. Cuece las batatas 15 minutos, pélalas y hazlas puré.
+2. Tritura salmón, aceitunas, aceite y anchoa; mezcla con el puré.
+3. Vierte en un molde engrasado, alisa y refrigera 6 horas; desmolda y adorna con pepino.
+JUSTIFICACION: Salmón fresco sin el sodio del ahumado.
+ADVERTENCIAS: Es una evocación: sin el sabor ahumado.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~13 g
+Grasas: ~5 g
+Fibra: ~2 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Salmón ahumado → fresco horneado; pepinillos → pepino fresco.
+• Mantequilla → aceite; aceitunas 3 cdas → 1.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pate-atun
+TITULO: Paté de Atún
+CATEGORIA: Paté y terrina
+ICONO: 🥣
+SUBSECCION: Patés y terrinas
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Pescado, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Frío, Perfil1
+CONCEPTO: Paté de atún al natural, un toque de anchoa y queso fresco con ralladura de limón.
+INGREDIENTES:
+• Filetes de anchoa muy bien desalados — 2
+• Atún al natural, escurrido — 300 g
+• Ralladura de limón — de 1 limón
+• Queso fresco bajo en grasa — 120 g
+• Mantequilla a punto de pomada — 20 g
+• Pepino y zanahoria en tiras — para adornar
+PREPARACION:
+1. Tritura las anchoas con el atún.
+2. Añade el queso, la mantequilla y la ralladura.
+3. Engrasa un molde, vierte el paté y refrigera 3 horas; desmolda y decora.
+JUSTIFICACION: Mismo sabor con mucha menos grasa y anchoa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~21 g
+Carbohidratos: ~2 g
+Grasas: ~3 g
+Fibra: ~0 g
+Sodio: ~230 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 150 → 20 g con queso fresco; anchoas 100 → 2 filetes.
+• Zumo de limón → ralladura; encurtidos → verduras frescas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-terrina-pato
+TITULO: Terrina de Pollo y Pavo
+CATEGORIA: Paté y terrina
+ICONO: 🥣
+SUBSECCION: Patés y terrinas
+SECCION: Antipasti
+TIPO: Almuerzo
+RIESGOS: Huevo
+PORCIONES: 9
+ETIQUETAS: Italiana, Frío, Perfil1
+CONCEPTO: Terrina de pollo y pavo con res magra, cocida al baño maría; evocación de la de pato, sin tocino ni jamón ni brandy.
+INGREDIENTES:
+• Pechuga de pollo — 400 g
+• Pechuga de pavo — 300 g
+• Carne picada de res magra — 200 g
+• Caldo de pollo casero sin sal — 100 ml
+• Cebolla cocida picada — 1
+• Hierbas (tomillo, perejil) picadas — 2 cdas
+• Huevos ligeramente batidos — 2
+PREPARACION:
+1. Corta el pollo y el pavo en tiras y mézclalos con el caldo; deja reposar 2 horas.
+2. Mezcla con la res picada, la cebolla, las hierbas y los huevos; sazona con una pizca de sal.
+3. Forra un molde con papel, rellena, cubre y cuece al baño maría en el horno a 160 °C durante 2 horas.
+4. Prensa con un peso y refrigera 24 horas antes de servir.
+JUSTIFICACION: Terrina fría con proteínas magras.
+ADVERTENCIAS: Es una evocación: sin la grasa del pato.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~25 g
+Carbohidratos: ~2 g
+Grasas: ~4 g
+Fibra: ~0 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Pato, tocino, jamón y cerdo → pollo, pavo y res magra; brandy → caldo.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pastel-atun-puerros
+TITULO: Pastel de Atún con Salsa de Puerros
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Huevo, Lácteos
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pastel de atún al natural con huevos en molde al baño maría, con salsa de puerros y yogur.
+INGREDIENTES:
+• Atún al natural, escurrido — 200 g
+• Huevos (yemas y claras separadas) — 4
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+• Perejil picado — 1 cda
+PREPARACION:
+1. Precalienta el horno a 180 °C y engrasa un molde.
+2. Tritura la mitad del atún con las yemas, monta las claras e incorpóralas; añade el atún restante picado.
+3. Hornea al baño maría 45 minutos; desmolda y sirve con la salsa decorado con perejil.
+INGREDIENTES_SALSA_DE_PUERROS:
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Yogur natural espeso — 2 cdas (30 g)
+• Puerros limpios y en rodajas finas — 4
+PREPARACION_SALSA_DE_PUERROS:
+1. Rehoga los puerros en el aceite 20 minutos con un chorrito de agua.
+2. Tritura con el yogur y sazona con una pizca de sal.
+JUSTIFICACION: Salsa dulce de puerro, sin mantequilla ni nata.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~5 g
+Grasas: ~7 g
+Fibra: ~1 g
+Sodio: ~220 mg
+IG: Bajo
+ADAPTACIÓN:
+• Atún → al natural; mantequilla y nata → aceite y yogur.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-flanes-puerro
+TITULO: Flanes de Puerro
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Frutos secos, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Flanes individuales de puerro con almendras, parmesano y bechamel ligera, al baño maría.
+INGREDIENTES:
+• Puerros limpios — 800 g
+• Almendras molidas — 25 g
+• Parmesano rallado — 25 g
+• Huevos (yemas y claras separadas) — 2
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+• Salsa Bechamel (receta de este recetario) — ½ ración
+• Pizca de sal
+PREPARACION:
+1. Prepara la bechamel y deja enfriar; engrasa seis flaneras.
+2. Cuece los puerros 10 minutos, escúrrelos, tritúralos con la bechamel y añade parmesano, almendras y yemas.
+3. Monta las claras e incorpóralas; llena las flaneras y hornea al baño maría unos 30 minutos a 180 °C; deja reposar y desmolda.
+JUSTIFICACION: Puerro suave, poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~14 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Piñones → almendras 50 → 25 g; parmesano 50 → 25 g.
+• Bechamel ligera; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-flanes-calabacin
+TITULO: Flanes de Calabacín
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+PORCIONES: 4
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Flanes de calabacín con chalote, huevo y parmesano, al baño maría.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (para engrasar y rehogar)
+• Calabacines en rodajas — 250 g
+• Chalote picado fino — 1
+• Huevos ligeramente batidos — 2
+• Parmesano rallado — 1 cda (8 g)
+• Salsa Bechamel (receta de este recetario) — ½ ración
+PREPARACION:
+1. Cuece el calabacín 10 minutos en agua, escúrrelo y chafa.
+2. Rehoga el chalote en el aceite, añade el calabacín y deja evaporar el líquido.
+3. Mezcla con la bechamel, el huevo y el parmesano; llena cuatro flaneras y hornea al baño maría 30-35 minutos a 180 °C; reposa 5 minutos y desmolda.
+JUSTIFICACION: Muy ligero y suave.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~6 g
+Grasas: ~6 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; bechamel ligera; parmesano 2 cdas → 1.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pastel-bicolor
+TITULO: Pastel Bicolor de Espinacas y Zanahoria
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pastel de dos capas, espinacas y zanahoria, con bechamel ligera y queso.
+INGREDIENTES:
+• Espinacas — 600 g
+• Zanahorias mini — 350 g
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Harina de avena — 50 g
+• Leche descremada — 500 ml
+• Tomillo picado — ½ cdta
+• Huevos (yemas y claras separadas) — 4
+• Emmental ligero rallado — 20 g
+• Fécula de papa — 1 cdta
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Cuece las espinacas 5 minutos, escúrrelas bien, pícalas y pásalas por el pasapuré; haz lo mismo con las zanahorias cocidas 10 minutos.
+2. Prepara una bechamel con aceite, harina y leche; divídela en dos y añade a una las espinacas con emmental y fécula, y a la otra la zanahoria con parmesano; liga cada una con yemas y claras montadas.
+3. Rellena el molde en capas y hornea al baño maría 1 hora a 180 °C; reposa 5 minutos y desmolda.
+JUSTIFICACION: Colorido y rico en fibra, con poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~160 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~16 g
+Grasas: ~7 g
+Fibra: ~4 g
+Sodio: ~160 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; leche descremada; harina de avena.
+• Emmental y parmesano 40 → 20 g cada uno.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pastel-alcachofas
+TITULO: Pastel de Alcachofas
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Alcachofas cocidas con parmesano y bechamel ligera en un molde con pan integral rallado.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+• Pan integral rallado — para el molde
+• Ralladura de limón — de ½ limón
+• Alcachofas (corazones) — 6
+• Huevos — 2
+• Parmesano rallado — 25 g
+• Salsa Bechamel (receta de este recetario) — ¾ de ración
+PREPARACION:
+1. Engrasa el molde y espolvorea con pan rallado.
+2. Cuece las alcachofas en agua 15 minutos, pícalas y déjalas enfriar.
+3. Bate huevos con parmesano y la ralladura, añade las alcachofas y la bechamel; vierte en el molde y hornea 45 minutos a 180 °C; reposa antes de desmoldar.
+JUSTIFICACION: Muy rico en fibra y con poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~11 g
+Grasas: ~5 g
+Fibra: ~5 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Bechamel ligera; mantequilla → aceite; zumo de limón → ralladura.
+• Parmesano 40 → 25 g; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pastel-zanahoria
+TITULO: Pastel de Zanahoria
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pastel de zanahoria con bechamel ligera, queso y huevos, con forma de estrella.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+• Zanahorias — 1 kg
+• Salsa Bechamel (receta de este recetario) — 250 ml
+• Emmental ligero rallado — 40 g
+• Parmesano rallado — 20 g
+• Huevos ligeramente batidos — 3
+• Nuez moscada — 1 pizca
+PREPARACION:
+1. Cuece las zanahorias al vapor 8-10 minutos; reserva unas cuantas y tritura el resto.
+2. Corta algunas en tiras y colócalas en la base del molde; parte el resto en rodajas para el borde.
+3. Mezcla el puré con la bechamel, los quesos, los huevos y la nuez moscada; rellena el molde.
+4. Hornea al baño maría 45-50 minutos a 180 °C; reposa 5 minutos y desmolda.
+JUSTIFICACION: Dulce, colorido y ligero.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~11 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Bechamel ligera; emmental 100 → 40 g; parmesano 40 → 20 g.
+• Zanahorias 1,2 → 1 kg.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pastel-zanahoria-hinojo
+TITULO: Pastel de Zanahoria e Hinojo
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pastel de dos purés, de zanahoria y de hinojo, con parmesano y bechamel ligera, horneado al baño maría.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 2 cdtas (10 g)
+• Zanahorias — 500 g
+• Bulbos de hinojo pequeños en cuartos — 6
+• Leche descremada — 200 ml
+• Parmesano rallado — 2 cdas (15 g)
+• Salsa Bechamel (receta de este recetario) — ½ ración
+• Huevos (yemas y claras separadas) — 2
+PREPARACION:
+1. Cuece las zanahorias 10 minutos y el hinojo 10-15 minutos; escurre.
+2. Rehoga cada puré con aceite y leche; añade parmesano, bechamel y una yema a cada uno y las claras montadas.
+3. Alterna capas en el molde engrasado y hornea al baño maría 40-50 minutos a 180 °C; reposa y desmolda.
+JUSTIFICACION: El hinojo aporta frescura anisada.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~105 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~12 g
+Grasas: ~4 g
+Fibra: ~4 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; leche descremada; bechamel ligera; parmesano 4 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pastel-coliflor
+TITULO: Pastel de Coliflor
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pastel de coliflor con bechamel ligera, queso y huevos, al baño maría.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Coliflor en ramitos — 1 kg
+• Leche descremada — 5 cdas
+• Huevos — 3
+• Salsa Bechamel (receta de este recetario) — ¾ de ración
+• Gruyère rallado — 40 g
+PREPARACION:
+1. Cuece la coliflor 8-10 minutos, escúrrela bien y tritúrala con el aceite y la leche.
+2. Mezcla con bechamel, huevos batidos y gruyère.
+3. Vierte en el molde engrasado y hornea al baño maría 1 hora a 180 °C; reposa unos minutos y desmolda.
+JUSTIFICACION: Coliflor suave y baja en calorías.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~7 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; gruyère 80 → 40 g; leche descremada; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pastel-endibias
+TITULO: Pastel de Endibias
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Endibias cocidas y rehogadas con huevo y bechamel ligera, al baño maría.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Endibias — 800 g
+• Huevos — 2
+• Salsa Bechamel (receta de este recetario) — 250 ml
+PREPARACION:
+1. Cuece las endibias 10 minutos, exprímelas y trocéalas; rehógalas en el aceite 5 minutos.
+2. Bate los huevos con una pizca de sal, añádelos a las endibias y mezcla con la bechamel.
+3. Hornea en un molde engrasado, al baño maría, 45-50 minutos a 180 °C; reposa 5 minutos y desmolda.
+JUSTIFICACION: El amargor de la endibia se suaviza al cocerla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~8 g
+Grasas: ~4 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pastel-hinojo
+TITULO: Pastel de Hinojo
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pastel de hinojo con parmesano, huevos y bechamel ligera, al baño maría.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Bulbos de hinojo cortados en gajos — 1,2 kg
+• Leche descremada — 200 ml
+• Huevos — 3
+• Parmesano rallado — 25 g
+• Salsa Bechamel (receta de este recetario) — 250 ml
+PREPARACION:
+1. Rehoga el hinojo en el aceite 5 minutos, añade la leche y cuece hasta que se absorba; tritúralo.
+2. Mezcla con los huevos, el parmesano y la bechamel.
+3. Vierte en el molde y hornea al baño maría 45 minutos a 180 °C; reposa y desmolda.
+JUSTIFICACION: Muy aromático y ligero.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~10 g
+Grasas: ~5 g
+Fibra: ~5 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; leche descremada; parmesano 50 → 25 g; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pastel-guisantes
+TITULO: Pastel de Guisantes
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Frutos secos, Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pastel de guisantes con caldo, canela, almendras molidas y huevos, con claras montadas.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pan integral rallado — 30 g
+• Guisantes pelados — 700 g
+• Caldo de pollo casero sin sal — 150 ml
+• Canela en polvo — 1 pizca
+• Harina de avena — 1 cda
+• Almendras molidas — 20 g
+• Yogur natural espeso — 2 cdas (30 g)
+• Huevos (yemas y claras separadas) — 3
+PREPARACION:
+1. Engrasa el molde y espolvorea con pan rallado; cuece los guisantes 5 minutos con el caldo y la canela y tritúralos.
+2. Rehoga la harina en el aceite, añade el puré, las almendras y el yogur; retira del fuego e incorpora las yemas.
+3. Monta las claras y agrégalas; hornea 45 minutos a 180 °C.
+JUSTIFICACION: Las almendras evocan el amaretti.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~15 g
+Grasas: ~6 g
+Fibra: ~5 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Amaretti → almendras molidas; nata → yogur; mantequilla → aceite.
+• Harina de avena; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pastel-apio-jamon
+TITULO: Pastel de Apio y Pollo
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Apio cocido con pollo, parmesano y bechamel ligera, horneado al baño maría.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ramas de apio picadas — 4
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Parmesano rallado — 25 g
+• Pechuga de pollo cocida picada — 150 g
+• Huevos (yemas y claras separadas) — 3
+PREPARACION:
+1. Cuece el apio 15 minutos y escúrrelo; rehógalo en el aceite.
+2. Mezcla con la bechamel, el parmesano y el pollo; liga con las yemas y las claras montadas.
+3. Hornea al baño maría 45-50 minutos a 180 °C; reposa 5 minutos y desmolda.
+JUSTIFICACION: Pollo en lugar de jamón.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~6 g
+Grasas: ~6 g
+Fibra: ~1 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo cocido; mantequilla → aceite; parmesano 50 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pastel-espinacas
+TITULO: Pastel de Espinacas
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pastel de espinacas con pollo, fontina y bechamel ligera en molde de corona.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+• Pan integral rallado — 30 g
+• Espinacas — 800 g
+• Pechuga de pollo cocida en dados — 80 g
+• Fontina o mozzarella baja en grasa en dados — 40 g
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Huevos (yemas y claras separadas) — 3
+PREPARACION:
+1. Lava las espinacas y cuécelas 5 minutos; escúrrelas y pícalas.
+2. Mezcla con pollo, queso y bechamel; añade las yemas y las claras montadas.
+3. Rellena el molde engrasado con pan rallado y hornea al baño maría 45-50 minutos a 180 °C; reposa y desmolda.
+JUSTIFICACION: Rica en hierro vegetal y fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~8 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~160 mg
+IG: Bajo
+ADAPTACIÓN:
+• Salami → pollo; fontina 50 → 40 g; bechamel ligera; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-flan-trucha-marina
+TITULO: Flan de Trucha con Verduras en Juliana
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Pescado, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Flanes de trucha con yogur, sobre verduras en juliana con salsa de azafrán y caldo.
+INGREDIENTES:
+• Filetes de trucha sin piel — 700 g
+• Yemas de huevo — 2
+• Fécula de papa — 1 cda
+• Yogur natural espeso — 200 g
+• Perejil picado — 1 cda
+• Tomate asado en dados — 1
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+PREPARACION:
+1. Cuece el pescado en agua con cebolla, zanahoria y puerro; reserva el caldo.
+2. Tritura el pescado con yemas, fécula y el yogur; vierte en flaneras engrasadas y hornea al baño maría unos 25 minutos.
+3. Prepara las verduras y la salsa y sirve el flan sobre las verduras con perejil y tomate.
+INGREDIENTES_VERDURAS_Y_SALSA:
+• Zanahorias en juliana — 2
+• Apio en juliana — 2 ramas
+• Puerros en juliana — 2
+• Calabacines en juliana — 2
+• Fécula de papa — 1 cda
+• Hebras de azafrán — unas hebras
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION_VERDURAS_Y_SALSA:
+1. Rehoga las verduras 5 minutos con el aceite.
+2. Para la salsa, disuelve la fécula en caldo de pescado frío, añade azafrán y hierve a fuego lento hasta espesar.
+JUSTIFICACION: Pescado fresco con verduras: ligero.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~24 g
+Carbohidratos: ~8 g
+Grasas: ~5 g
+Fibra: ~2 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; vino blanco → caldo de pescado; mantequilla → aceite.
+• Trucha 1 kg → 700 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pastel-almejas-mejillones
+TITULO: Pastel de Almejas y Mejillones
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Marisco, Pescado, Gluten, Huevo
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pastel de moluscos con velouté ligero de su caldo y huevos, al baño maría.
+INGREDIENTES:
+• Almejas limpias — 400 g
+• Mejillones limpios — 400 g
+• Velouté ligero (caldo de moluscos, aceite y harina de avena) — 1 ración
+• Huevos (yemas y claras separadas) — 4
+• Filetes de pescado blanco escaldados — 100 g
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+PREPARACION:
+1. Abre los moluscos al fuego con 250 ml de agua hasta que se abran; cuela y reserva el líquido; retira las valvas y trocea.
+2. Prepara el velouté ligero: sofríe 1 cucharada de harina de avena en 1 cucharada de aceite y añade el líquido reservado hasta espesar.
+3. Mezcla con yemas, moluscos y pescado; incorpora las claras montadas y hornea 40 minutos a 180 °C en el molde.
+JUSTIFICACION: Sabor a mar sin mantequilla.
+ADVERTENCIAS: Sin sal añadida: el caldo de moluscos ya sala.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~18 g
+Carbohidratos: ~6 g
+Grasas: ~5 g
+Fibra: ~0 g
+Sodio: ~240 mg
+IG: Bajo
+ADAPTACIÓN:
+• Velouté de mantequilla → ligero de aceite y avena; moluscos 1 kg → 800 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-pastel-calabaza
+TITULO: Pastel de Calabaza
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Frutos secos, Huevo, Lácteos
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pastel de calabaza, cebolla cocida y bechamel ligera con parmesano y almendras, al baño maría.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (para engrasar y rehogar)
+• Cebolla en rodajas — 1
+• Calabaza pelada y troceada — 1 kg
+• Salsa Bechamel (receta de este recetario) — ¾ de ración
+• Parmesano rallado — 25 g
+• Yemas de huevo — 2
+• Almendras picadas — 20 g
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade la calabaza con 150 ml de agua y cuece unos 30 minutos hasta que esté muy tierna.
+2. Tritura y mezcla con la bechamel, el parmesano, las yemas y las almendras.
+3. Vierte en un molde y hornea a 160 °C 1 hora; reposa y desmolda.
+JUSTIFICACION: Dulzor natural de la calabaza.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~115 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~13 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Piñones → almendras 40 → 20 g; parmesano 50 → 25 g; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-souffle-castanas
+TITULO: Soufflé de Batata y Castañas
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Frutos secos, Huevo
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Soufflé de puré de batata con pocas castañas y caldo, con claras montadas.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+• Castañas cocidas y peladas (sin azúcar) — 150 g
+• Batata cocida en puré — 300 g
+• Caldo de carne casero sin sal — 150 ml
+• Claras de huevo — 3
+PREPARACION:
+1. Precalienta el horno a 200 °C y engrasa un molde alto.
+2. Mezcla el puré de castañas y batata con el caldo y cuece hasta formar una pasta suave.
+3. Monta las claras a punto de nieve y agrégalas; hornea 20 minutos, baja a 180 °C y cuece 5 minutos más.
+JUSTIFICACION: La batata reemplaza gran parte de las castañas (mucho más calóricas).
+ADVERTENCIAS: Es una evocación: menos sabor a castaña.|Sirve enseguida.
+VALOR_NUTRICIONAL:
+Calorías: ~125 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~24 g
+Grasas: ~1 g
+Fibra: ~4 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Castañas 600 → 150 g con batata; mantequilla → fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-souffle-cebolla
+TITULO: Soufflé de Cebolla
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Soufflé de cebollas cocidas en caldo, con queso y bechamel ligera.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebollas pequeñas picadas finas — 300 g
+• Caldo de carne casero sin sal, caliente — 300 ml
+• Stevia en polvo — 1 pizca
+• Emmental ligero rallado — 40 g
+• Huevos (yemas y claras separadas) — 4
+• Salsa Bechamel (receta de este recetario) — 250 ml
+• Nuez moscada — 1 pizca
+PREPARACION:
+1. Cuece la cebolla en el aceite 10 minutos con el caldo hasta que evapore.
+2. Incorpora la bechamel, el emmental, la nuez moscada y las yemas.
+3. Monta las claras e incorpóralas; hornea a 200 °C 20 minutos, baja a 180 °C y sigue 5 minutos.
+JUSTIFICACION: Cebolla cocida muy dulce y suave.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~9 g
+Grasas: ~6 g
+Fibra: ~1 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Brandy → caldo; mantequilla → aceite; emmental 100 → 40 g.
+• Bechamel ligera; azúcar → stevia.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-souffle-judias-verdes
+TITULO: Soufflé de Judías Verdes
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Soufflé de judías verdes con parmesano y bechamel ligera de avena.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+• Judías verdes despuntadas — 700 g
+• Parmesano rallado — 1 cda (8 g)
+• Huevos (yemas y claras separadas) — 4
+• Aceite de oliva extra virgen (bechamel) — 2 cdas (20 g)
+• Harina de avena — 50 g
+• Leche descremada — 400 ml
+PREPARACION:
+1. Cuece las judías al dente 5 minutos, escúrrelas y pásalas por el pasapuré; prepara una bechamel con aceite, harina y leche.
+2. Mezcla las judías con la bechamel, el parmesano y las yemas; incorpora las claras montadas.
+3. Hornea a 200 °C 20 minutos, baja a 180 °C y cuece 5 minutos más.
+JUSTIFICACION: Verdura ligera y esponjosa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~12 g
+Grasas: ~6 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 80 g → aceite 20 g; harina 80 → avena 50 g; leche descremada.
+• Parmesano 2 cdas → 1.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-souffle-queso
+TITULO: Soufflé de Queso
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Soufflé clásico de queso, bechamel ligera y claras montadas, con menos queso.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+• Pan integral rallado — 30 g
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Emmental ligero en tiras finas — 80 g
+• Huevos (yemas y claras separadas) — 3
+PREPARACION:
+1. Precalienta el horno a 200 °C y engrasa un molde alto con pan rallado.
+2. Calienta la bechamel, funde el queso, añade las yemas una a una.
+3. Incorpora las claras montadas; hornea 20 minutos, baja a 180 °C y sigue 5 minutos; sirve enseguida.
+JUSTIFICACION: Clásico con la mitad del queso.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~10 g
+Grasas: ~7 g
+Fibra: ~1 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Emmental 150 → 80 g ligero; bechamel ligera; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-souffle-setas
+TITULO: Soufflé de Setas
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos, Pescado
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Soufflé de setas con un toque de anchoa, ajo asado y fontina, con bechamel ligera.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+• Pan integral rallado — 30 g
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Cebolla picada — 1
+• Ajo asado — 1 diente
+• Anchoa desalada — 1 filete
+• Setas (boletos o champiñones) en láminas finas — 600 g
+• Caldo casero sin sal — 3-4 cdas
+• Perejil picado — 1 cda
+• Fontina o mozzarella baja en grasa — 80 g
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Huevos (yemas y claras separadas) — 3
+PREPARACION:
+1. Rehoga cebolla, ajo y anchoa en el aceite; añade las setas y cuece 25 minutos con el caldo hasta que esté seca.
+2. Mezcla las yemas con la bechamel, parte del queso en dados y el resto en láminas; incorpora las claras montadas.
+3. Rellena el molde en capas con las setas y la mezcla y hornea 20 minutos a 200 °C; baja a 180 °C y sigue 5 minutos.
+JUSTIFICACION: Sabor profundo de setas con poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~9 g
+Grasas: ~8 g
+Fibra: ~2 g
+Sodio: ~160 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 → 2 cucharadas; fontina 150 → 80 g; boletos 750 → 600 g.
+• Ajo asado; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-souffle-cangrejo
+TITULO: Soufflé de Cangrejo
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten, Huevo
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Soufflé de cangrejo con pimentón rojo asado, ligado con velouté ligero.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+• Pimentón rojo asado en dados — 1
+• Carne de cangrejo escurrida — 200 g
+• Caldo de pescado casero sin sal — 2 cdas
+• Huevos (yemas y claras separadas) — 4
+• Velouté ligero de pescado (aceite, harina de avena y caldo) — ¾ de ración
+PREPARACION:
+1. Tritura el pimentón asado con el cangrejo y el caldo.
+2. Mezcla con las yemas y el velouté ligero; incorpora las claras montadas.
+3. Hornea 20 minutos a 200 °C, baja a 180 °C y sigue 5 minutos.
+JUSTIFICACION: Esponjoso y proteico.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~5 g
+Grasas: ~6 g
+Fibra: ~1 g
+Sodio: ~210 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vermú → caldo de pescado; mantequilla → aceite; velouté ligero.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-souffle-maiz
+TITULO: Soufflé de Maíz con Ají Dulce
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Soufflé de maíz dulce con queso, pimentón rojo y ají dulce, sin picante.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Harina de avena — 2 cdas
+• Leche descremada — 100 ml
+• Emmental ligero rallado — 50 g
+• Huevos (yemas y claras separadas) — 3
+• Maíz dulce (choclo) cocido, escurrido — 300 g
+• Pimentón rojo picado — ½
+• Ají dulce picado — 1
+• Pimentón dulce — 1 pizca
+PREPARACION:
+1. Calienta el aceite, añade la harina y la leche y cuece hasta que espese; añade el queso.
+2. Incorpora yemas, maíz, pimentón, ají dulce y pimentón dulce.
+3. Monta las claras e incorpóralas; hornea 20 minutos a 200 °C, baja a 180 °C y sigue 5 minutos.
+JUSTIFICACION: Aroma de ají sin picor.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~16 g
+Grasas: ~5 g
+Fibra: ~2 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Guindilla → ají dulce; mantequilla → aceite; emmental 100 → 50 g.
+• Maíz fresco, no en conserva.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-souffle-patata
+TITULO: Soufflé de Papa y Pollo
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Soufflé de puré de papa con yogur, pollo cocido y parmesano.
+INGREDIENTES:
+• Papas — 600 g
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Yogur natural espeso — 150 g
+• Nuez moscada — 1 pizca
+• Pan integral rallado — 30 g
+• Huevos (yemas y claras separadas) — 4
+• Pechuga de pollo cocida en dados — 120 g
+• Parmesano rallado — 2 cdas (15 g)
+PREPARACION:
+1. Cuece las papas, pásalas por el pasapuré y rehógalas en una cazuela con aceite y yogur 5 minutos.
+2. Añade nuez moscada, yemas, pollo y parmesano; incorpora las claras montadas.
+3. Hornea en un molde alto con pan rallado 20 minutos a 200 °C, baja a 180 °C y sigue 5 minutos.
+JUSTIFICACION: Mismo soufflé reconfortante con mucha menos grasa.
+ADVERTENCIAS: La papa aporta carbohidratos.
+VALOR_NUTRICIONAL:
+Calorías: ~180 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~19 g
+Grasas: ~7 g
+Fibra: ~2 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla y nata → aceite y yogur; jamón → pollo.
+• Papas 800 → 600 g; parmesano 4 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-souffle-tomate
+TITULO: Soufflé de Tomate Asado
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Soufflé de tomate asado con cebolla cocida, albahaca, queso y bechamel ligera.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 2 cdtas (10 g)
+• Cebolla en rodajas finas — ½
+• Tomate asado, pelado y picado — 300 g
+• Hojas de albahaca — 4
+• Parmesano rallado — 20 g
+• Emmental ligero rallado — 20 g
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Huevos (yemas y claras separadas) — 4
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade el tomate y la albahaca y cuece 10 minutos hasta espesar.
+2. Mezcla con la bechamel, los quesos y las yemas.
+3. Incorpora las claras montadas y hornea 20 minutos a 200 °C; baja a 180 °C y sigue 5 minutos.
+JUSTIFICACION: Dulce y aromático, poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~8 g
+Grasas: ~6 g
+Fibra: ~1 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Tomate crudo → asado; mantequilla → aceite; quesos 50 → 40 g; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-souffle-jamon
+TITULO: Soufflé de Pollo
+CATEGORIA: Pastel y soufflé
+ICONO: 🥣
+SUBSECCION: Pasteles y soufflés
+SECCION: Tartas y pasteles salados
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Soufflé de pollo cocido con bechamel espesa de avena y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Harina de avena — 50 g
+• Leche descremada — 250 ml
+• Pan integral rallado — 30 g
+• Huevos (yemas y claras separadas) — 2
+• Parmesano rallado — 30 g
+• Pechuga de pollo cocida picada — 100 g
+PREPARACION:
+1. Calienta el aceite, añade la harina y cocina 1 minuto; incorpora la leche y cuece hasta espesar.
+2. Añade yemas, parmesano y pollo.
+3. Incorpora las claras montadas; hornea en un molde con pan rallado 20 minutos a 200 °C, baja a 180 °C y sigue 5 minutos.
+JUSTIFICACION: Esponjoso con proteína magra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~160 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~11 g
+Grasas: ~8 g
+Fibra: ~1 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; mantequilla 80 → aceite 20 g; parmesano 100 → 30 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-quiche-esparragos
+TITULO: Quiche de Espárragos
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Quiche de espárragos cocidos con queso, huevos y leche, sobre masa integral.
+INGREDIENTES:
+• Espárragos limpios — 250 g
+• Harina integral — para espolvorear
+• Masa quebrada integral (receta de este recetario) — 200 g
+• Gruyère rallado — 40 g
+• Huevos — 3
+• Yogur natural espeso — 100 g
+• Leche descremada — 150 ml
+• Nuez moscada — 1 pizca
+PREPARACION:
+1. Cuece los espárragos 8 minutos y trocéalos.
+2. Estira la masa sobre una superficie enharinada, forra un molde y hornea 10 minutos a 180 °C.
+3. Reparte los espárragos y el queso; bate los huevos con el yogur, la leche y la nuez moscada y vierte.
+4. Hornea 30 minutos a 180 °C hasta que cuaje.
+JUSTIFICACION: Yogur en vez de nata; menos queso.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~15 g
+Grasas: ~10 g
+Fibra: ~3 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Masa quebrada → integral; nata → yogur; gruyère 100 → 40 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-quiche-salmon-ahumado
+TITULO: Quiche de Salmón Fresco
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Pescado, Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Quiche de salmón fresco horneado y queso con huevos y yogur, sobre masa integral.
+INGREDIENTES:
+• Harina integral — para espolvorear
+• Masa quebrada integral (receta de este recetario) — 200 g
+• Salmón fresco horneado y desmenuzado — 150 g
+• Gruyère rallado — 50 g
+• Huevos — 4
+• Yogur natural espeso — 150 g
+• Leche descremada — 100 ml
+• Eneldo picado — 1 cda
+PREPARACION:
+1. Estira la masa, forra un molde y hornea 10 minutos a 180 °C.
+2. Reparte el salmón y el queso; bate los huevos con el yogur, la leche y el eneldo y vierte.
+3. Hornea 30 minutos a 180 °C hasta que cuaje.
+JUSTIFICACION: Salmón fresco: sin el sodio del ahumado.
+ADVERTENCIAS: Es una evocación: sin ahumado.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~13 g
+Grasas: ~13 g
+Fibra: ~2 g
+Sodio: ~120 mg
+IG: Medio
+ADAPTACIÓN:
+• Salmón ahumado → fresco horneado; gruyère 150 → 50 g; nata → yogur.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-quiche-lorraine
+TITULO: Quiche Lorraine de Pollo
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Quiche con pollo asado y cebolla cocida, huevos, yogur y nuez moscada, sin beicon.
+INGREDIENTES:
+• Harina integral — para espolvorear
+• Masa quebrada integral (receta de este recetario) — 250 g
+• Pechuga de pollo asada en dados — 120 g
+• Cebolla cocida picada — ½
+• Pimentón ahumado suave — ½ cdta
+• Huevos — 3
+• Yogur natural espeso — 150 g
+• Leche descremada — 120 ml
+• Nuez moscada — 1 pizca
+PREPARACION:
+1. Estira la masa, forra un molde y hornea 10 minutos a 180 °C.
+2. Reparte el pollo y la cebolla; bate los huevos con yogur, leche, pimentón y nuez moscada y vierte.
+3. Hornea 30 minutos a 180 °C hasta que cuaje.
+JUSTIFICACION: El pimentón ahumado evoca el beicon.
+ADVERTENCIAS: Es una evocación: sin beicon.
+VALOR_NUTRICIONAL:
+Calorías: ~210 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~16 g
+Grasas: ~10 g
+Fibra: ~2 g
+Sodio: ~120 mg
+IG: Medio
+ADAPTACIÓN:
+• Beicon → pollo con pimentón ahumado; nata → yogur y leche descremada.
+• Hojaldre → masa quebrada integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-hojaldre-champinones-nueces
+TITULO: Pastel de Champiñones con Salsa de Nueces
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Frutos secos, Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Masa integral rellena de setas asadas, con una salsa de nueces y yogur.
+INGREDIENTES:
+• Setas variadas (champiñones, boletos) — 1 kg
+• Masa quebrada integral (receta de este recetario) — 300 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Harina integral — para espolvorear
+INGREDIENTES_SALSA_DE_NUECES:
+• Pan integral sin corteza — 1 rebanada
+• Leche descremada — 3 cdas
+• Chalote escaldado en rodajas — 1
+• Huevo duro — 1
+• Pechuga de pollo cocida picada — 40 g
+• Nueces peladas picadas — 40 g
+• Yogur natural espeso — 100 g
+PREPARACION:
+1. Asa las setas con el ajo y el aceite 20 minutos a 200 °C hasta que evaporen el agua.
+2. Estira la masa, cúbrela con las setas, enróllala y hornea 30 minutos a 190 °C.
+3. Sirve en rodajas con la salsa.
+PREPARACION_SALSA_DE_NUECES:
+1. Remoja el pan en la leche; tritura con el chalote, el huevo, el pollo y las nueces; incorpora el yogur sin hervir.
+JUSTIFICACION: Setas asadas con salsa untuosa, menos nueces y sin nata.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~22 g
+Grasas: ~11 g
+Fibra: ~4 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Hojaldre → masa integral; mantequilla → aceite; nata → yogur.
+• Jamón → pollo; nueces 100 → 40 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-brecol
+TITULO: Tarta de Brócoli
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 5
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Tarta de brócoli al vapor con queso, nuez moscada y bechamel ligera, sobre masa integral.
+INGREDIENTES:
+• Brócoli en ramitos — 500 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Masa quebrada integral (receta de este recetario) — 300 g
+• Harina integral — para espolvorear
+• Fontina o mozzarella baja en grasa en dados — 100 g
+• Nuez moscada — 1 pizca
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Yema de huevo — 1
+PREPARACION:
+1. Cuece el brócoli al vapor 6 minutos y saltéalo en el aceite 2 minutos.
+2. Estira la masa, forra un molde y cubre con el brócoli y el queso.
+3. Cubre con la bechamel con nuez moscada, pinta los bordes con yema y hornea 30 minutos a 180 °C.
+JUSTIFICACION: Brócoli al vapor y menos queso.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~22 g
+Grasas: ~11 g
+Fibra: ~5 g
+Sodio: ~120 mg
+IG: Medio
+ADAPTACIÓN:
+• Hojaldre → masa integral; fontina 250 → 100 g; mantequilla → aceite.
+• Bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-marisco
+TITULO: Tarta de Marisco
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Tarta de almejas, gambas y ricota con huevo y yogur sobre masa integral.
+INGREDIENTES:
+• Harina integral — para espolvorear
+• Masa quebrada integral (receta de este recetario) — 200 g
+• Perejil picado — 2 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Almejas sin concha — 200 g
+• Ricota baja en grasa — 250 g
+• Huevos ligeramente batidos — 2
+• Gambas pequeñas cocidas — 200 g
+• Yogur natural espeso — 3 cdas (45 g)
+PREPARACION:
+1. Estira la masa, forra un molde y hornea 10 minutos a 180 °C.
+2. Saltea las almejas con el aceite, el ajo y el perejil 3 minutos.
+3. Mezcla la ricota con los huevos y el yogur; añade las almejas y las gambas.
+4. Rellena y hornea 30 minutos a 180 °C.
+JUSTIFICACION: Ricota baja en grasa; yogur en vez de nata.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~21 g
+Carbohidratos: ~15 g
+Grasas: ~9 g
+Fibra: ~2 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Masa integral; nata → yogur; ricota baja en grasa; ajo asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-rucula-queso
+TITULO: Tarta de Rúcula y Queso
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Masa integral con semillas de amapola rellena de rúcula y quesos suaves.
+INGREDIENTES:
+• Harina integral — 150 g
+• Harina de avena — 50 g
+• Semillas de amapola — 1 cda
+• Mejorana picada — 1 cda
+• Aceite de oliva extra virgen — 4 cdas (40 g)
+• Rúcula escaldada y escurrida — 200 g
+• Queso fresco bajo en grasa — 250 g
+• Taleggio o mozzarella baja en grasa — 80 g
+• Pan integral rallado — 2 cdas
+• Huevos — 2
+PREPARACION:
+1. Mezcla las harinas con la amapola y la mejorana; añade el aceite y 3 cucharadas de agua fría y amasa; reposa 30 minutos.
+2. Forra un molde con 2/3 de la masa y espolvorea con pan rallado.
+3. Mezcla la rúcula con los quesos y los huevos y rellena; cubre con el resto de la masa.
+4. Hornea 35 minutos a 180 °C.
+JUSTIFICACION: Menos grasa saturada y más fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~21 g
+Grasas: ~11 g
+Fibra: ~4 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 100 → aceite 40 g; queso cremoso → queso fresco; taleggio 200 → 80 g.
+• Harina integral y avena.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-bacalao-champinones
+TITULO: Tarta de Pescado Blanco y Champiñones
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Pescado, Gluten, Huevo, Lácteos
+PORCIONES: 7
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pescado blanco (bacalao fresco) cocido con cebolla y clavo, con champiñones asados, queso y bechamel ligera bajo masa integral.
+INGREDIENTES:
+• Caldo de pescado casero sin sal — 500 ml
+• Cebolla grande partida por la mitad — 1
+• Clavos — 2
+• Filetes de bacalao fresco o pescado blanco sin piel — 500 g
+• Mejorana, tomillo y perejil picados — 1 cda
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Champiñones en láminas — 600 g
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Gruyère rallado — 40 g
+• Yogur natural espeso — 2 cdas (30 g)
+• Huevos ligeramente batidos — 2
+• Masa quebrada integral (receta de este recetario) — 250 g
+PREPARACION:
+1. Cuece el pescado 5 minutos en el caldo con la cebolla y los clavos; escúrrelo y desmenúzalo.
+2. Asa los champiñones con el aceite 15 minutos a 200 °C.
+3. Mezcla bechamel, queso, yogur, huevos, hierbas, pescado y champiñones.
+4. Forra un molde con la mitad de la masa, rellena, cubre con el resto y hornea 40 minutos a 180 °C.
+JUSTIFICACION: Pescado fresco, sin la sal del bacalao curado.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~17 g
+Grasas: ~9 g
+Fibra: ~3 g
+Sodio: ~140 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino blanco → caldo de pescado; mantequilla → aceite; nata → yogur.
+• Gruyère 100 → 40 g; masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-sabrosa-col
+TITULO: Tarta Sabrosa de Col y Verduras
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 7
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Tarta con masa integral rellena de capas de coliflor, zanahoria, col, huevo duro y queso.
+INGREDIENTES:
+• Harina integral — 250 g
+• Aceite de oliva extra virgen — 4 cdas (40 g)
+• Zanahorias en rodajas — 3
+• Coliflor mediana en ramitos — 1
+• Col blanca picada — ½
+• Huevos duros en rodajas — 3
+• Fontina o mozzarella baja en grasa en lonchas — 80 g
+PREPARACION:
+1. Mezcla la harina con el aceite, una pizca de sal y 5 cucharadas de agua fría; amasa y reposa 30 minutos.
+2. Cuece las verduras por separado, al dente, y escúrrelas.
+3. Forra un molde con la mitad de la masa, rellena en capas de verduras, huevo y queso y cubre con el resto.
+4. Hornea 40 minutos a 180 °C.
+JUSTIFICACION: Muy rica en fibra.
+ADVERTENCIAS: Sin sal añadida en el relleno.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~25 g
+Grasas: ~11 g
+Fibra: ~6 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 150 → aceite 40 g; fontina 150 → 80 g; huevos 4 → 3.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-cebolla
+TITULO: Tarta de Cebolla a la Antigua
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Cebollas muy cocidas con pasas y caldo sobre masa integral: dulce y suave.
+INGREDIENTES:
+• Pasas sultanas — 25 g
+• Caldo de res casero sin sal — 200 ml
+• Masa quebrada integral (receta de este recetario) — 200 g
+• Cebollas en rodajas finas — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Stevia en polvo — 1 pizca
+PREPARACION:
+1. Remoja las pasas en agua tibia.
+2. Cuece la cebolla con el aceite y el caldo a fuego lento 40 minutos hasta que esté muy tierna y dulce; añade las pasas y la stevia.
+3. Forra un molde con la masa, hornea 10 minutos a 180 °C, rellena y hornea 20 minutos más.
+JUSTIFICACION: La cebolla muy cocida es suave y dulce.
+ADVERTENCIAS: Es una evocación: sin vino ni tuétano.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~26 g
+Grasas: ~6 g
+Fibra: ~4 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → caldo; tuétano → aceite de oliva; azúcar → stevia.
+• Pasas 50 → 25 g; masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-alcachofas
+TITULO: Tarta Verde de Alcachofas
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Masa integral de aceite rellena de alcachofas, verduras de hoja y quesos suaves.
+INGREDIENTES:
+• Harina integral — 350 g
+• Aceite de oliva extra virgen — 5 cdas (50 g)
+• Pan integral sin corteza — 2 rebanadas
+• Leche descremada — 120 ml
+• Verduras de hoja (acelgas y espinacas) — 500 g
+• Ralladura de limón — de 1 limón
+• Alcachofas (corazones) — 12
+• Cebolla en rodajas finas — 1
+• Pecorino rallado — 30 g
+• Parmesano rallado — 20 g
+• Mejorana picada — 1 cda
+PREPARACION:
+1. Mezcla la harina con 4 cucharadas de aceite y 120 ml de agua; amasa y reposa 30 minutos.
+2. Remoja el pan en la leche; cuece las verduras de hoja y escúrrelas; cuece las alcachofas con la ralladura.
+3. Rehoga la cebolla en el aceite restante; mezcla con todas las verduras, el pan, los quesos y la mejorana.
+4. Forra un molde con la mitad de la masa, rellena, cubre y hornea 40 minutos a 180 °C.
+JUSTIFICACION: Muy rica en fibra y con quesos reducidos.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~280 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~38 g
+Grasas: ~10 g
+Fibra: ~9 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino fuera de la masa; harina 500 → 350 g integral; aceite 6 → 5 cdas.
+• Limón → ralladura; pecorino 100 → 30 g; parmesano 50 → 20 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-ave-perifollo
+TITULO: Tarta de Pollo con Perifollo
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pechuga cocida con cebolla cocida y perifollo, en salsa ligera de leche y queso sobre masa integral.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 50 g
+• Caldo de pollo casero sin sal — 300 ml
+• Pechuga de pollo deshuesada, en dados — 500 g
+• Perifollo (o perejil) — 2 manojos
+• Harina de avena — 40 g
+• Leche descremada — 500 ml
+• Gruyère rallado — 40 g
+• Yogur natural espeso — 3 cdas (45 g)
+• Masa quebrada integral (receta de este recetario) — 200 g
+PREPARACION:
+1. Rehoga la cebolla en el aceite; añade el pollo y el caldo y cuece 10 minutos; añade el perifollo.
+2. Prepara la salsa: tuesta la harina 1 minuto, añade la leche y cuece hasta espesar; incorpora el queso y el yogur.
+3. Mezcla el pollo con la salsa; forra un molde con la masa, hornea 10 minutos, rellena y hornea 25 minutos a 180 °C.
+JUSTIFICACION: Salsa ligera de leche descremada.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~270 kcal (por porción)
+Proteínas: ~28 g
+Carbohidratos: ~20 g
+Grasas: ~9 g
+Fibra: ~2 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → caldo; mantequilla → aceite; nata → yogur; gruyère 100 → 40 g.
+• Leche descremada; masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-puerros
+TITULO: Tarta de Puerros
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Puerros rehogados con huevos, leche y yogur sobre masa integral.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Puerros limpios en rodajas finas — 800 g
+• Parmesano rallado — 1 cda
+• Leche descremada — 200 ml
+• Yogur natural espeso — 100 g
+• Huevos ligeramente batidos — 3
+• Emmental ligero rallado — 30 g
+• Masa quebrada integral (receta de este recetario) — 200 g
+PREPARACION:
+1. Rehoga los puerros en el aceite 15 minutos hasta que estén blandos.
+2. Forra un molde con la masa y hornea 10 minutos a 180 °C.
+3. Mezcla puerros, parmesano, leche, yogur, huevos y emmental y vierte; hornea 30 minutos a 180 °C.
+JUSTIFICACION: Puerro dulce y suave.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~20 g
+Grasas: ~9 g
+Fibra: ~3 g
+Sodio: ~120 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; nata → yogur; emmental 65 → 30 g.
+• Masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-jamon-estragon
+TITULO: Tarta de Pollo al Estragón
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pollo cocido con queso, estragón y salsa ligera de leche en masa integral.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Estragón picado fino — 2 manojos
+• Harina de avena — 40 g
+• Leche descremada — 500 ml
+• Pechuga de pollo cocida en dados — 200 g
+• Gruyère rallado — 40 g
+• Yogur natural espeso — 3 cdas (45 g)
+• Masa quebrada integral (receta de este recetario) — 200 g
+PREPARACION:
+1. Calienta el aceite, añade la harina y cocina 1 minuto; vierte la leche y cuece hasta espesar; añade estragón.
+2. Mezcla con el pollo, el queso y el yogur.
+3. Forra un molde con la masa, hornea 10 minutos a 180 °C, rellena y hornea 25 minutos.
+JUSTIFICACION: Pollo en vez de jamón; salsa ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~20 g
+Grasas: ~9 g
+Fibra: ~2 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón → pollo; mantequilla → aceite; nata → yogur; gruyère 100 → 40 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-salmon-espinacas
+TITULO: Tarta de Salmón y Espinacas
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Pescado, Gluten, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Salmón escalfado con espinacas, queso y salsa ligera de leche en masa integral.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Filetes de salmón — 3
+• Espinacas — 800 g
+• Harina de avena — 40 g
+• Leche descremada — 400 ml
+• Nuez moscada — 1 pizca
+• Tomillo picado — 2 cdas
+• Gruyère rallado — 40 g
+• Yogur natural espeso — 100 g
+• Masa quebrada integral (receta de este recetario) — 200 g
+PREPARACION:
+1. Escalfa el salmón 8 minutos en agua con una pizca de sal; desmenúzalo.
+2. Cuece las espinacas 3 minutos, escúrrelas y píclalas.
+3. Prepara una salsa con aceite, harina y leche; añade nuez moscada, tomillo, queso y yogur.
+4. Forra un molde con la masa, hornea 10 minutos, rellena con el salmón, las espinacas y la salsa y hornea 25 minutos a 180 °C.
+JUSTIFICACION: Salmón rico en omega-3 y espinacas ricas en hierro.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~270 kcal (por porción)
+Proteínas: ~22 g
+Carbohidratos: ~18 g
+Grasas: ~13 g
+Fibra: ~3 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; nata → yogur; gruyère 100 → 40 g; salmón 4 → 3.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-verduras
+TITULO: Tarta de Verduras
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 7
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Tarta toscana de verduras de hoja, calabacín y puerro con huevo y queso, en masa integral fina.
+INGREDIENTES:
+• Espinacas — 500 g
+• Acelgas — 500 g
+• Calabacines en rodajas — 2
+• Puerros limpios en rodajas — 2
+• Huevos — 2
+• Pecorino rallado — 25 g
+• Aceite de oliva extra virgen — 5 cdas (50 g)
+• Harina integral — 300 g
+PREPARACION:
+1. Mezcla la harina con 3 cucharadas de aceite y agua; amasa y reposa 30 minutos.
+2. Cuece las verduras de hoja, escúrrelas y pícalas; rehoga calabacín y puerro con el aceite restante.
+3. Mezcla todo con huevos y queso; forra un molde con la mitad de la masa, rellena, cubre y hornea 40 minutos a 180 °C.
+JUSTIFICACION: Muy rica en verduras y fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~27 g
+Grasas: ~10 g
+Fibra: ~7 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 150 ml → 5 cucharadas; pecorino 50 → 25 g; harina integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-calabaza
+TITULO: Tarta de Calabaza
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 7
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Calabaza con setas, parmesano y queso en masa integral, al horno.
+INGREDIENTES:
+• Setas secas — 20 g
+• Calabaza pelada y troceada — 1 kg
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Cebolla en aros finos — 1
+• Parmesano rallado — 2 cdas (15 g)
+• Huevo — 1
+• Yema de huevo — 1
+• Gruyère o mozzarella baja en grasa — 40 g
+• Masa quebrada integral (receta de este recetario) — 300 g
+PREPARACION:
+1. Hidrata las setas secas 20 minutos y pícalas; cuece la calabaza al vapor 15 minutos y chafa.
+2. Rehoga la cebolla en el aceite 10 minutos; mezcla con la calabaza, las setas, el parmesano y el huevo.
+3. Forra un molde con la masa, rellena, cubre con el queso y pinta con la yema; hornea 35 minutos a 180 °C.
+JUSTIFICACION: Dulce y reconfortante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~210 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~26 g
+Grasas: ~9 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; hojaldre → masa integral; gruyère 50 → 40 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-pascua
+TITULO: Tarta de Pascua de Acelgas
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 12
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Tarta de acelgas con ricota y huevos enteros que se cuecen dentro, en masa integral.
+INGREDIENTES:
+• Acelgas — 600 g
+• Huevos (6, 2 batidos y 4 enteros) — 6
+• Ricota baja en grasa — 250 g
+• Parmesano rallado — 1 cda
+• Pan integral rallado — 2 cdas
+• Yogur natural espeso — 100 g
+• Mejorana picada — 1 cda
+• Masa quebrada integral (receta de este recetario) — 400 g
+PREPARACION:
+1. Cuece las acelgas 5 minutos, escúrrelas muy bien y pícalas.
+2. Mezcla con la ricota, el parmesano, el pan, el yogur, la mejorana y los 2 huevos batidos.
+3. Forra un molde con la mitad de la masa, extiende el relleno y haz 4 huecos con una cuchara; casca un huevo en cada uno.
+4. Cubre con el resto de masa y hornea 45 minutos a 180 °C.
+JUSTIFICACION: Menos huevos y nata sustituida por yogur.
+ADVERTENCIAS: Come un trozo con un solo huevo.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~16 g
+Grasas: ~10 g
+Fibra: ~3 g
+Sodio: ~160 mg
+IG: Medio
+ADAPTACIÓN:
+• Huevos 10 → 6; nata → yogur; ricota baja en grasa.
+• Hojaldre → masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-arcoiris
+TITULO: Tarta Rústica Arco Iris
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 9
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Tarta de espinacas, pimentones rojos y amarillos, pollo cocido y queso en capas, con masa integral de aceite.
+INGREDIENTES:
+• Harina integral — 300 g
+• Aceite de oliva extra virgen — 4 cdas (40 g)
+• Espinacas — 500 g
+• Parmesano rallado — 2 cdas (15 g)
+• Tomillo picado — 1 cda
+• Pimentones rojos asados — 2
+• Pimentones amarillos asados — 2
+• Pechuga de pollo cocida en lonchas — 200 g
+• Mozzarella baja en grasa en lonchas — 100 g
+• Yema de huevo — 1
+PREPARACION:
+1. Amasa la harina con 3 cucharadas de aceite y agua; reposa 30 minutos.
+2. Cuece las espinacas, escúrrelas y rehógalas con el aceite restante y el tomillo.
+3. Forra un molde con la mitad de la masa; haz capas de espinacas con parmesano, pimentones, pollo y queso; cubre con el resto, pinta con yema.
+4. Hornea 40 minutos a 180 °C.
+JUSTIFICACION: Colorida, con pollo en vez de jamón.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~23 g
+Grasas: ~9 g
+Fibra: ~5 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino fuera; mantequilla → aceite; jamón → pollo.
+• Fontina 200 → mozzarella baja en grasa 100 g; parmesano 4 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-tarta-tia-maria
+TITULO: Tarta Rústica de la Tía María
+CATEGORIA: Tarta y quiche
+ICONO: 🥣
+SUBSECCION: Tartas y quiches
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 7
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Tarta de pollo y mozzarella con huevos y bechamel ligera, sobre masa integral enriquecida con huevo.
+INGREDIENTES:
+• Harina integral — 250 g
+• Huevos — 3
+• Stevia en polvo — ½ cdta
+• Aceite de oliva extra virgen — 3 cdas (30 g)
+• Leche descremada — 3-4 cdas
+• Parmesano rallado — 1 cda
+• Mozzarella baja en grasa en dados — 100 g
+• Pechuga de pollo cocida en tiras — 200 g
+• Salsa Bechamel (receta de este recetario) — ½ ración
+PREPARACION:
+1. Mezcla la harina con 1 huevo, el aceite, la stevia y la leche; amasa y reposa 30 minutos.
+2. Forra un molde con la mitad de la masa; mezcla el relleno: 2 huevos, parmesano, mozzarella, pollo y bechamel.
+3. Rellena, cubre con el resto de masa y hornea 40 minutos a 180 °C.
+JUSTIFICACION: Pollo en vez de jamón y mortadela.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~260 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~23 g
+Grasas: ~11 g
+Fibra: ~3 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón y mortadela → pollo; mantequilla → aceite; azúcar → stevia.
+• Mozzarella 200 → 100 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-volovanes-aosta
+TITULO: Volovanes de Queso del Valle d'Aosta
+CATEGORIA: Aperitivo
+ICONO: 🥣
+SUBSECCION: Volovanes
+SECCION: Antipasti
+RIESGOS: Gluten, Huevo, Lácteos
+TIPO: Almuerzo
+PORCIONES: 8
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Cestillos de masa integral rellenos de una salsa ligera de fontina fundida con leche y yema.
+INGREDIENTES:
+• Fontina o mozzarella baja en grasa en lonchas finas — 120 g
+• Leche descremada — 300 ml
+• Queso fresco bajo en grasa — 60 g
+• Yemas de huevo — 2
+• Cestillos de masa quebrada integral (receta de este recetario) — 8 unidades
+PREPARACION:
+1. Pon el queso en un bol, cúbrelo con la leche y déjalo reposar 1 hora.
+2. Calienta a fuego muy bajo removiendo hasta fundir; añade el queso fresco y retira.
+3. Añade las yemas, rellena los cestillos horneados y caliéntalos 5 minutos a 180 °C.
+JUSTIFICACION: Misma salsa cremosa con la mitad del queso.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~14 g
+Grasas: ~9 g
+Fibra: ~2 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Hojaldre → cestillos de masa integral; fontina 300 → 120 g con queso fresco.
+• Leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-volovanes-pollo
+TITULO: Volovanes de Pollo
+CATEGORIA: Aperitivo
+ICONO: 🥣
+SUBSECCION: Volovanes
+SECCION: Antipasti
+RIESGOS: Frutos secos, Gluten
+TIPO: Almuerzo
+PORCIONES: 8
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Cestillos de masa integral rellenos de pollo con puerro, almendras y caldo.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas — 1
+• Puerros (parte blanca) — 100 g
+• Pechuga de pollo deshuesada — 250 g
+• Almendras escaldadas picadas — 25 g
+• Harina de avena — 1½ cdtas
+• Caldo de pollo casero sin sal — 300 ml
+• Perejil picado — 1 cda
+• Cestillos de masa quebrada integral (receta de este recetario) — 8 unidades
+PREPARACION:
+1. Rehoga la cebolla y el puerro en el aceite 8 minutos; añade el pollo en dados y cocina 5 minutos.
+2. Espolvorea con la harina, añade las almendras y el caldo y cuece 10 minutos hasta espesar; añade el perejil.
+3. Rellena los cestillos y caliéntalos 5 minutos a 180 °C.
+JUSTIFICACION: El caldo reemplaza al vino; el relleno queda jugoso.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~14 g
+Grasas: ~9 g
+Fibra: ~2 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → caldo; hojaldre → masa integral; almendras 40 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-volovanes-jamon
+TITULO: Volovanes de Pollo y Guisantes
+CATEGORIA: Aperitivo
+ICONO: 🥣
+SUBSECCION: Volovanes
+SECCION: Antipasti
+RIESGOS: Gluten, Huevo, Lácteos
+TIPO: Almuerzo
+PORCIONES: 8
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Cestillos de masa integral rellenos de pollo y guisantes en salsa ligera de yogur y yema, en lugar de jamón.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Guisantes — 120 g
+• Caldo de pollo casero sin sal — 150 ml
+• Pechuga de pollo cocida en dados — 200 g
+• Yogur natural espeso — 3 cdas (45 g)
+• Yema de huevo — 1
+• Cestillos de masa quebrada integral (receta de este recetario) — 8 unidades
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade los guisantes y el caldo y cuece 8 minutos.
+2. Añade el pollo, retira del fuego, incorpora el yogur y la yema.
+3. Rellena los cestillos y caliéntalos 5 minutos a 180 °C.
+JUSTIFICACION: Pollo en vez de jamón y yogur en vez de nata.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~15 g
+Grasas: ~7 g
+Fibra: ~3 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón curado y cocido → pollo; mantequilla → aceite; nata → yogur.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aperitivo-volovanes-cigalas
+TITULO: Volovanes de Langostinos al Curry Suave
+CATEGORIA: Aperitivo
+ICONO: 🥣
+SUBSECCION: Volovanes
+SECCION: Antipasti
+RIESGOS: Marisco, Gluten, Huevo, Lácteos
+TIPO: Almuerzo
+PORCIONES: 12
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Cestillos pequeños de masa integral rellenos de langostinos en salsa suave de curry dulce, tomate asado y ralladura de limón.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Cebolla en rodajas — ½
+• Curry dulce en polvo — 1 pizca
+• Harina de avena — 1 cdta
+• Leche descremada — 200 ml
+• Tomate asado triturado — 1 cda
+• Huevo — 1
+• Ralladura de limón — de ½ limón
+• Langostinos cocidos y pelados — 200 g
+• Cestillos pequeños de masa quebrada integral (receta de este recetario) — 12 unidades
+PREPARACION:
+1. Rehoga la cebolla en el aceite; añade el curry y la harina, vierte la leche y cuece 8 minutos.
+2. Añade el tomate, retira del fuego y liga con el huevo y la ralladura.
+3. Incorpora los langostinos, rellena los cestillos y caliéntalos 5 minutos a 180 °C.
+JUSTIFICACION: Salsa ligera con sabor a curry suave.
+ADVERTENCIAS: Usa curry sin picante.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~10 g
+Grasas: ~4 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Cigalas → langostinos; mantequilla → aceite; zumo de limón → ralladura.
+• Concentrado de tomate → tomate asado; masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pizza-masa-basica
+TITULO: Masa de Pizza Integral (Receta Básica)
+CATEGORIA: Pizza
+ICONO: 🥖
+SUBSECCION: Bases de pizza
+SECCION: Pasta, arroz y masas
+OCULTA: SI
+TIPO: Cena
+PORCIONES: 4
+ETIQUETAS: Italiana, Base, Perfil1
+CONCEPTO: Masa de pizza con harina integral fina: más fibra, mismo sabor. Rinde una pizza para 4 personas y sirve de base a todas las pizzas de este recetario.
+INGREDIENTES:
+• Harina integral fina — 250 g
+• Sal — ¼ cdta
+• Levadura fresca — 15 g
+• Agua tibia — 140 ml
+• Aceite de oliva extra virgen — 1 cdta
+PREPARACION:
+1. Disuelve la levadura en el agua tibia; mezcla la harina con la sal y añade el líquido.
+2. Amasa 10 minutos hasta que quede suave y elástica; forma una bola.
+3. Déjala reposar tapada 1 hora hasta que doble su volumen.
+4. Extiende sobre una bandeja engrasada con el aceite.
+JUSTIFICACION: La harina integral aporta fibra y baja el índice glucémico.
+ADVERTENCIAS: La masa integral absorbe más agua: añade 1-2 cucharadas si queda seca.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~32 g
+Grasas: ~2 g
+Fibra: ~5 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Harina tipo 00 → integral fina; agua 120 → 140 ml.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pizza-calzone
+TITULO: Calzone de Pollo y Queso
+CATEGORIA: Pizza
+ICONO: 🥖
+SUBSECCION: Pizza
+SECCION: Pasta, arroz y masas
+RIESGOS: Gluten, Huevo, Lácteos
+TIPO: Cena
+PORCIONES: 2
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pizza cerrada en media luna, rellena de mozzarella baja en grasa, pollo y ricota.
+INGREDIENTES:
+• Aceite de oliva extra virgen — para engrasar y rociar (10 g)
+• Masa de pizza integral (receta de este recetario) — 1 ración
+• Harina integral — para espolvorear
+• Mozzarella baja en grasa en dados — 50 g
+• Pechuga de pollo cocida en dados — 50 g
+• Huevo ligeramente batido — 1
+• Ricota baja en grasa desmenuzada — 50 g
+• Tomate asado triturado — 2 cdas
+PREPARACION:
+1. Precalienta el horno a 220 °C y engrasa una bandeja.
+2. Divide la masa en 2, estira círculos sobre la superficie enharinada.
+3. Mezcla mozzarella, pollo, huevo, ricota y tomate; reparte sobre la mitad de cada círculo.
+4. Dobla, sella los bordes, pinta con aceite y hornea 20 minutos hasta dorar.
+JUSTIFICACION: Pollo en vez de salami y jamón; relleno más ligero.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal (por porción)
+Proteínas: ~27 g
+Carbohidratos: ~46 g
+Grasas: ~11 g
+Fibra: ~6 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Salami y jamón → pollo; mozzarella 50 g baja en grasa; ricota baja en grasa.
+• Masa integral; pimienta fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pizza-champinones
+TITULO: Pizza de Champiñones
+CATEGORIA: Pizza
+ICONO: 🥖
+SUBSECCION: Pizza
+SECCION: Pasta, arroz y masas
+RIESGOS: Gluten
+TIPO: Cena
+PORCIONES: 4
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pizza con champiñones asados con ajo y perejil, sobre masa integral.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Ajo asado machacado — 2 dientes
+• Champiñones en láminas — 350 g
+• Perejil picado — para espolvorear
+• Masa de pizza integral (receta de este recetario) — 1 ración
+• Harina integral — para espolvorear
+PREPARACION:
+1. Precalienta el horno a 220 °C. Asa los champiñones con una cucharada de aceite 12 minutos.
+2. Estira la masa sobre una bandeja engrasada y píntala con el ajo machacado y el resto del aceite.
+3. Reparte los champiñones y hornea 15 minutos hasta dorar; espolvorea con perejil.
+JUSTIFICACION: Muy sabrosa con poco aceite.
+ADVERTENCIAS: Sin sal ni pimienta añadidas.
+VALOR_NUTRICIONAL:
+Calorías: ~205 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~32 g
+Grasas: ~6 g
+Fibra: ~6 g
+Sodio: ~80 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 3 → 2 cucharadas; ajo asado; champiñones asados.
+• Masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pizza-napolitana
+TITULO: Pizza Napolitana
+CATEGORIA: Pizza
+ICONO: 🥖
+SUBSECCION: Pizza
+SECCION: Pasta, arroz y masas
+RIESGOS: Gluten, Lácteos, Pescado
+TIPO: Cena
+PORCIONES: 4
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: La pizza clásica de Nápoles: tomate asado, mozzarella, orégano y un poco de anchoa, sobre masa integral.
+INGREDIENTES:
+• Aceite de oliva extra virgen — para engrasar y rociar (10 g)
+• Masa de pizza integral (receta de este recetario) — 1 ración
+• Harina integral — para espolvorear
+• Tomates asados pelados y picados — 5-6 unidades (400 g)
+• Mozzarella baja en grasa en lonchas — 100 g
+• Orégano seco — 1 pizca
+• Filetes de anchoa muy bien desalados — 3
+PREPARACION:
+1. Precalienta el horno a 220 °C y engrasa una bandeja.
+2. Estira la masa y cúbrela con el tomate asado.
+3. Reparte la mozzarella, el orégano y las anchoas troceadas; rocía con el aceite.
+4. Hornea 15-20 minutos hasta que el queso burbujee.
+JUSTIFICACION: Tomate asado: dulce y suave; menos queso y anchoa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~245 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~36 g
+Grasas: ~6 g
+Fibra: ~6 g
+Sodio: ~180 mg
+IG: Medio
+ADAPTACIÓN:
+• Tomate asado; mozzarella 150 → 100 g baja en grasa; anchoas 8 → 3.
+• Masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pizza-marinera
+TITULO: Pizza Marinera
+CATEGORIA: Pizza
+ICONO: 🥖
+SUBSECCION: Pizza
+SECCION: Pasta, arroz y masas
+RIESGOS: Marisco, Gluten
+TIPO: Cena
+PORCIONES: 4
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pizza con pulpitos, gambas, almejas y mejillones cocidos con cebolla y ajo asado, sobre tomatitos cherry asados.
+INGREDIENTES:
+• Pulpitos limpios y sin piel — 200 g
+• Aceite de oliva extra virgen — 1 cda (10 g) y un poco para engrasar
+• Gambas — 200 g
+• Almejas limpias — 200 g
+• Mejillones limpios — 200 g
+• Cebolla en rodajas finas — 1
+• Ajo asado en rodajas — 3 dientes
+• Ají dulce picado — 1
+• Perejil picado — un poco
+• Masa de pizza integral (receta de este recetario) — 1 ración
+• Harina integral — para espolvorear
+• Tomates cherry asados en cuartos — 300 g
+PREPARACION:
+1. Cuece los pulpitos 20 minutos en agua; escúrrelos.
+2. Rehoga la cebolla en el aceite 8 minutos; añade ajo, ají dulce, gambas, almejas y mejillones, tapa y cuece 5 minutos; retira las valvas.
+3. Estira la masa en una bandeja engrasada y cúbrela con los tomatitos; hornea 10 minutos a 220 °C.
+4. Reparte los mariscos y el perejil y hornea 5 minutos más.
+JUSTIFICACION: Mariscos magros y sin picante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~29 g
+Carbohidratos: ~38 g
+Grasas: ~6 g
+Fibra: ~6 g
+Sodio: ~330 mg
+IG: Medio
+ADAPTACIÓN:
+• Guindilla → ají dulce; ajo asado; tomate asado.
+• Aceite 2 → 1 cucharada; mariscos 300 → 200 g cada uno; masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pizza-patata
+TITULO: Pizza de Papa y Romero
+CATEGORIA: Pizza
+ICONO: 🥖
+SUBSECCION: Pizza
+SECCION: Pasta, arroz y masas
+RIESGOS: Gluten, Lácteos
+TIPO: Cena
+PORCIONES: 4
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pizza con rodajas finas de papa, pollo asado, queso y romero, sobre masa integral.
+INGREDIENTES:
+• Papas grandes — 2
+• Aceite de oliva extra virgen — para engrasar y rociar (10 g)
+• Masa de pizza integral (receta de este recetario) — 1 ración
+• Harina integral — para espolvorear
+• Pechuga de pollo asada en dados — 100 g
+• Mozzarella baja en grasa en dados — 80 g
+• Virutas de parmesano — 20 g
+• Romero picado — 2 cdtas
+PREPARACION:
+1. Pela las papas, córtalas en rodajas finas y hiérvelas 3 minutos; escúrrelas.
+2. Precalienta el horno a 220 °C; estira la masa en una bandeja engrasada.
+3. Reparte las papas, el pollo, la mozzarella, el parmesano y el romero; rocía con aceite.
+4. Hornea 20 minutos hasta dorar.
+JUSTIFICACION: Pollo en lugar de panceta; menos queso.
+ADVERTENCIAS: La papa suma carbohidratos: una porción moderada.
+VALOR_NUTRICIONAL:
+Calorías: ~295 kcal (por porción)
+Proteínas: ~16 g
+Carbohidratos: ~46 g
+Grasas: ~6 g
+Fibra: ~6 g
+Sodio: ~160 mg
+IG: Medio
+ADAPTACIÓN:
+• Panceta → pollo; taleggio 100 → mozzarella baja en grasa 80 g.
+• Parmesano 50 → 20 g; papas 3 → 2.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pizza-blanca
+TITULO: Pizza Blanca
+CATEGORIA: Pizza
+ICONO: 🥖
+SUBSECCION: Pizza
+SECCION: Pasta, arroz y masas
+RIESGOS: Gluten, Lácteos
+TIPO: Cena
+PORCIONES: 4
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pizza sin tomate: dos quesos suaves, orégano y aceite de oliva, sobre masa integral.
+INGREDIENTES:
+• Aceite de oliva extra virgen — para engrasar y rociar (10 g)
+• Masa de pizza integral (receta de este recetario) — 1 ración
+• Harina integral — para espolvorear
+• Mozzarella baja en grasa en dados — 100 g
+• Queso fresco bajo en grasa desmenuzado — 60 g
+• Gorgonzola — 20 g
+• Orégano seco — 1 pizca
+PREPARACION:
+1. Precalienta el horno a 220 °C y engrasa una bandeja.
+2. Estira la masa y reparte los quesos.
+3. Espolvorea con orégano, rocía con el aceite y hornea 15-20 minutos.
+JUSTIFICACION: Tres quesos con mucha menos grasa.
+ADVERTENCIAS: Sin sal ni pimienta añadidas.
+VALOR_NUTRICIONAL:
+Calorías: ~240 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~33 g
+Grasas: ~7 g
+Fibra: ~5 g
+Sodio: ~220 mg
+IG: Medio
+ADAPTACIÓN:
+• Mozzarella y fontina/gorgonzola 300 → 180 g (baja en grasa y fresco).
+• Masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pizza-salchicha
+TITULO: Pizza de Pollo con Hinojo y Romero (a la manera de la Pizza de Salchicha)
+CATEGORIA: Pizza
+ICONO: 🥖
+SUBSECCION: Pizza
+SECCION: Pasta, arroz y masas
+RIESGOS: Gluten, Lácteos
+TIPO: Cena
+PORCIONES: 4
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pizza con pollo desmenuzado sazonado con hinojo, tomate asado, queso, romero y albahaca: la evocación de la salchicha sin embutido.
+INGREDIENTES:
+• Aceite de oliva extra virgen — para engrasar y rociar (10 g)
+• Pechuga de pollo cocida desmenuzada — 150 g
+• Semillas de hinojo machacadas — 1 cdta
+• Pecorino rallado — 20 g
+• Masa de pizza integral (receta de este recetario) — 1 ración
+• Harina integral — para espolvorear
+• Tomates asados pelados y picados — 4
+• Romero picado — un poco
+• Hojas de albahaca troceadas — 6
+PREPARACION:
+1. Mezcla el pollo con el hinojo.
+2. Precalienta el horno a 220 °C; estira la masa en una bandeja engrasada y cúbrela con el tomate asado.
+3. Reparte el pollo, el pecorino, el romero y rocía con aceite.
+4. Hornea 15-20 minutos; añade la albahaca al servir.
+JUSTIFICACION: El hinojo recuerda a la salchicha italiana.
+ADVERTENCIAS: Es una evocación: sin el sabor del embutido.
+VALOR_NUTRICIONAL:
+Calorías: ~290 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~37 g
+Grasas: ~7 g
+Fibra: ~6 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Salchicha y panceta → pollo con hinojo; pecorino 50 → 20 g.
+• Tomate asado; masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pizza-endibia
+TITULO: Pizza de Endibia y Pollo
+CATEGORIA: Pizza
+ICONO: 🥖
+SUBSECCION: Pizza
+SECCION: Pasta, arroz y masas
+RIESGOS: Gluten, Lácteos
+TIPO: Cena
+PORCIONES: 4
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pizza con endibias cocidas con tomate y yogur, cubiertas de pollo asado en lonchas finas al servir.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda y un poco para engrasar (15 g)
+• Cebolla picada — 1
+• Ajo asado machacado — 1 diente
+• Tomate asado picado — 100 g
+• Endibias limpias, separadas en hojas — 4
+• Yogur natural espeso — 2 cdas (30 g)
+• Masa de pizza integral (receta de este recetario) — 1 ración
+• Harina integral — para espolvorear
+• Pechuga de pollo asada en lonchas finas — 100 g
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade ajo, tomate y endibias y cuece 10 minutos; incorpora el yogur fuera del fuego.
+2. Precalienta el horno a 220 °C; estira la masa en una bandeja engrasada, cúbrela con la mezcla y hornea 15 minutos.
+3. Reparte el pollo al servir.
+JUSTIFICACION: Pollo en vez de jamón curado; yogur en vez de nata.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~265 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~36 g
+Grasas: ~7 g
+Fibra: ~7 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón curado → pollo asado; nata → yogur.
+• Tomate asado; aceite 2 → 1 cucharada; masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pizza-margarita
+TITULO: Pizza Margarita
+CATEGORIA: Pizza
+ICONO: 🥖
+SUBSECCION: Pizza
+SECCION: Pasta, arroz y masas
+RIESGOS: Gluten, Lácteos
+TIPO: Cena
+PORCIONES: 4
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: La más famosa: tomate asado, mozzarella baja en grasa y albahaca fresca, sobre masa integral.
+INGREDIENTES:
+• Aceite de oliva extra virgen — para engrasar y rociar (10 g)
+• Masa de pizza integral (receta de este recetario) — 1 ración
+• Harina integral — para espolvorear
+• Tomates asados pelados y picados — 5-6 unidades (400 g)
+• Mozzarella baja en grasa — 120 g
+• Hojas de albahaca troceadas — 6
+PREPARACION:
+1. Precalienta el horno a 220 °C y engrasa una bandeja.
+2. Estira la masa, cúbrela con el tomate y la mozzarella.
+3. Hornea 15-20 minutos; espolvorea con albahaca al servir.
+JUSTIFICACION: Sencilla, dulce y suave.
+ADVERTENCIAS: Sin sal ni pimienta añadidas.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~36 g
+Grasas: ~5 g
+Fibra: ~6 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Tomate asado; mozzarella 150 → 120 g baja en grasa; masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pizza-cuatro-estaciones
+TITULO: Pizza Cuatro Estaciones
+CATEGORIA: Pizza
+ICONO: 🥖
+SUBSECCION: Pizza
+SECCION: Pasta, arroz y masas
+RIESGOS: Marisco, Gluten, Lácteos, Pescado
+TIPO: Cena
+PORCIONES: 4
+ETIQUETAS: Italiana, Horno, Perfil1
+CONCEPTO: Pizza en cuatro cuartos: anchoa y aceituna verde, mejillones, pollo y mozzarella, alcachofas y aceituna negra.
+INGREDIENTES:
+• Aceite de oliva extra virgen — para engrasar y rociar (10 g)
+• Anchoas muy bien desaladas en filetes — 2
+• Masa de pizza integral (receta de este recetario) — 1 ración
+• Harina integral — para espolvorear
+• Mejillones limpios y cocidos — 100 g
+• Tomates asados pelados y picados — 4
+• Aceitunas verdes enjuagadas — 20 g
+• Pechuga de pollo cocida en dados — 50 g
+• Mozzarella baja en grasa en dados — 50 g
+• Corazones de alcachofa cocidos (no en aceite) — 4
+• Aceitunas negras enjuagadas — 20 g
+PREPARACION:
+1. Precalienta el horno a 220 °C; estira la masa en una bandeja engrasada y cúbrela con el tomate asado.
+2. Divide en cuatro: anchoas y aceitunas verdes; mejillones; pollo y mozzarella; alcachofas y aceitunas negras.
+3. Rocía con aceite y hornea 15-20 minutos.
+JUSTIFICACION: Cuatro sabores con menos sal y grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~285 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~40 g
+Grasas: ~7 g
+Fibra: ~7 g
+Sodio: ~260 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón → pollo; alcachofas en aceite → cocidas; anchoas 4 → 2.
+• Aceitunas 50 → 20 g enjuagadas; tomate asado; masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-bolitas-ricota
+TITULO: Bolitas de Ricota al Horno en Caldo
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Bolitas de ricota, huevo y nuez moscada horneadas en vez de fritas, servidas en caldo de carne caliente con parmesano.
+INGREDIENTES:
+• Ricota baja en grasa — 250 g
+• Huevo — 1
+• Harina de avena — 50 g (y un poco más para espolvorear)
+• Nuez moscada — 1 pizca
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+• Parmesano rallado — 1 cda (para servir)
+PREPARACION:
+1. Mezcla la ricota con el huevo, la harina y la nuez moscada; forma bolitas y pásalas por harina.
+2. Hornéalas en una bandeja con papel 15 minutos a 200 °C, dándoles la vuelta.
+3. Caliente el caldo, sirve con las bolitas y el parmesano.
+JUSTIFICACION: Mismo bocado tierno sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~9 g
+Grasas: ~5 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Fritura → horno; ricota baja en grasa; harina de avena.
+• Caldo casero sin sal; parmesano reducido.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-caldo-berros
+TITULO: Caldo de Berros
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Caldo de pollo con berros, apio y perejil, colado y servido con hojas frescas y tostadas integrales.
+INGREDIENTES:
+• Berros — 1 manojito
+• Caldo de pollo casero sin sal (receta de este recetario) — 1 litro
+• Apio picado — 1 rama
+• Perejil picado — 1 cda
+• Tostadas integrales — para acompañar
+PREPARACION:
+1. Calienta el caldo con el apio y el perejil 10 minutos.
+2. Añade casi todos los berros y cuece 3 minutos; cuela.
+3. Sirve con unas hojas de berros crudas y las tostadas.
+JUSTIFICACION: Muy ligero y aromático.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~35 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~3 g
+Grasas: ~1 g
+Fibra: ~1 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Caldo casero sin sal; tostadas integrales.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-caldo-especiado-vino
+TITULO: Caldo Especiado con Yemas
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Caldo de carne con clavos, canela y nuez moscada, ligado con yemas, sin vino.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+• Clavos — 2
+• Yemas de huevo — 2
+• Canela en polvo — 1 pizca
+• Nuez moscada — 1 pizca
+• Zumo de naranja reducido — 2 cdas
+PREPARACION:
+1. Calienta el caldo con los clavos 10 minutos; retira los clavos.
+2. Bate las yemas con 4 cucharadas de caldo templado, canela, nuez moscada y el zumo.
+3. Incorpora al caldo fuera del fuego, removiendo, y sirve enseguida.
+JUSTIFICACION: Naranja reducida da la nota dulce del vino.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~50 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~3 g
+Grasas: ~3 g
+Fibra: ~0 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vino → zumo de naranja reducido; yemas 3 → 2; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-noquis-queso-caldo
+TITULO: Ñoquis de Queso en Caldo Claro
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+PORCIONES: 6
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Ñoquis diminutos de queso fresco, yema y parmesano cocidos en caldo de carne.
+INGREDIENTES:
+• Queso fresco bajo en grasa — 50 g
+• Mantequilla — 10 g
+• Huevo (yema y clara separadas) — 1
+• Parmesano rallado — 1 cda
+• Harina de avena — 2 cdas
+• Caldo de carne casero sin sal — 1,5 litros
+PREPARACION:
+1. Bate el queso con la mantequilla y la yema; añade el parmesano y la harina y mezcla.
+2. Monta la clara e incorpórala; forma bolitas pequeñas.
+3. Cuécelas 3 minutos en el caldo hirviendo y sirve.
+JUSTIFICACION: Mismos ñoquis delicados, con casi nada de grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~60 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~5 g
+Grasas: ~2 g
+Fibra: ~1 g
+Sodio: ~80 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 40 → 10 g con queso fresco; harina de avena; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-noquis-pan-caldo
+TITULO: Ñoquis de Pan en Caldo de Verduras
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Ñoquis de pan integral rallado, parmesano y cebollino hervidos en caldo de verduras.
+INGREDIENTES:
+• Puerro limpio y picado — 1
+• Cebolla picada — 1
+• Ramas de apio picadas — 2
+• Zanahorias picadas — 2
+• Pan integral rallado — 100 g
+• Parmesano rallado — 25 g
+• Huevos — 2
+• Cebollino picado — 1 tallo
+PREPARACION:
+1. Cuece las verduras 25 minutos en 1,5 litros de agua; cuela y reserva el caldo.
+2. Mezcla el pan con el parmesano, los huevos y el cebollino; deja reposar 15 minutos.
+3. Forma bolitas y cuécelas 5 minutos en el caldo caliente.
+JUSTIFICACION: Caldo casero sin sal y pan integral.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~18 g
+Grasas: ~4 g
+Fibra: ~4 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Pan rallado integral 120 → 100 g; parmesano 50 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-caldo-royale
+TITULO: Caldo con Royale
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Dados de crema de huevo cuajada al baño maría en un caldo de verduras.
+INGREDIENTES:
+• Huevos — 2
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Crema de caldo de verduras — 200 ml
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+PREPARACION:
+1. Bate los huevos con la crema de verduras; sazona con una pizca de sal y cuela.
+2. Vierte en un molde engrasado y cuece al baño maría en el horno 25 minutos a 160 °C hasta cuajar.
+3. Corta en dados y sirve en el caldo caliente.
+JUSTIFICACION: Ligera y reconfortante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~6 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-caldo-casero-royale
+TITULO: Caldo Casero con Royale
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Royale de huevo, harina y parmesano con leche descremada, cocida al baño maría en pequeños moldes.
+INGREDIENTES:
+• Huevos — 3
+• Harina de avena — 1 cda
+• Parmesano rallado — 1 cda
+• Leche descremada — 3-5 cdas
+• Aceite de oliva extra virgen — 1 cdta (para engrasar)
+• Caldo de verduras casero sin sal — 1 litro
+PREPARACION:
+1. Bate los huevos con la harina, el parmesano y la leche; cuela.
+2. Reparte en moldes pequeños engrasados y cuece al baño maría 20-25 minutos a 160 °C.
+3. Desmolda, corta en dados y sirve en el caldo caliente.
+JUSTIFICACION: Menos huevo y leche descremada.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~75 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~4 g
+Grasas: ~4 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Huevos 4 → 3; leche descremada; parmesano 2 → 1 cda; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-caldo-tiras-crepe
+TITULO: Caldo con Tiras de Crepe
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Crepes finas integrales cortadas en tiras y servidas en caldo de pollo caliente.
+INGREDIENTES:
+• Harina integral fina — 80 g
+• Harina de avena fina — 30 g
+• Huevo — 1
+• Yema de huevo — 1
+• Leche descremada — 200 ml
+• Aceite de oliva extra virgen — 2 cdtas (10 g)
+• Caldo de pollo casero sin sal (receta de este recetario) — 1 litro
+PREPARACION:
+1. Bate las harinas con el huevo, la yema, la leche y el aceite; reposa 1 hora.
+2. Cuece las crepes finas en una sartén antiadherente apenas untada.
+3. Corta en tiras y sirve en el caldo caliente.
+JUSTIFICACION: Crepes finas y ligeras.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~12 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Harina de trigo → integral y avena; mantequilla 50 → aceite 10 g.
+• Leche descremada; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-caldo-carne
+TITULO: Caldo de Carne Casero
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Base, Perfil1
+CONCEPTO: El caldo básico de res magra con hortalizas, cocido durante horas y desgrasado; sin sal añadida.
+INGREDIENTES:
+• Carne magra de res en dados — 800 g
+• Cebolla picada gruesa — 1
+• Zanahoria picada gruesa — 1
+• Puerro limpio picado grueso — 100 g
+• Rama de apio picada gruesa — 1
+• Agua fría — unos 3 litros
+PREPARACION:
+1. Pon la carne y las verduras en una olla grande con el agua fría.
+2. Lleva a ebullición, retira la espuma y cuece a fuego muy suave 3 horas.
+3. Cuela, enfría en la nevera y retira la grasa solidificada de la superficie.
+JUSTIFICACION: Base sin sal para todas las sopas y salsas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Conserva 4 días en la nevera o congela.
+VALOR_NUTRICIONAL:
+Calorías: ~20 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~1 g
+Grasas: ~0 g
+Fibra: ~0 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Carne de buey y ternera 1,4 kg → res magra 800 g; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-caldo-pescado-1
+TITULO: Caldo de Pescado (1)
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Base, Perfil1
+CONCEPTO: Caldo de pescado blanco y verduras para sopas y risottos de marisco, sin sal ni pimienta.
+INGREDIENTES:
+• Perejil — unas ramas
+• Tomillo fresco — 1 ramita
+• Cebolla picada — 1
+• Zanahoria en rodajas — 1
+• Rama de apio picada — 1
+• Pescado blanco, raspas o cabezas sin branquias — 1 kg
+• Agua — 2 litros
+PREPARACION:
+1. Pon todos los ingredientes en una olla con el agua fría.
+2. Lleva a ebullición, retira la espuma y cuece 25 minutos a fuego suave.
+3. Cuela con un paño y deja enfriar.
+JUSTIFICACION: Base ligera y sin sal para sopas de pescado.
+ADVERTENCIAS: Es una receta base.|Conserva 2 días en la nevera.
+VALOR_NUTRICIONAL:
+Calorías: ~20 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~1 g
+Grasas: ~0 g
+Fibra: ~0 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal; pimienta fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-caldo-pescado-2
+TITULO: Caldo de Pescado (2)
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+TIPO: Almuerzo
+PORCIONES: 5
+ETIQUETAS: Italiana, Base, Perfil1
+CONCEPTO: Variante con pescado blanco y tomate, aclarada para un caldo transparente, sin vino.
+INGREDIENTES:
+• Cebolla — 1
+• Tomate asado pequeño — 1
+• Rama de apio — 1
+• Perejil — unas ramas
+• Zumo de naranja reducido — 2 cdas
+• Pescado blanco (tipo raya o merluza) — 1 kg
+• Agua — 2 litros
+PREPARACION:
+1. Pon todos los ingredientes en una olla con el agua fría.
+2. Lleva a ebullición, retira la espuma y cuece 30 minutos a fuego suave.
+3. Cuela y deja enfriar.
+JUSTIFICACION: La naranja reducida sustituye al vino blanco.
+ADVERTENCIAS: Es una receta base.
+VALOR_NUTRICIONAL:
+Calorías: ~20 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~2 g
+Grasas: ~0 g
+Fibra: ~0 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vino → naranja reducida; tomate asado; sin sal ni pimienta.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-caldo-pollo
+TITULO: Caldo de Pollo Casero
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+TIPO: Almuerzo
+PORCIONES: 5
+ETIQUETAS: Italiana, Base, Perfil1
+CONCEPTO: Caldo de pollo con hortalizas, cocido dos horas y desgrasado; sin sal. Base de sopas, cremas y ñoquis.
+INGREDIENTES:
+• Pollo limpio y sin piel ni grasa — 1
+• Cebolla — 1
+• Zanahoria — 1
+• Rama de apio — 1
+• Agua — unos 3 litros
+PREPARACION:
+1. Pon el pollo y las verduras en una olla con el agua fría.
+2. Lleva a ebullición, retira la espuma y cuece a fuego muy suave 2 horas.
+3. Cuela, enfría y retira la grasa de la superficie.
+JUSTIFICACION: Base sin sal.
+ADVERTENCIAS: Es una receta base.|Conserva 4 días en la nevera o congela.
+VALOR_NUTRICIONAL:
+Calorías: ~20 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~1 g
+Grasas: ~0 g
+Fibra: ~0 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal; sin piel ni grasa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-caldo-verduras
+TITULO: Caldo de Verduras Casero
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+TIPO: Almuerzo
+PORCIONES: 5
+ETIQUETAS: Italiana, Base, Perfil1
+CONCEPTO: Caldo vegetal de papa, cebolla, puerro, zanahoria, nabo, apio y tomates asados, cocido 25 minutos; sin sal.
+INGREDIENTES:
+• Papas picadas gruesas — 2
+• Cebollas picadas gruesas — 2
+• Puerros limpios picados gruesos — 2
+• Zanahorias picadas gruesas — 2
+• Nabos picados gruesos — 2
+• Rama de apio picada gruesa — 1
+• Tomates cherry asados picados — 3
+• Agua — 1,5 litros
+PREPARACION:
+1. Pon todo en una olla con el agua fría.
+2. Lleva a ebullición y cuece 25 minutos a fuego suave.
+3. Cuela y deja enfriar.
+JUSTIFICACION: Base sin sal para todas las sopas.
+ADVERTENCIAS: Es una receta base.
+VALOR_NUTRICIONAL:
+Calorías: ~25 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~5 g
+Grasas: ~0 g
+Fibra: ~1 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal; tomates asados.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-caldo-frio
+TITULO: Caldo Frío Aromático
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Sopa, Frío, Perfil1
+CONCEPTO: Caldo de carne denso, enfriado, desgrasado y perfumado con hierbas frescas; se sirve fresco.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 750 ml
+• Albahaca picada — 1 cda
+• Perifollo o perejil picado — 1 cda
+• Menta picada — 1 cda
+• Tomillo fresco picado — 1 cdta
+PREPARACION:
+1. Enfría el caldo en la nevera 4 horas y retira la grasa.
+2. Añade las hierbas picadas y sirve en tazones fríos.
+JUSTIFICACION: Refrescante y casi sin calorías.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~20 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~1 g
+Grasas: ~0 g
+Fibra: ~0 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-consome
+TITULO: Consomé
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+TIPO: Almuerzo
+PORCIONES: 8
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Caldo clarificado con res magra picada, hortalizas y claras de huevo, brillante y transparente.
+INGREDIENTES:
+• Carne magra picada de res — 300 g
+• Puerro picado — 1
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Claras de huevo — 2
+• Caldo de carne casero sin sal (receta de este recetario) — 2,5 litros
+PREPARACION:
+1. Mezcla la carne con las verduras y las claras y añade el caldo frío.
+2. Calienta lentamente removiendo hasta que se forme una costra; deja cuajar sin remover.
+3. Cuece a fuego muy suave 1 hora; cuela con un paño sin moverlo.
+JUSTIFICACION: Muy limpio y ligero.
+ADVERTENCIAS: Sin jerez.
+VALOR_NUTRICIONAL:
+Calorías: ~25 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~1 g
+Grasas: ~0 g
+Fibra: ~0 g
+Sodio: ~60 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jerez → fuera; carne sin grasa; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-fondo-pescado
+TITULO: Fondo de Pescado
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Base, Perfil1
+CONCEPTO: Fondo de raspas y cabezas con hortalizas, reducido a la mitad; potencia sopas y risottos de marisco.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Cebolla pequeña picada — 1
+• Raspas y cabezas de pescado blanco, sin branquias — 1 kg
+• Agua tibia — 1 litro
+PREPARACION:
+1. Rehoga las verduras en el aceite 5 minutos.
+2. Añade las raspas y el agua; hierve, retira la espuma y cuece 25 minutos a fuego suave.
+3. Cuela y reduce hasta la mitad.
+JUSTIFICACION: Sabor concentrado sin sal.
+ADVERTENCIAS: Es una receta base.
+VALOR_NUTRICIONAL:
+Calorías: ~25 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~2 g
+Grasas: ~1 g
+Fibra: ~0 g
+Sodio: ~60 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite (no mantequilla); sin sal ni pimienta.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caldo-gelatina
+TITULO: Gelatina de Caldo
+CATEGORIA: Caldo
+ICONO: 🍲
+SUBSECCION: Caldos
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Base, Frío, Perfil1
+CONCEPTO: Gelatina transparente de caldo de res magra y pollo, para cubrir bocaditos y platos fríos.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+• Gelatina en polvo sin sabor — 4 sobres (44 g)
+• Claras de huevo ligeramente batidas — 2
+• Puerro picado — 1
+• Zanahoria picada — 1
+PREPARACION:
+1. Calienta el caldo con las claras, el puerro y la zanahoria y cuece 20 minutos; cuela con un paño.
+2. Disuelve la gelatina en el caldo caliente y deja enfriar en un molde.
+3. Cuaja 4 horas en la nevera.
+JUSTIFICACION: Se usa para cubrir tartines y moldes fríos.
+ADVERTENCIAS: Es una receta base.
+VALOR_NUTRICIONAL:
+Calorías: ~20 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~1 g
+Grasas: ~0 g
+Fibra: ~0 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Huesos y mano de ternera → gelatina en polvo; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-setas
+TITULO: Crema de Setas
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de setas con puerros, cocida en caldo de pollo casero y ligada con yogur, sin brandy.
+INGREDIENTES:
+• Pollo (muslos sin piel) — ½
+• Zanahoria — 1
+• Rama de apio — 1
+• Cebolla — 1
+• Agua — 1,5 litros
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Setas (champiñones y boletos) en láminas — 350 g
+• Puerros picados finos — 2
+• Harina de avena — 20 g
+• Yogur natural espeso — 100 g
+PREPARACION:
+1. Cuece el pollo con la zanahoria, el apio y la cebolla en el agua 1 hora; cuela y reserva 1 litro de caldo.
+2. Rehoga los puerros y las setas en el aceite 10 minutos; añade la harina y el caldo y cuece 15 minutos.
+3. Tritura, añade el yogur fuera del fuego y sirve.
+JUSTIFICACION: Cremosa con muy poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~12 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~60 mg
+IG: Bajo
+ADAPTACIÓN:
+• Brandy → fuera; nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-aguaturma
+TITULO: Crema de Topinambur (Aguaturma) o Yuca
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema fina de aguaturma (o yuca como alternativa fácil de conseguir) con cebolla, caldo y yogur.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 1
+• Aguaturmas (o yuca) picadas — 350 g
+• Caldo de carne casero sin sal — 400 ml
+• Yogur natural espeso — 100 g
+• Perejil picado — 1 cda
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade la aguaturma y el caldo y cuece 25 minutos.
+2. Tritura fino, añade el yogur fuera del fuego.
+3. Sirve con perejil.
+JUSTIFICACION: La aguaturma es difícil de conseguir en Venezuela: la yuca da cuerpo similar.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~16 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~50 mg
+IG: Medio
+ADAPTACIÓN:
+• Nata 200 ml → yogur 100 g; aceite 2 → 1 cda.
+• Aguaturma → o yuca; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-trufas
+TITULO: Crema de Puerro y Papa con Tostadas de Queso
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de puerro y papa con tostadas de pan integral y queso; champiñones asados en lugar de trufa.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Puerros picados — 2
+• Papas en rodajas — 400 g
+• Caldo de verduras casero sin sal (receta de este recetario) — 500 ml
+• Leche descremada — 300 ml
+• Yogur natural espeso — 80 g
+• Rebanadas de pan integral sin corteza — 8
+• Mozzarella baja en grasa en lonchas — 60 g
+• Champiñones asados picados — 40 g
+PREPARACION:
+1. Rehoga el puerro en el aceite 8 minutos; añade papas, caldo y leche y cuece 20 minutos.
+2. Tritura, añade el yogur fuera del fuego.
+3. Tuesta el pan con el queso hasta que funda y sirve con la crema y los champiñones.
+JUSTIFICACION: Sabor terroso sin trufa.
+ADVERTENCIAS: Es una evocación: sin trufa.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~31 g
+Grasas: ~4 g
+Fibra: ~4 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Trufa → champiñones asados; nata → yogur; leche descremada.
+• Aceite 3 → 1 cda; fontina 100 → 60 g mozzarella baja en grasa; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-esparragos
+TITULO: Crema de Espárragos
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de puntas y tallos de espárragos verdes con caldo de verduras y yogur, sin vino.
+INGREDIENTES:
+• Espárragos verdes sin las puntas duras — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 1
+• Harina de avena — 1 cda
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Yogur natural espeso — 3 cdas (45 g)
+PREPARACION:
+1. Reserva unas puntas; trocea los espárragos.
+2. Rehoga la cebolla en el aceite; añade la harina, el caldo y los espárragos y cuece 15 minutos.
+3. Tritura y cuela; añade el yogur fuera del fuego y sirve con las puntas cocidas.
+JUSTIFICACION: Muy ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~65 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~8 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vino → fuera; nata → yogur; mantequilla → aceite; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-alcachofas
+TITULO: Crema de Alcachofas
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema suave de corazones de alcachofa con papa, ligada con yema y servida con parmesano.
+INGREDIENTES:
+• Ralladura de limón — de 1 limón
+• Alcachofas (corazones) — 6
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 1
+• Rama de apio — 1
+• Papas en dados — 150 g
+• Caldo de pollo casero sin sal (receta de este recetario) — 1,2 litros
+• Yema de huevo — 1
+• Parmesano rallado — 1 cda (para servir)
+PREPARACION:
+1. Rehoga la cebolla y el apio en el aceite 8 minutos; añade alcachofas, papas, ralladura y caldo y cuece 25 minutos.
+2. Tritura, retira del fuego y liga con la yema batida con un poco de crema.
+3. Sirve con el parmesano.
+JUSTIFICACION: Suave y rica en fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~12 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Zumo de limón → ralladura; mantequilla 65 → aceite 10 g.
+• Papas 200 → 150 g; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-zanahoria
+TITULO: Crema de Zanahoria Gratinada
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de zanahoria con ajo asado, leche descremada y caldo, gratinada con parmesano y nuez moscada.
+INGREDIENTES:
+• Zanahorias picadas — 700 g
+• Ajo asado — 1 diente
+• Leche descremada — 400 ml
+• Caldo de carne casero sin sal (receta de este recetario) — 400 ml
+• Parmesano rallado — 20 g
+• Nuez moscada — 1 pizca
+PREPARACION:
+1. Cuece las zanahorias con el ajo, la leche y el caldo 25 minutos; tritura.
+2. Reparte en cuencos aptos para horno, espolvorea con parmesano y nuez moscada.
+3. Gratina 5 minutos.
+JUSTIFICACION: Dulce, suave y sin grasa añadida.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~16 g
+Grasas: ~2 g
+Fibra: ~4 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Leche descremada; parmesano 40 → 20 g; ajo asado; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-zanahoria-mejillones
+TITULO: Crema de Zanahoria y Mejillones
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de zanahoria con dados de zanahoria salteados y mejillones al vapor con caldo.
+INGREDIENTES:
+• Zanahorias — 700 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Stevia en polvo — 1 pizca
+• Caldo de pollo casero sin sal (receta de este recetario) — 1 litro
+• Mejillones limpios y desbarbados — 24 (400 g)
+• Caldo de pescado casero sin sal — 100 ml
+• Ajo asado — ½ diente
+• Perejil picado — 1 cda
+PREPARACION:
+1. Corta 1 zanahoria en dados y saltéala en el aceite; cuece el resto en el caldo 25 minutos con la stevia y tritura.
+2. Abre los mejillones al vapor con el caldo de pescado y el ajo; retira las valvas y reserva el líquido colado.
+3. Mezcla la crema con unas cucharadas del líquido; sirve con mejillones, dados de zanahoria y perejil.
+JUSTIFICACION: Dulce y marina, sin vino.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~14 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → caldo de pescado; mantequilla 65 g → aceite 10 g; azúcar → stevia.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-coliflor-mejillones
+TITULO: Crema de Coliflor con Mejillones
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de coliflor con mejillones al vapor, perejil y chalote, con ralladura en vez de limón.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Chalote en rodajas finas — 1
+• Perejil picado — 1 cda
+• Ralladura de limón — de 1 limón
+• Mejillones limpios y desbarbados — 800 g
+• Coliflor pequeña en ramitos — 1
+• Yogur natural espeso — 80 g
+• Tostadas integrales en dados — para acompañar
+PREPARACION:
+1. Cuece la coliflor 15 minutos en agua; tritura con un poco del agua.
+2. Rehoga el chalote en el aceite; añade los mejillones con el perejil y tapa 4 minutos hasta que se abran; retira las valvas.
+3. Mezcla la crema con el yogur fuera del fuego; sirve con los mejillones, la ralladura y las tostadas.
+JUSTIFICACION: Coliflor muy ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~125 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~12 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~260 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite; limón → ralladura.
+• Picatostes → tostadas integrales.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-garbanzos-gratin
+TITULO: Crema de Garbanzos al Gratín
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de garbanzos aromatizada con ajo asado y romero, gratinada con queso bajo en grasa.
+INGREDIENTES:
+• Garbanzos remojados y escurridos — 200 g
+• Cebolla — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Romero fresco — 1 ramita
+• Pan integral tostado — 4 rebanadas
+• Mozzarella baja en grasa rallada — 40 g
+• Agua — 1,5 litros
+PREPARACION:
+1. Cuece los garbanzos con la cebolla, el ajo y el romero en el agua 1,5 horas hasta que estén muy tiernos.
+2. Retira el romero, tritura con el aceite y vuelve a calentar.
+3. Reparte en cuencos, cubre con pan y queso y gratina 5 minutos.
+JUSTIFICACION: Proteína vegetal y fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~34 g
+Grasas: ~6 g
+Fibra: ~8 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 2 → 1 cda; ajo asado; fontina 50 → mozzarella baja en grasa 40 g; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-habas
+TITULO: Crema de Habas
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de habas frescas con papa, zanahoria y albahaca.
+INGREDIENTES:
+• Habas peladas — 500 g
+• Papas en rodajas — 2
+• Cebolla en rodajas — 1
+• Zanahoria en rodajas — 1
+• Agua — 1,5 litros
+• Leche descremada — 3 cdas
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Albahaca picada — un poco
+• Parmesano rallado — 1 cdta
+• Tostadas integrales en dados — para acompañar
+PREPARACION:
+1. Cuece las habas con la papa, la cebolla y la zanahoria en el agua 30 minutos.
+2. Tritura con la leche y el aceite.
+3. Sirve con albahaca, parmesano y tostadas.
+JUSTIFICACION: Rica en fibra, sin mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~24 g
+Grasas: ~2 g
+Fibra: ~7 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 25 g → aceite 5 g; leche descremada; parmesano reducido; papas 3 → 2.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-hinojo-salmon
+TITULO: Crema de Hinojo con Salmón Fresco
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de hinojo con yogur, salmón fresco horneado y eneldo.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Bulbos de hinojo en rodajas — 3
+• Caldo de verduras casero sin sal — 600 ml
+• Yogur natural espeso — 3 cdas (45 g)
+• Salmón fresco horneado y desmenuzado — 80 g
+• Eneldo — 1 pizca
+PREPARACION:
+1. Rehoga el hinojo en el aceite 8 minutos; añade el caldo y cuece 20 minutos; tritura.
+2. Incorpora el yogur fuera del fuego.
+3. Sirve con el salmón desmenuzado y el eneldo.
+JUSTIFICACION: Salmón fresco: sin el sodio del ahumado.
+ADVERTENCIAS: Es una evocación: sin ahumado.
+VALOR_NUTRICIONAL:
+Calorías: ~125 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~8 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Salmón ahumado → fresco horneado; nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-langostinos-alubias
+TITULO: Crema de Langostinos y Alubias
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de alubias blancas y langostinos con chalote y tomillo, sin vino.
+INGREDIENTES:
+• Alubias blancas cocidas — 200 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Chalote picado — 1
+• Langostinos pelados y sin hilo intestinal — 200 g
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Harina de avena — 25 g
+• Yogur natural espeso — 3 cdas (45 g)
+• Tomillo (solo las hojas) — un poco
+PREPARACION:
+1. Rehoga el chalote en el aceite; añade los langostinos 2 minutos y reserva algunos.
+2. Añade la harina, el caldo, las alubias y el tomillo; cuece 15 minutos y tritura.
+3. Incorpora el yogur fuera del fuego y sirve con los langostinos reservados.
+JUSTIFICACION: Cremosa y proteica.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~16 g
+Grasas: ~4 g
+Fibra: ~4 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vino → fuera; mantequilla 80 → aceite 10 g; nata → yogur; harina de avena.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-gambas-tomate
+TITULO: Crema de Gambas y Tomate
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de gambas y tomate asado perfumada con curry suave, servida con gambas reservadas.
+INGREDIENTES:
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Gambas — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Harina de avena — 30 g
+• Tomates asados pelados y troceados — 5
+• Curry dulce en polvo — 1 cdta
+PREPARACION:
+1. Pela las gambas; cuece las cáscaras en el caldo 15 minutos y cuela.
+2. Calienta el aceite con la harina y el curry; añade el caldo, el tomate asado y la mitad de las gambas y cuece 10 minutos; tritura.
+3. Sirve con las gambas reservadas.
+JUSTIFICACION: Tomate asado: dulce y sin acidez fuerte.
+ADVERTENCIAS: Usa curry sin picante.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~10 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~200 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; harina de avena; tomate asado; curry suave.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-endibias
+TITULO: Crema de Endibias y Guisantes
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de endibias y guisantes con bechamel ligera y parmesano.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 500 ml
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Guisantes — 100 g
+• Harina de avena — 30 g
+• Leche descremada — 500 ml
+• Endibias picadas — 400 g
+• Perejil picado — 1 cda
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Rehoga las endibias en el aceite 5 minutos; añade el caldo y los guisantes y cuece 15 minutos.
+2. Añade la harina disuelta en la leche y cuece 10 minutos; tritura.
+3. Sirve con perejil y parmesano.
+JUSTIFICACION: Suave y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~14 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 80 g → aceite 10 g; leche descremada; harina de avena.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-lechuga
+TITULO: Crema de Lechuga
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de lechuga con leche descremada y caldo, ligada con yema y parmesano.
+INGREDIENTES:
+• Leche descremada — 500 ml
+• Caldo de carne casero sin sal (receta de este recetario) — 500 ml
+• Cogollos de lechuga cortados en tiras — 3
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Harina de avena — 2 cdas
+• Yema de huevo — 1
+• Parmesano rallado — 1 cdta
+PREPARACION:
+1. Calienta el aceite con la harina, añade la leche y el caldo y cuece 10 minutos.
+2. Añade la lechuga y cuece 5 minutos; tritura.
+3. Retira del fuego, liga con la yema y sirve con el parmesano.
+JUSTIFICACION: Suave y muy ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~75 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~8 g
+Grasas: ~2 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; leche descremada; harina de avena.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-legumbres
+TITULO: Crema de Legumbres
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de legumbres variadas con hortalizas y papa, con yogur y parmesano.
+INGREDIENTES:
+• Legumbres variadas (habas, lentejas, garbanzos) remojadas — 250 g
+• Zanahoria — 1
+• Rama de apio — 1
+• Cebolla — 1
+• Papas en rodajas — 2
+• Yogur natural espeso — 3 cdas (45 g)
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Cuece las legumbres con las verduras en 1,5 litros de agua 1 hora hasta que estén muy tiernas.
+2. Tritura con un poco del caldo.
+3. Incorpora el yogur fuera del fuego y sirve con parmesano.
+JUSTIFICACION: Muy rica en fibra y proteína vegetal.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~30 g
+Grasas: ~2 g
+Fibra: ~8 g
+Sodio: ~60 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; parmesano reducido; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-patata
+TITULO: Crema de Papa y Puerro
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de papa y puerro con picatostes integrales dorados al horno.
+INGREDIENTES:
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Puerros picados — 2
+• Papas en dados — 400 g
+• Rebanadas de pan integral sin corteza — 4
+• Yogur natural espeso — 100 g
+PREPARACION:
+1. Rehoga el puerro en el aceite; añade las papas y el caldo y cuece 20 minutos; tritura.
+2. Incorpora el yogur fuera del fuego.
+3. Corta el pan en dados y tuéstalo en el horno 8 minutos a 180 °C; sirve sobre la crema.
+JUSTIFICACION: Cremosa sin nata ni mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~28 g
+Grasas: ~4 g
+Fibra: ~4 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 50 g → aceite 10 g; nata → yogur; papas 600 → 400 g.
+• Picatostes al horno; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-guisantes-patatas
+TITULO: Crema de Guisantes y Papas
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de guisantes con papa y menta, con yogur y tostadas con ralladura de limón.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Guisantes — 500 g
+• Papas en dados — 2
+• Puerros picados — 2
+• Agua — 1 litro
+• Yogur natural espeso — 2 cdas
+• Hojas de menta — 6
+• Rebanadas finas de pan integral tostadas — 4
+• Ralladura de limón — de ½ limón
+PREPARACION:
+1. Rehoga el puerro en el aceite; añade guisantes, papas y agua y cuece 20 minutos; tritura con la menta.
+2. Sirve con el yogur.
+3. Acompaña con las tostadas espolvoreadas con la ralladura.
+JUSTIFICACION: Fresca y muy fibrosa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~26 g
+Grasas: ~4 g
+Fibra: ~7 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 2 → 1 cda; zumo de limón → ralladura; pan integral; guisantes 600 → 500 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-tomate
+TITULO: Crema de Tomate Asado
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de tomate asado con cebolla cocida y papa, con yogur y parmesano, y picatostes integrales.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla — 1
+• Tomates pera asados, pelados y sin semillas — 1 kg
+• Papas en dados — 2
+• Yogur natural espeso — 100 g
+• Parmesano rallado — 1 cdta (para servir)
+• Picatostes (pan integral tostado en dados) — 4 rebanadas
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade los tomates asados, las papas y 500 ml de agua y cuece 20 minutos.
+2. Tritura, incorpora el yogur fuera del fuego.
+3. Sirve con el parmesano y los picatostes.
+JUSTIFICACION: El tomate asado y cocido es más dulce.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~25 g
+Grasas: ~4 g
+Fibra: ~5 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; nata → yogur; tomate asado; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-puerro
+TITULO: Crema de Puerro
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de puerro con tomate asado, ligada con yema, yogur y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Puerros (solo la parte blanca) — 6
+• Tomate asado triturado — 2 cdas
+• Leche descremada — 175 ml
+• Harina de avena — 30 g
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Yema de huevo — 1
+• Yogur natural espeso — 2 cdas
+• Parmesano rallado — 1 cda
+PREPARACION:
+1. Rehoga el puerro en el aceite 10 minutos; añade el tomate y la harina y cuece 2 minutos.
+2. Añade el caldo y la leche y cuece 20 minutos; tritura.
+3. Retira del fuego, liga con la yema y el yogur y sirve con el parmesano.
+JUSTIFICACION: Dulce y cremosa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~15 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → fuera; concentrado → tomate asado; nata → yogur.
+• Aceite 3 → 2 cdas; parmesano 4 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-apio
+TITULO: Crema de Apio
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de apio con papa y leche descremada, servida con parmesano.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Apio picado — 400 g
+• Papas en dados — 2
+• Leche descremada — 5 cdas
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade el apio, las papas y el caldo y cuece 25 minutos.
+2. Tritura con la leche.
+3. Sirve con el parmesano.
+JUSTIFICACION: Ligera y aromática.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~95 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~16 g
+Grasas: ~2 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → fuera; leche descremada; papas 3 → 2.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-espinacas
+TITULO: Crema de Espinacas
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de espinacas con bechamel ligera y yogur, con un toque de pimentón dulce en lugar del picante.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebollas picadas finas — 2
+• Harina de avena — 30 g
+• Espinacas troceadas — 500 g
+• Ralladura de limón — de 1 limón
+• Yogur natural espeso — 2 cdas
+• Pimentón dulce — para adornar
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade la harina, el caldo y las espinacas y cuece 10 minutos.
+2. Tritura, añade el yogur fuera del fuego y la ralladura.
+3. Sirve con pimentón dulce.
+JUSTIFICACION: Rica en hierro y fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~75 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~9 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; nata → yogur; zumo de limón → ralladura.
+• Pimentón picante → dulce; harina de avena.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-calabaza-gratin
+TITULO: Crema de Calabaza al Gratín
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de calabaza y papa con salvia, gratinada con pan integral y parmesano.
+INGREDIENTES:
+• Leche descremada — 800 ml
+• Papas en gajos — 2
+• Calabaza pelada, despepitada y troceada — 500 g
+• Salvia fresca — unas hojas
+• Yogur natural espeso — 100 g
+• Rebanadas de pan integral — 4
+• Parmesano rallado — 1 cda
+PREPARACION:
+1. Cuece papas, calabaza y salvia en la leche con 200 ml de agua 25 minutos; tritura.
+2. Incorpora el yogur fuera del fuego.
+3. Reparte en cuencos, cubre con pan y parmesano y gratina 5 minutos.
+JUSTIFICACION: Dulce y suave.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~32 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~160 mg
+IG: Medio
+ADAPTACIÓN:
+• Leche descremada; nata → yogur; parmesano 2 → 1 cda; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-calabacin
+TITULO: Crema de Calabacín
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de calabacín con ajo asado y leche descremada, adornada con perejil.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Calabacines en rodajas — 800 g
+• Cebolla en rodajas finas — 1
+• Ajo asado majado — 1 diente
+• Caldo de pollo casero sin sal (receta de este recetario) — 500 ml
+• Leche descremada — 500 ml
+• Perejil picado — para adornar
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade el calabacín y el ajo y cuece 5 minutos.
+2. Añade el caldo y la leche y cuece 15 minutos; tritura.
+3. Sirve con perejil.
+JUSTIFICACION: Muy ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~75 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~9 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; leche descremada; ajo asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-pepino-fria
+TITULO: Crema Fría de Pepino
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Crema, Frío, Perfil1
+CONCEPTO: Crema fría de pepino, papa cocida, lechuga y menta con yogur.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 500 ml
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Pepinos pelados y picados — 250 g
+• Papas en dados — 200 g
+• Lechuga picada — 25 g
+• Hojas de menta fresca — 6
+• Yogur natural espeso — 80 g
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade las papas y el caldo y cuece 15 minutos.
+2. Añade el pepino y la lechuga y cuece 3 minutos; tritura con la menta; enfría.
+3. Mezcla con el yogur y sirve frío.
+JUSTIFICACION: Refrescante y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~14 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; nata → yogur; papas 250 → 200 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-veloute-lentejas
+TITULO: Velouté de Lentejas
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema de lentejas verdes y rojas con cebolla, ajo asado y tomillo, con yogur y nuez moscada.
+INGREDIENTES:
+• Lentejas verdes remojadas — 150 g
+• Lentejas rojas remojadas — 100 g
+• Cebollas pequeñas partidas por la mitad — 2
+• Ajo asado majado — 1 diente
+• Tomillo fresco — unas ramas
+• Yogur natural espeso — 100 g
+• Nuez moscada — 1 pizca
+PREPARACION:
+1. Cuece las lentejas con las cebollas, el ajo y el tomillo en 1,5 litros de agua 40 minutos.
+2. Retira el tomillo y tritura.
+3. Incorpora el yogur fuera del fuego con la nuez moscada.
+JUSTIFICACION: Rica en fibra y proteína vegetal.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~28 g
+Grasas: ~1 g
+Fibra: ~9 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata 200 ml → yogur 100 g; ajo asado; lentejas 300 → 250 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-verduras-verde
+TITULO: Crema de Verduras Verde
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Crema, Perfil1
+CONCEPTO: Crema verde de puerro, papa y berros con nuez moscada, con picatostes integrales.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Puerros en rodajas finas (parte blanca) — 2
+• Papas en dados — 2
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Berros picados — 250 g
+• Nuez moscada — 1 pizca
+• Yogur natural espeso — 100 g
+• Picatostes (pan integral tostado en dados) — para acompañar
+PREPARACION:
+1. Rehoga el puerro en el aceite; añade papas y caldo y cuece 20 minutos.
+2. Añade los berros y cuece 3 minutos; tritura con la nuez moscada.
+3. Incorpora el yogur fuera del fuego y sirve con los picatostes.
+JUSTIFICACION: Verde y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~18 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; nata → yogur; papas 3 → 2; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crema-vichyssoise
+TITULO: Vichyssoise
+CATEGORIA: Crema
+ICONO: 🍲
+SUBSECCION: Cremas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Crema, Frío, Perfil1
+CONCEPTO: Crema fría de puerro, papa y apio con yogur, servida con perejil.
+INGREDIENTES:
+• Apio picado — 2 ramas
+• Puerros picados (parte blanca) — 2
+• Papas en dados — 2
+• Caldo de pollo casero sin sal (receta de este recetario) — 1 litro
+• Yogur natural espeso — 150 g
+• Perejil picado — para adornar
+PREPARACION:
+1. Cuece apio, puerro y papas en el caldo 25 minutos; tritura y cuela.
+2. Enfría en la nevera 3 horas; mezcla con el yogur.
+3. Sirve frío con el perejil.
+JUSTIFICACION: Cremosa sin nata.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~17 g
+Grasas: ~1 g
+Fibra: ~3 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Nata 200 ml → yogur 150 g; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-lacitos-pesto
+TITULO: Lacitos al Pesto Ligero
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Frutos secos, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa aromática de verduras con judías verdes, pasta integral en forma de lazo y un pesto ligero.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla — 1
+• Zanahorias picadas — 2
+• Papas en dados — 2
+• Agua — 1,5 litros
+• Judías verdes finas, despuntadas — 100 g
+• Pesto (receta de este recetario) — 60 g
+• Lacitos (farfalline) integrales — 120 g
+• Parmesano rallado — 1 cda
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade zanahorias, papas y agua y cuece 20 minutos.
+2. Añade las judías y la pasta y cuece 8 minutos.
+3. Sirve con el pesto y el parmesano.
+JUSTIFICACION: Menos pesto y menos pasta.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~31 g
+Grasas: ~5 g
+Fibra: ~5 g
+Sodio: ~80 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; pesto 140 → 60 g ligero; pasta integral 185 → 120 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-gazpacho
+TITULO: Gazpacho de Tomate Asado
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Sopa, Frío, Perfil1
+CONCEPTO: Sopa fría de tomate asado, pimentón asado, pepino y pan integral con aceite y ralladura, servida con hielo.
+INGREDIENTES:
+• Rebanadas de pan integral sin corteza — 80 g
+• Tomates asados — 800 g
+• Pimentones rojos asados — 2
+• Pepinos pelados — 2
+• Ajo asado — 1 diente
+• Cebollitas escaldadas — 2
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Ralladura de limón — de 1 limón
+• Cubitos de hielo — para servir
+PREPARACION:
+1. Remoja el pan 10 minutos en agua y escúrrelo.
+2. Tritura todos los ingredientes con el pan y el aceite hasta obtener una crema; añade la ralladura.
+3. Enfría 3 horas y sirve con hielo.
+JUSTIFICACION: Tomate y pimentón asados: dulce y suave, sin acidez.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~16 g
+Grasas: ~5 g
+Fibra: ~4 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Tomate, pimentón, ajo y cebolleta crudos → asados/escaldados.
+• Zumo de limón → ralladura; aceite 3-4 → 2 cdas; pan 150 → 80 g integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-gazpacho-sencillo
+TITULO: Gazpacho Sencillo
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Sopa, Frío, Perfil1
+CONCEPTO: Gazpacho de tomate asado, pepino, cebolleta escaldada y albahaca, aderezado con aceite y ralladura.
+INGREDIENTES:
+• Pepino pelado en rodajas — 1
+• Tomates asados, pelados y despepitados — 1 kg
+• Cebolletas escaldadas picadas finas — 2
+• Hojas de albahaca picadas — 6
+• Perejil picado — 1 cda
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Ralladura de limón — de 1 limón
+• Cubitos de hielo — para servir
+PREPARACION:
+1. Tritura el tomate asado con el pepino y las cebolletas.
+2. Añade el aceite, la ralladura, la albahaca y el perejil.
+3. Enfría 2 horas y sirve con hielo.
+JUSTIFICACION: Sencillo, dulce y refrescante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~75 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~10 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Tomate asado; cebolleta escaldada; aceite 3 → 1½ cdas; limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-lentejas-calamarcitos
+TITULO: Sopa de Lentejas y Calamarcitos
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Lentejas con calamarcitos y verduras de hoja, con pimentón dulce en lugar de guindilla.
+INGREDIENTES:
+• Lentejas remojadas — 200 g
+• Agua — 1,5 litros
+• Calamarcitos limpios y troceados — 400 g
+• Verduras de hoja (acelgas, espinacas) — 250 g
+• Pimentón dulce — 1 pizca
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION:
+1. Cuece las lentejas en el agua 35 minutos.
+2. Añade los calamarcitos y las verduras y cuece 15 minutos más.
+3. Sirve con el pimentón y el aceite.
+JUSTIFICACION: Proteica y rica en fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~18 g
+Carbohidratos: ~22 g
+Grasas: ~3 g
+Fibra: ~8 g
+Sodio: ~140 mg
+IG: Bajo
+ADAPTACIÓN:
+• Guindilla → pimentón dulce; calamarcitos 500 → 400 g; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-mesciua
+TITULO: Mesciùa
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa ligur de alubias, garbanzos y espelta con un chorrito de aceite.
+INGREDIENTES:
+• Alubias blancas remojadas — 150 g
+• Garbanzos remojados — 150 g
+• Espelta remojada — 100 g
+• Agua — 1,5 litros
+• Aceite de oliva extra virgen — 1 cda (10 g, para rociar)
+PREPARACION:
+1. Cuece alubias y garbanzos en el agua 1 hora.
+2. Añade la espelta y cuece 40 minutos más.
+3. Sirve con el aceite por encima.
+JUSTIFICACION: Muy rica en fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~220 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~36 g
+Grasas: ~4 g
+Fibra: ~10 g
+Sodio: ~15 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 20 → 10 g; legumbres 200 → 150 g; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-flor-calabacin
+TITULO: Sopa de Flor de Calabacín
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Caldo con zanahoria, apio, calabacín, flores de calabacín y pasta pequeña.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Calabacines en dados — 3
+• Flores de calabacín en tiras — 200 g
+• Pasta para sopa (ditalini) integral — 80 g
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Rehoga cebolla, zanahoria y apio en el aceite 8 minutos.
+2. Añade el calabacín y el caldo y cuece 10 minutos.
+3. Agrega las flores y la pasta y cuece 8 minutos; sirve con parmesano.
+JUSTIFICACION: Ligera y fresca.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~20 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla fuera; pasta integral 120 → 80 g; parmesano reducido.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-germen-trigo
+TITULO: Sopa de Germen de Trigo
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de germen de trigo y alubias blancas con tomate asado y albahaca.
+INGREDIENTES:
+• Germen de trigo — 80 g
+• Alubias blancas cocidas — 50 g
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+• Agua — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Rama de apio picada — 1
+• Tomates asados troceados — 2
+• Albahaca picada — un poco
+PREPARACION:
+1. Rehoga cebolla y apio en el aceite 8 minutos; añade el tomate asado.
+2. Agrega caldo, agua, germen y alubias y cuece 30 minutos.
+3. Sirve con la albahaca.
+JUSTIFICACION: Nutritiva y suave.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~20 g
+Grasas: ~5 g
+Fibra: ~5 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 2 → 1 cda; tomate asado; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-aromatica
+TITULO: Sopa Aromática de Papa
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de papa con orégano, albahaca y perejil.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 1
+• Papas en dados — 600 g
+• Orégano seco — 1 cdta
+• Hojas grandes de albahaca picadas — 10
+• Perejil picado — un poco
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos.
+2. Añade papas, orégano y caldo y cuece 20 minutos.
+3. Sirve con la albahaca y el perejil.
+JUSTIFICACION: Reconfortante y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~22 g
+Grasas: ~2 g
+Fibra: ~3 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; papas 800 → 600 g; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-maiz
+TITULO: Sopa de Maíz
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de maíz tierno con calabacín, setas y flores de calabacín, sin guindilla.
+INGREDIENTES:
+• Caldo de pollo casero sin sal (receta de este recetario) — 1,5 litros
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 1
+• Maíz tierno desgranado — 250 g
+• Calabacines picados gruesos — 150 g
+• Setas en láminas — 150 g
+• Flores de calabacín en tiras — 12
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos.
+2. Añade maíz, calabacín, setas y caldo y cuece 15 minutos.
+3. Agrega las flores y cuece 3 minutos.
+JUSTIFICACION: Dulce y ligera; el maíz fresco aporta el mismo sabor sin conserva.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~17 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Maíz en conserva → tierno; guindilla fuera; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-puerros
+TITULO: Sopa de Puerros
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de puerros con zanahoria, apio y arroz integral, con parmesano.
+INGREDIENTES:
+• Puerros en rodajas (parte blanca) — 4
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Agua — 1,5 litros
+• Arroz integral — 100 g
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Rehoga las verduras en el aceite 8 minutos.
+2. Añade agua y arroz y cuece 35 minutos.
+3. Sirve con parmesano.
+JUSTIFICACION: Suave y con fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~26 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~40 mg
+IG: Medio
+ADAPTACIÓN:
+• Arroz integral 165 → 100 g; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-albondigas
+TITULO: Sopa con Albóndigas
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Caldo con albóndigas diminutas de res magra y parmesano, sin jamón.
+INGREDIENTES:
+• Rebanada de pan integral sin corteza — 1
+• Carne molida magra de res — 150 g
+• Yema de huevo — 1
+• Parmesano rallado — 25 g
+• Perejil picado — 1 cda
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+PREPARACION:
+1. Remoja el pan en un poco de caldo y escúrrelo; mézclalo con la carne, la yema, el parmesano y el perejil.
+2. Forma albóndigas pequeñas.
+3. Cuécelas 10 minutos en el caldo hirviendo.
+JUSTIFICACION: Sabor casero sin embutido.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~5 g
+Grasas: ~4 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón cocido fuera; parmesano 50 → 25 g; pan integral; carne magra.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-cebada-legumbres
+TITULO: Sopa de Cebada y Legumbres
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de cebada con alubias, garbanzos, lentejas y soja.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 2 litros
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Ajo asado — 1 diente
+• Alubias rojas remojadas — 100 g
+• Soja remojada — 50 g
+• Garbanzos remojados — 50 g
+• Lentejas — 50 g
+• Cebada — 80 g
+PREPARACION:
+1. Rehoga cebolla y ajo en el aceite 8 minutos.
+2. Añade caldo y legumbres y cuece 1 hora.
+3. Agrega la cebada y cuece 30 minutos más.
+JUSTIFICACION: Muy completa y con fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~200 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~30 g
+Grasas: ~4 g
+Fibra: ~9 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; ajo asado; cebada 100 → 80 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-chanquetes
+TITULO: Sopa de Pescado Menudo con Fideos
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa ligera de caldo de pescado con pescado blanco desmenuzado y fideos finos; los chanquetes se sustituyen.
+INGREDIENTES:
+• Pescado blanco cocido y desmenuzado — 100 g
+• Caldo de pescado casero sin sal (receta de este recetario) — 1,5 litros
+• Fideos de cabello de ángel — 60 g
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION:
+1. Calienta el caldo y cuece los fideos 3 minutos.
+2. Añade el pescado desmenuzado y el aceite.
+3. Sirve enseguida.
+JUSTIFICACION: Muy ligera.
+ADVERTENCIAS: Es una evocación: sin chanquetes.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~10 g
+Grasas: ~1 g
+Fibra: ~1 g
+Sodio: ~80 mg
+IG: Medio
+ADAPTACIÓN:
+• Chanquetes → pescado blanco desmenuzado; fideos 100 → 60 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-garbanzos-espinacas
+TITULO: Sopa de Garbanzos y Espinacas
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de garbanzos, espinacas y pasta con sofrito de hortalizas.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Espinacas picadas — 250 g
+• Garbanzos cocidos — 150 g
+• Pasta para sopa integral — 60 g
+PREPARACION:
+1. Rehoga el sofrito de hortalizas en el aceite 8 minutos.
+2. Añade caldo y garbanzos y cuece 15 minutos.
+3. Agrega espinacas y pasta y cuece 8 minutos.
+JUSTIFICACION: Proteína vegetal y hierro.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~24 g
+Grasas: ~3 g
+Fibra: ~6 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; pasta integral 100 → 60 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-acelgas-lentejas
+TITULO: Sopa de Acelgas y Lentejas
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+TIPO: Almuerzo
+PORCIONES: 5
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de acelgas, lentejas y arroz integral con tomate asado.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada fina — 1
+• Ajo asado — 1 diente
+• Rama de apio picada fina — 1
+• Zanahoria picada fina — 1
+• Acelgas picadas gruesas — 350 g
+• Lentejas remojadas — 150 g
+• Tomate asado triturado — 3 cdas
+• Arroz integral — 60 g
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Rehoga cebolla, apio y zanahoria en el aceite 8 minutos.
+2. Añade caldo, lentejas y tomate y cuece 25 minutos.
+3. Agrega acelgas y arroz y cuece 25 minutos; sirve con parmesano.
+JUSTIFICACION: Muy rica en fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~30 g
+Grasas: ~3 g
+Fibra: ~8 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; concentrado → tomate asado; arroz integral 100 → 60 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espelta-puerros
+TITULO: Sopa de Espelta y Puerros
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de espelta con puerros cocida a fuego lento.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Puerros en rodajas (parte blanca) — 2
+• Espelta — 200 g
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Parmesano rallado — 1 cdta
+PREPARACION:
+1. Rehoga el puerro en el aceite 8 minutos.
+2. Añade espelta y caldo y cuece a fuego suave 45 minutos.
+3. Sirve con parmesano.
+JUSTIFICACION: Grano entero y saciante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~30 g
+Grasas: ~3 g
+Fibra: ~5 g
+Sodio: ~80 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 2 → 1 cda; espelta 300 → 200 g; parmesano 2 cdas → 1 cdta.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-mijo
+TITULO: Sopa de Mijo
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de harina de mijo tostada con cebolla, zanahoria y apio.
+INGREDIENTES:
+• Agua — 1,5 litros
+• Cebolla picada — 1
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Harina de mijo tostada — 80 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Perejil picado — 1 cda
+PREPARACION:
+1. Cuece las verduras en el agua 20 minutos.
+2. Añade la harina de mijo disuelta en un poco de agua fría y cuece 15 minutos removiendo.
+3. Sirve con el aceite y el perejil.
+JUSTIFICACION: Ligera y sin gluten.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~19 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~30 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 2 → 1 cda; mijo 100 → 80 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-ortigas
+TITULO: Sopa de Hojas Verdes con Arroz
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de espinacas y berros (en lugar de ortigas) con tomate asado y arroz integral, sin panceta.
+INGREDIENTES:
+• Espinacas y berros — 600 g
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Tomates asados troceados — 2
+• Arroz integral — 80 g
+PREPARACION:
+1. Rehoga el ajo y el tomate en el aceite 5 minutos.
+2. Añade caldo y arroz y cuece 30 minutos.
+3. Agrega las hojas y cuece 5 minutos; tritura una parte para espesar.
+JUSTIFICACION: Las ortigas son difíciles de encontrar; espinacas y berros dan un sabor verde similar.
+ADVERTENCIAS: Es una evocación: sin ortigas ni panceta.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~18 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~100 mg
+IG: Medio
+ADAPTACIÓN:
+• Ortigas → espinacas y berros; panceta fuera; aceite 3 → 1 cda; arroz integral 150 → 80 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-cebada-pollo
+TITULO: Sopa de Cebada y Pollo
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Caldo de pollo con cebada y comino, sin vino.
+INGREDIENTES:
+• Cuartos de pollo sin piel — 2
+• Cebollas picadas — 2
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Cebada — 100 g
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Zumo de naranja reducido — 2 cdas
+• Comino molido — ¼ cdta
+PREPARACION:
+1. Cuece el pollo con las verduras en 2 litros de agua 45 minutos; retira el pollo, deshuésalo y desmenúzalo.
+2. Añade la cebada, el aceite, el comino y la naranja reducida y cuece 35 minutos.
+3. Devuelve el pollo y sirve.
+JUSTIFICACION: Reconfortante y saciante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~180 kcal (por porción)
+Proteínas: ~16 g
+Carbohidratos: ~22 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; mantequilla → aceite; pollo sin piel.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-setas
+TITULO: Sopa de Setas
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Crema de setas con huevo y parmesano, cocida en caldo.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Setas en láminas — 300 g
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Huevo — 1
+• Parmesano rallado — 1 cdta
+PREPARACION:
+1. Rehoga las setas en el aceite 8 minutos; añade el caldo y cuece 15 minutos; tritura.
+2. Retira del fuego y liga con el huevo batido con el parmesano, removiendo.
+3. Sirve enseguida.
+JUSTIFICACION: Ligera y sabrosa.
+ADVERTENCIAS: Sin sal añadida.|El huevo debe quedar bien cocido.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~4 g
+Grasas: ~4 g
+Fibra: ~1 g
+Sodio: ~80 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 40 → aceite 10 g; parmesano 1 cda → 1 cdta.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-puerro-patata
+TITULO: Sopa de Puerro y Papa
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de puerro y papa espesada y aderezada con aceite y perejil.
+INGREDIENTES:
+• Puerros en rodajas (parte blanca) — 500 g
+• Papas en dados — 2
+• Cebolla en rodajas — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Perejil picado — un poco
+• Parmesano rallado — 1 cdta (para servir)
+• Agua — 1,25 litros
+PREPARACION:
+1. Cuece puerros, papas y cebolla en 750 ml de agua 25 minutos; tritura la mitad.
+2. Añade el resto del agua y calienta.
+3. Sirve con el aceite, el perejil y el parmesano.
+JUSTIFICACION: Muy ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~18 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~30 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite medido (1 cda); papas 3 → 2; parmesano reducido.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-flamenca
+TITULO: Sopa Flamenca
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de endibias, pollo, champiñones y verduras ligada con yema y yogur.
+INGREDIENTES:
+• Endibias en rodajas finas — 4
+• Pechuga de pollo deshuesada, sin piel y en tiras — 200 g
+• Champiñones en láminas — 200 g
+• Zanahoria en bastoncitos — 1
+• Papa en bastoncitos — 1
+• Rama de apio en bastoncitos — 1
+• Puerros limpios en rodajas finas — 2
+• Yema de huevo — 1
+• Yogur natural espeso — 100 g
+• Agua — 1,5 litros
+PREPARACION:
+1. Cuece el pollo con las verduras en el agua 25 minutos.
+2. Retira del fuego y bate la yema con el yogur y unas cucharadas de caldo.
+3. Incorpora a la sopa sin dejar hervir y sirve.
+JUSTIFICACION: Completa y cremosa sin nata.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~10 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata 200 ml → yogur 100 g; pollo sin piel.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-tricolor
+TITULO: Sopa Tricolor
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Caldo con tiras de tortilla, guisantes y pollo desmenuzado, de tres colores.
+INGREDIENTES:
+• Huevos — 2
+• Parmesano rallado — 1 cda
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Guisantes — 80 g
+• Pechuga de pollo cocida y desmenuzada — 100 g
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+PREPARACION:
+1. Bate los huevos con el parmesano y haz una tortilla fina en una sartén antiadherente apenas untada; córtala en tiras.
+2. Cuece los guisantes en el caldo 8 minutos.
+3. Sirve con las tiras de tortilla y el pollo.
+JUSTIFICACION: Colorida y ligera.
+ADVERTENCIAS: Es una evocación: pollo en lugar de lengua encurtida.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~4 g
+Grasas: ~4 g
+Fibra: ~1 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Lengua encurtida → pollo; parmesano 25 g → 1 cda; aceite 1 cda → 1 cdta.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-verduras
+TITULO: Sopa de Acelgas con Huevo
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de acelgas con huevo y parmesano, cocida a fuego lento.
+INGREDIENTES:
+• Acelgas — 400 g
+• Parmesano rallado — 20 g
+• Huevos ligeramente batidos — 2
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+PREPARACION:
+1. Cuece las acelgas en el caldo 15 minutos.
+2. Mezcla los huevos con el parmesano y viértelos en hilo removiendo.
+3. Cuece 3 minutos hasta que cuaje y sirve.
+JUSTIFICACION: Ligera y proteica.
+ADVERTENCIAS: Sin sal añadida.|Huevo bien cocido.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~3 g
+Grasas: ~4 g
+Fibra: ~2 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Huevos 3 → 2; parmesano 40 → 20 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-pan-pancotto
+TITULO: Sopa de Pan (Pancotto)
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Pan integral del día anterior cocido con tomate asado y ajo, aderezado con aceite y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Tomates asados pelados y troceados — 3
+• Ajo asado — 1 diente
+• Pan integral del día anterior, sin corteza, en dados — 250 g
+• Parmesano rallado — 1 cdta
+• Agua — 1 litro
+PREPARACION:
+1. Calienta el tomate y el ajo con el agua 10 minutos.
+2. Añade el pan y cuece 15 minutos removiendo hasta formar una sopa espesa.
+3. Sirve con el aceite y el parmesano.
+JUSTIFICACION: Rústica y reconfortante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~32 g
+Grasas: ~4 g
+Fibra: ~5 g
+Sodio: ~220 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; pan integral 400 → 250 g; tomate y ajo asados.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-pan-tomate
+TITULO: Sopa de Pan y Tomate
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Pappa al pomodoro con pan integral, tomate asado, ajo asado, apio y albahaca.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Tomates asados pelados y troceados — 300 g
+• Ajo asado — 1 diente
+• Rama de apio picada — 1
+• Pan integral del día anterior en dados — 2 rebanadas
+• Hojas grandes de albahaca picadas — 6
+• Parmesano rallado — 1 cdta
+• Agua — 1,2 litros
+PREPARACION:
+1. Rehoga el apio en el aceite 5 minutos; añade tomate, ajo y agua y cuece 15 minutos.
+2. Agrega el pan y cuece 10 minutos removiendo.
+3. Sirve con albahaca y parmesano.
+JUSTIFICACION: Dulce y espesa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~20 g
+Grasas: ~4 g
+Fibra: ~4 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Tomate y ajo asados; pan integral; parmesano 25 g → 1 cdta.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-passatelli
+TITULO: Passatelli
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Fideos gruesos de pan integral rallado, parmesano, huevo y nuez moscada cocidos en caldo.
+INGREDIENTES:
+• Pan integral rallado — 100 g
+• Parmesano rallado — 40 g
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Nuez moscada — 1 pizca generosa
+• Huevos ligeramente batidos — 2
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+PREPARACION:
+1. Mezcla pan, parmesano, aceite, nuez moscada y huevos hasta formar una masa; deja reposar 15 minutos.
+2. Pasa la masa por un pasapurés sobre el caldo hirviendo.
+3. Cuece 3 minutos y sirve.
+JUSTIFICACION: Mismo carácter, con menos queso y grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~15 g
+Grasas: ~5 g
+Fibra: ~2 g
+Sodio: ~220 mg
+IG: Medio
+ADAPTACIÓN:
+• Parmesano 100 → 40 g; huevos 3 → 2; mantequilla → aceite; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-pasta-garbanzos
+TITULO: Pasta y Garbanzos
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Pasta integral con garbanzos y tomate asado al estilo toscano.
+INGREDIENTES:
+• Garbanzos secos remojados — 150 g
+• Agua — 2 litros
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Romero fresco picado — un poco
+• Tomates asados picados — 250 g
+• Tallarines integrales en tiras cortas — 100 g
+• Parmesano rallado — 1 cdta
+PREPARACION:
+1. Cuece los garbanzos en el agua 1 hora.
+2. Añade ajo, romero y tomate y cuece 15 minutos.
+3. Agrega la pasta y cuece 8 minutos; sirve con aceite y parmesano.
+JUSTIFICACION: Plato único con proteína vegetal.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~35 g
+Grasas: ~5 g
+Fibra: ~8 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; pasta integral 150 → 100 g; tomate y ajo asados.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-pasta-alubias
+TITULO: Pasta y Alubias
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Pasta integral con alubias, salvia, ajo asado y tomate triturado.
+INGREDIENTES:
+• Alubias remojadas — 300 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Hojas de salvia — 4
+• Ajo asado majado — 1 diente
+• Tomate asado triturado — 3 cdas
+• Maltagliati integrales — 60 g
+• Agua — 1,5 litros
+PREPARACION:
+1. Cuece las alubias en el agua con la salvia 1 hora; tritura un tercio.
+2. Añade el ajo, el tomate y la pasta y cuece 8 minutos.
+3. Sirve con el aceite.
+JUSTIFICACION: Rica en fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~220 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~38 g
+Grasas: ~4 g
+Fibra: ~10 g
+Sodio: ~20 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; alubias 400 → 300 g; pasta integral 80 → 60 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-pasta-patatas-apio
+TITULO: Pasta, Papas y Apio
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de papas y apio con ditalini y tomate asado, sin panceta.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zanahoria picada — 1
+• Cogollos de apio picados — 2
+• Papas en dados — 600 g
+• Tomate asado triturado — 2 cdas
+• Pasta (ditalini) integral — 120 g
+• Parmesano rallado — 1 cdta (para servir)
+• Agua caliente — 1,2 litros
+PREPARACION:
+1. Rehoga zanahoria y apio en el aceite 8 minutos; añade el tomate.
+2. Agrega papas y agua y cuece 15 minutos.
+3. Añade la pasta y cuece 8 minutos; sirve con parmesano.
+JUSTIFICACION: Reconfortante y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~34 g
+Grasas: ~3 g
+Fibra: ~5 g
+Sodio: ~30 mg
+IG: Medio
+ADAPTACIÓN:
+• Panceta fuera; aceite 3 → 1 cda; papas 1 kg → 600 g; pasta integral 200 → 120 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-porridge
+TITULO: Porridge
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Desayuno, Perfil1
+CONCEPTO: Gachas de copos de avena en agua, endulzadas con stevia y servidas con leche descremada fría.
+INGREDIENTES:
+• Agua — 500 ml
+• Copos de avena — 80 g
+• Stevia en polvo — al gusto
+• Leche descremada fría — para servir
+PREPARACION:
+1. Cuece la avena en el agua 5 minutos removiendo.
+2. Endulza con stevia.
+3. Sirve con la leche fría.
+JUSTIFICACION: Desayuno sencillo con fibra soluble.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~28 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~50 mg
+IG: Medio
+ADAPTACIÓN:
+• Sal fuera; azúcar → stevia; nata → leche descremada; avena 100 → 80 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-pot-au-feu
+TITULO: Pot-au-feu Ligero
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+TIPO: Almuerzo
+PORCIONES: 6
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Cocido de res magra y hortalizas: se sirve el caldo desgrasado con la carne aparte.
+INGREDIENTES:
+• Papas — 3
+• Carne magra de res — 800 g
+• Pechuga de pollo sin piel — 300 g
+• Nabos picados — 2
+• Puerro picado — 1
+• Zanahorias picadas — 3
+• Cebolla picada — 1
+• Rama de apio picada — 1
+• Ajo asado — 1 diente
+PREPARACION:
+1. Cubre la carne con agua fría y cuece a fuego suave 2 horas retirando la espuma.
+2. Añade el pollo y las verduras y cuece 40 minutos más.
+3. Desgrasa el caldo; sirve el caldo aparte y la carne con las verduras.
+JUSTIFICACION: Mismo cocido, sin tuétano ni cortes grasos.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~280 kcal (por porción)
+Proteínas: ~34 g
+Carbohidratos: ~20 g
+Grasas: ~6 g
+Fibra: ~4 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Hueso de tuétano fuera; buey y ternera → res magra y pollo sin piel; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-quadrucci
+TITULO: Quadrucci con Hortalizas
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Caldo de hortalizas con quadrucci (pasta cuadrada pequeña) integral.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Papas en dados — 150 g
+• Nabos en dados — 150 g
+• Quadrucci integrales — 100 g
+PREPARACION:
+1. Rehoga cebolla, zanahoria y apio en el aceite 8 minutos.
+2. Añade caldo, papas y nabos y cuece 15 minutos.
+3. Agrega la pasta y cuece 6 minutos.
+JUSTIFICACION: Ligera y con fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~26 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; pasta integral 150 → 100 g; verduras 200 → 150 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-arroz-guisantes
+TITULO: Arroz y Guisantes (Risi e Bisi)
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa espesa de arroz y guisantes.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1,2 litros
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Ajo asado — 1 diente
+• Rama de apio picada — 1
+• Guisantes — 250 g
+• Arroz integral — 120 g
+• Parmesano rallado — 1 cda
+PREPARACION:
+1. Rehoga cebolla, ajo y apio en el aceite 8 minutos.
+2. Añade caldo, guisantes y arroz y cuece 35 minutos.
+3. Sirve con parmesano.
+JUSTIFICACION: Espesa y reconfortante, con fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~200 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~32 g
+Grasas: ~4 g
+Fibra: ~6 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla fuera; aceite 3 → 1 cda; arroz integral 200 → 120 g; parmesano 25 → 15 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-arroz-patatas
+TITULO: Arroz y Papas
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de arroz con papas y perejil, sin jamón curado.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Arroz integral — 120 g
+• Papas en dados — 250 g
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Perejil picado — un poco
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos.
+2. Añade arroz, papas y caldo y cuece 35 minutos.
+3. Sirve con perejil.
+JUSTIFICACION: Sencilla y saciante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~33 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón curado fuera; mantequilla → aceite; arroz integral 200 → 120 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-semolina
+TITULO: Semolina
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de sémola en caldo con yemas y parmesano.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Sémola integral — 60 g
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Yemas de huevo ligeramente batidas — 2
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Lleva el caldo a ebullición y añade la sémola en lluvia removiendo; cuece 10 minutos.
+2. Fuera del fuego, añade el aceite y las yemas batidas con un poco de caldo.
+3. Sirve con el parmesano.
+JUSTIFICACION: Suave y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~13 g
+Grasas: ~4 g
+Fibra: ~1 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; sémola 80 → 60 g; parmesano reducido.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-stracciatella
+TITULO: Stracciatella
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa romana de caldo de carne con huevo, pan rallado y parmesano.
+INGREDIENTES:
+• Pan integral rallado — 25 g
+• Parmesano rallado — 20 g
+• Huevos ligeramente batidos — 2
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Perejil picado — un poco
+PREPARACION:
+1. Mezcla huevos, pan y parmesano.
+2. Vierte sobre el caldo hirviendo removiendo con un tenedor para formar hilachas; cuece 3 minutos.
+3. Sirve con perejil.
+JUSTIFICACION: Muy ligera.
+ADVERTENCIAS: Sin sal añadida.|Huevo bien cocido.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~4 g
+Grasas: ~4 g
+Fibra: ~1 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Huevos 3 → 2; parmesano 40 → 20 g; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-tapioca
+TITULO: Sopa de Tapioca
+CATEGORIA: Sopa
+ICONO: 🍲
+SUBSECCION: Sopas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de caldo con tapioca, parmesano y lechuga opcional.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Tapioca — 25 g
+• Yogur natural espeso — 2 cdas (opcional)
+• Lechuga en juliana — 3-4 hojas (opcional)
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Calienta el caldo y añade la tapioca en lluvia; cuece 10 minutos.
+2. Agrega la lechuga 2 minutos.
+3. Sirve con yogur y parmesano.
+JUSTIFICACION: Ligera y fácil de digerir.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~50 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~7 g
+Grasas: ~1 g
+Fibra: ~0 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Nata → yogur; parmesano reducido.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-minestrone-pesto-genovesa
+TITULO: Minestrone de Pesto a la Genovesa
+CATEGORIA: Minestrone
+ICONO: 🍲
+SUBSECCION: Minestrone
+SECCION: Sopas y cremas
+TIPO: Almuerzo
+PORCIONES: 5
+RIESGOS: Frutos secos, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Minestrone de hortalizas, habas y setas con arroz integral, servido con pesto ligero y parmesano.
+INGREDIENTES:
+• Setas frescas — 100 g
+• Habas sin vaina — 100 g
+• Repollo en juliana — ¼
+• Judías verdes troceadas — 200 g
+• Tomates asados picados — 3
+• Calabacines picados — 3
+• Berenjena picada — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Arroz integral — 60 g
+• Pesto (receta de este recetario) — 50 g
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Cuece todas las verduras en 1,5 litros de agua 30 minutos con el aceite.
+2. Añade el arroz y cuece 30 minutos más.
+3. Sirve con el pesto y el parmesano.
+JUSTIFICACION: Verduras abundantes con poco pesto.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~24 g
+Grasas: ~6 g
+Fibra: ~7 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; setas secas → frescas; arroz integral; pesto ligero.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-minestrone-milanesa
+TITULO: Minestrone a la Milanesa
+CATEGORIA: Minestrone
+ICONO: 🍲
+SUBSECCION: Minestrone
+SECCION: Sopas y cremas
+TIPO: Almuerzo
+PORCIONES: 5
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Minestrone espeso de verduras, alubias y arroz con hierbas, sin chicharrones.
+INGREDIENTES:
+• Ajo asado — 1 diente
+• Cebolla picada — ½
+• Perejil picado — un poco
+• Rama de apio picada — 1
+• Tomates asados en dados — 3
+• Zanahorias picadas — 2
+• Papas picadas — 2
+• Calabacines picados — 2
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Guisantes — 200 g
+• Col rizada en juliana — ½
+• Alubias cocidas — 100 g
+• Arroz integral — 80 g
+• Hojas de salvia — 4
+• Hojas grandes de albahaca — 6
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Rehoga cebolla, ajo y apio en el aceite 5 minutos.
+2. Añade el resto de las verduras y 2 litros de agua; cuece 40 minutos.
+3. Agrega las alubias y el arroz y cuece 30 minutos; sirve con las hierbas y el parmesano.
+JUSTIFICACION: Espeso, sabroso y con mucha fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~32 g
+Grasas: ~3 g
+Fibra: ~8 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Chicharrones fuera; aceite 2 → 1 cda; arroz integral 100 → 80 g; papas 3 → 2.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-minestrone-napolitana
+TITULO: Minestrone a la Napolitana
+CATEGORIA: Minestrone
+ICONO: 🍲
+SUBSECCION: Minestrone
+SECCION: Sopas y cremas
+TIPO: Almuerzo
+PORCIONES: 5
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Minestrone de verduras y pasta con queso, sin panceta.
+INGREDIENTES:
+• Pimentón amarillo — 1
+• Cebolla — ½
+• Zanahoria — ½
+• Ajo asado — 1 diente
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Tomates asados troceados — 3
+• Papas en dados — 2
+• Habas sin vaina — 100 g
+• Calabacines en rodajas — 2
+• Guisantes — 100 g
+• Repollo — ¼
+• Achicoria en tiras — 1 cogollo
+• Berenjenas — 2
+• Pasta cannolicchi integral — 80 g
+• Albahaca picada — un poco
+• Mozzarella baja en grasa rallada — 30 g (para servir)
+PREPARACION:
+1. Rehoga cebolla, zanahoria, ajo y pimentón en el aceite 8 minutos.
+2. Añade el resto de las verduras y 2 litros de agua; cuece 40 minutos.
+3. Agrega la pasta y cuece 8 minutos; sirve con albahaca y queso.
+JUSTIFICACION: Colorido y abundante.
+ADVERTENCIAS: Es una evocación: mozzarella en lugar de provolone.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~32 g
+Grasas: ~4 g
+Fibra: ~8 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Panceta fuera; aceite 2 → 1 cda; provolone → mozzarella baja en grasa; pasta integral 100 → 80 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-minestrone-apulia
+TITULO: Minestrone al Estilo de Apulia
+CATEGORIA: Minestrone
+ICONO: 🍲
+SUBSECCION: Minestrone
+SECCION: Sopas y cremas
+TIPO: Almuerzo
+PORCIONES: 5
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Minestrone de hojas verdes (nabizas o espinacas) con tortiglioni y pecorino, sin guindilla.
+INGREDIENTES:
+• Nabizas o espinacas — 900 g
+• Cebollas picadas — 2
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Pimentón dulce — 1 pizca
+• Tortiglioni integrales — 100 g
+• Parmesano rallado — 1 cdta
+PREPARACION:
+1. Cuece las hojas en 1,5 litros de agua 15 minutos.
+2. Rehoga la cebolla en el aceite 8 minutos y añádela a la sopa con el pimentón.
+3. Agrega la pasta y cuece 10 minutos; sirve con queso.
+JUSTIFICACION: Verde y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~24 g
+Grasas: ~5 g
+Fibra: ~6 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Guindilla → pimentón dulce; aceite 5 → 2 cdas; pasta integral 150 → 100 g; pecorino reducido.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-minestrone-borsch
+TITULO: Borsch
+CATEGORIA: Minestrone
+ICONO: 🍲
+SUBSECCION: Minestrone
+SECCION: Sopas y cremas
+TIPO: Almuerzo
+PORCIONES: 5
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de remolacha, repollo y res magra, con yogur en lugar de nata agria y sin vinagre.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada fina — 1
+• Ajo asado — 2 dientes
+• Remolacha en dados — 400 g
+• Apio picado — 2 ramas
+• Tomates asados troceados — 3
+• Stevia en polvo — 1 pizca
+• Zumo de naranja reducido — 2 cdas
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Papas en gajos — 300 g
+• Repollo en juliana — 300 g
+• Res magra cocida en dados — 300 g
+• Perejil picado — un poco
+• Yogur natural espeso — 150 g
+PREPARACION:
+1. Rehoga cebolla y ajo en el aceite 8 minutos; añade remolacha, apio, tomate, stevia y la naranja.
+2. Agrega caldo y papas y cuece 25 minutos.
+3. Añade repollo y carne y cuece 15 minutos; sirve con yogur y perejil.
+JUSTIFICACION: El punto ácido llega de la naranja reducida, no del vinagre.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~20 g
+Grasas: ~4 g
+Fibra: ~5 g
+Sodio: ~160 mg
+IG: Medio
+ADAPTACIÓN:
+• Vinagre → naranja reducida; nata agria → yogur; mantequilla → aceite; carne 500 → 300 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-minestrone-toscana
+TITULO: Minestrone a la Toscana
+CATEGORIA: Minestrone
+ICONO: 🍲
+SUBSECCION: Minestrone
+SECCION: Sopas y cremas
+TIPO: Almuerzo
+PORCIONES: 5
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Minestrone de alubias, hortalizas y arroz integral con romero y laurel.
+INGREDIENTES:
+• Alubias blancas remojadas — 100 g
+• Romero — 1 ramita
+• Hoja de laurel — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Rama de apio picada — 1
+• Zanahoria picada — 1
+• Perejil picado — 1 cda
+• Tomate asado picado — 1
+• Calabacín — 1
+• Puerro (parte blanca) — 1
+• Arroz integral — 60 g
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Cuece las alubias con el romero y el laurel en 2 litros de agua 1 hora.
+2. Añade las verduras rehogadas en el aceite y cuece 25 minutos.
+3. Agrega el arroz y cuece 30 minutos; sirve con parmesano.
+JUSTIFICACION: Clásico, rico en fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~28 g
+Grasas: ~3 g
+Fibra: ~7 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; arroz integral 80 → 60 g; tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-minestrone-espelta-alubias
+TITULO: Minestrone de Espelta y Alubias
+CATEGORIA: Minestrone
+ICONO: 🍲
+SUBSECCION: Minestrone
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Minestrone de espelta y alubias con tomate asado y salvia, sin vino.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Ajo asado — 1 diente
+• Zumo de naranja reducido — 2 cdas
+• Tomates asados picados — 2
+• Hojas de salvia — 2
+• Alubias remojadas — 150 g
+• Espelta remojada — 150 g
+PREPARACION:
+1. Rehoga las verduras en el aceite 8 minutos; añade la naranja reducida y el tomate.
+2. Agrega alubias, salvia y 2 litros de agua; cuece 1 hora.
+3. Añade la espelta y cuece 40 minutos.
+JUSTIFICACION: Muy saciante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~200 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~35 g
+Grasas: ~3 g
+Fibra: ~9 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vino → naranja reducida; aceite 2 → 1 cda; espelta 200 → 150 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-minestrone-invierno
+TITULO: Minestrone de Invierno
+CATEGORIA: Minestrone
+ICONO: 🍲
+SUBSECCION: Minestrone
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Minestrone de verduras de invierno triturado parcialmente, con acelgas y perejil.
+INGREDIENTES:
+• Papas picadas — 2
+• Zanahorias picadas — 2
+• Nabo picado — 1
+• Puerros limpios — 2
+• Col rizada pequeña en juliana — 1
+• Rama de apio — 1
+• Pencas de acelga picadas — 1 manojo
+• Perejil picado — un poco
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Cuece todas las verduras en 2 litros de agua 40 minutos.
+2. Tritura una parte para espesar.
+3. Sirve con el aceite y el perejil.
+JUSTIFICACION: Depurativa y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~20 g
+Grasas: ~2 g
+Fibra: ~6 g
+Sodio: ~60 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal; aceite medido.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-minestrone-temporada
+TITULO: Minestrone de Temporada
+CATEGORIA: Minestrone
+ICONO: 🍲
+SUBSECCION: Minestrone
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Minestrone de setas, alubias, papas, judías verdes y calabacines con pasta y sofrito de tomate asado.
+INGREDIENTES:
+• Setas frescas — 150 g
+• Alubias cocidas — 150 g
+• Papas en rodajas — 2
+• Judías verdes finas — 200 g
+• Calabacines en rodajas — 200 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pasta ditalini integral — 80 g
+• Ajo asado — 1 diente
+• Tomates asados picados — 3
+PREPARACION:
+1. Cuece papas, judías y alubias en 1,5 litros de agua 20 minutos.
+2. Añade calabacines, setas, ajo, tomate y aceite y cuece 10 minutos.
+3. Agrega la pasta y cuece 8 minutos.
+JUSTIFICACION: Verdura abundante y poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~32 g
+Grasas: ~3 g
+Fibra: ~8 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 5 → 1 cda; concentrado → tomate asado; pasta integral 100 → 80 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-minestrone-col-rizada-arroz
+TITULO: Minestrone de Col Rizada y Arroz
+CATEGORIA: Minestrone
+ICONO: 🍲
+SUBSECCION: Minestrone
+SECCION: Sopas y cremas
+TIPO: Almuerzo
+PORCIONES: 5
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Minestrone de col rizada y puerro con arroz integral, perfumado con romero, sin jamón.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Puerros limpios y picados — 2
+• Romero — un poco
+• Tomates asados picados — 2
+• Col rizada en tiras — 600 g
+• Arroz integral — 80 g
+• Parmesano rallado — 1 cdta
+PREPARACION:
+1. Rehoga el puerro con el romero en el aceite 8 minutos; añade el tomate.
+2. Agrega la col y 1,5 litros de agua y cuece 25 minutos.
+3. Añade el arroz y cuece 30 minutos; sirve con parmesano.
+JUSTIFICACION: Rica en fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~24 g
+Grasas: ~3 g
+Fibra: ~6 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón fuera; aceite 4 → 1 cda; arroz integral 100 → 80 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-ribollita
+TITULO: Ribollita
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa toscana «recocida» de col, alubias y verduras, servida sobre pan integral.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zanahoria picada — 1
+• Cebolla picada — 1
+• Rama de apio picada — 1
+• Tomates asados — 3
+• Tomillo fresco — un poco
+• Papas en dados gruesos — 2
+• Col rizada o lombarda en juliana — 600 g
+• Alubias blancas cocidas — 150 g
+• Rebanadas de pan integral — 4
+PREPARACION:
+1. Rehoga zanahoria, cebolla y apio en el aceite 8 minutos; añade tomate y tomillo.
+2. Agrega papas, col, alubias y 1,5 litros de agua; cuece 45 minutos.
+3. Sirve sobre el pan tostado.
+JUSTIFICACION: Espesa, saciante y con fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~210 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~36 g
+Grasas: ~4 g
+Fibra: ~9 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; tomate asado; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-pavia
+TITULO: Sopa de Pavía
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Caldo con pan integral tostado, un huevo por cuenco y parmesano, gratinado.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 750 ml
+• Rebanadas de pan integral sin corteza — 4
+• Huevos — 4
+• Parmesano rallado — 2 cdas
+PREPARACION:
+1. Tuesta el pan en el horno 8 minutos a 180 °C y reparte en 4 cuencos.
+2. Casca un huevo sobre cada uno, cubre con caldo caliente y parmesano.
+3. Hornea 8 minutos a 200 °C hasta que el huevo cuaje completamente.
+JUSTIFICACION: Huevo bien cocido, sin mantequilla.
+ADVERTENCIAS: Sin sal añadida.|El huevo debe quedar totalmente cuajado.
+VALOR_NUTRICIONAL:
+Calorías: ~180 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~14 g
+Grasas: ~8 g
+Fibra: ~2 g
+Sodio: ~190 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla fuera; pan al horno; parmesano 4 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-cebada-verde
+TITULO: Sopa de Cebada al Verde
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de cebada con col rizada y espinacas, con salvia y parmesano.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Salvia fresca — un poco
+• Col rizada en tiras — 100 g
+• Espinacas troceadas — 250 g
+• Cebada — 100 g
+• Parmesano rallado — 1 cdta
+• Picatostes integrales — para acompañar
+PREPARACION:
+1. Rehoga la cebolla con la salvia en el aceite 8 minutos.
+2. Añade caldo, col y cebada y cuece 35 minutos.
+3. Agrega las espinacas y cuece 5 minutos; sirve con parmesano y picatostes.
+JUSTIFICACION: Verde y con fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~25 g
+Grasas: ~3 g
+Fibra: ~6 g
+Sodio: ~100 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; cebada 120 → 100 g; parmesano reducido; picatostes integrales.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-cebada-guisantes
+TITULO: Sopa de Cebada y Guisantes
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Leche descremada, agua, cebada y guisantes, con pimentón dulce.
+INGREDIENTES:
+• Leche descremada — 500 ml
+• Agua — 1 litro
+• Cebada — 150 g
+• Guisantes desgranados — 150 g
+• Pimentón dulce — 1 pizca
+PREPARACION:
+1. Cuece la cebada en el agua 40 minutos.
+2. Añade los guisantes y la leche y cuece 10 minutos.
+3. Sirve con el pimentón.
+JUSTIFICACION: Suave y cremosa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~27 g
+Grasas: ~1 g
+Fibra: ~6 g
+Sodio: ~50 mg
+IG: Medio
+ADAPTACIÓN:
+• Guindilla → pimentón dulce; leche descremada; cebada 200 → 150 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-col
+TITULO: Sopa de Col
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de col rizada y repollo sobre pan integral tostado y gratinado con parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Col rizada en tiras — 200 g
+• Repollo en tiras — 200 g
+• Pan integral en rebanadas — 4
+• Parmesano rallado — 2 cdas
+• Agua — 1,5 litros
+PREPARACION:
+1. Rehoga las verduras en el aceite 8 minutos; añade el agua y cuece 30 minutos.
+2. Tuesta el pan y colócalo en cuencos; vierte la sopa.
+3. Espolvorea con parmesano y gratina 5 minutos.
+JUSTIFICACION: Saciante y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~24 g
+Grasas: ~5 g
+Fibra: ~6 g
+Sodio: ~190 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; parmesano 4 → 2 cdas; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-achicoria
+TITULO: Sopa de Achicoria
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Achicoria rehogada en aceite, con caldo, huevo y parmesano sobre pan integral tostado.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1,2 litros
+• Achicoria — 700 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Huevos — 2
+• Parmesano rallado — 15 g
+• Pan integral en rebanadas — 4
+PREPARACION:
+1. Rehoga la achicoria en el aceite 5 minutos; añade el caldo y cuece 15 minutos.
+2. Bate los huevos con el parmesano e incorpóralos fuera del fuego, removiendo.
+3. Sirve sobre el pan tostado.
+JUSTIFICACION: Amarguita suave y proteica.
+ADVERTENCIAS: Sin sal añadida.|Huevo bien cocido.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~16 g
+Grasas: ~6 g
+Fibra: ~4 g
+Sodio: ~160 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; parmesano 25 → 15 g; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-cebolla-leche
+TITULO: Sopa de Cebolla con Leche
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Cebolla muy cocida con leche descremada caliente; se sirve con parmesano y picatostes integrales.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebollas en rodajas muy finas — 400 g
+• Leche descremada — 1 litro
+• Parmesano rallado — 1 cdta (para servir)
+• Picatostes integrales (pan tostado en dados) — para acompañar
+PREPARACION:
+1. Cuece la cebolla en el aceite a fuego muy suave con un poco de agua 25 minutos hasta que esté muy tierna.
+2. Añade la leche y calienta 10 minutos sin hervir.
+3. Sirve con parmesano y picatostes.
+JUSTIFICACION: Dulce y suave.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~16 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-cebolla-gratinada
+TITULO: Sopa de Cebolla Gratinada
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de cebolla con caldo de carne, pan integral tostado y queso gratinado.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebollas en rodajas — 400 g
+• Caldo de carne casero sin sal (receta de este recetario) — 1,2 litros
+• Harina de avena — 1 pizca
+• Tostadas integrales — 4
+• Mozzarella baja en grasa rallada — 50 g
+PREPARACION:
+1. Cuece la cebolla en el aceite a fuego suave 25 minutos; espolvorea la harina.
+2. Añade el caldo y cuece 15 minutos.
+3. Reparte en cuencos, cubre con tostadas y queso y gratina 5 minutos.
+JUSTIFICACION: Sabor clásico con menos grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~17 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 50 g → aceite 10 g; emmental 80 → mozzarella baja en grasa 50 g; tostadas 8 → 4.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-mejillones
+TITULO: Sopa de Mejillones
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de mejillones con azafrán, tomate asado y caldo de pescado, servida sobre pan integral frotado con ajo asado.
+INGREDIENTES:
+• Mejillones limpios y desbarbados — 20 (400 g)
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Hebras de azafrán — unas hebras
+• Tomates asados troceados — 2
+• Caldo de pescado casero sin sal (receta de este recetario) — 1,5 litros
+• Pan integral en rebanadas — 4
+• Ajo asado — ½ diente
+• Perejil picado — un poco
+PREPARACION:
+1. Abre los mejillones al vapor y retira las valvas; cuela el líquido.
+2. Rehoga la cebolla en el aceite; añade azafrán, tomate, caldo y el líquido de los mejillones y cuece 15 minutos.
+3. Sirve sobre el pan tostado frotado con ajo, con los mejillones y el perejil.
+JUSTIFICACION: Muy aromática y proteica.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~16 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~260 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 2 → 1 cda; tomate y ajo asados; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-alubias-cebada
+TITULO: Sopa de Alubias y Cebada
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa espesa de alubias rojas, cebada, papas y tomate asado, sin panceta.
+INGREDIENTES:
+• Alubias rojas remojadas — 150 g
+• Agua — 1,5 litros
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Cebolla pequeña — 1
+• Cebada — 100 g
+• Papas — 2
+• Tomate asado triturado — 3 cdas
+PREPARACION:
+1. Cuece las alubias en el agua 1 hora.
+2. Añade cebolla, ajo, cebada, papas y tomate y cuece 35 minutos.
+3. Sirve con el aceite.
+JUSTIFICACION: Espesa y rica en fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~42 g
+Grasas: ~3 g
+Fibra: ~10 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Panceta fuera; aceite 2 → 1 cda; concentrado → tomate asado; cebada 150 → 100 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-avena
+TITULO: Sopa de Avena
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de copos de avena con papa y cebolla, sin panceta.
+INGREDIENTES:
+• Papas en dados — 3
+• Cebolla en rodajas finas — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Copos de avena — 50 g
+• Agua — 1,5 litros
+• Parmesano rallado — 1 cdta (para servir)
+• Picatostes integrales — para acompañar
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos.
+2. Añade papas y agua y cuece 20 minutos; agrega la avena y cuece 10 minutos.
+3. Sirve con parmesano y picatostes.
+JUSTIFICACION: Reconfortante y con fibra soluble.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~26 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~30 mg
+IG: Medio
+ADAPTACIÓN:
+• Panceta fuera; papas 4 → 3; picatostes integrales.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-queso-puerros
+TITULO: Sopa de Puerros Gratinada
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de puerros con queso gratinada sobre pan integral, sin brandy.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Puerros en rodajas — 3
+• Nuez moscada — 1 pizca
+• Pan integral en rebanadas — 4
+• Mozzarella baja en grasa rallada — 80 g
+PREPARACION:
+1. Rehoga el puerro en el aceite 10 minutos; añade nuez moscada y caldo y cuece 15 minutos.
+2. Reparte en cuencos con el pan tostado.
+3. Cubre con el queso y gratina 5 minutos.
+JUSTIFICACION: Cremosa y reconfortante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~20 g
+Grasas: ~7 g
+Fibra: ~3 g
+Sodio: ~220 mg
+IG: Medio
+ADAPTACIÓN:
+• Brandy fuera; mantequilla fuera; fontina y emmental 200 → mozzarella baja en grasa 80 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-setas-alubias
+TITULO: Sopa de Setas y Alubias
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de alubias con setas, ajo y perejil, servida sobre pan integral frotado con ajo asado.
+INGREDIENTES:
+• Alubias blancas remojadas — 250 g
+• Ajo asado — 2 dientes
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla — 1
+• Setas (champiñones y boletos) en láminas — 400 g
+• Perejil picado — un poco
+• Pan integral en rebanadas — 4
+PREPARACION:
+1. Cuece las alubias en 1,5 litros de agua 1 hora.
+2. Rehoga cebolla y setas en el aceite 10 minutos y añádelas con el perejil; cuece 15 minutos.
+3. Sirve sobre el pan tostado frotado con ajo asado.
+JUSTIFICACION: Terrosa y rica en fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~210 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~34 g
+Grasas: ~4 g
+Fibra: ~9 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; mantequilla fuera; pan integral; ajo asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-necoras
+TITULO: Sopa de Jaibas (Cangrejo)
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten, Huevo
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de cangrejo (jaibas, en lugar de necoras) con tomate asado, yema, azafrán y pan tostado, sin vino.
+INGREDIENTES:
+• Cebolla — 1
+• Tomillo fresco — un poco
+• Clavo — 1
+• Jaibas cocidas, carne y caparazones — 800 g
+• Tomates asados troceados — 2
+• Zumo de naranja reducido — 2 cdas
+• Yema de huevo — 1
+• Fécula de maíz — ½ cda
+• Hebras de azafrán — unas hebras
+• Pan integral en rebanadas — 4
+PREPARACION:
+1. Cuece los caparazones con la cebolla, el tomillo, el clavo, el tomate y 1,5 litros de agua 30 minutos; cuela.
+2. Añade el azafrán, la naranja reducida y la carne; espesa con la fécula disuelta.
+3. Fuera del fuego liga con la yema; sirve sobre el pan tostado.
+JUSTIFICACION: Sabor marino intenso.
+ADVERTENCIAS: Es una evocación: jaibas en lugar de necoras.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~16 g
+Grasas: ~4 g
+Fibra: ~2 g
+Sodio: ~330 mg
+IG: Bajo
+ADAPTACIÓN:
+• Necoras → jaibas; vino → naranja reducida; tomate asado; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-lechuga-gratinada
+TITULO: Sopa de Lechuga Gratinada
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Lechuga rehogada con harina y caldo, gratinada con queso sobre pan integral.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cogollos de lechuga en juliana — 4
+• Harina de avena — 1 cda
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+• Pan integral en rebanadas — 4
+• Mozzarella baja en grasa rallada — 60 g
+• Perejil picado — un poco
+PREPARACION:
+1. Rehoga la lechuga en el aceite 3 minutos; añade la harina y el caldo y cuece 10 minutos.
+2. Reparte en cuencos con el pan tostado.
+3. Cubre con el queso y gratina 5 minutos; sirve con perejil.
+JUSTIFICACION: Suave y gratinada.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~18 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~210 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 65 g → aceite 10 g; emmental 100 → mozzarella baja en grasa 60 g; harina de avena.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-espesa-pan
+TITULO: Sopa Espesa de Pan
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de pan integral con alubias, verduras y tomate asado, servida en cazuela, sin jamón.
+INGREDIENTES:
+• Alubias blancas remojadas — 200 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — ¼
+• Ajo asado — 2 dientes
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Col rizada en juliana — ⅓
+• Acelgas picadas — 1 manojo
+• Papas picadas gruesas — 2
+• Tomate asado triturado — 3 cdas
+• Rebanadas finas de pan integral del día anterior — 250 g
+PREPARACION:
+1. Cuece las alubias en 2 litros de agua 1 hora.
+2. Rehoga cebolla, ajo, zanahoria y apio en el aceite; añade a las alubias con col, acelgas, papas y tomate; cuece 35 minutos.
+3. Monta capas de pan y sopa en una cazuela y hornea 15 minutos a 180 °C.
+JUSTIFICACION: Contundente y con mucha fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~240 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~42 g
+Grasas: ~4 g
+Fibra: ~10 g
+Sodio: ~210 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón fuera; aceite 4 → 1 cda; pan integral 400 → 250 g; concentrado → tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-pan-lentejas
+TITULO: Sopa de Pan y Lentejas
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Lentejas con ajo asado, puerro y tomillo servidas con pan integral horneado con huevo en lugar de frito.
+INGREDIENTES:
+• Lentejas remojadas — 150 g
+• Ajo asado — 2 dientes
+• Puerro en rodajas finas (parte blanca) — 1
+• Tomillo fresco — un poco
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Huevos — 2
+• Rebanadas de pan integral del día anterior — 4
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION:
+1. Cuece las lentejas con ajo, puerro, tomillo y caldo 35 minutos.
+2. Bate los huevos, pasa el pan por ellos y hornéalo en bandeja con el aceite 10 minutos a 200 °C, dándole la vuelta.
+3. Sirve la sopa con el pan.
+JUSTIFICACION: Mismo pan dorado sin fritura.
+ADVERTENCIAS: Sin sal añadida.|Huevo bien cocido.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~32 g
+Grasas: ~5 g
+Fibra: ~8 g
+Sodio: ~180 mg
+IG: Bajo
+ADAPTACIÓN:
+• Pan frito → horneado; aceite 3 cdas → 1 cdta; ajo asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-patatas
+TITULO: Sopa de Papas
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de papas con cebolla y zanahoria, adornada con perejil, sin panceta.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Papas en rodajas — 4
+• Cebolla en rodajas — 1
+• Zanahorias pequeñas ralladas — 2
+• Agua — 1,5 litros
+• Perejil picado — para adornar
+PREPARACION:
+1. Rehoga cebolla y zanahoria en el aceite 8 minutos.
+2. Añade papas y agua y cuece 25 minutos; tritura una parte.
+3. Sirve con perejil.
+JUSTIFICACION: Sencilla y suave.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~26 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~25 mg
+IG: Medio
+ADAPTACIÓN:
+• Panceta fuera; aceite 2 → 1 cda; papas 6 → 4.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-patatas-almejas
+TITULO: Sopa de Papas y Almejas
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de papas y almejas con verduras, romero y perifollo sobre pan integral tostado, sin vino.
+INGREDIENTES:
+• Almejas limpias — 1 kg
+• Zumo de naranja reducido — 2 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Rama de apio picada — 1
+• Cebolla picada — 1
+• Zanahoria picada — 1
+• Tomates asados troceados — 3
+• Papas en dados — 2
+• Romero — un poco
+• Hojas de perifollo o perejil — un poco
+• Pan integral en rebanadas — 4
+• Agua — 1,2 litros
+PREPARACION:
+1. Abre las almejas al vapor con la naranja reducida; retira las valvas y cuela el líquido.
+2. Rehoga las verduras en el aceite; añade tomate, papas, romero, agua y el líquido; cuece 20 minutos.
+3. Agrega las almejas; sirve sobre pan tostado con perifollo.
+JUSTIFICACION: Marina y reconfortante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~25 g
+Grasas: ~4 g
+Fibra: ~4 g
+Sodio: ~250 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; aceite 3 → 1 cda; almejas 1,5 → 1 kg; tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-puerros-lentejas
+TITULO: Sopa de Puerros y Lentejas
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Lentejas con puerro trituradas en crema espesa, con pan integral horneado, sin panceta.
+INGREDIENTES:
+• Lentejas cocidas, escurridas — 400 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Puerro en rodajas finas (parte blanca) — 2
+• Rebanadas de pan integral — 4
+• Nuez moscada — 1 pizca
+• Agua — 800 ml
+PREPARACION:
+1. Rehoga el puerro en el aceite 8 minutos; añade las lentejas y el agua y cuece 15 minutos.
+2. Tritura hasta obtener una crema espesa con la nuez moscada.
+3. Sirve con el pan tostado al horno.
+JUSTIFICACION: Cremosa y con fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~36 g
+Grasas: ~4 g
+Fibra: ~10 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Panceta fuera; pan de leche frito → integral al horno; pimienta blanca → nuez moscada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-achicoria-radicchio
+TITULO: Sopa de Achicoria (Radicchio)
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de radicchio con puerro, harina y caldo, gratinada con parmesano sobre pan integral.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Puerros en rodajas finas (parte blanca) — 2
+• Cogollos de achicoria (radicchio) en tiras — 4
+• Harina de avena — 2 cdas
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+• Pan integral en rebanadas — 4
+• Parmesano rallado — 2 cdas
+PREPARACION:
+1. Rehoga el puerro y la achicoria en el aceite 8 minutos; añade la harina y el caldo y cuece 15 minutos.
+2. Reparte en cuencos con el pan tostado.
+3. Cubre con parmesano y gratina 5 minutos.
+JUSTIFICACION: Sabor amargo suave y gratinado.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~160 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~20 g
+Grasas: ~5 g
+Fibra: ~4 g
+Sodio: ~210 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 50 g → aceite 10 g; parmesano 4 → 2 cdas; harina de avena.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-ancas-rana
+TITULO: Sopa de Pollo con Tostadas (en lugar de Ancas de Rana)
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de muslo de pollo sin piel desmenuzado con verduras y tomate asado, triturada y servida con tostadas integrales.
+INGREDIENTES:
+• Muslos de pollo sin piel — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas — 1
+• Zanahoria en rodajas — 1
+• Rama de apio en rodajas — 1
+• Ajo asado — 1 diente
+• Tomates asados picados — 3
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Perejil picado — un poco
+• Pan integral en rebanadas — 4
+PREPARACION:
+1. Rehoga las verduras en el aceite; añade tomate, caldo y pollo y cuece 30 minutos.
+2. Deshuesa y desmenuza el pollo; tritura las verduras con el caldo.
+3. Devuelve el pollo; sirve con perejil y tostadas.
+JUSTIFICACION: La carne blanca y suave de la rana se evoca con pollo.
+ADVERTENCIAS: Es una evocación: pollo en lugar de ancas de rana.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~200 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~16 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Ancas de rana → pollo sin piel; aceite 3 → 1 cda; tomate y ajo asados.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-calabaza
+TITULO: Sopa de Calabaza
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de calabaza al vapor con papas, ajo y cebolla, con pan integral horneado, queso y yogur.
+INGREDIENTES:
+• Calabaza pelada, despepitada y troceada — 1 kg
+• Caldo de carne casero sin sal (receta de este recetario) — 1,5 litros
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebollas picadas — 2
+• Papas en dados — 2
+• Ajo asado — 1 diente
+• Rebanadas de pan integral del día anterior — 3
+• Queso fresco bajo en grasa rallado — 60 g
+• Yogur natural espeso — 100 g
+PREPARACION:
+1. Cuece la calabaza al vapor 15 minutos.
+2. Rehoga cebolla, papas y ajo en el aceite; añade caldo y calabaza y cuece 20 minutos; tritura.
+3. Sirve con el pan tostado al horno, el queso y el yogur.
+JUSTIFICACION: Dulce y cremosa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~30 g
+Grasas: ~4 g
+Fibra: ~5 g
+Sodio: ~160 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; nata → yogur; gruyère 150 → queso fresco 60 g; pan integral al horno.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-sopa-espesa-calabacin
+TITULO: Sopa de Calabacín
+CATEGORIA: Sopa espesa
+ICONO: 🍲
+SUBSECCION: Sopas espesas
+SECCION: Sopas y cremas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de calabacín con tomate asado y caldo, ligada con huevo y parmesano.
+INGREDIENTES:
+• Calabacines en bastoncitos — 5
+• Cebollas en rodajas finas — 2
+• Tomates asados troceados — 500 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+• Huevo — 1
+• Parmesano rallado — 20 g
+• Pan integral en rebanadas — 4
+PREPARACION:
+1. Rehoga cebolla y calabacín en el aceite 10 minutos; añade tomate y caldo y cuece 15 minutos.
+2. Bate el huevo con el parmesano e incorpóralo removiendo fuera del fuego.
+3. Sirve sobre el pan tostado.
+JUSTIFICACION: Ligera y fresca.
+ADVERTENCIAS: Sin sal añadida.|Huevo bien cocido.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~20 g
+Grasas: ~5 g
+Fibra: ~4 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; tomate asado; parmesano 40 → 20 g; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-parisina
+TITULO: Ñoquis a la Parisina
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 5
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Ñoquis de masa choux hervidos y gratinados con bechamel ligera y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Leche descremada — 700 ml
+• Harina de avena y trigo integral (mitad y mitad) — 180 g
+• Huevos — 4
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Parmesano rallado — 40 g
+PREPARACION:
+1. Hierve la leche con el aceite, añade la harina de golpe y cuece removiendo 3 minutos hasta formar una masa; deja entibiar.
+2. Incorpora los huevos uno a uno y forma bolitas con una cuchara; cuécelas en agua hirviendo 5 minutos y escúrrelas.
+3. Colócalas en una fuente con la bechamel y el parmesano y gratina 10 minutos a 200 °C.
+JUSTIFICACION: Mismo gratinado cremoso con menos grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~250 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~27 g
+Grasas: ~9 g
+Fibra: ~3 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 100 g → aceite 10 g; leche descremada; huevos 6 → 4; parmesano 80 → 40 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-romana
+TITULO: Ñoquis a la Romana
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 5
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Ñoquis de sémola cocida con leche, cortados en círculos y gratinados con parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Leche descremada — 1 litro
+• Sémola integral — 200 g
+• Yemas de huevo — 2
+• Parmesano rallado — 50 g
+PREPARACION:
+1. Calienta la leche, añade la sémola en lluvia y cuece 10 minutos removiendo; fuera del fuego, añade las yemas y la mitad del queso.
+2. Extiende en una bandeja engrasada, deja enfriar y corta círculos.
+3. Colócalos solapados en una fuente, espolvorea con el resto del queso y gratina 15 minutos a 200 °C.
+JUSTIFICACION: Muy clásica, con mucha menos grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~32 g
+Grasas: ~6 g
+Fibra: ~2 g
+Sodio: ~160 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 150 g → aceite 10 g; pecorino 150 → parmesano 50 g; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-pan
+TITULO: Ñoquis de Pan
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Ñoquis de pan integral, leche, huevo y harina, salteados con ajo asado y salvia.
+INGREDIENTES:
+• Pan integral del día anterior — 200 g
+• Leche descremada — 400 ml
+• Huevos — 2
+• Harina integral — 120 g
+• Nuez moscada — 1 pizca
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Hojas de salvia — 2
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Remoja el pan en la leche 20 minutos; mezcla con huevos, harina y nuez moscada.
+2. Forma bolitas y cuécelas en agua hirviendo 6 minutos.
+3. Saltéalas con el aceite, el ajo y la salvia y sirve con parmesano.
+JUSTIFICACION: Rústicos y sabrosos.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~280 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~40 g
+Grasas: ~7 g
+Fibra: ~6 g
+Sodio: ~200 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 50 g → aceite 10 g; harina integral; parmesano 50 → 25 g; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-pan-espinacas
+TITULO: Ñoquis de Pan y Espinacas
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Ñoquis de pan integral con espinacas salteadas y parmesano, bañados en aceite de oliva.
+INGREDIENTES:
+• Pan integral del día anterior — 250 g
+• Leche descremada — 200 ml
+• Espinacas — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Parmesano rallado — 40 g
+• Huevo — 1
+• Harina integral — 80 g (y un poco más para enharinar)
+PREPARACION:
+1. Remoja el pan en la leche; saltea las espinacas con la mitad del aceite 3 minutos y pícalas.
+2. Mezcla pan, espinacas, parmesano, huevo y harina; forma bolitas enharinadas.
+3. Cuécelas 5 minutos en agua hirviendo y sirve con el resto del aceite.
+JUSTIFICACION: Verdes y ligeros.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~260 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~36 g
+Grasas: ~7 g
+Fibra: ~7 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 100 g → aceite 10 g; parmesano 100 → 40 g; pan integral 350 → 250 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-parmesano
+TITULO: Ñoquis de Parmesano
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 5
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Masa choux con parmesano, cortada en círculos y gratinada al horno.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Leche descremada — 800 ml
+• Harina de avena y trigo integral (mitad y mitad) — 200 g
+• Huevos — 3
+• Parmesano rallado — 50 g
+• Nuez moscada — 1 pizca
+PREPARACION:
+1. Hierve la leche con el aceite; añade la harina de golpe y cuece 3 minutos removiendo.
+2. Fuera del fuego, incorpora los huevos, la mitad del parmesano y la nuez moscada; extiende y enfría.
+3. Corta círculos, colócalos en una fuente, espolvorea con el resto del parmesano y gratina 15 minutos a 200 °C.
+JUSTIFICACION: Dorados y suaves con poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~240 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~30 g
+Grasas: ~8 g
+Fibra: ~3 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 150 g → aceite 10 g; leche descremada; parmesano 100 → 50 g; huevos 4 → 3.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-patata-basica
+TITULO: Ñoquis de Papa (Receta Básica)
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Pasta, Base, Perfil1
+CONCEPTO: La masa clásica de papa y harina, cortada en trozos y hervida; admite cualquier salsa.
+INGREDIENTES:
+• Papas (o batata) — 1 kg
+• Harina integral — 180 g (y un poco más para enharinar)
+• Huevo ligeramente batido — 1
+PREPARACION:
+1. Cuece las papas con piel, pélalas y haz un puré fino; deja entibiar.
+2. Mezcla con la harina y el huevo hasta obtener una masa suave; forma cilindros y corta trozos.
+3. Cuécelos en agua hirviendo hasta que suban a la superficie, 2 minutos.
+JUSTIFICACION: Base de todos los ñoquis de papa.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~47 g
+Grasas: ~2 g
+Fibra: ~5 g
+Sodio: ~20 mg
+IG: Medio
+ADAPTACIÓN:
+• Harina integral 200 → 180 g; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-bava
+TITULO: Ñoquis a la Bava
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Ñoquis de papa con queso fundido cremoso y un toque de parmesano.
+INGREDIENTES:
+• Ñoquis de Papa (receta básica de este recetario) — 1 ración
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Mozzarella baja en grasa en dados — 80 g
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Cuece los ñoquis y escúrrelos.
+2. Calienta el aceite con un poco del agua de cocción; añade los ñoquis y la mozzarella y remueve hasta que el queso funda.
+3. Sirve con el parmesano.
+JUSTIFICACION: Cremosa y con menos grasa.
+ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de fontina.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~16 g
+Carbohidratos: ~47 g
+Grasas: ~8 g
+Fibra: ~5 g
+Sodio: ~240 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 80 g → aceite 10 g; fontina 120 → mozzarella baja en grasa 80 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-nueces
+TITULO: Ñoquis a las Nueces
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Frutos secos, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Ñoquis de papa con parmesano y nueces, con un hilo de aceite de oliva.
+INGREDIENTES:
+• Papas — 800 g
+• Parmesano rallado — 50 g
+• Nueces peladas y picadas finas — 6
+• Huevos — 2
+• Sémola integral — 1 cda
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Cuece las papas, hazlas puré y deja entibiar.
+2. Mezcla con el parmesano, las nueces, los huevos y la sémola; forma ñoquis.
+3. Cuécelos 3 minutos en agua hirviendo y sírvelos con el aceite.
+JUSTIFICACION: Menos queso y nueces, mismo carácter.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~290 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~38 g
+Grasas: ~9 g
+Fibra: ~4 g
+Sodio: ~210 mg
+IG: Medio
+ADAPTACIÓN:
+• Parmesano 120 → 50 g; nueces 12 → 6; mantequilla → aceite 10 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-patata-ortigas
+TITULO: Ñoquis de Papa y Espinacas con Salvia (en lugar de Ortigas)
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Ñoquis de papa con hojas verdes (espinacas en lugar de ortigas), salteados con ajo asado y salvia.
+INGREDIENTES:
+• Papas — 800 g
+• Espinacas picadas finas y escurridas — 200 g
+• Harina integral — 150 g
+• Huevo — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Hojas de salvia — 4
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Cuece las papas, hazlas puré; mezcla con espinacas, harina y huevo; forma ñoquis.
+2. Cuécelos 3 minutos en agua hirviendo.
+3. Saltéalos con el aceite, el ajo y la salvia; sirve con parmesano.
+JUSTIFICACION: Las ortigas son difíciles de conseguir; las espinacas dan el mismo carácter verde.
+ADVERTENCIAS: Es una evocación: espinacas en lugar de ortigas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~270 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~45 g
+Grasas: ~5 g
+Fibra: ~6 g
+Sodio: ~120 mg
+IG: Medio
+ADAPTACIÓN:
+• Ortigas → espinacas; mantequilla 80 g → aceite 10 g; parmesano 50 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-patata-cigalas
+TITULO: Ñoquis de Papa con Langostinos
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Ñoquis de papa con salsa de langostinos (en lugar de cigalas), tomate asado y yogur, sin vino.
+INGREDIENTES:
+• Papas — 800 g
+• Harina integral — 150 g
+• Huevo — 1
+• Parmesano rallado — 25 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Langostinos pelados y picados — 300 g
+• Perejil picado — un poco
+• Zumo de naranja reducido — 2 cdas
+• Yogur natural espeso — 80 g
+• Tomates asados pelados — 200 g
+PREPARACION:
+1. Prepara los ñoquis con papa, harina, huevo y parmesano; cuécelos 3 minutos y reserva.
+2. Saltea los langostinos en el aceite 2 minutos; añade tomate asado triturado y naranja reducida y cuece 8 minutos.
+3. Fuera del fuego incorpora el yogur; mezcla con los ñoquis y sirve con perejil.
+JUSTIFICACION: Sabor marino con salsa ligera.
+ADVERTENCIAS: Es una evocación: langostinos en lugar de cigalas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~24 g
+Carbohidratos: ~46 g
+Grasas: ~6 g
+Fibra: ~5 g
+Sodio: ~220 mg
+IG: Medio
+ADAPTACIÓN:
+• Cigalas → langostinos; vino → naranja reducida; nata → yogur; aceite 4 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-patata-fondue
+TITULO: Ñoquis de Papa Rellenos de Fondue
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Ñoquis de papa rellenos de una crema de queso bajo en grasa, hervidos y salteados con salvia.
+INGREDIENTES:
+• Papas — 800 g
+• Harina integral — 150 g (y más para enharinar)
+• Huevo — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Hojas de salvia — 8
+• Parmesano rallado — 1 cdta (para servir)
+INGREDIENTES_FONDUE:
+• Mozzarella baja en grasa en lonchas finas — 200 g
+• Leche descremada — 200 ml
+• Yemas de huevo — 2
+PREPARACION:
+1. Prepara la masa de papa, harina y huevo.
+2. Rellena porciones de masa con una cucharadita de la fondue fría y ciérralas en forma de bola.
+3. Cuécelos 4 minutos en agua hirviendo; saltea con aceite y salvia y sirve con parmesano.
+PREPARACION_FONDUE:
+1. Remoja el queso en la leche 2 horas.
+2. Cuece a fuego muy suave removiendo hasta que funda.
+3. Añade las yemas fuera del fuego y enfría en la nevera.
+JUSTIFICACION: Mismo relleno cremoso, mucho más ligero.
+ADVERTENCIAS: Sin sal añadida.|Yemas bien cocidas.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~45 g
+Grasas: ~9 g
+Fibra: ~5 g
+Sodio: ~260 mg
+IG: Medio
+ADAPTACIÓN:
+• Fontina 400 → mozzarella baja en grasa 200 g; yemas 4 → 2; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-ciruelas-trieste
+TITULO: Ñoquis con Ciruelas al Estilo de Trieste
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Pasta, Postre, Perfil1
+CONCEPTO: Ñoquis de papa rellenos de una ciruela con stevia, pasados por pan integral rallado tostado con canela.
+INGREDIENTES:
+• Ciruelas pasas sin hueso — 8
+• Stevia en polvo — al gusto
+• Papas — 800 g
+• Harina integral — 150 g (y un poco más para espolvorear)
+• Huevo — 1
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Pan integral rallado — 3 cdas
+• Canela en polvo — 1 pizca
+PREPARACION:
+1. Prepara la masa de papa, harina y huevo; rellena trozos con una ciruela con un toque de stevia.
+2. Cuece los ñoquis 8 minutos en agua hirviendo.
+3. Tuesta el pan rallado con el aceite y la canela y reboza los ñoquis.
+JUSTIFICACION: Dulzor natural de la ciruela.
+ADVERTENCIAS: Sin sal añadida.|Las ciruelas aportan azúcar natural: porción moderada.
+VALOR_NUTRICIONAL:
+Calorías: ~300 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~60 g
+Grasas: ~3 g
+Fibra: ~7 g
+Sodio: ~40 mg
+IG: Medio
+ADAPTACIÓN:
+• Azúcar → stevia; mantequilla → aceite; ciruelas 12 → 8; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-patata-espinacas
+TITULO: Ñoquis de Papa y Espinacas
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Ñoquis de papa y espinacas, salteados con aceite de oliva y parmesano.
+INGREDIENTES:
+• Espinacas — 600 g
+• Papas — 700 g
+• Harina integral — 150 g (y un poco más para enharinar)
+• Yemas de huevo — 2
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Cuece las espinacas, escúrrelas bien y pícalas; cuece las papas y haz un puré.
+2. Mezcla con la harina y las yemas; forma ñoquis.
+3. Cuécelos 3 minutos y saltéalos con el aceite; sirve con parmesano.
+JUSTIFICACION: Verdes y suaves.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~270 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~46 g
+Grasas: ~5 g
+Fibra: ~7 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 50 g → aceite 10 g; parmesano 50 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-ricota-espinacas
+TITULO: Ñoquis de Ricota y Espinacas
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Ñoquis de ricota y espinacas con parmesano, con un hilo de aceite.
+INGREDIENTES:
+• Espinacas — 800 g
+• Ricota baja en grasa — 300 g
+• Parmesano rallado — 2 cdas
+• Yemas de huevo — 2
+• Harina integral — un poco para enharinar
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Cuece las espinacas, escúrrelas muy bien y pícalas.
+2. Mezcla con la ricota, el parmesano y las yemas; forma bolitas enharinadas.
+3. Cuécelas 3 minutos en agua hirviendo; sirve con el aceite.
+JUSTIFICACION: Muy tiernos y ligeros.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~16 g
+Carbohidratos: ~10 g
+Grasas: ~10 g
+Fibra: ~4 g
+Sodio: ~190 mg
+IG: Bajo
+ADAPTACIÓN:
+• Ricota baja en grasa; mantequilla → aceite; parmesano 4 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-arroz
+TITULO: Ñoquis de Arroz
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Ñoquis de arroz cocido, huevo y pan integral rallado, hervidos en caldo.
+INGREDIENTES:
+• Arroz integral cocido — 350 g
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+• Huevos — 2
+• Pan integral rallado — 100 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Tritura ligeramente el arroz; mézclalo con huevos, pan rallado y la mitad del queso.
+2. Forma bolitas y cuécelas 6 minutos en el caldo.
+3. Sirve con el aceite y el resto del parmesano.
+JUSTIFICACION: Suaves y sin mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~280 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~42 g
+Grasas: ~7 g
+Fibra: ~5 g
+Sodio: ~200 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; gruyère fuera; parmesano 50 → 25 g; arroz integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-semola-jamon
+TITULO: Ñoquis de Sémola y Pollo
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Ñoquis de sémola con yemas y pollo cocido desmenuzado (en lugar de jamón), gratinados con parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Leche descremada — 1 litro
+• Sémola integral — 200 g
+• Yemas de huevo — 2
+• Parmesano rallado — 40 g
+• Pechuga de pollo cocida y picada — 100 g
+PREPARACION:
+1. Calienta la leche, añade la sémola y cuece 10 minutos removiendo; fuera del fuego, incorpora yemas, pollo y la mitad del queso.
+2. Extiende en bandeja engrasada, enfría y corta círculos.
+3. Colócalos en una fuente, espolvorea con el resto del queso y gratina 15 minutos a 200 °C.
+JUSTIFICACION: Gratinado sabroso sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~280 kcal (por porción)
+Proteínas: ~22 g
+Carbohidratos: ~32 g
+Grasas: ~7 g
+Fibra: ~2 g
+Sodio: ~190 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón cocido → pollo; mantequilla → aceite; leche descremada; parmesano 80 → 40 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-calabaza-amaretti
+TITULO: Ñoquis de Calabaza y Galletas de Almendra
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Frutos secos, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Ñoquis de calabaza con un toque de almendra (galleta amaretti reducida), salteados con salvia.
+INGREDIENTES:
+• Calabaza pelada y troceada — 1 kg
+• Huevos — 2
+• Amaretti desmenuzados — 40 g
+• Harina integral — 150 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Hojas de salvia — 8
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Cuece la calabaza al vapor y haz un puré; escúrrelo bien.
+2. Mezcla con huevos, amaretti y harina; forma ñoquis.
+3. Cuécelos 3 minutos; saltea con aceite y salvia y sirve con parmesano.
+JUSTIFICACION: Dulzor suave y aroma de almendra.
+ADVERTENCIAS: Sin sal añadida.|Los amaretti aportan azúcar: cantidad reducida.
+VALOR_NUTRICIONAL:
+Calorías: ~250 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~43 g
+Grasas: ~5 g
+Fibra: ~6 g
+Sodio: ~50 mg
+IG: Medio
+ADAPTACIÓN:
+• Amaretti 100 → 40 g; huevos 4 → 2; mantequilla → aceite; harina integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-noquis-integrales
+TITULO: Ñoquis Integrales
+CATEGORIA: Ñoquis
+ICONO: pasta
+SUBSECCION: Ñoquis
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Ñoquis de harina integral, copos de avena y cebada, con perejil y huevo, salteados en aceite.
+INGREDIENTES:
+• Leche descremada — 200 ml
+• Harina integral — 100 g
+• Harina de avena — 50 g (y un poco más para enharinar)
+• Copos de avena — 100 g
+• Copos de cebada — 50 g
+• Perejil picado — un poco
+• Huevo — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Calienta la leche y remoja en ella los copos 10 minutos.
+2. Mezcla con las harinas, el perejil y el huevo; forma ñoquis enharinados.
+3. Cuécelos 4 minutos y saltéalos con el aceite.
+JUSTIFICACION: Muy ricos en fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~270 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~42 g
+Grasas: ~6 g
+Fibra: ~7 g
+Sodio: ~40 mg
+IG: Medio
+ADAPTACIÓN:
+• Harina de trigo → avena; mantequilla → aceite 10 g; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-bavette-almejas
+TITULO: Bavette con Almejas y Calabacín
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Pasta plana integral con almejas, calabacín y tomate asado, sin vino ni guindilla.
+INGREDIENTES:
+• Almejas limpias — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Calabacines en dados — 300 g
+• Chalote — 1
+• Perejil picado — un poco
+• Zumo de naranja reducido — 2 cdas
+• Tomates asados en dados — 3
+• Bavette integrales — 250 g
+PREPARACION:
+1. Abre las almejas al vapor con la naranja reducida; retira las valvas y cuela el líquido.
+2. Rehoga chalote y calabacín en el aceite 5 minutos; añade tomate, ajo y el líquido y cuece 8 minutos.
+3. Mezcla con la pasta cocida, las almejas y el perejil.
+JUSTIFICACION: Marina y fresca.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~22 g
+Carbohidratos: ~52 g
+Grasas: ~5 g
+Fibra: ~8 g
+Sodio: ~190 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; guindilla fuera; aceite 3 → 1 cda; pasta integral 350 → 250 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-bucatini-tomates-verdes
+TITULO: Bucatini con Tomates Verdes
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Bucatini integral con salsa de tomates verdes cocidos y atún al natural, sin panceta.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — ½ diente
+• Perejil picado — un poco
+• Tomates verdes pelados, despepitados y troceados — 4
+• Atún al natural, escurrido y desmenuzado — 80 g
+• Bucatini integrales — 250 g
+PREPARACION:
+1. Cuece los tomates verdes con el ajo y el aceite 15 minutos hasta formar una salsa.
+2. Añade el atún y el perejil.
+3. Mezcla con la pasta cocida.
+JUSTIFICACION: Ácida y sabrosa, sin embutido.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~330 kcal (por porción)
+Proteínas: ~18 g
+Carbohidratos: ~52 g
+Grasas: ~5 g
+Fibra: ~8 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Panceta fuera; atún en aceite → al natural; aceite 2 → 1 cda; pasta integral 350 → 250 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-bucatini-setas
+TITULO: Bucatini con Salsa de Setas
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Bucatini integral con salsa de setas y ricota baja en grasa, rematados con setas salteadas.
+INGREDIENTES:
+• Setas frescas — 300 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1½ dientes
+• Tomate asado triturado — 2 cdas
+• Ricota baja en grasa — 50 g
+• Bucatini integrales — 250 g
+PREPARACION:
+1. Saltea la mitad de las setas con aceite y ajo 8 minutos; tritura con el tomate para la salsa.
+2. Mezcla la ricota con un poco del agua de cocción.
+3. Sirve la pasta con la salsa, la ricota y el resto de las setas salteadas.
+JUSTIFICACION: Terrosa y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~52 g
+Grasas: ~6 g
+Fibra: ~9 g
+Sodio: ~40 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; concentrado → tomate asado; setas secas → frescas; pasta integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-bucatini-pimientos
+TITULO: Bucatini con Salsa de Pimentón
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Bucatini integral con pimentones rojos o amarillos asados, yogur y mejorana.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla pequeña picada — 1
+• Ajo asado — ½ diente
+• Pimentones rojos o amarillos asados en tiras — 3
+• Yogur natural espeso — 100 g
+• Bucatini integrales — 250 g
+• Mejorana fresca picada — un poco
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade ajo y pimentón asado y cuece 5 minutos.
+2. Tritura la mitad y mezcla con el yogur fuera del fuego.
+3. Sirve con la pasta y la mejorana.
+JUSTIFICACION: Dulce y cremosa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~53 g
+Grasas: ~5 g
+Fibra: ~8 g
+Sodio: ~40 mg
+IG: Medio
+ADAPTACIÓN:
+• Nata → yogur; aceite 2 → 1 cda; pimentón asado; pasta integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-farfalle-panceta
+TITULO: Farfalle con Pollo y Tomate
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Farfalle integral con pollo asado desmenuzado, tomate asado y yogur, en lugar de panceta ahumada y nata.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pechuga de pollo asada y desmenuzada — 120 g
+• Pimentón dulce — 1 pizca
+• Tomates asados pelados y troceados — 250 g
+• Yogur natural espeso — 100 g
+• Farfalle integrales — 250 g
+• Parmesano rallado — 1 cdta
+PREPARACION:
+1. Calienta el aceite con el pollo y el pimentón 3 minutos; añade el tomate y cuece 10 minutos.
+2. Fuera del fuego incorpora el yogur.
+3. Mezcla con la pasta cocida y sirve con parmesano.
+JUSTIFICACION: Sabor sustancioso sin ahumado ni nata.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta ahumada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~370 kcal (por porción)
+Proteínas: ~25 g
+Carbohidratos: ~53 g
+Grasas: ~7 g
+Fibra: ~8 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Panceta ahumada → pollo; guindilla → pimentón dulce; nata → yogur.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-fusilli-setas
+TITULO: Fusilli con Setas
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Fusilli integral con setas, tomate asado y perejil.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Setas picadas — 600 g
+• Tomates asados — 250 g
+• Perejil picado — un poco
+• Fusilli integrales — 250 g
+• Parmesano rallado — 1 cdta
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade las setas y cuece 10 minutos.
+2. Agrega el tomate asado triturado y el perejil y cuece 8 minutos.
+3. Mezcla con la pasta y sirve con parmesano.
+JUSTIFICACION: Aromática y baja en grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~310 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~52 g
+Grasas: ~5 g
+Fibra: ~10 g
+Sodio: ~40 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; mantequilla fuera; tomate asado; pasta integral 350 → 250 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-fusilli-sepia
+TITULO: Fusilli en Salsa de Sepia
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Fusilli integral con sepias, tomate asado y tinta, sin vino.
+INGREDIENTES:
+• Sepias limpias con las bolsitas de tinta aparte — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas muy finas — 1
+• Zumo de naranja reducido — 2 cdas
+• Tomate asado triturado — 3 cdas
+• Fusilli integrales — 250 g
+• Perejil picado — un poco
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade la sepia troceada y la naranja y cuece 20 minutos.
+2. Agrega el tomate y la tinta disuelta en un poco de agua; cuece 15 minutos.
+3. Mezcla con la pasta y el perejil.
+JUSTIFICACION: Intensa y marina.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~25 g
+Carbohidratos: ~52 g
+Grasas: ~5 g
+Fibra: ~8 g
+Sodio: ~260 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; aceite 2 → 1 cda; concentrado → tomate asado; pasta integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-ensalada-fusilli
+TITULO: Ensalada de Fusilli
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Ensalada, Frío, Perfil1
+CONCEPTO: Fusilli integral fríos con tomate asado, albahaca, atún al natural y mozzarella baja en grasa.
+INGREDIENTES:
+• Tomates asados en dados — 4
+• Hojas grandes de albahaca — 16
+• Ajo asado — 1 diente
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Fusilli integrales — 250 g
+• Atún al natural, escurrido — 80 g
+• Aceitunas negras sin hueso, por la mitad — 4
+• Mozzarella baja en grasa en dados — 80 g
+PREPARACION:
+1. Mezcla el tomate asado con la albahaca, el ajo y el aceite; deja reposar 30 minutos.
+2. Cuece la pasta y enfríala.
+3. Mezcla todo con el atún, las aceitunas y la mozzarella y sirve frío.
+JUSTIFICACION: Fresca y completa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~350 kcal (por porción)
+Proteínas: ~21 g
+Carbohidratos: ~51 g
+Grasas: ~7 g
+Fibra: ~8 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Tomate y ajo asados; atún al natural; aceitunas 12 → 4; mozzarella 120 → 80 g baja en grasa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-linguine-pesto
+TITULO: Linguine al Pesto Genovés Ligero
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Frutos secos, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Linguine integral con papas y judías verdes y un pesto de albahaca con poco aceite.
+INGREDIENTES:
+• Linguine integrales — 250 g
+• Papas en bastoncitos finos — 2
+• Judías verdes redondas — 50 g
+• Hojas grandes de albahaca — 25
+• Ajo asado — 1 diente
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Tritura la albahaca con el ajo, el aceite, el parmesano y unas cucharadas del agua de cocción.
+2. Cuece la pasta con las papas y las judías.
+3. Escurre, mezcla con el pesto y sirve.
+JUSTIFICACION: Pesto con la mitad del aceite y sin pecorino.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~390 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~60 g
+Grasas: ~10 g
+Fibra: ~9 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 5 → 2 cdas; pecorino fuera; parmesano 25 g; ajo asado; pasta integral 350 → 250 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-macarrones-setas
+TITULO: Macarrones con Setas
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Macarrones integrales con setas, tomate asado, ajo y perejil.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Setas en láminas — 250 g
+• Tomates asados troceados — 150 g
+• Perejil picado — un poco
+• Macarrones integrales — 250 g
+PREPARACION:
+1. Saltea las setas con el aceite 8 minutos.
+2. Añade ajo, tomate y perejil y cuece 8 minutos.
+3. Mezcla con los macarrones cocidos.
+JUSTIFICACION: Simple y rica en fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~310 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~54 g
+Grasas: ~5 g
+Fibra: ~9 g
+Sodio: ~25 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla fuera; aceite 3 → 1 cda; tomate asado; pasta integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-macarrones-sepia
+TITULO: Macarrones con Sepia
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Macarrones integrales con sepia, tomate asado, papa y guisantes.
+INGREDIENTES:
+• Sepias limpias — 500 g
+• Tomates asados troceados — 250 g
+• Cebolla picada fina — 1
+• Ajo asado — 2 dientes
+• Papa grande en rodajas — 1
+• Guisantes — 150 g
+• Perejil picado — un poco
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Macarrones integrales — 250 g
+PREPARACION:
+1. Rehoga la cebolla en el aceite; añade la sepia troceada y cuece 15 minutos.
+2. Agrega tomate, ajo, papa y 300 ml de agua y cuece 20 minutos; añade los guisantes 5 minutos.
+3. Mezcla con la pasta y el perejil.
+JUSTIFICACION: Sustanciosa y baja en grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~360 kcal (por porción)
+Proteínas: ~26 g
+Carbohidratos: ~56 g
+Grasas: ~5 g
+Fibra: ~9 g
+Sodio: ~250 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; tomate y ajo asados; pasta integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-macarrones-gratinados
+TITULO: Macarrones Gratinados
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Macarrones integrales con bechamel ligera y parmesano, gratinados al horno.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Parmesano rallado — 30 g
+• Yemas de huevo — 2
+• Macarrones integrales — 250 g
+PREPARACION:
+1. Cuece los macarrones y escúrrelos.
+2. Mezcla la bechamel con las yemas y la mitad del queso; combina con la pasta en una fuente engrasada.
+3. Espolvorea el resto del queso y gratina 15 minutos a 200 °C.
+JUSTIFICACION: Clásico gratinado más ligero.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal (por porción)
+Proteínas: ~18 g
+Carbohidratos: ~56 g
+Grasas: ~9 g
+Fibra: ~8 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; parmesano 50 → 30 g; bechamel ligera; pasta integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-pasta-sardinas
+TITULO: Pasta con Sardinas al Horno
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Frutos secos, Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Pasta integral con sardinas horneadas (no fritas), hinojo, un poco de pasas y piñones, y azafrán, sin anchoas.
+INGREDIENTES:
+• Pasas sultanas remojadas — 15 g
+• Hinojo (bulbo y hojas) — 200 g
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Cebolla picada — 1
+• Piñones — 10 g
+• Hebras de azafrán — unas hebras
+• Sardinas frescas escamadas y limpias — 300 g
+• Pan integral rallado — 2 cdas
+• Ziti integral — 250 g
+PREPARACION:
+1. Cuece el hinojo en agua 10 minutos; usa esa agua para cocer la pasta.
+2. Rehoga la cebolla en un poco del aceite; añade hinojo picado, pasas, piñones y azafrán y cuece 8 minutos.
+3. Hornea las sardinas con el pan rallado y el resto del aceite 12 minutos a 200 °C; mezcla todo con la pasta y gratina 5 minutos.
+JUSTIFICACION: Mismo carácter siciliano sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~420 kcal (por porción)
+Proteínas: ~25 g
+Carbohidratos: ~58 g
+Grasas: ~11 g
+Fibra: ~8 g
+Sodio: ~140 mg
+IG: Medio
+ADAPTACIÓN:
+• Fritura → horno; anchoas fuera; pasas 25 → 15 g; piñones 25 → 10 g; pasta integral 300 → 250 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-penne-lechuga
+TITULO: Penne con Lechuga
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Penne integral al horno con lechuga rehogada y queso gratinado.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Lechuga en juliana — 600 g
+• Penne integrales — 250 g
+• Mozzarella baja en grasa rallada — 60 g
+PREPARACION:
+1. Rehoga la lechuga en el aceite 5 minutos.
+2. Mezcla con la pasta cocida en una fuente engrasada y cubre con el queso.
+3. Gratina 12 minutos a 200 °C.
+JUSTIFICACION: Ligera y gratinada.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~330 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~52 g
+Grasas: ~7 g
+Fibra: ~8 g
+Sodio: ~80 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla y aceite 3 cdas → aceite 1 cda; gruyère 100 → mozzarella baja en grasa 60 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-penne-arrabbiata
+TITULO: Penne al Tomate y Ajo (Arrabbiata Suave)
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Penne integral con salsa de tomate asado y ajo, sin picante; el calor se evoca con pimentón dulce ahumado suave y pimienta de Jamaica.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Ajo asado — 2 dientes
+• Pimentón dulce — ½ cdta
+• Tomates asados — 500 g
+• Penne integrales — 250 g
+• Perejil picado — un poco
+PREPARACION:
+1. Tritura el tomate asado con el ajo.
+2. Cuécelo con el aceite y el pimentón 15 minutos.
+3. Mezcla con la pasta cocida y el perejil.
+JUSTIFICACION: Salsa intensa sin picante.
+ADVERTENCIAS: Es una evocación: sin guindilla.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~55 g
+Grasas: ~8 g
+Fibra: ~8 g
+Sodio: ~25 mg
+IG: Medio
+ADAPTACIÓN:
+• Guindilla → pimentón dulce; aceite 6 → 2 cdas; tomate y ajo asados.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-penne-aceitunas
+TITULO: Penne con Aceitunas Negras
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Penne integral con crema de aceitunas negras y yogur, rematado con parmesano.
+INGREDIENTES:
+• Aceitunas negras sin hueso, enjuagadas y picadas finas — 50 g
+• Yogur natural espeso — 120 g
+• Penne integrales — 250 g
+• Parmesano rallado — 1 cdta
+PREPARACION:
+1. Mezcla las aceitunas con el yogur y un poco del agua de cocción.
+2. Combina con la pasta cocida.
+3. Sirve con parmesano.
+JUSTIFICACION: Sabor intenso con pocas aceitunas.
+ADVERTENCIAS: Sodio moderado por las aceitunas; sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~300 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~52 g
+Grasas: ~4 g
+Fibra: ~7 g
+Sodio: ~180 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceitunas 150 → 50 g enjuagadas; nata → yogur.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-penne-nabizas
+TITULO: Penne con Hojas Verdes
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Penne integral con nabizas o espinacas cocidas y salteadas con ajo asado, sin anchoas.
+INGREDIENTES:
+• Nabizas o espinacas — 500 g
+• Ajo asado — 1 diente
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Orégano — 1 pizca
+• Penne integrales — 250 g
+PREPARACION:
+1. Cuece las hojas 5 minutos en agua y escúrrelas picadas.
+2. Saltéalas con el aceite, el ajo y el orégano.
+3. Mezcla con la pasta cocida.
+JUSTIFICACION: Verde, ligera y con hierro.
+ADVERTENCIAS: Es una evocación: sin anchoas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~290 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~52 g
+Grasas: ~4 g
+Fibra: ~9 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Anchoas fuera; aceite 3 → 1 cda; pasta integral 320 → 250 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-penne-azafran
+TITULO: Penne con Azafrán
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Penne integral cocido como un risotto, con caldo, cebolla y azafrán.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 500 ml
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 1
+• Penne integrales — 250 g
+• Azafrán molido — 1 sobre
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade la pasta cruda y mezcla 1 minuto.
+2. Agrega el caldo caliente con el azafrán poco a poco, removiendo, hasta que se absorba (15 minutos).
+3. Sirve con el parmesano.
+JUSTIFICACION: Cremosa por el almidón de la pasta.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~54 g
+Grasas: ~6 g
+Fibra: ~8 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; parmesano 40 → 20 g; pasta integral 320 → 250 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-ensalada-penne-curry
+TITULO: Ensalada de Penne al Curry
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Ensalada, Frío, Perfil1
+CONCEPTO: Penne integral fríos con salsa suave de curry y yogur y pepino.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolletas escaldadas en rodajas finas — 2
+• Curry dulce en polvo — 1 cda
+• Harina de avena — 1 cda
+• Caldo de carne casero sin sal — 200 ml
+• Penne integrales — 250 g
+• Yogur natural espeso — 100 g
+• Pepino pequeño en daditos — 1
+PREPARACION:
+1. Rehoga la cebolleta en el aceite; añade el curry y la harina y luego el caldo; cuece 5 minutos y enfría.
+2. Mezcla con el yogur.
+3. Combina con la pasta fría y el pepino.
+JUSTIFICACION: Fresca y aromática.
+ADVERTENCIAS: Usa curry sin picante.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~54 g
+Grasas: ~5 g
+Fibra: ~7 g
+Sodio: ~50 mg
+IG: Medio
+ADAPTACIÓN:
+• Nata → yogur; aceite 2 → 1 cda; curry suave; pasta integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-penne-fritos
+TITULO: Penne Salteados
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Penne integral dorados en una sartén con aceite, cebolla y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 1
+• Penne integrales cocidos — 250 g (peso crudo)
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Cuece la cebolla con el aceite a fuego suave 10 minutos.
+2. Añade los penne cocidos y dóralos 5 minutos removiendo.
+3. Sirve con el parmesano.
+JUSTIFICACION: Dorados con poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~54 g
+Grasas: ~6 g
+Fibra: ~8 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 50 g → aceite 10 g; parmesano 40 → 20 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-penne-alcachofas
+TITULO: Penne Rigate con Alcachofas
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Penne rigate integral con alcachofas rehogadas con ajo asado y perejil, con ralladura de limón.
+INGREDIENTES:
+• Ralladura de limón — de ½ limón
+• Alcachofas (corazones) — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Perejil picado — un poco
+• Penne rigate integrales — 250 g
+PREPARACION:
+1. Cuece los corazones de alcachofa 15 minutos al vapor y córtalos en láminas.
+2. Saltéalos con el aceite, el ajo y el perejil 5 minutos.
+3. Mezcla con la pasta cocida y la ralladura.
+JUSTIFICACION: Ligera y aromática.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~300 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~54 g
+Grasas: ~4 g
+Fibra: ~10 g
+Sodio: ~25 mg
+IG: Medio
+ADAPTACIÓN:
+• Zumo de limón → ralladura; aceite 4 → 1 cda; ajo asado; pasta integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-penne-vodka
+TITULO: Penne Rigate a la Crema de Tomate
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Penne rigate integral con tomate asado y yogur, sin vodka ni jamón; la nota de «alcohol» se sustituye por naranja reducida.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pechuga de pollo cocida y en dados — 80 g
+• Tomate asado triturado — 3 cdas
+• Perejil picado — un poco
+• Yogur natural espeso — 100 g
+• Zumo de naranja reducido — 2 cdas
+• Penne rigate integrales — 250 g
+PREPARACION:
+1. Calienta el aceite con el pollo; añade tomate asado y naranja reducida y cuece 8 minutos.
+2. Fuera del fuego incorpora el yogur.
+3. Mezcla con la pasta cocida y el perejil.
+JUSTIFICACION: Cremosa, sin alcohol ni embutido.
+ADVERTENCIAS: Es una evocación: sin vodka, pollo en lugar de jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~54 g
+Grasas: ~5 g
+Fibra: ~8 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Vodka → naranja reducida; jamón → pollo; nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-rigatoni-albondigas
+TITULO: Rigatoni con Albóndigas
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Rigatoni integral con albóndigas de res magra horneadas en salsa de tomate con apio, zanahoria y romero.
+INGREDIENTES:
+• Carne molida magra de res — 250 g
+• Perejil picado — un poco
+• Ajo asado — ½ diente
+• Huevo ligeramente batido — 1
+• Harina de avena — un poco para enharinar
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 1
+• Rama de apio picada — 1
+• Zanahoria picada — 1
+• Romero fresco picado — un poco
+• Tomate asado triturado — 400 ml
+• Rigatoni integrales — 250 g
+• Parmesano rallado — 15 g
+PREPARACION:
+1. Mezcla la carne con perejil, ajo y huevo; forma albóndigas, pásalas por harina y hornéalas 15 minutos a 200 °C.
+2. Rehoga cebolla, apio, zanahoria y romero en el aceite; añade el tomate y cuece 15 minutos; incorpora las albóndigas 5 minutos.
+3. Sirve sobre los rigatoni con el parmesano.
+JUSTIFICACION: Albóndigas horneadas, sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~440 kcal (por porción)
+Proteínas: ~30 g
+Carbohidratos: ~58 g
+Grasas: ~9 g
+Fibra: ~9 g
+Sodio: ~120 mg
+IG: Medio
+ADAPTACIÓN:
+• Fritura → horno; aceite 3 → 1 cda; carne magra 300 → 250 g; parmesano 25 → 15 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-rigatoni-integrales
+TITULO: Rigatoni Integrales al Horno
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Rigatoni integrales gratinados con bechamel ligera, queso fresco y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Queso semicurado bajo en grasa en dados — 100 g
+• Rigatoni integrales — 250 g
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Cuece los rigatoni y escúrrelos.
+2. Mezcla con la bechamel y el queso en una fuente engrasada.
+3. Espolvorea con el parmesano y gratina 15 minutos a 200 °C.
+JUSTIFICACION: Gratinado más ligero.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~400 kcal (por porción)
+Proteínas: ~21 g
+Carbohidratos: ~55 g
+Grasas: ~10 g
+Fibra: ~8 g
+Sodio: ~220 mg
+IG: Medio
+ADAPTACIÓN:
+• Caciotta 200 → queso bajo en grasa 100 g; parmesano 40 → 20 g; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-rigatoni-nata-pesto
+TITULO: Rigatoni con Crema, Pesto y Tomate
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Frutos secos, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Rigatoni integral con salsa de yogur, tomate asado y pesto ligero.
+INGREDIENTES:
+• Yogur natural espeso — 150 g
+• Tomates asados en rodajas finas — 300 g
+• Pesto (receta de este recetario) — 2 cdas
+• Rigatoni integrales — 250 g
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Calienta el tomate asado con el pesto 5 minutos.
+2. Fuera del fuego incorpora el yogur.
+3. Mezcla con los rigatoni cocidos y sirve con parmesano.
+JUSTIFICACION: Cremosa y fresca.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~55 g
+Grasas: ~6 g
+Fibra: ~8 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Nata → yogur; pesto ligero; parmesano 40 → 20 g; tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-espaguetis-ajo-aceite
+TITULO: Espaguetis con Ajo y Aceite
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Espaguetis integrales con aceite aromatizado de ajo asado y perejil, sin guindilla.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Ajo asado majado — 2 dientes
+• Perejil picado — un poco
+• Pimentón dulce — 1 pizca
+• Espaguetis integrales — 250 g
+PREPARACION:
+1. Cuece los espaguetis.
+2. Mezcla el aceite con el ajo, el perejil y el pimentón y un poco del agua de cocción.
+3. Combina con la pasta caliente.
+JUSTIFICACION: Sencillo y aromático.
+ADVERTENCIAS: Es una evocación: sin guindilla.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~54 g
+Grasas: ~8 g
+Fibra: ~8 g
+Sodio: ~10 mg
+IG: Medio
+ADAPTACIÓN:
+• Guindilla → pimentón dulce; aceite 5 → 2 cdas; ajo asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-espaguetis-brecol
+TITULO: Espaguetis con Brócoli
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Espaguetis integrales con brócoli rehogado y una salsa cremosa de yogur.
+INGREDIENTES:
+• Brócoli — 500 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Yogur natural espeso — 100 g
+• Espaguetis integrales — 250 g
+• Parmesano rallado — 15 g
+PREPARACION:
+1. Cuece el brócoli 5 minutos al vapor y pícalo.
+2. Rehoga la cebolla en el aceite 8 minutos; añade el brócoli y cuece 5 minutos; incorpora el yogur fuera del fuego.
+3. Mezcla con la pasta cocida y sirve con parmesano.
+JUSTIFICACION: Verde y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~330 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~54 g
+Grasas: ~5 g
+Fibra: ~10 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; mantequilla fuera; nata → yogur; brócoli fresco.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-espaguetis-alcaparras
+TITULO: Espaguetis con Ajo y Hierbas (en lugar de Alcaparras)
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Espaguetis integrales con ajo asado y aceite de oliva; la nota salina de la anchoa y las alcaparras se evoca con aceitunas enjuagadas y perejil.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Ajo asado — 2 dientes
+• Aceitunas verdes enjuagadas y picadas — 4
+• Perejil picado — 1 cda
+• Espaguetis integrales — 250 g
+PREPARACION:
+1. Cuece los espaguetis.
+2. Mezcla el aceite con el ajo, las aceitunas, el perejil y un poco del agua de cocción.
+3. Combina con la pasta caliente.
+JUSTIFICACION: Salino y aromático sin anchoas ni alcaparras.
+ADVERTENCIAS: Es una evocación: sin anchoa ni alcaparras (sodio).|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~54 g
+Grasas: ~8 g
+Fibra: ~8 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Anchoa y alcaparras → aceitunas enjuagadas; aceite 4 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-espaguetis-carbonara
+TITULO: Espaguetis a la Carbonara Ligera
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Espaguetis integrales con salsa cremosa de huevo bien cocido y parmesano, con pollo asado en lugar de panceta.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pechuga de pollo asada y en dados pequeños — 100 g
+• Ajo asado — 1 diente
+• Espaguetis integrales — 250 g
+• Huevos — 2
+• Parmesano rallado — 40 g
+• Nuez moscada — 1 pizca
+PREPARACION:
+1. Dora el pollo con el aceite y el ajo 3 minutos.
+2. Bate los huevos con el parmesano y la nuez moscada.
+3. Mezcla la pasta caliente con el pollo y la mezcla de huevo a fuego muy bajo, removiendo 2 minutos hasta que el huevo cuaje por completo; añade agua de cocción para cremar.
+JUSTIFICACION: Mantiene la untuosidad con el huevo totalmente cocido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta; sin pecorino.|Huevo siempre bien cocido.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~430 kcal (por porción)
+Proteínas: ~27 g
+Carbohidratos: ~55 g
+Grasas: ~12 g
+Fibra: ~8 g
+Sodio: ~190 mg
+IG: Medio
+ADAPTACIÓN:
+• Panceta → pollo; mantequilla → aceite; pecorino fuera; parmesano 80 → 40 g; huevo bien cocido.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-espaguetis-amatriciana
+TITULO: Espaguetis a la Amatriciana Suave
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Espaguetis integrales con tomate asado y cebolla, pimentón dulce en lugar de guindilla y pollo en lugar de panceta.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pechuga de pollo asada y desmenuzada — 80 g
+• Cebolla en rodajas — 1
+• Tomates asados pelados y en dados — 500 g
+• Pimentón dulce — 1 cdta
+• Espaguetis integrales — 250 g
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade el pollo y el pimentón.
+2. Agrega el tomate asado y cuece 15 minutos.
+3. Mezcla con la pasta cocida.
+JUSTIFICACION: Dulce, intensa y sin picante.
+ADVERTENCIAS: Es una evocación: sin panceta ni guindilla.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~370 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~58 g
+Grasas: ~6 g
+Fibra: ~9 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Panceta → pollo; guindilla → pimentón dulce; tomate asado; pasta integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-espaguetis-tomate-crudo
+TITULO: Espaguetis con Tomate Asado y Albahaca
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Espaguetis integrales con una salsa fresca de tomate asado, albahaca y ajo asado (el tomate crudo se asa).
+INGREDIENTES:
+• Tomates maduros asados, pelados y troceados — 500 g
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Hojas grandes de albahaca picadas — 10
+• Ajo asado — 2 dientes
+• Espaguetis integrales — 250 g
+PREPARACION:
+1. Mezcla el tomate asado con el aceite, la albahaca y el ajo; deja reposar 30 minutos.
+2. Cuece la pasta y escúrrela.
+3. Mezcla con la salsa tibia.
+JUSTIFICACION: Fresca y aromática, sin crudos.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~360 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~58 g
+Grasas: ~8 g
+Fibra: ~9 g
+Sodio: ~30 mg
+IG: Medio
+ADAPTACIÓN:
+• Tomate y ajo crudos → asados; aceite 4 → 1½ cdas; pasta integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-espaguetis-romero
+TITULO: Espaguetis al Romero
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Espaguetis integrales con salsa de romero y tomate ligada con harina y leche, sin guindilla.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Romero fresco picado fino — un poco
+• Ajo asado — 1 diente
+• Pimentón dulce — 1 pizca
+• Tomates asados troceados — 250 g
+• Harina de avena — 1 cda
+• Leche descremada — 1 cda
+• Espaguetis integrales — 250 g
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Calienta el aceite con el romero, el ajo y el pimentón 2 minutos.
+2. Añade el tomate asado y la harina disuelta en la leche y cuece 10 minutos.
+3. Mezcla con la pasta y sirve con el parmesano.
+JUSTIFICACION: Aromática y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~360 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~58 g
+Grasas: ~7 g
+Fibra: ~9 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Guindilla → pimentón dulce; aceite 2 → 1 cda; parmesano 40 → 20 g; harina de avena.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-espaguetis-anchoas
+TITULO: Espaguetis con Atún, Perejil y Ajo
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Espaguetis integrales de despensa con atún al natural, perejil y ajo asado, en lugar de anchoas.
+INGREDIENTES:
+• Atún al natural, desmenuzado — 100 g
+• Perejil picado — 2 cdas
+• Ajo asado — ½ diente
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Aceitunas verdes enjuagadas y picadas — 3
+• Espaguetis integrales — 250 g
+PREPARACION:
+1. Mezcla atún, perejil, ajo, aceitunas y aceite.
+2. Cuece la pasta y escúrrela.
+3. Combina y sirve templado.
+JUSTIFICACION: Salino y rápido, sin anchoas en sal.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~370 kcal (por porción)
+Proteínas: ~22 g
+Carbohidratos: ~54 g
+Grasas: ~8 g
+Fibra: ~8 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Anchoas 150 g (sal) → atún al natural 100 g; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-espaguetis-atun
+TITULO: Espaguetis con Atún
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Espaguetis integrales con salsa de atún al natural, ajo asado y tomate asado.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Atún al natural, escurrido y desmenuzado — 80 g
+• Tomate asado triturado — 4 cdas
+• Perejil picado — un poco
+• Espaguetis integrales — 250 g
+PREPARACION:
+1. Calienta el aceite con el ajo; añade el tomate y cuece 8 minutos.
+2. Agrega el atún y el perejil.
+3. Mezcla con la pasta cocida.
+JUSTIFICACION: Sencilla y proteica.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~360 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~55 g
+Grasas: ~6 g
+Fibra: ~8 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; atún al natural; concentrado → tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-espaguetis-pan-rallado
+TITULO: Espaguetis con Pan Rallado
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Espaguetis integrales con aceitunas y pan integral rallado tostado al horno, sin anchoas ni fritura.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Aceitunas negras enjuagadas y por la mitad — 5
+• Pan integral rallado — 50 g
+• Ajo asado — ½ diente
+• Perejil picado — 1 cda
+• Espaguetis integrales — 250 g
+PREPARACION:
+1. Tuesta el pan rallado con la mitad del aceite en el horno 8 minutos a 180 °C.
+2. Mezcla la pasta cocida con el resto del aceite, el ajo y las aceitunas.
+3. Sirve con el pan crujiente y el perejil.
+JUSTIFICACION: El crujiente sustituye a la fritura.
+ADVERTENCIAS: Es una evocación: sin anchoas ni alcaparras.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~64 g
+Grasas: ~8 g
+Fibra: ~9 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Anchoas y alcaparras fuera; pan tostado al horno; aceite 5 → 1 cda; aceitunas 8 → 5.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-espaguetis-calabacin
+TITULO: Espaguetis con Calabacín
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Espaguetis integrales con calabacín, tomate asado, salvia, mozzarella y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Cebolla pequeña entera — 1
+• Hojas de salvia — 2
+• Rama de apio — 1
+• Tomates pera asados — 3
+• Calabacines en rodajas finas — 350 g
+• Espaguetis integrales — 250 g
+• Mozzarella baja en grasa en dados — 80 g
+• Parmesano rallado — 1 cdta
+PREPARACION:
+1. Rehoga cebolla, apio y salvia en el aceite 5 minutos; añade tomate y ajo y cuece 10 minutos.
+2. Agrega el calabacín 8 minutos; retira la cebolla entera.
+3. Mezcla con la pasta y la mozzarella; sirve con parmesano.
+JUSTIFICACION: Verdura abundante y poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~390 kcal (por porción)
+Proteínas: ~18 g
+Carbohidratos: ~58 g
+Grasas: ~9 g
+Fibra: ~9 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; mozzarella 150 → 80 g baja en grasa; parmesano reducido; tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-espaguetis-botarga
+TITULO: Espaguetis Finos con Atún y Limón
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Espaguetini integrales con atún al natural rallado fino y ralladura de limón, evocando la botarga.
+INGREDIENTES:
+• Atún al natural muy escurrido y desmenuzado fino — 80 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ralladura de limón — de ½ limón
+• Espaguetis finos integrales — 250 g
+• Perejil picado — 1 cda
+PREPARACION:
+1. Mezcla el atún con el aceite, la ralladura y el perejil.
+2. Cuece la pasta y escúrrela.
+3. Combina con un poco del agua de cocción.
+JUSTIFICACION: Sabor marino sin embuchado salado.
+ADVERTENCIAS: Es una evocación: sin botarga (muy salada).|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~350 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~54 g
+Grasas: ~6 g
+Fibra: ~8 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Botarga → atún al natural y ralladura; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-tortiglioni-setas-berenjena
+TITULO: Tortiglioni con Setas y Berenjena
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tortiglioni integrales con setas, berenjena asada y yogur.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 1
+• Ajo asado — 1 diente
+• Setas picadas — 200 g
+• Berenjena en dados asada — 1
+• Yogur natural espeso — 100 g
+• Tortiglioni integrales — 250 g
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Rehoga la cebolla y las setas en el aceite 8 minutos; añade el ajo y la berenjena asada.
+2. Fuera del fuego incorpora el yogur.
+3. Mezcla con la pasta y sirve con parmesano.
+JUSTIFICACION: Cremosa con poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~370 kcal (por porción)
+Proteínas: ~16 g
+Carbohidratos: ~58 g
+Grasas: ~8 g
+Fibra: ~10 g
+Sodio: ~80 mg
+IG: Medio
+ADAPTACIÓN:
+• Nata → yogur; aceite 2 → 1 cda; berenjena asada; parmesano 40 → 20 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-seca-fideos-almejas
+TITULO: Fideos Finos con Almejas
+CATEGORIA: Pasta seca
+ICONO: pasta
+SUBSECCION: Pasta seca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Fideos finos integrales con almejas, ajo asado y perejil, con poco aceite.
+INGREDIENTES:
+• Almejas limpias — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 2 dientes
+• Fideos finos integrales — 250 g
+• Perejil picado — 2 cdas
+PREPARACION:
+1. Abre las almejas al vapor con un chorrito de agua; retira las valvas y cuela el líquido.
+2. Calienta el aceite con el ajo y el líquido 3 minutos.
+3. Mezcla con la pasta cocida, las almejas y el perejil.
+JUSTIFICACION: Ligera y marina.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~350 kcal (por porción)
+Proteínas: ~22 g
+Carbohidratos: ~54 g
+Grasas: ~5 g
+Fibra: ~7 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 150 ml → 1 cda; almejas 1 kg → 800 g; ajo asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-basica
+TITULO: Polenta (Receta Básica)
+CATEGORIA: Polenta
+ICONO: 🌾
+SUBSECCION: Polenta
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 6
+ETIQUETAS: Italiana, Base, Perfil1
+CONCEPTO: La polenta de maíz cocida en agua removiendo, blanda o dura, sin sal; base de las polentas del recetario.
+INGREDIENTES:
+• Sémola de maíz gruesa (o harina de maíz gruesa) — 350 g
+• Agua — 1,5 litros
+PREPARACION:
+1. Hierve el agua y añade la sémola en lluvia removiendo.
+2. Cuece a fuego muy suave 40 minutos removiendo a menudo (blanda: más agua; dura: menos).
+3. Sirve blanda, o extiende y enfría para cortarla.
+JUSTIFICACION: Base sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~37 g
+Grasas: ~1 g
+Fibra: ~3 g
+Sodio: ~5 mg
+IG: Medio
+ADAPTACIÓN:
+• Sin sal; sémola 500 → 350 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-noquis
+TITULO: Ñoquis de Polenta
+CATEGORIA: Polenta
+ICONO: 🌾
+SUBSECCION: Polenta
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Polenta blanda extendida, cortada en círculos y gratinada con parmesano.
+INGREDIENTES:
+• Polenta (receta básica de este recetario) — preparada con 300 g de sémola
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Extiende la polenta caliente en una bandeja y deja enfriar.
+2. Corta círculos y colócalos solapados en una fuente engrasada.
+3. Rocía con el aceite, espolvorea con parmesano y gratina 15 minutos a 200 °C.
+JUSTIFICACION: Dorados sin mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~210 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~35 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 50 g → aceite 10 g; parmesano 40 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-sopa
+TITULO: Sopa de Polenta
+CATEGORIA: Polenta
+ICONO: 🍲
+SUBSECCION: Polenta
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Sopa, Perfil1
+CONCEPTO: Sopa de sémola de maíz con cebolla, leche descremada, yogur y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Leche descremada — 1 litro
+• Sémola de maíz gruesa — 150 g
+• Yogur natural espeso — 80 g
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade la leche y 500 ml de agua y hierve.
+2. Añade la sémola en lluvia y cuece 30 minutos removiendo.
+3. Fuera del fuego incorpora el yogur y el parmesano.
+JUSTIFICACION: Reconfortante y cremosa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~38 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 80 g → aceite 10 g; nata → yogur; sémola 250 → 150 g; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-gorgonzola
+TITULO: Polenta con Queso Azul Suave
+CATEGORIA: Polenta
+ICONO: 🌾
+SUBSECCION: Polenta
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Polenta, Perfil1
+CONCEPTO: Polenta con aceite y una pizca de queso azul gratinados en platos individuales; se completa con queso fresco bajo en grasa.
+INGREDIENTES:
+• Sémola de maíz gruesa — 250 g
+• Agua — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Queso fresco bajo en grasa en lonchas — 80 g
+• Queso azul (gorgonzola) — 20 g
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Prepara la polenta con la sémola y el agua, 40 minutos; reparte en platos aptos para horno.
+2. Cubre con el aceite, el queso fresco y el queso azul desmenuzado.
+3. Gratina 5 minutos y sirve con parmesano.
+JUSTIFICACION: Aroma de gorgonzola con muy poca cantidad.
+ADVERTENCIAS: Es una evocación: queso azul mínimo (sodio) con queso fresco.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~270 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~38 g
+Grasas: ~8 g
+Fibra: ~3 g
+Sodio: ~190 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 150 g → aceite 10 g; gorgonzola 150 → 20 g + queso fresco 80 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-cigalas-achicoria
+TITULO: Polenta con Langostinos y Achicoria
+CATEGORIA: Polenta
+ICONO: 🌾
+SUBSECCION: Polenta
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco
+ETIQUETAS: Italiana, Polenta, Perfil1
+CONCEPTO: Polenta blanda con langostinos (en lugar de cigalas) salteados y achicoria con ajo asado y ralladura de limón.
+INGREDIENTES:
+• Polenta (receta básica de este recetario) — preparada con 300 g de sémola
+• Cogollos de achicoria en juliana — 2
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Langostinos pelados — 300 g
+• Ralladura de limón — de ½ limón
+PREPARACION:
+1. Saltea la achicoria con la mitad del aceite 4 minutos.
+2. Saltea los langostinos con el resto del aceite y el ajo 3 minutos.
+3. Sirve sobre la polenta con la achicoria y la ralladura.
+JUSTIFICACION: Dulce, marina y ligera.
+ADVERTENCIAS: Es una evocación: langostinos en lugar de cigalas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~260 kcal (por porción)
+Proteínas: ~24 g
+Carbohidratos: ~30 g
+Grasas: ~5 g
+Fibra: ~4 g
+Sodio: ~180 mg
+IG: Medio
+ADAPTACIÓN:
+• Cigalas → langostinos; aceite 2 → 1 cda; limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-bacalao
+TITULO: Polenta con Pescado Blanco en Salsa de Tomate
+CATEGORIA: Polenta
+ICONO: 🌾
+SUBSECCION: Polenta
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Frutos secos
+ETIQUETAS: Italiana, Polenta, Perfil1
+CONCEPTO: Polenta con pescado blanco fresco (en lugar de bacalao salado) cocido en salsa de tomate asado con nueces, romero y papas, sin anchoas.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Ajo asado — 1 diente
+• Nueces picadas — 4
+• Tomates asados troceados — 3
+• Romero fresco picado — 1 pizca
+• Perejil picado — un poco
+• Filete de pescado blanco fresco sin piel, en dados — 600 g
+• Papas en dados — 2
+• Polenta (receta básica de este recetario) — preparada con 300 g de sémola
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade ajo, nueces, tomate, romero y las papas con 200 ml de agua y cuece 15 minutos.
+2. Agrega el pescado y cuece 8 minutos.
+3. Sirve sobre la polenta con el perejil.
+JUSTIFICACION: Bacalao salado → pescado fresco, sin el sodio.
+ADVERTENCIAS: Es una evocación: pescado fresco en lugar de bacalao salado; sin anchoas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~30 g
+Carbohidratos: ~38 g
+Grasas: ~7 g
+Fibra: ~4 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Bacalao salado → pescado fresco; anchoas fuera; aceite 3 → 1 cda; nueces 8 → 4.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-ragu
+TITULO: Polenta con Ragú
+CATEGORIA: Polenta
+ICONO: 🌾
+SUBSECCION: Polenta
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Polenta, Perfil1
+CONCEPTO: Polenta con un ragú de res magra con verduras y salsa de tomate.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Carne molida magra de res — 200 g
+• Salsa de Tomate (receta de este recetario) — 3 cdas
+• Polenta (receta básica de este recetario) — preparada con 300 g de sémola
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Rehoga las verduras en el aceite 8 minutos; añade la carne y dórala 5 minutos.
+2. Agrega la salsa de tomate y 150 ml de agua y cuece 25 minutos.
+3. Sirve sobre la polenta con parmesano.
+JUSTIFICACION: Reconfortante y baja en grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~22 g
+Carbohidratos: ~38 g
+Grasas: ~8 g
+Fibra: ~5 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla fuera; aceite 2 → 1 cda; carne magra.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-fondue
+TITULO: Polenta con Corazón de Queso
+CATEGORIA: Polenta
+ICONO: 🌾
+SUBSECCION: Polenta
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos, Huevo
+ETIQUETAS: Italiana, Polenta, Perfil1
+CONCEPTO: Polenta dura moldeada con un corazón cremoso de queso bajo en grasa; en lugar de trufa, champiñón asado.
+INGREDIENTES:
+• Sémola de maíz gruesa — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Mozzarella baja en grasa en lonchas finas — 120 g
+• Leche descremada — 100 ml
+• Yemas de huevo — 2
+• Champiñones asados en láminas — 40 g
+PREPARACION:
+1. Prepara la polenta dura con 1 litro de agua y enfríala en moldes.
+2. Funde el queso con la leche a fuego suave y liga con las yemas; enfría.
+3. Rellena el centro de la polenta, hornea 10 minutos a 190 °C y sirve con champiñones asados.
+JUSTIFICACION: Corazón cremoso con menos grasa.
+ADVERTENCIAS: Es una evocación: champiñón asado en lugar de trufa.|Sin sal añadida.|Yemas bien cocidas.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~16 g
+Carbohidratos: ~42 g
+Grasas: ~9 g
+Fibra: ~3 g
+Sodio: ~190 mg
+IG: Medio
+ADAPTACIÓN:
+• Fontina → mozzarella baja en grasa; trufa → champiñón asado; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-ricota
+TITULO: Polenta con Ricota
+CATEGORIA: Polenta
+ICONO: 🌾
+SUBSECCION: Polenta
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Polenta, Perfil1
+CONCEPTO: Polenta en capas con ricota baja en grasa, parmesano y salsa de tomate asado, sin panceta.
+INGREDIENTES:
+• Sémola de maíz gruesa — 250 g
+• Ricota baja en grasa — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Tomates asados troceados — 300 g
+• Parmesano rallado — 30 g
+PREPARACION:
+1. Prepara la polenta dura con 1 litro de agua, enfría y corta en lonchas.
+2. Rehoga la cebolla en el aceite y cuece con el tomate 15 minutos.
+3. Monta capas de polenta, ricota, salsa y parmesano; hornea 20 minutos a 200 °C.
+JUSTIFICACION: Gratinada y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~42 g
+Grasas: ~10 g
+Fibra: ~4 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Panceta fuera; aceite 3 → 1 cda; mantequilla fuera; parmesano 50 → 30 g; ricota baja en grasa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-salchicha
+TITULO: Polenta con Pollo en Salsa de Tomate
+CATEGORIA: Polenta
+ICONO: 🌾
+SUBSECCION: Polenta
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Polenta, Perfil1
+CONCEPTO: Polenta con trocitos de pollo y res magra dorados en salsa de tomate con verduras, en lugar de salchicha.
+INGREDIENTES:
+• Pechuga de pollo en trocitos — 200 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Tomate asado triturado — 500 ml
+• Orégano seco — 1 pizca
+• Sémola de maíz gruesa — 250 g
+PREPARACION:
+1. Dora el pollo en el aceite 5 minutos; añade las verduras y cuece 8 minutos.
+2. Agrega el tomate y el orégano y cuece 25 minutos.
+3. Prepara la polenta con 1 litro de agua y sirve con la salsa.
+JUSTIFICACION: Contundente sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchicha.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~24 g
+Carbohidratos: ~46 g
+Grasas: ~6 g
+Fibra: ~5 g
+Sodio: ~80 mg
+IG: Medio
+ADAPTACIÓN:
+• Salchicha → pollo; aceite 2 → 1 cda; tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-huevos
+TITULO: Polenta con Huevos
+CATEGORIA: Polenta
+ICONO: 🌾
+SUBSECCION: Polenta
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Polenta, Perfil1
+CONCEPTO: Polenta con aceite, coronada con huevos cocidos al plato (no fritos), con yema bien cuajada.
+INGREDIENTES:
+• Sémola de maíz gruesa — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Huevos — 4
+PREPARACION:
+1. Prepara la polenta blanda con 1 litro de agua y reparte en platos aptos para horno.
+2. Casca un huevo sobre cada plato.
+3. Hornea 12-15 minutos a 180 °C hasta que clara y yema estén cuajadas; añade el aceite.
+JUSTIFICACION: Sin fritura y con huevo bien cocido.
+ADVERTENCIAS: Sin sal añadida.|Yema totalmente cuajada.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~42 g
+Grasas: ~10 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Huevos 8 → 4; mantequilla → aceite; huevo al horno.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-pasticciata-aosta
+TITULO: Polenta Pasticciata del Valle d'Aosta
+CATEGORIA: Polenta
+ICONO: 🌾
+SUBSECCION: Polenta
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Polenta, Perfil1
+CONCEPTO: Polenta dura en capas con queso bajo en grasa y parmesano, gratinada con un hilo de aceite.
+INGREDIENTES:
+• Sémola de maíz gruesa — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Mozzarella baja en grasa en lonchas finas — 150 g
+• Parmesano rallado — 30 g
+PREPARACION:
+1. Prepara la polenta dura con 1 litro de agua, enfría y corta en lonchas.
+2. Monta capas en una fuente engrasada con la polenta y los quesos.
+3. Rocía con el aceite y gratina 20 minutos a 200 °C.
+JUSTIFICACION: Mismo gratinado con mucha menos grasa.
+ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de fontina.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~310 kcal (por porción)
+Proteínas: ~18 g
+Carbohidratos: ~40 g
+Grasas: ~9 g
+Fibra: ~3 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 80 g → aceite 10 g; fontina 300 → 150 g mozzarella baja en grasa; parmesano 80 → 30 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-pasticciata-setas
+TITULO: Polenta Pasticciata con Setas
+CATEGORIA: Polenta
+ICONO: 🌾
+SUBSECCION: Polenta
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Polenta, Perfil1
+CONCEPTO: Polenta dura en capas con setas salteadas, bechamel ligera y parmesano.
+INGREDIENTES:
+• Setas frescas — 300 g
+• Sémola de maíz gruesa — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Ajo asado — 1 diente
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Parmesano rallado — 30 g
+PREPARACION:
+1. Prepara la polenta dura con 1 litro de agua, enfría y corta en lonchas.
+2. Saltea las setas con el aceite y el ajo 8 minutos.
+3. Monta capas en una fuente engrasada con polenta, setas y bechamel; espolvorea con parmesano y gratina 20 minutos a 200 °C.
+JUSTIFICACION: Terrosa y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~46 g
+Grasas: ~8 g
+Fibra: ~5 g
+Sodio: ~160 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; bechamel ligera; parmesano 50 → 30 g; setas frescas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-pasticciata-anchoas
+TITULO: Polenta Pasticciata con Atún
+CATEGORIA: Polenta
+ICONO: 🌾
+SUBSECCION: Polenta
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Lácteos
+ETIQUETAS: Italiana, Polenta, Perfil1
+CONCEPTO: Polenta cocida en agua con una salsa de atún al natural y yogur en capas, en lugar de vino y anchoas.
+INGREDIENTES:
+• Sémola de maíz gruesa — 250 g
+• Atún al natural desmenuzado — 100 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Ajo asado — 1 diente
+• Yogur natural espeso — 150 g
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Prepara la polenta dura con 1 litro de agua, enfría y corta en lonchas.
+2. Mezcla el atún con el aceite, el ajo y el yogur.
+3. Monta capas en una fuente engrasada, espolvorea con parmesano y gratina 20 minutos a 200 °C.
+JUSTIFICACION: Sabor marino sin anchoas ni vino.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas; sin vino.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~310 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~38 g
+Grasas: ~8 g
+Fibra: ~3 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino fuera; anchoas → atún al natural; nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-taragna
+TITULO: Polenta Taragna
+CATEGORIA: Polenta
+ICONO: 🌾
+SUBSECCION: Polenta
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Polenta, Perfil1
+CONCEPTO: Polenta oscura de alforfón y maíz con aceite y queso fresco bajo en grasa.
+INGREDIENTES:
+• Harina de alforfón — 200 g
+• Sémola de maíz gruesa — 100 g
+• Agua — 1,5 litros
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Queso fresco bajo en grasa en lonchas finas — 150 g
+PREPARACION:
+1. Hierve el agua; añade alforfón y sémola mezclados en lluvia y cuece 40 minutos removiendo.
+2. Incorpora el queso fresco a mitad de cocción.
+3. Sirve con un hilo de aceite.
+JUSTIFICACION: Rústica y con fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~270 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~42 g
+Grasas: ~6 g
+Fibra: ~5 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 150 → aceite 10 g; queso fresco bajo en grasa 150 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-horno-basica
+TITULO: Arroz al Horno (Receta Básica)
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Arroz, Base, Perfil1
+CONCEPTO: Arroz hervido unos minutos y terminado al horno con aceite de oliva; admite salsas, carne o ragú de setas.
+INGREDIENTES:
+• Arroz (mitad integral, mitad blanco) — 150 g
+• Agua para el hervor — abundante
+• Aceite de oliva extra virgen — 1 cdta (5 g, y un poco para engrasar)
+PREPARACION:
+1. Hierve el arroz 8 minutos en abundante agua y escúrrelo.
+2. Colócalo en una fuente engrasada con el aceite.
+3. Hornea 15 minutos a 180 °C tapado.
+JUSTIFICACION: Suelto y sin mantequilla ni sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~32 g
+Grasas: ~2 g
+Fibra: ~2 g
+Sodio: ~2 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; sin sal; arroz 200 → 150 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-criollo-basica
+TITULO: Arroz Criollo (Receta Básica)
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Arroz, Base, Perfil1
+CONCEPTO: Arroz cocido en agua con un poco de aceite, escurrido y seco: suelto y listo para acompañar.
+INGREDIENTES:
+• Arroz (mitad integral, mitad blanco) — 150 g
+• Agua — 350 ml
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION:
+1. Hierve el agua con el aceite y añade el arroz.
+2. Tapa y cuece a fuego suave 18 minutos.
+3. Deja reposar 5 minutos y suelta con un tenedor.
+JUSTIFICACION: Sin sal ni mantequilla.
+ADVERTENCIAS: Es una receta base.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~32 g
+Grasas: ~2 g
+Fibra: ~2 g
+Sodio: ~2 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-leche-basica
+TITULO: Arroz Cocido en Leche (Receta Básica)
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Arroz, Base, Perfil1
+CONCEPTO: Arroz cocido en leche descremada para guarnición, croquetas o postre.
+INGREDIENTES:
+• Arroz — 120 g
+• Leche descremada — 800 ml
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Huevos (opcional) — 1
+• Stevia en polvo — al gusto (si es para postre)
+PREPARACION:
+1. Cuece el arroz en la leche a fuego suave 30 minutos removiendo.
+2. Añade el aceite.
+3. Si lo usas para croquetas, liga con el huevo fuera del fuego y cuece al horno.
+JUSTIFICACION: Cremoso sin mantequilla.
+ADVERTENCIAS: Es una receta base.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~34 g
+Grasas: ~2 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Leche descremada; mantequilla → aceite; huevos 2 → 1; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-indio-basica
+TITULO: Arroz Indio (Receta Básica)
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Arroz, Base, Perfil1
+CONCEPTO: Arroz cocido en abundante agua, escurrido y refrescado, secado al horno; ideal para currys.
+INGREDIENTES:
+• Arroz basmati o de grano largo — 150 g
+• Agua — abundante
+PREPARACION:
+1. Hierve el arroz en abundante agua 10 minutos y escúrrelo.
+2. Refresca con agua fría y escurre bien.
+3. Seca en el horno a 120 °C 10 minutos.
+JUSTIFICACION: Suelto y sin sal.
+ADVERTENCIAS: Es una receta base.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~31 g
+Grasas: ~0 g
+Fibra: ~1 g
+Sodio: ~2 mg
+IG: Medio
+ADAPTACIÓN:
+• Sin sal; arroz 200 → 150 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-hervido-basica
+TITULO: Arroz Hervido (Receta Básica)
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Arroz, Base, Perfil1
+CONCEPTO: El modo más simple de cocinar el arroz: hervido en agua y escurrido, con aceite y un toque de queso.
+INGREDIENTES:
+• Arroz (mitad integral, mitad blanco) — 150 g
+• Agua — abundante
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Parmesano rallado — 1 cdta
+PREPARACION:
+1. Hierve el arroz en abundante agua 12-15 minutos.
+2. Escurre bien.
+3. Aliña con el aceite y el parmesano.
+JUSTIFICACION: Sencillo y sin sal.
+ADVERTENCIAS: Es una receta base.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~160 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~32 g
+Grasas: ~2 g
+Fibra: ~2 g
+Sodio: ~25 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; sin sal; queso reducido.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-integral-basica
+TITULO: Arroz Integral (Receta Básica)
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Arroz, Base, Perfil1
+CONCEPTO: Arroz integral cocido en agua 30 minutos, sin sal.
+INGREDIENTES:
+• Arroz integral — 150 g
+• Agua — 400 ml
+PREPARACION:
+1. Pon el arroz con el agua y lleva a ebullición.
+2. Tapa y cuece a fuego suave 30 minutos.
+3. Deja reposar 5 minutos.
+JUSTIFICACION: Más fibra y saciedad.
+ADVERTENCIAS: Es una receta base.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~32 g
+Grasas: ~1 g
+Fibra: ~3 g
+Sodio: ~3 mg
+IG: Medio
+ADAPTACIÓN:
+• Sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-pilaf-basica
+TITULO: Arroz Pilaf (Receta Básica)
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Arroz, Base, Perfil1
+CONCEPTO: Arroz al estilo turco: salteado con cebolla y aceite y cocido al horno en caldo.
+INGREDIENTES:
+• Arroz — 150 g
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Cebolla picada — 1
+• Caldo casero sin sal o agua hirviendo — 300 ml
+PREPARACION:
+1. Rehoga la cebolla en el aceite 5 minutos; añade el arroz y mezcla 1 minuto.
+2. Agrega el caldo hirviendo, tapa y hornea 18 minutos a 180 °C.
+3. Deja reposar 5 minutos y suelta.
+JUSTIFICACION: Aromático sin sal ni mantequilla.
+ADVERTENCIAS: Es una receta base.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~34 g
+Grasas: ~2 g
+Fibra: ~2 g
+Sodio: ~30 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-croquetas-sicilianas
+TITULO: Croquetas Sicilianas (Arancini al Horno)
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Arroz, Perfil1
+CONCEPTO: Croquetas de arroz rellenas de ragú y mozzarella, empanadas con pan integral y horneadas en vez de fritas, sin vino.
+INGREDIENTES:
+• Arroz integral y blanco cocido — 300 g
+• Parmesano rallado — 1 cda
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Carne magra de res molida — 100 g
+• Zumo de naranja reducido — 2 cdas
+• Tomate asado triturado — 3 cdas
+• Mozzarella baja en grasa en dados — 60 g
+• Huevos — 2
+• Harina de avena — 40 g
+• Pan integral rallado — 50 g
+PREPARACION:
+1. Dora la carne en la mitad del aceite, añade naranja y tomate y cuece 15 minutos para el ragú.
+2. Mezcla el arroz con el parmesano y 1 huevo; forma bolas con un corazón de ragú y mozzarella.
+3. Pasa por harina, huevo batido y pan rallado, rocía con el aceite y hornea 25 minutos a 200 °C.
+JUSTIFICACION: Crujientes sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~280 kcal (por porción)
+Proteínas: ~16 g
+Carbohidratos: ~36 g
+Grasas: ~8 g
+Fibra: ~3 g
+Sodio: ~160 mg
+IG: Medio
+ADAPTACIÓN:
+• Fritura → horno; vino → naranja reducida; mantequilla → aceite; mozzarella baja en grasa 100 → 60 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-curry-gambas
+TITULO: Arroz con Curry y Gambas
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco
+ETIQUETAS: Italiana, Arroz, Perfil1
+CONCEPTO: Arroz cocido en caldo al horno, con gambas y salsa de curry suave.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Caldo de pescado casero sin sal — 600 ml
+• Cebolla en rodajas — 1
+• Arroz integral y blanco — 250 g
+• Gambas peladas — 300 g
+• Salsa al Curry Suave (receta de este recetario) — 1 ración
+PREPARACION:
+1. Rehoga la cebolla en el aceite 5 minutos; añade el arroz y el caldo hirviendo.
+2. Hornea tapado 20 minutos a 180 °C.
+3. Cuece las gambas en la salsa de curry 3 minutos y sirve sobre el arroz.
+JUSTIFICACION: Aromático y ligero.
+ADVERTENCIAS: Curry sin picante.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~22 g
+Carbohidratos: ~52 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~220 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; caldo sin sal; arroz 350 → 250 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-canton
+TITULO: Arroz Cantonés
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Frutos secos
+ETIQUETAS: Italiana, Arroz, Perfil1
+CONCEPTO: Arroz con pollo y almendras cocido en caldo de pollo, con soja baja en sodio al final.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Caldo de pollo casero sin sal — 700 ml
+• Arroz integral y blanco — 250 g
+• Cebollas — 2
+• Pechugas de pollo sin piel, en dados — 2
+• Almendras escaldadas y picadas gruesas — 15 g
+• Salsa de soja baja en sodio — 1 cdta (para servir)
+PREPARACION:
+1. Dora el pollo con el aceite y las cebollas 8 minutos.
+2. Añade el arroz y el caldo hirviendo y cuece tapado 20 minutos.
+3. Sirve con las almendras y un poco de soja.
+JUSTIFICACION: Sabor oriental con poca soja.
+ADVERTENCIAS: Soja mínima (sodio).
+VALOR_NUTRICIONAL:
+Calorías: ~420 kcal (por porción)
+Proteínas: ~32 g
+Carbohidratos: ~52 g
+Grasas: ~8 g
+Fibra: ~4 g
+Sodio: ~260 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 130 g → aceite 10 g; soja mínima; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-menta
+TITULO: Arroz a la Menta
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Arroz, Perfil1
+CONCEPTO: Arroz cocido aderezado con una salsa de menta, puerro, ralladura de limón y aceite.
+INGREDIENTES:
+• Menta fresca picada — un puñado
+• Puerro picado fino (parte blanca, cocido) — 1
+• Ralladura de limón — de 1 limón
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Arroz integral y blanco — 250 g
+PREPARACION:
+1. Cuece el arroz y escúrrelo.
+2. Mezcla menta, puerro cocido, ralladura y aceite.
+3. Aliña el arroz tibio.
+JUSTIFICACION: Fresco y aromático.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~270 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~46 g
+Grasas: ~7 g
+Fibra: ~3 g
+Sodio: ~10 mg
+IG: Medio
+ADAPTACIÓN:
+• Limón → ralladura; aceite 120 ml → 2 cdas; puerro cocido.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-nueces-zanahorias
+TITULO: Arroz con Nueces y Zanahorias
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Frutos secos
+ETIQUETAS: Italiana, Arroz, Perfil1
+CONCEPTO: Arroz integral cocido con zanahoria rallada y nueces tostadas en aceite de oliva.
+INGREDIENTES:
+• Arroz integral — 250 g
+• Agua — 600 ml
+• Zanahorias ralladas — 200 g
+• Nueces peladas — 25 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Cuece el arroz con el agua 30 minutos.
+2. Tuesta las nueces con el aceite 2 minutos y añade la zanahoria 3 minutos.
+3. Mezcla con el arroz.
+JUSTIFICACION: Crujiente y con fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~290 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~46 g
+Grasas: ~9 g
+Fibra: ~5 g
+Sodio: ~25 mg
+IG: Medio
+ADAPTACIÓN:
+• Nueces 50 → 25 g; aceite de maíz 2 → aceite de oliva 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-indonesio
+TITULO: Arroz Indonesio
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Arroz, Perfil1
+CONCEPTO: Arroz al curry suave con pollo y guisantes, cocido en caldo, sin jamón.
+INGREDIENTES:
+• Pechuga y muslos de pollo sin piel — 500 g
+• Guisantes — 150 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Arroz integral y blanco — 250 g
+• Caldo de pollo casero sin sal — 700 ml
+• Curry dulce en polvo — 1 cdta
+PREPARACION:
+1. Dora el pollo en el aceite con el curry 5 minutos.
+2. Añade el arroz y el caldo hirviendo y cuece tapado 20 minutos.
+3. Agrega los guisantes los últimos 5 minutos.
+JUSTIFICACION: Completo y sin embutido.
+ADVERTENCIAS: Sin sal añadida.|Curry sin picante.
+VALOR_NUTRICIONAL:
+Calorías: ~410 kcal (por porción)
+Proteínas: ~32 g
+Carbohidratos: ~52 g
+Grasas: ~8 g
+Fibra: ~5 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón fuera; aceite 3 → 1 cda; pollo sin piel; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-huevo-crudo
+TITULO: Arroz con Huevo Cocido y Queso
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Arroz, Perfil1
+CONCEPTO: Arroz hervido mezclado con yemas, queso fundido y parmesano; las yemas se cuajan por completo con el calor.
+INGREDIENTES:
+• Arroz integral y blanco — 250 g
+• Yemas de huevo — 2
+• Mozzarella baja en grasa en lonchas finas — 60 g
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Cuece el arroz y escúrrelo caliente.
+2. Mezcla con las yemas, el queso, el aceite y el parmesano.
+3. Cocina a fuego suave 2 minutos removiendo hasta que las yemas cuajen del todo.
+JUSTIFICACION: Cremoso con yema bien cocida.
+ADVERTENCIAS: Sin sal añadida.|Yemas totalmente cuajadas.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~16 g
+Carbohidratos: ~45 g
+Grasas: ~9 g
+Fibra: ~3 g
+Sodio: ~190 mg
+IG: Medio
+ADAPTACIÓN:
+• Huevo crudo → yema cocida; fontina → mozzarella baja en grasa; mantequilla → aceite; yemas 4 → 2.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-lentejas-curry
+TITULO: Arroz con Lentejas al Curry
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+ETIQUETAS: Italiana, Arroz, Perfil1
+CONCEPTO: Arroz con lentejas cocidas y curry suave, con aceite de oliva.
+INGREDIENTES:
+• Lentejas — 120 g
+• Arroz integral y blanco — 250 g
+• Curry dulce en polvo — 1 cdta
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Cuece las lentejas 30 minutos y escúrrelas.
+2. Cuece el arroz aparte.
+3. Mezcla con el curry y el aceite.
+JUSTIFICACION: Proteína vegetal completa.
+ADVERTENCIAS: Sin sal añadida.|Curry sin picante.
+VALOR_NUTRICIONAL:
+Calorías: ~330 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~58 g
+Grasas: ~5 g
+Fibra: ~8 g
+Sodio: ~10 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite 10 g; curry suave.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-espinacas
+TITULO: Arroz con Espinacas
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Arroz, Perfil1
+CONCEPTO: Arroz cocido en el agua de las espinacas, con espinacas rehogadas y parmesano.
+INGREDIENTES:
+• Espinacas — 500 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Arroz integral y blanco — 250 g
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Cuece las espinacas 3 minutos; escúrrelas y pícalas, reservando el agua.
+2. Cuece el arroz en esa agua.
+3. Rehoga las espinacas en el aceite y mezcla con el arroz y el parmesano.
+JUSTIFICACION: Verde y rico en hierro.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~280 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~46 g
+Grasas: ~6 g
+Fibra: ~5 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 40 g → aceite 10 g; parmesano 40 → 20 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-sazonado
+TITULO: Arroz Sazonado con Salvia
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Arroz, Perfil1
+CONCEPTO: Arroz hervido aromatizado con aceite y salvia, rematado con parmesano.
+INGREDIENTES:
+• Arroz integral y blanco — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Hojas de salvia — 8
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Cuece el arroz y escúrrelo.
+2. Calienta el aceite con la salvia 2 minutos.
+3. Mezcla con el arroz y el parmesano.
+JUSTIFICACION: Sencillo y aromático.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~280 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~46 g
+Grasas: ~7 g
+Fibra: ~3 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; parmesano 40 → 20 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-moldeado-jamon
+TITULO: Arroz Moldeado con Pollo y Guisantes
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Arroz, Perfil1
+CONCEPTO: Arroz con queso bajo en grasa en molde forrado con lonchas de pollo asado, con guisantes en el centro, en lugar de jamón.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Cebolla picada — ½
+• Guisantes — 200 g
+• Caldo de carne casero sin sal — 150 ml
+• Mozzarella baja en grasa en dados — 100 g
+• Leche descremada — 150 ml
+• Arroz integral y blanco — 250 g
+• Pechuga de pollo asada en lonchas finas — 150 g
+PREPARACION:
+1. Rehoga la cebolla en el aceite y cuece los guisantes con el caldo 8 minutos.
+2. Cuece el arroz en la leche y 300 ml de agua; mezcla con el queso.
+3. Forra un molde engrasado con el pollo, rellena con arroz y guisantes y hornea 15 minutos a 180 °C; desmolda.
+JUSTIFICACION: Mismo molde vistoso, sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal (por porción)
+Proteínas: ~26 g
+Carbohidratos: ~50 g
+Grasas: ~8 g
+Fibra: ~5 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón → pollo; tres quesos → mozzarella baja en grasa 100 g; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-horno-perejil
+TITULO: Arroz al Horno con Perejil
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Arroz, Perfil1
+CONCEPTO: Arroz con perejil y chalote rehogados, horneado.
+INGREDIENTES:
+• Arroz integral y blanco — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Chalote picado — 1
+• Perejil picado — 2 manojitos
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Rehoga el chalote en el aceite; añade el arroz y 450 ml de agua caliente.
+2. Hornea tapado 20 minutos a 180 °C.
+3. Mezcla con el perejil y sirve con parmesano.
+JUSTIFICACION: Verde y aromático.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~270 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~46 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~30 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 4 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-albondigas-mozzarella
+TITULO: Albóndigas de Arroz con Mozzarella
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Arroz, Perfil1
+CONCEPTO: Albóndigas de arroz con mozzarella baja en grasa, pollo, yemas y parmesano, empanadas y horneadas.
+INGREDIENTES:
+• Arroz cocido integral y blanco — 250 g
+• Mozzarella baja en grasa en dados — 80 g
+• Pechuga de pollo cocida y desmenuzada — 80 g
+• Yemas de huevo — 2
+• Parmesano rallado — 30 g
+• Harina de avena — 40 g
+• Huevo — 1
+• Pan integral rallado — 50 g
+• Aceite de oliva extra virgen — 1 cda (10 g, para rociar)
+PREPARACION:
+1. Mezcla arroz, queso, pollo, yemas y parmesano; forma bolas.
+2. Pasa por harina, huevo batido y pan rallado.
+3. Rocía con el aceite y hornea 25 minutos a 200 °C.
+JUSTIFICACION: Crujientes sin fritura.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~270 kcal (por porción)
+Proteínas: ~18 g
+Carbohidratos: ~33 g
+Grasas: ~8 g
+Fibra: ~3 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Fritura → horno; jamón → pollo; mozzarella 200 → 80 g; parmesano 80 → 30 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-paella
+TITULO: Paella
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Pescado
+ETIQUETAS: Italiana, Arroz, Perfil1
+CONCEPTO: Paella con moluscos, pescado variado y pimentones, cocida en la sartén y terminada al horno.
+INGREDIENTES:
+• Moluscos (almejas y mejillones) — 300 g
+• Pescado variado (lubina, merluza, rape) troceado — 500 g
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Pimentón rojo asado en tiras — 1
+• Pimentón amarillo asado en tiras — 1
+• Cebolla en rodajas — 1
+• Arroz integral y blanco — 250 g
+• Caldo de verduras casero sin sal — 500 ml
+• Ajo asado majado — 2 dientes
+• Hebras de azafrán — unas hebras
+PREPARACION:
+1. Rehoga cebolla, ajo y pimentones en el aceite 8 minutos; añade el arroz y el azafrán.
+2. Agrega el caldo hirviendo y el pescado y cuece 10 minutos.
+3. Coloca los moluscos, hornea tapado 10 minutos a 180 °C y deja reposar.
+JUSTIFICACION: Sabrosa con poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~420 kcal (por porción)
+Proteínas: ~34 g
+Carbohidratos: ~52 g
+Grasas: ~8 g
+Fibra: ~4 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 7 → 1½ cdas; pimentón asado; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-ensalada-langostinos
+TITULO: Ensalada de Arroz y Langostinos
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco
+ETIQUETAS: Italiana, Arroz, Ensalada, Frío, Perfil1
+CONCEPTO: Arroz frío con langostinos, ralladura de limón, perejil y albahaca, moldeado.
+INGREDIENTES:
+• Arroz integral y blanco — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para el molde)
+• Ralladura de limón — de 1 limón
+• Langostinos cocidos y pelados — 200 g
+• Perejil picado — un poco
+• Hojas grandes de albahaca troceadas — 8
+PREPARACION:
+1. Cuece el arroz, escúrrelo y enfríalo.
+2. Mezcla con el aceite, la ralladura, los langostinos y las hierbas.
+3. Rellena un molde engrasado, presiona y desmolda.
+JUSTIFICACION: Fresca y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~48 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Zumo de limón → ralladura; aceite 3 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-ensalada-curry
+TITULO: Ensalada de Arroz al Curry
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Arroz, Ensalada, Frío, Perfil1
+CONCEPTO: Arroz con verduras cocidas y huevo duro, aliñado con una salsa de curry suave y yogur, sin vinagre ni mostaza.
+INGREDIENTES:
+• Arroz integral y blanco — 250 g
+• Judías verdes redondas — 50 g
+• Huevos duros — 2
+• Calabacín cocido — 1
+• Rama de apio picada fina — 1
+• Tomates asados en dados — 2
+• Pimentón rojo asado picado — 1
+• Rabanitos en rodajas finas — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Yogur natural espeso — 60 g
+• Curry dulce en polvo — 1 cdta
+PREPARACION:
+1. Cuece el arroz y las judías; enfría todo.
+2. Mezcla aceite, yogur y curry para el aliño.
+3. Combina con las verduras y los huevos duros picados.
+JUSTIFICACION: Cremosa y sin acidez fuerte.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~46 g
+Grasas: ~8 g
+Fibra: ~5 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Vinagre y mostaza fuera → yogur; aceite 3 → 1 cda; verduras cocidas/asadas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-ensalada-queso
+TITULO: Ensalada de Arroz con Queso
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Frutos secos, Lácteos
+ETIQUETAS: Italiana, Arroz, Ensalada, Frío, Perfil1
+CONCEPTO: Arroz frío con queso bajo en grasa, manzana, apio y nueces, aliñado con aceite.
+INGREDIENTES:
+• Arroz integral y blanco — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Manzana — 1
+• Queso fresco bajo en grasa en dados — 100 g
+• Apio en dados — 2 ramas
+• Nueces peladas y picadas — 25 g
+PREPARACION:
+1. Cuece el arroz y enfríalo.
+2. Mezcla con la manzana, el queso, el apio y las nueces.
+3. Aliña con el aceite.
+JUSTIFICACION: Crujiente y refrescante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~46 g
+Grasas: ~11 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; emmental 150 → queso fresco bajo en grasa 100 g; nueces 50 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-ensalada-marinera
+TITULO: Ensalada de Arroz Marinera
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Huevo
+ETIQUETAS: Italiana, Arroz, Ensalada, Frío, Perfil1
+CONCEPTO: Arroz con almejas, mejillones y calamarcitos aliñados con una emulsión de yema cocida, aceite y ralladura de limón.
+INGREDIENTES:
+• Almejas limpias — 400 g
+• Mejillones limpios y desbarbados — 400 g
+• Calamarcitos limpios — 250 g
+• Arroz integral y blanco — 200 g
+• Yemas duras de huevo — 2
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ralladura de limón — de 1 limón
+PREPARACION:
+1. Abre almejas y mejillones al vapor y retira las valvas; cuece los calamarcitos 3 minutos.
+2. Cuece el arroz y enfríalo.
+3. Tritura las yemas duras con el aceite, la ralladura y un poco del líquido de los moluscos; mezcla con todo.
+JUSTIFICACION: Aliño cremoso sin huevo crudo.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~30 g
+Carbohidratos: ~38 g
+Grasas: ~7 g
+Fibra: ~2 g
+Sodio: ~300 mg
+IG: Medio
+ADAPTACIÓN:
+• Pulpitos → calamarcitos; yema cruda → dura; aceite 3 → 1 cda; limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-ensalada-remolacha
+TITULO: Ensalada de Arroz y Remolacha
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Arroz, Ensalada, Frío, Perfil1
+CONCEPTO: Arroz con queso bajo en grasa, huevo duro y remolacha, aliñado con yogur y naranja reducida en lugar de vinagre y mostaza.
+INGREDIENTES:
+• Arroz integral y blanco — 250 g
+• Queso fresco bajo en grasa en dados — 80 g
+• Huevos duros — 2
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zumo de naranja reducido — 2 cdas
+• Yogur natural espeso — 40 g
+• Remolacha cocida pelada en dados — 1
+• Perejil picado — un poco
+PREPARACION:
+1. Cuece el arroz y enfríalo.
+2. Mezcla aceite, naranja reducida y yogur.
+3. Combina todo con los huevos picados y la remolacha.
+JUSTIFICACION: Dulce y colorida.
+ADVERTENCIAS: Es una evocación: sin alcaparras, vinagre ni mostaza.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~330 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~46 g
+Grasas: ~8 g
+Fibra: ~4 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Vinagre y mostaza → naranja reducida y yogur; emmental 100 → queso fresco 80 g; alcaparras fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-ensalada-pimientos
+TITULO: Ensalada de Arroz con Pimentones Asados
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Arroz, Ensalada, Frío, Perfil1
+CONCEPTO: Arroz frío con pimentones asados y pepino fresco, moldeado y cubierto de virutas de parmesano, en lugar de encurtidos.
+INGREDIENTES:
+• Arroz integral y blanco — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pimentones rojos asados en tiras — 3
+• Pepino sin piel y picado — 1
+• Parmesano en virutas — 20 g
+PREPARACION:
+1. Cuece el arroz y enfríalo.
+2. Mezcla con el aceite, los pimentones y el pepino.
+3. Moldea y cubre con las virutas.
+JUSTIFICACION: Sin encurtidos (sodio y vinagre).
+ADVERTENCIAS: Es una evocación: pimentones asados y pepino en lugar de encurtidos.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~290 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~48 g
+Grasas: ~7 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Encurtidos → asados/frescos; aceite 3 → 1 cda; parmesano 40 → 20 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-ensalada-cangrejo
+TITULO: Ensalada de Arroz y Cangrejo
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Huevo
+ETIQUETAS: Italiana, Arroz, Ensalada, Frío, Perfil1
+CONCEPTO: Arroz con tortilla de puerro y guisantes y carne de cangrejo.
+INGREDIENTES:
+• Arroz integral y blanco — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Puerros limpios en rodajas — 2
+• Guisantes — 150 g
+• Huevos — 2
+• Carne de cangrejo — 250 g
+PREPARACION:
+1. Cuece el arroz y enfríalo.
+2. Cuece puerros y guisantes, mézclalos con los huevos batidos y haz una tortilla fina en sartén antiadherente apenas untada; córtala en tiras.
+3. Combina con el arroz y el cangrejo.
+JUSTIFICACION: Completa y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~25 g
+Carbohidratos: ~44 g
+Grasas: ~7 g
+Fibra: ~4 g
+Sodio: ~260 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; cangrejo 300 → 250 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-ensalada-baja-calorias
+TITULO: Ensalada de Arroz Baja en Calorías
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Marisco
+ETIQUETAS: Italiana, Arroz, Ensalada, Frío, Perfil1
+CONCEPTO: Arroz con atún al natural, maíz tierno, salmón fresco y langostinos, aliñado con aceite y ralladura de limón.
+INGREDIENTES:
+• Arroz integral y blanco — 200 g
+• Atún al natural, escurrido y desmenuzado — 100 g
+• Maíz tierno desgranado — 100 g
+• Salmón fresco horneado en dados — 100 g
+• Langostinos cocidos y pelados — 150 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ralladura de limón — de 1 limón
+PREPARACION:
+1. Cuece el arroz y el maíz; enfría.
+2. Hornea el salmón 12 minutos a 180 °C.
+3. Mezcla todo con el aceite y la ralladura.
+JUSTIFICACION: Muy completa y ligera.
+ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado; sin alcaparras.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~28 g
+Carbohidratos: ~38 g
+Grasas: ~8 g
+Fibra: ~3 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Salmón ahumado → fresco; atún al natural; maíz fresco; alcaparras fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-ensalada-ahumado
+TITULO: Ensalada de Arroz y Pescado
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado
+ETIQUETAS: Italiana, Arroz, Ensalada, Frío, Perfil1
+CONCEPTO: Arroz cocido en fondo de pescado con rabanitos, salmón y pez espada frescos horneados y eneldo, sin ahumados.
+INGREDIENTES:
+• Fondo de pescado casero sin sal — 400 ml
+• Arroz integral y blanco — 250 g
+• Rabanitos en rodajas — 4
+• Salmón fresco horneado en tiras — 60 g
+• Pez espada horneado en tiras — 60 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ralladura de limón y de lima — de ½ de cada uno
+• Eneldo picado — un poco
+PREPARACION:
+1. Cuece el arroz en el fondo de pescado y enfríalo.
+2. Hornea el pescado 10 minutos a 180 °C.
+3. Mezcla todo con el aceite, las ralladuras y el eneldo.
+JUSTIFICACION: Fresca y aromática.
+ADVERTENCIAS: Es una evocación: pescado fresco en lugar de ahumado; sin rábano picante.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~46 g
+Grasas: ~7 g
+Fibra: ~2 g
+Sodio: ~120 mg
+IG: Medio
+ADAPTACIÓN:
+• Ahumados → pescado fresco horneado; rábano picante y aceite de nuez fuera; zumos → ralladuras.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-arroz-ensalada-veraniega
+TITULO: Ensalada Veraniega de Arroz
+CATEGORIA: Arroz
+ICONO: arroz
+SUBSECCION: Arroz
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Lácteos
+ETIQUETAS: Italiana, Arroz, Ensalada, Frío, Perfil1
+CONCEPTO: Arroz con atún al natural, queso bajo en grasa, tomate asado y alcachofas cocidas, con ralladura de limón.
+INGREDIENTES:
+• Arroz integral y blanco cocido — 250 g
+• Atún al natural, escurrido y desmenuzado — 150 g
+• Mozzarella baja en grasa en dados — 80 g
+• Tomates asados en dados — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ralladura de limón — de 1 limón
+• Cebollitas escaldadas — 4
+• Corazones de alcachofa cocidos — 6
+PREPARACION:
+1. Mezcla el arroz frío con el atún, el queso, el tomate, las cebollitas y las alcachofas.
+2. Aliña con el aceite y la ralladura.
+3. Reposa 20 minutos en la nevera.
+JUSTIFICACION: Ligera y sin conservas encurtidas.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~24 g
+Carbohidratos: ~42 g
+Grasas: ~8 g
+Fibra: ~5 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Gruyère 200 → mozzarella baja en grasa 80 g; encurtidos fuera; atún al natural; alcaparras fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-marisco
+TITULO: Risotto de Marisco
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con calamarcitos, sepia y mejillones en caldo de pescado, sin vino.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Ajo asado — 1 diente
+• Marisco variado limpio (calamarcitos, sepia) — 400 g
+• Caldo de pescado casero sin sal — 1 litro
+• Zumo de naranja reducido — 2 cdas
+• Tomate asado triturado — 2 cdas
+• Arroz para risotto — 250 g
+• Mejillones sin valvas — 150 g
+• Perejil picado — un poco
+PREPARACION:
+1. Rehoga cebolla y ajo en el aceite 5 minutos; añade el arroz 1 minuto y la naranja reducida.
+2. Añade el caldo caliente poco a poco con el tomate, removiendo, 18 minutos; incorpora el marisco los últimos 6 minutos.
+3. Sirve con perejil.
+JUSTIFICACION: Cremoso y marino con poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~420 kcal (por porción)
+Proteínas: ~30 g
+Carbohidratos: ~58 g
+Grasas: ~7 g
+Fibra: ~3 g
+Sodio: ~290 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; aceite 4 → 1 cda; concentrado → tomate asado; arroz 300 → 250 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-arandanos
+TITULO: Risotto de Arándanos
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con arándanos y yogur, con naranja reducida en lugar del vino blanco.
+INGREDIENTES:
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Arroz para risotto — 250 g
+• Zumo de naranja reducido — 3 cdas
+• Arándanos — 150 g
+• Yogur natural espeso — 80 g
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Rehoga la cebolla en el aceite 5 minutos; añade el arroz 1 minuto y la naranja reducida.
+2. Añade el caldo caliente poco a poco, removiendo, 18 minutos; incorpora los arándanos los últimos 5.
+3. Fuera del fuego mezcla con el yogur y sirve con parmesano.
+JUSTIFICACION: Dulce-ácido y cremoso sin nata.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~62 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; mantequilla → aceite; nata → yogur; arroz 350 → 250 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-aguaturmas
+TITULO: Risotto de Aguaturmas (o Yuca)
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con aguaturmas (o yuca) rehogadas y cebolla, con yogur.
+INGREDIENTES:
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Aguaturmas (o yuca) en rodajas — 250 g
+• Arroz para risotto — 250 g
+• Yogur natural espeso — 2 cdas
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Rehoga cebolla y aguaturma en el aceite 8 minutos; añade el arroz 1 minuto.
+2. Añade el caldo caliente poco a poco, removiendo, 18 minutos.
+3. Incorpora el yogur y sirve con parmesano.
+JUSTIFICACION: La yuca sustituye a la aguaturma, difícil de hallar.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~350 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~64 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; nata → yogur; aguaturma o yuca.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-barolo-setas
+TITULO: Risotto con Setas y Remolacha (en lugar de Barolo)
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con setas y hierbas, con puré de remolacha y naranja reducida que evocan el color y la profundidad del vino tinto.
+INGREDIENTES:
+• Setas frescas — 300 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada fina — 1
+• Romero, salvia y albahaca picados — un poco de cada
+• Tomates asados troceados — 4
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Perejil picado — un poco
+• Arroz para risotto — 250 g
+• Remolacha cocida triturada — 100 g
+• Zumo de naranja reducido — 3 cdas
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Rehoga cebolla, setas y hierbas en el aceite 10 minutos; añade el tomate y el arroz 1 minuto.
+2. Agrega la remolacha, la naranja y el caldo poco a poco, removiendo, 18 minutos.
+3. Sirve con parmesano y perejil.
+JUSTIFICACION: Color vinoso sin alcohol.
+ADVERTENCIAS: Es una evocación: sin vino tinto.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~370 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~66 g
+Grasas: ~7 g
+Fibra: ~5 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Barolo → remolacha y naranja reducida; mantequilla → fuera; aceite 2 → 1 cda; setas frescas; parmesano 40 → 20 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-caviar
+TITULO: Risotto Cremoso al Limón
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto cremoso con yogur y ralladura de limón, sin vino ni caviar.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Arroz para risotto — 250 g
+• Caldo de verduras casero sin sal — 1 litro
+• Yogur natural espeso — 120 g
+• Ralladura de limón — de 1 limón
+• Cebollino picado — 1 cda
+PREPARACION:
+1. Rehoga la cebolla en el aceite; añade el arroz 1 minuto.
+2. Agrega el caldo poco a poco, removiendo, 18 minutos.
+3. Fuera del fuego incorpora el yogur y la ralladura; sirve con cebollino.
+JUSTIFICACION: Lujo sin sal: el caviar se evoca con cebollino y limón.
+ADVERTENCIAS: Es una evocación: sin caviar ni vino.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~330 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~58 g
+Grasas: ~6 g
+Fibra: ~2 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Caviar y vino fuera; nata → yogur; mantequilla 80 g → aceite 10 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-milanesa
+TITULO: Risotto a la Milanesa
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: El risotto dorado con azafrán y parmesano, sin tuétano.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla pequeña picada — 1
+• Arroz para risotto — 250 g
+• Hebras de azafrán — ½ cdta
+• Parmesano rallado — 30 g
+PREPARACION:
+1. Rehoga la cebolla en el aceite; añade el arroz 1 minuto.
+2. Agrega el caldo con el azafrán poco a poco, removiendo, 18 minutos.
+3. Sirve con el parmesano.
+JUSTIFICACION: Clásico y aromático.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~58 g
+Grasas: ~7 g
+Fibra: ~2 g
+Sodio: ~120 mg
+IG: Medio
+ADAPTACIÓN:
+• Tuétano fuera; mantequilla 80 → aceite 10 g; parmesano 80 → 30 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-salmon-cava
+TITULO: Risotto de Salmón
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con salmón fresco horneado y naranja reducida, sin cava ni ahumado.
+INGREDIENTES:
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Arroz para risotto — 250 g
+• Zumo de naranja reducido — 3 cdas
+• Salmón fresco horneado y desmenuzado — 120 g
+• Yogur natural espeso — 2 cdas
+• Eneldo — 1 pizca
+PREPARACION:
+1. Rehoga el arroz 1 minuto en el aceite con la naranja.
+2. Agrega el caldo poco a poco, removiendo, 18 minutos.
+3. Incorpora el salmón y el yogur y sirve con eneldo.
+JUSTIFICACION: El burbujeo del cava se sustituye por la acidez de la naranja.
+ADVERTENCIAS: Es una evocación: sin cava ni ahumado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~410 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~58 g
+Grasas: ~11 g
+Fibra: ~2 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Cava → naranja reducida; ahumado → fresco; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-zanahoria
+TITULO: Risotto de Zanahoria
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con puré de zanahoria, naranja reducida y queso bajo en grasa.
+INGREDIENTES:
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Zanahorias pequeñas troceadas — 4
+• Zumo de naranja reducido — 3 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla pequeña picada — 1
+• Arroz para risotto — 250 g
+• Mozzarella baja en grasa rallada — 30 g
+• Yogur natural espeso — 2 cdas
+PREPARACION:
+1. Cuece las zanahorias en el caldo 15 minutos y tritura la mitad.
+2. Rehoga cebolla y arroz en el aceite; añade la naranja y el caldo con las zanahorias poco a poco, 18 minutos.
+3. Mezcla con el queso y el yogur.
+JUSTIFICACION: Dulce y colorido.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~350 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~64 g
+Grasas: ~6 g
+Fibra: ~4 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; mantequilla → aceite; emmental 50 → mozzarella baja en grasa 30 g; nata → yogur.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-fresas
+TITULO: Risotto de Fresas
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con fresas y yogur, con naranja reducida en lugar de vino.
+INGREDIENTES:
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Arroz para risotto — 250 g
+• Zumo de naranja reducido — 4 cdas
+• Fresas sin rabillo — 250 g
+• Yogur natural espeso — 100 g
+PREPARACION:
+1. Rehoga cebolla y arroz en el aceite 1 minuto; añade la naranja.
+2. Agrega el caldo poco a poco, removiendo, 15 minutos; añade la mitad de las fresas troceadas.
+3. Fuera del fuego mezcla con el yogur y el resto de fresas.
+JUSTIFICACION: Fresco y ligeramente dulce.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~62 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; mantequilla 100 g → aceite 10 g; nata → yogur.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-berenjena
+TITULO: Risotto de Berenjena
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con berenjena asada, tomate, orégano y mozzarella baja en grasa.
+INGREDIENTES:
+• Berenjenas en rodajas asadas — 2
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Tomate asado en dados — 1
+• Orégano seco — 1 pizca
+• Arroz para risotto — 250 g
+• Mozzarella baja en grasa en dados — 80 g
+PREPARACION:
+1. Rehoga ajo, tomate y orégano en el aceite; añade el arroz 1 minuto.
+2. Agrega el caldo poco a poco, removiendo, 18 minutos; incorpora la berenjena asada troceada.
+3. Mezcla con la mozzarella.
+JUSTIFICACION: Cremoso con poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~370 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~62 g
+Grasas: ~8 g
+Fibra: ~5 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Berenjena asada; aceite 2 → 1 cda; mozzarella 200 → 80 g baja en grasa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-ortigas
+TITULO: Risotto de Espinacas y Berros (en lugar de Ortigas)
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con hojas verdes tiernas (espinacas y berros) y yogur, sin vino.
+INGREDIENTES:
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Espinacas y berros tiernos, picados gruesos — 250 g
+• Arroz para risotto — 250 g
+• Zumo de naranja reducido — 3 cdas
+• Yogur natural espeso — 100 g
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Rehoga el arroz 1 minuto en el aceite; añade la naranja.
+2. Agrega el caldo poco a poco, removiendo, 15 minutos; incorpora las hojas los últimos 3.
+3. Mezcla con el yogur y el parmesano.
+JUSTIFICACION: Verde y cremoso.
+ADVERTENCIAS: Es una evocación: espinacas y berros en lugar de ortigas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~350 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~60 g
+Grasas: ~7 g
+Fibra: ~3 g
+Sodio: ~120 mg
+IG: Medio
+ADAPTACIÓN:
+• Ortigas → espinacas y berros; vino → naranja reducida; nata → yogur; mantequilla fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-achicoria
+TITULO: Risotto de Achicoria
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con achicoria roja y naranja reducida en lugar de vino.
+INGREDIENTES:
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Achicoria en tiras — 200 g
+• Arroz para risotto — 250 g
+• Zumo de naranja reducido — 3 cdas
+• Parmesano rallado — 1 cda
+PREPARACION:
+1. Rehoga cebolla y achicoria en el aceite 5 minutos; añade el arroz y la naranja.
+2. Agrega el caldo poco a poco, removiendo, 18 minutos.
+3. Sirve con el parmesano.
+JUSTIFICACION: Amarguita suave y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~60 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; mantequilla 80 g → aceite 10 g; parmesano reducido.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-gambas
+TITULO: Risotto de Gambas
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con gambas y el caldo de sus cáscaras con clavo y verduras.
+INGREDIENTES:
+• Gambas — 300 g
+• Cebolla picada — 1
+• Clavos — 2
+• Cogollo de apio — 1
+• Zanahoria — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Arroz para risotto — 250 g
+PREPARACION:
+1. Pela las gambas; cuece las cáscaras con la mitad de la cebolla, clavos, apio y zanahoria en 1 litro de agua 25 minutos; cuela.
+2. Rehoga el resto de la cebolla en el aceite; añade el arroz 1 minuto.
+3. Agrega el caldo poco a poco, removiendo, 15 minutos; incorpora las gambas 3 minutos.
+JUSTIFICACION: Intenso sabor marino sin sal.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~370 kcal (por porción)
+Proteínas: ~22 g
+Carbohidratos: ~58 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~180 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 80 g → aceite 10 g; arroz 350 → 250 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-manzana
+TITULO: Risotto de Manzana
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con manzana y parmesano, naranja reducida en lugar de vino y sin Worcestershire.
+INGREDIENTES:
+• Cáscara de limón — un trozo
+• Manzanas peladas y en dados — 2
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Arroz para risotto — 250 g
+• Zumo de naranja reducido — 3 cdas
+• Parmesano rallado — 1 cda
+• Canela en polvo — 1 pizca
+PREPARACION:
+1. Rehoga la manzana con la cáscara de limón en el aceite 5 minutos; añade el arroz y la naranja.
+2. Agrega el caldo poco a poco, removiendo, 18 minutos; retira la cáscara.
+3. Sirve con parmesano y canela.
+JUSTIFICACION: Dulce y aromático.
+ADVERTENCIAS: Es una evocación: sin Worcestershire (sodio) ni vino.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~350 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~66 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~80 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; Worcestershire fuera → canela; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-nata-rucula
+TITULO: Risotto Cremoso con Rúcula
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con yogur y rúcula fresca, sin vino ni nata.
+INGREDIENTES:
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada fina — 1
+• Arroz para risotto — 250 g
+• Zumo de naranja reducido — 3 cdas
+• Parmesano rallado — 1 cda
+• Yogur natural espeso — 120 g
+• Rúcula — 1 puñadito
+PREPARACION:
+1. Rehoga la cebolla en el aceite; añade el arroz y la naranja.
+2. Agrega el caldo poco a poco, removiendo, 18 minutos.
+3. Fuera del fuego mezcla con yogur, parmesano y rúcula.
+JUSTIFICACION: Cremoso con menos grasa saturada.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~58 g
+Grasas: ~7 g
+Fibra: ~2 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-pimiento
+TITULO: Risotto de Pimentón
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con pimentones rojos asados y tomate asado, perfumado con romero.
+INGREDIENTES:
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada fina — 1
+• Tomates asados en dados — 3
+• Pimentones rojos asados en tiras — 3
+• Romero fresco picado — un poco
+• Arroz para risotto — 250 g
+• Parmesano rallado — 2 cdas
+PREPARACION:
+1. Rehoga la cebolla en el aceite; añade tomate, pimentón y romero 5 minutos y luego el arroz.
+2. Agrega el caldo poco a poco, removiendo, 18 minutos.
+3. Sirve con el parmesano.
+JUSTIFICACION: Dulce y aromático.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~350 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~62 g
+Grasas: ~7 g
+Fibra: ~4 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; parmesano 4 → 2 cdas; tomate y pimentón asados.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-esparragos
+TITULO: Risotto de Espárragos
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con puntas de espárragos verdes.
+INGREDIENTES:
+• Espárragos sin las partes duras — 400 g
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — ½
+• Arroz para risotto — 250 g
+• Parmesano rallado — 1 cda (para servir)
+PREPARACION:
+1. Cuece los tallos en el caldo, tritura la mitad y reserva las puntas.
+2. Rehoga la cebolla en el aceite; añade el arroz y el caldo poco a poco, 18 minutos.
+3. Añade las puntas los últimos 4 minutos; sirve con parmesano.
+JUSTIFICACION: Ligero y sabroso.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~60 g
+Grasas: ~6 g
+Fibra: ~4 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 65 g y aceite 3 → aceite 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-salchichas
+TITULO: Risotto con Pollo y Res
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto en caldo de carne con pollo y res magra desmenuzados, en lugar de salchicha y vino tinto.
+INGREDIENTES:
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Pollo y res magra molidos — 200 g
+• Orégano y pimentón dulce — 1 pizca de cada uno
+• Arroz para risotto — 250 g
+• Remolacha cocida triturada — 60 g
+• Parmesano rallado — 2 cdas
+PREPARACION:
+1. Dora la carne con la cebolla y las especias en el aceite 8 minutos.
+2. Añade el arroz 1 minuto, la remolacha y el caldo poco a poco, 18 minutos.
+3. Sirve con parmesano.
+JUSTIFICACION: Sabroso sin embutido ni alcohol.
+ADVERTENCIAS: Es una evocación: sin salchicha ni vino.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~420 kcal (por porción)
+Proteínas: ~26 g
+Carbohidratos: ~58 g
+Grasas: ~9 g
+Fibra: ~3 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Salchicha → pollo y res magra; vino tinto → remolacha; parmesano 4 → 2 cdas; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-calabaza-alcachofa
+TITULO: Risotto de Calabaza y Alcachofa
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con calabaza y alcachofas.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Calabaza picada — 200 g
+• Alcachofas (corazones) — 3
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Arroz para risotto — 250 g
+• Parmesano rallado — 1 cda (para servir)
+PREPARACION:
+1. Rehoga calabaza y alcachofas en el aceite 8 minutos.
+2. Añade el arroz y el caldo poco a poco, removiendo, 18 minutos.
+3. Sirve con parmesano.
+JUSTIFICACION: Dulce y suave.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~62 g
+Grasas: ~6 g
+Fibra: ~4 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-cuatro-quesos
+TITULO: Risotto a los Cuatro Quesos Ligero
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto cremoso con mozzarella baja en grasa, queso fresco, un poco de queso azul y parmesano.
+INGREDIENTES:
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 1
+• Arroz para risotto — 250 g
+• Mozzarella baja en grasa en dados — 40 g
+• Queso fresco bajo en grasa — 40 g
+• Queso azul (gorgonzola) — 15 g
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Rehoga la cebolla en el aceite; añade el arroz y el caldo poco a poco, 18 minutos.
+2. Fuera del fuego incorpora los quesos.
+3. Sirve de inmediato.
+JUSTIFICACION: Cuatro quesos con la mitad de grasa y sodio.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~370 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~58 g
+Grasas: ~9 g
+Fibra: ~2 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Fontina y emmental → mozzarella y queso fresco bajo en grasa; gorgonzola 50 → 15 g; parmesano 50 → 20 g; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-negro-sepia
+TITULO: Risotto Negro con Sepia
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con sepia y su tinta en caldo de pescado, sin vino.
+INGREDIENTES:
+• Sepia limpia con las bolsitas de tinta aparte — 800 g
+• Caldo de pescado casero sin sal — 800 ml
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla pequeña picada — 1
+• Ajo asado — ½ diente
+• Zumo de naranja reducido — 3 cdas
+• Arroz para risotto — 250 g
+PREPARACION:
+1. Rehoga cebolla y ajo en el aceite; añade la sepia troceada y la naranja y cuece 20 minutos.
+2. Añade el arroz y el caldo con la tinta poco a poco, removiendo, 18 minutos.
+3. Sirve enseguida.
+JUSTIFICACION: Intenso y marino con poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~400 kcal (por porción)
+Proteínas: ~34 g
+Carbohidratos: ~58 g
+Grasas: ~6 g
+Fibra: ~2 g
+Sodio: ~310 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; aceite 3 → 1 cda; mantequilla fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-puerro-nata
+TITULO: Risotto de Puerro Cremoso
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con puerros tiernos y yogur.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Puerros finos en rodajas finas (parte blanca) — 4
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Arroz para risotto — 250 g
+• Yogur natural espeso — 120 g
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Rehoga el puerro en el aceite 8 minutos; añade el arroz.
+2. Agrega el caldo poco a poco, removiendo, 18 minutos.
+3. Fuera del fuego mezcla con el yogur; sirve con parmesano.
+JUSTIFICACION: Suave y cremoso.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~60 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-risotto-verde
+TITULO: Risotto Verde
+CATEGORIA: Risotto
+ICONO: arroz
+SUBSECCION: Risotto
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Risotto, Perfil1
+CONCEPTO: Risotto con espinacas, zanahoria, cebolla y apio con hojas.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Espinacas troceadas — 150 g
+• Zanahoria picada — 1
+• Cebolla pequeña picada — 1
+• Apio con las hojas, picado — 1 rama
+• Caldo de verduras casero sin sal (receta de este recetario) — 1 litro
+• Arroz para risotto — 250 g
+• Parmesano rallado — 1 cda (para servir)
+PREPARACION:
+1. Rehoga zanahoria, cebolla y apio en el aceite 8 minutos; añade el arroz.
+2. Agrega el caldo poco a poco, removiendo, 15 minutos; incorpora las espinacas los últimos 3.
+3. Sirve con parmesano.
+JUSTIFICACION: Verde y ligero.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~330 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~60 g
+Grasas: ~6 g
+Fibra: ~4 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla y aceite 3 → aceite 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-timbal-pastel-faisan
+TITULO: Pastelitos de Pollo y Cerdo Magro
+CATEGORIA: Timbal
+ICONO: 🥧
+SUBSECCION: Timbales
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pastel, Perfil1
+CONCEPTO: Pastelitos individuales con masa quebrada integral rellenos de pollo y cerdo magro con yogur, en lugar de faisán, higadillos, marsala y brandy.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Ajos asados — 2 dientes
+• Hojas de laurel — 2
+• Pechuga de pollo sin piel, troceada — 350 g
+• Carne magra de cerdo picada — 100 g
+• Zumo de naranja reducido — 3 cdas
+• Yogur natural espeso — 80 g
+• Masa Quebrada Integral (receta de este recetario) — 250 g
+• Harina integral — un poco para enharinar
+• Yema de huevo ligeramente batida — 1
+PREPARACION:
+1. Dora el pollo y el cerdo con el ajo y el laurel en el aceite 10 minutos; añade la naranja y cuece 10 minutos; retira el laurel y mezcla con el yogur fuera del fuego.
+2. Forra moldes individuales engrasados con la masa; rellena y tapa con más masa; pinta con la yema.
+3. Hornea 25 minutos a 190 °C.
+JUSTIFICACION: Mismo pastelito, sin hojaldre, vísceras ni alcohol.
+ADVERTENCIAS: Es una evocación: pollo en lugar de faisán; sin higadillos, marsala ni brandy.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~330 kcal (por porción)
+Proteínas: ~27 g
+Carbohidratos: ~24 g
+Grasas: ~12 g
+Fibra: ~3 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Faisán → pollo; higadillos, marsala y brandy fuera; hojaldre → masa quebrada integral; nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-timbal-pastel-pasta-calabaza
+TITULO: Pastel de Pasta de Calabaza
+CATEGORIA: Timbal
+ICONO: 🥧
+SUBSECCION: Timbales
+SECCION: Tartas y pasteles salados
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pastel, Perfil1
+CONCEPTO: Pastel de láminas de pasta de calabaza con salsa de setas y bechamel ligera.
+INGREDIENTES:
+• Setas frescas — 200 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Chalote picado — ½
+• Zanahoria picada — ½
+• Salsa Bechamel (receta de este recetario) — 250 ml
+• Calabaza hervida — 200 g
+• Harina integral — 250 g
+• Huevo ligeramente batido — 1
+PREPARACION:
+1. Amasa la calabaza con la harina y el huevo; estira láminas finas y cuécelas 2 minutos.
+2. Rehoga chalote, zanahoria y setas en el aceite 10 minutos.
+3. Monta capas en una fuente engrasada con pasta, setas y bechamel; hornea 25 minutos a 190 °C.
+JUSTIFICACION: Dulce y terroso, ligero.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~50 g
+Grasas: ~7 g
+Fibra: ~6 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; harina integral 300 → 250 g; setas frescas; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-timbal-pastel-penne-setas
+TITULO: Pastel de Penne y Setas
+CATEGORIA: Timbal
+ICONO: 🥧
+SUBSECCION: Timbales
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pastel, Perfil1
+CONCEPTO: Pastel con masa quebrada integral relleno de pennette integral y setas con yogur y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Ajo asado — 1 diente
+• Setas en láminas finas — 600 g
+• Caldo de verduras casero sin sal — 150 ml
+• Huevo — 1
+• Yogur natural espeso — 100 g
+• Perejil picado — un poco
+• Pennette integrales — 250 g
+• Parmesano rallado — 2 cdas
+• Masa Quebrada Integral (receta de este recetario) — 1 ración
+• Harina integral — un poco para enharinar
+PREPARACION:
+1. Saltea las setas con el aceite y el ajo 10 minutos; añade el caldo y cuece 5 minutos.
+2. Mezcla con la pasta cocida, el huevo batido con el yogur, el perejil y el parmesano.
+3. Forra un molde engrasado con la masa, rellena y hornea 35 minutos a 190 °C.
+JUSTIFICACION: Pastel sabroso con menos grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~56 g
+Grasas: ~10 g
+Fibra: ~8 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla fuera; nata → yogur; parmesano 4 → 2 cdas; boletos 800 → 600 g; masa integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-timbal-pastel-tallarines
+TITULO: Pastel de Tallarines
+CATEGORIA: Timbal
+ICONO: 🥧
+SUBSECCION: Timbales
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pastel, Perfil1
+CONCEPTO: Pastel de tallarines y espinacas con pollo y huevos, horneado en molde forrado de pasta, sin jamón.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Masa de pasta fresca integral (receta de este recetario) — 250 g
+• Harina integral — un poco para enharinar
+• Espinacas — 200 g
+• Leche descremada — 5 cdas
+• Yogur natural espeso — 3 cdas
+• Tallarines integrales — 250 g
+• Pechuga de pollo cocida en dados — 150 g
+• Huevos — 3
+• Parmesano rallado — 30 g
+PREPARACION:
+1. Estira la masa y forra un molde engrasado; cuece las espinacas y pícalas.
+2. Mezcla tallarines cocidos, espinacas, pollo, huevos batidos con leche y yogur, y parmesano.
+3. Rellena el molde y hornea 35 minutos a 180 °C.
+JUSTIFICACION: Más proteína magra, menos grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal (por porción)
+Proteínas: ~25 g
+Carbohidratos: ~48 g
+Grasas: ~9 g
+Fibra: ~6 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón → pollo; mantequilla 80 g → aceite 10 g; nata → yogur; parmesano 50 → 30 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-timbal-sartu
+TITULO: Sartù
+CATEGORIA: Timbal
+ICONO: arroz
+SUBSECCION: Timbales
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Timbal, Perfil1
+CONCEPTO: Timbal napolitano de arroz relleno de albóndigas de res magra, pollo y mozzarella baja en grasa, sin higadillos ni salchicha.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 2 cdas (20 g, y un poco para engrasar)
+• Pan integral rallado — 50 g
+• Setas frescas — 100 g
+• Rebanada gruesa de pan integral sin corteza — 1
+• Leche descremada — 120 ml
+• Carne molida magra de res — 100 g
+• Pechuga de pollo picada — 100 g
+• Mozzarella baja en grasa en dados — 50 g
+• Caldo de carne casero sin sal — 700 ml
+• Cebolla picada — ½
+• Tomate asado triturado — 50 ml
+• Arroz para risotto — 250 g
+• Huevos ligeramente batidos — 2
+PREPARACION:
+1. Remoja el pan en la leche; mezcla con la carne y forma albóndigas pequeñas; hornéalas 12 minutos a 200 °C.
+2. Dora el pollo y las setas con la cebolla y el tomate en 1 cda de aceite 10 minutos.
+3. Cuece el arroz en el caldo, enfría y mezcla con los huevos; forra un molde engrasado y espolvoreado con pan rallado, rellena con albóndigas, pollo y mozzarella, cubre con arroz y hornea 30 minutos a 190 °C.
+JUSTIFICACION: Mismo timbal sin vísceras ni embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de higadillos y salchicha.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~420 kcal (por porción)
+Proteínas: ~26 g
+Carbohidratos: ~50 g
+Grasas: ~12 g
+Fibra: ~3 g
+Sodio: ~210 mg
+IG: Medio
+ADAPTACIÓN:
+• Higadillos y salchicha → pollo; mantequilla 100 g → aceite 20 g; albóndigas horneadas; mozzarella baja en grasa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-timbal-timbal-fusilli
+TITULO: Timbal de Fusilli
+CATEGORIA: Timbal
+ICONO: pasta
+SUBSECCION: Timbales
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Timbal, Perfil1
+CONCEPTO: Timbal de fusilli integral con puerro cocido en leche, huevos y parmesano, sin vino.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Puerros en rodajas finas (parte blanca) — 4
+• Zumo de naranja reducido — 3 cdas
+• Leche descremada — 350 ml
+• Fusilli integrales — 300 g
+• Parmesano rallado — 40 g
+• Huevos — 2
+• Hojas de salvia — 6
+PREPARACION:
+1. Rehoga el puerro con la salvia en el aceite; añade la naranja y la leche y cuece 15 minutos.
+2. Mezcla con la pasta cocida, los huevos y el parmesano.
+3. Vierte en un molde engrasado y hornea 30 minutos a 180 °C.
+JUSTIFICACION: Cremoso y ligero.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~52 g
+Grasas: ~8 g
+Fibra: ~7 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; mantequilla → aceite; leche descremada; parmesano 80 → 40 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-timbal-timbal-macarrones
+TITULO: Timbal de Macarrones a la Napolitana
+CATEGORIA: Timbal
+ICONO: pasta
+SUBSECCION: Timbales
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Timbal, Perfil1
+CONCEPTO: Timbal de macarrones integrales con pollo, setas y salsa de tomate asado, con mozzarella baja en grasa, sin menudillos ni salchicha.
+INGREDIENTES:
+• Setas frescas — 200 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Ajo asado picado — 1 diente
+• Cebolla picada — ½
+• Pechuga de pollo en dados — 250 g
+• Tomates asados en dados — 400 g
+• Pan integral rallado — 60 g
+• Macarrones integrales — 300 g
+• Mozzarella baja en grasa en dados — 80 g
+• Parmesano rallado — 30 g
+PREPARACION:
+1. Rehoga cebolla, ajo, pollo y setas en el aceite 10 minutos; añade el tomate y cuece 15 minutos.
+2. Mezcla con los macarrones cocidos y la mozzarella.
+3. Rellena un molde engrasado y espolvoreado con pan rallado, cubre con parmesano y hornea 25 minutos a 190 °C.
+JUSTIFICACION: Contundente con menos grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de menudillos y salchicha.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal (por porción)
+Proteínas: ~24 g
+Carbohidratos: ~54 g
+Grasas: ~8 g
+Fibra: ~8 g
+Sodio: ~160 mg
+IG: Medio
+ADAPTACIÓN:
+• Menudillos y salchichas → pollo; mantequilla → aceite; mozzarella 150 → 80 g; setas frescas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-timbal-timbal-arroz
+TITULO: Timbal de Arroz
+CATEGORIA: Timbal
+ICONO: arroz
+SUBSECCION: Timbales
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Timbal, Perfil1
+CONCEPTO: Timbal de arroz con parmesano relleno de setas y pollo, sin menudillos, mollejas ni salchicha.
+INGREDIENTES:
+• Arroz integral y blanco — 300 g
+• Aceite de oliva extra virgen — 2 cdas (20 g, y un poco para engrasar)
+• Yemas de huevo — 2
+• Parmesano rallado — 3 cdas
+• Setas frescas — 200 g
+• Ajo asado — 1 diente
+• Pechuga de pollo picada — 250 g
+• Pan integral rallado — 60 g
+PREPARACION:
+1. Cuece el arroz y mézclalo con las yemas y el parmesano.
+2. Saltea setas, ajo y pollo en 1 cda de aceite 10 minutos.
+3. Forra un molde engrasado y empanado con arroz, rellena con el salteado, cubre con arroz y hornea 30 minutos a 190 °C.
+JUSTIFICACION: Mismo timbal sin vísceras.
+ADVERTENCIAS: Es una evocación: pollo en lugar de menudillos, mollejas y salchicha.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~370 kcal (por porción)
+Proteínas: ~24 g
+Carbohidratos: ~48 g
+Grasas: ~9 g
+Fibra: ~3 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 120 g → aceite 20 g; menudillos, mollejas y salchicha → pollo; parmesano 6 → 3 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-timbal-pastel-queso
+TITULO: Pastel de Queso y Tallarines
+CATEGORIA: Timbal
+ICONO: 🥧
+SUBSECCION: Timbales
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pastel, Perfil1
+CONCEPTO: Pastel de masa de pizza integral relleno de tallarines con ricota, queso fresco y un toque de queso azul.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Masa de Pizza Integral (receta de este recetario) — 200 g
+• Harina integral — un poco para enharinar
+• Ricota baja en grasa — 150 g
+• Queso fresco bajo en grasa en dados — 100 g
+• Gorgonzola — 30 g
+• Tallarines integrales — 200 g
+• Huevos — 2
+• Parmesano rallado — 2 cdas
+PREPARACION:
+1. Estira la masa y forra un molde engrasado.
+2. Mezcla los tallarines cocidos con los quesos, los huevos y el parmesano.
+3. Rellena y hornea 35 minutos a 190 °C.
+JUSTIFICACION: Cremoso con menos grasa y sodio.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~360 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~46 g
+Grasas: ~11 g
+Fibra: ~6 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Robiola → queso fresco bajo en grasa; gorgonzola 100 → 30 g; ricota baja en grasa; mantequilla → aceite; parmesano 4 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-timbal-vincisgrassi
+TITULO: Vincisgrassi
+CATEGORIA: Timbal
+ICONO: pasta
+SUBSECCION: Timbales
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+PORCIONES: 7
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Lasaña de las Marcas con setas, pollo y bechamel ligera, sin mollejas, menudillos, marsala ni trufa.
+INGREDIENTES:
+• Harina integral y de trigo (mitad y mitad) — 300 g
+• Sémola integral — 150 g
+• Huevos — 3
+• Setas frescas — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Cebolla picada — ½
+• Champiñones asados picados — 40 g
+• Caldo de pollo casero sin sal — 150 ml
+• Pechuga de pollo sin piel, en tiras — 300 g
+• Zumo de naranja reducido — 3 cdas
+• Parmesano rallado — 40 g
+• Salsa Bechamel (receta de este recetario) — 1 ración
+PREPARACION:
+1. Amasa harina, sémola y huevos; estira láminas finas y cuécelas 2 minutos.
+2. Rehoga cebolla, setas y pollo en el aceite 10 minutos; añade champiñones, caldo y naranja y cuece 10 minutos.
+3. Monta capas en una fuente engrasada con pasta, ragú, bechamel y parmesano; hornea 30 minutos a 190 °C.
+JUSTIFICACION: Receta festiva más ligera.
+ADVERTENCIAS: Es una evocación: pollo y setas en lugar de mollejas y menudillos; sin trufa ni marsala.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~420 kcal (por porción)
+Proteínas: ~29 g
+Carbohidratos: ~52 g
+Grasas: ~10 g
+Fibra: ~6 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Mollejas y menudillos → pollo; trufa → champiñón asado; marsala → naranja reducida; mantequilla → aceite; parmesano 80 → 40 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-timbal-volovan-raviolini
+TITULO: Volován con Raviolini
+CATEGORIA: Timbal
+ICONO: 🥧
+SUBSECCION: Timbales
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Volován grande relleno de raviolis pequeños, guisantes y bechamel ligera.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Guisantes — 100 g
+• Raviolis pequeños de verdura — 350 g
+• Parmesano rallado — 20 g
+• Volován grande (15-20 cm) — 1
+• Salsa Bechamel (receta de este recetario) — 1 ración
+PREPARACION:
+1. Cuece los raviolis y saltéalos con el aceite y los guisantes cocidos.
+2. Mezcla con la bechamel y el parmesano.
+3. Rellena el volován caliente y sirve.
+JUSTIFICACION: Espectacular con menos grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~42 g
+Grasas: ~10 g
+Fibra: ~3 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; raviolis 500 → 350 g; parmesano 40 → 20 g; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-timbal-volovan-marisco
+TITULO: Volován de Marisco
+CATEGORIA: Timbal
+ICONO: 🥧
+SUBSECCION: Timbales
+SECCION: Tartas y pasteles salados
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Marisco, Pescado, Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Volován grande relleno de albóndigas de pescado y gambas con bechamel ligera, sin vino ni jerez.
+INGREDIENTES:
+• Zumo de naranja reducido — 4 cdas
+• Hoja de laurel — 1
+• Ajo asado — 1 diente
+• Clavo — 1
+• Perejil — un poco
+• Rama de apio — 1
+• Cebolla en rodajas — 1
+• Zanahoria en rodajas — 1
+• Filetes de merluza — 500 g
+• Pan integral sin corteza — 40 g
+• Leche descremada — 120 ml
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Gambas peladas — 250 g
+• Volován grande (15-20 cm) — 1
+• Salsa Bechamel (receta de este recetario) — 200 ml
+• Huevo ligeramente batido — 1
+• Harina de avena — un poco para enharinar
+PREPARACION:
+1. Cuece la merluza con laurel, ajo, clavo, perejil, apio, cebolla, zanahoria y naranja en 500 ml de agua 10 minutos; cuela y desmenuza.
+2. Mezcla un tercio del pescado con el pan remojado en leche y el huevo; forma albóndigas, pásalas por harina y hornéalas 12 minutos a 200 °C.
+3. Saltea las gambas en el aceite; mezcla con el resto del pescado, las albóndigas y la bechamel; rellena el volován.
+JUSTIFICACION: Mismo relleno cremoso, sin vino ni jerez.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~29 g
+Carbohidratos: ~25 g
+Grasas: ~9 g
+Fibra: ~2 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino y jerez → naranja reducida; mantequilla → aceite; albóndigas al horno; merluza 700 → 500 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-masa-fresca
+TITULO: Masa de Pasta Fresca (Receta Básica)
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Pasta, Base, Perfil1
+CONCEPTO: La masa de harina y huevo para tallarines, lasaña, raviolis y otras pastas rellenas, con harina integral.
+INGREDIENTES:
+• Harina integral y de trigo (mitad y mitad) — 200 g (y un poco para enharinar)
+• Huevos — 2
+PREPARACION:
+1. Forma un volcán con la harina y coloca los huevos en el centro.
+2. Amasa 10 minutos hasta que quede lisa; reposa 30 minutos envuelta.
+3. Estira fina y corta según el uso.
+JUSTIFICACION: Base de todas las pastas frescas, sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~40 g
+Grasas: ~3 g
+Fibra: ~5 g
+Sodio: ~35 mg
+IG: Medio
+ADAPTACIÓN:
+• Harina mitad integral; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-masa-verde
+TITULO: Masa de Pasta Verde (Receta Básica)
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Pasta, Base, Perfil1
+CONCEPTO: Masa de pasta con espinacas; los tallarines verdes mezclados con normales se llaman «paja y heno».
+INGREDIENTES:
+• Harina integral y de trigo (mitad y mitad) — 200 g
+• Huevos — 2
+• Espinacas cocidas, bien escurridas y picadas — 100 g
+PREPARACION:
+1. Mezcla los huevos con las espinacas muy escurridas.
+2. Forma la masa con la harina; amasa 10 minutos y reposa 30.
+3. Estira fina y corta según el uso.
+JUSTIFICACION: Color y hierro sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~240 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~40 g
+Grasas: ~3 g
+Fibra: ~6 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Harina mitad integral; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-agnolotti
+TITULO: Agnolotti a la Piamontesa
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Pasta rellena piamontesa de espinacas y carne estofada magra con pollo, servida con el jugo del estofado, sin jamón.
+INGREDIENTES:
+• Harina integral y de trigo (mitad y mitad) — 250 g (y un poco para enharinar)
+• Huevos — 2
+• Espinacas — 250 g
+• Carne estofada magra picada (res y pollo) — 300 g
+• Yemas de huevo — 2
+• Huevo — 1
+• Parmesano rallado — 30 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Amasa la harina con los 2 huevos; reposa 30 minutos. Mezcla espinacas cocidas y picadas, carne, yemas, huevo y parmesano para el relleno.
+2. Estira la masa, coloca montoncitos de relleno, cierra y corta los agnolotti.
+3. Cuécelos 4 minutos en agua hirviendo y sirve con el jugo del estofado y el aceite.
+JUSTIFICACION: Mismo relleno, más ligero.
+ADVERTENCIAS: Es una evocación: sin jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal (por porción)
+Proteínas: ~29 g
+Carbohidratos: ~40 g
+Grasas: ~10 g
+Fibra: ~5 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón fuera; mantequilla → aceite; carne magra 400 → 300 g; harina integral; parmesano 50 → 30 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-bigoli-anchoas
+TITULO: Bigoli con Cebolla y Atún
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 5
+RIESGOS: Gluten, Huevo, Pescado
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Pasta gruesa integral (bigoli) con salsa de cebolla cocida, perejil y atún al natural en lugar de anchoas.
+INGREDIENTES:
+• Harina integral y de trigo (mitad y mitad) — 300 g
+• Huevos — 2
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Cebollas picadas — 2
+• Perejil picado — un poco
+• Atún al natural desmenuzado — 80 g
+PREPARACION:
+1. Amasa harina y huevos; forma bigoli gruesos y reposa 30 minutos.
+2. Cuece la cebolla con el aceite y un poco de agua a fuego suave 20 minutos; añade atún y perejil.
+3. Cuece la pasta 5 minutos y mezcla con la salsa.
+JUSTIFICACION: Dulzor de cebolla y toque salino sin anchoas.
+ADVERTENCIAS: Es una evocación: atún al natural en lugar de anchoas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~54 g
+Grasas: ~8 g
+Fibra: ~7 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Anchoas → atún al natural; aceite 4 → 1½ cdas; harina integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-canelones
+TITULO: Canelones con Bechamel
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Canelones rellenos de espinacas y pollo asado, gratinados con bechamel ligera, sin jamón.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Espinacas — 300 g
+• Pechuga de pollo asada picada — 200 g
+• Parmesano rallado — 1 cda
+• Huevo — 1
+• Masa de pasta fresca (receta de este recetario) — 1 ración
+• Salsa Bechamel (receta de este recetario) — 1 ración
+PREPARACION:
+1. Rehoga las espinacas en el aceite; mezcla con el pollo, el huevo y el parmesano.
+2. Corta la masa en rectángulos, cuécela 2 minutos, rellena y enrolla.
+3. Coloca en una fuente engrasada, cubre con bechamel y gratina 20 minutos a 200 °C.
+JUSTIFICACION: Menos grasa, mismo gratinado.
+ADVERTENCIAS: Es una evocación: pollo en lugar de ternera asada y jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~26 g
+Carbohidratos: ~34 g
+Grasas: ~10 g
+Fibra: ~5 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Ternera y jamón → pollo; mantequilla → aceite; parmesano 2 cdas → 1; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-crepes-queso-jamon
+TITULO: Crepes de Queso y Pollo
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Crepes, Perfil1
+CONCEPTO: Crepes integrales rellenas de pollo y queso bajo en grasa, gratinadas con bechamel ligera, en lugar de jamón y gruyer.
+INGREDIENTES:
+• Huevos — 2
+• Harina integral y de avena (mitad y mitad) — 90 g
+• Leche descremada — 250 ml
+• Aceite de oliva extra virgen — 1 cdta (5 g, y un poco para engrasar)
+• Pechuga de pollo cocida en lonchas finas — 100 g
+• Mozzarella baja en grasa rallada — 80 g
+• Nuez moscada — 1 pizca
+• Salsa Bechamel (receta de este recetario) — 1 ración
+PREPARACION:
+1. Bate huevos, harinas, leche y aceite; reposa 30 minutos y cuece crepes finas en sartén antiadherente.
+2. Rellena con pollo y queso; dobla y coloca en una fuente engrasada.
+3. Cubre con bechamel y nuez moscada y gratina 15 minutos a 200 °C.
+JUSTIFICACION: Mismo gratinado con menos grasa y sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~330 kcal (por porción)
+Proteínas: ~25 g
+Carbohidratos: ~28 g
+Grasas: ~12 g
+Fibra: ~3 g
+Sodio: ~220 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón → pollo; gruyère 150 → mozzarella baja en grasa 80 g; mantequilla → aceite; harinas integrales.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-fettuccine-mantequilla-marron
+TITULO: Fettuccine con Jugo de Asado
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Fettuccine integrales con aceite dorado con ajo asado, jugo de asado desgrasado y parmesano.
+INGREDIENTES:
+• Tallarines frescos integrales — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado majado — 1 diente
+• Jugo de un asado desgrasado — 4 cdas
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Cuece los tallarines 3 minutos.
+2. Calienta el aceite con el ajo hasta dorar suavemente y añade el jugo.
+3. Mezcla con la pasta y el parmesano.
+JUSTIFICACION: Sabor a mantequilla dorada con poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~48 g
+Grasas: ~9 g
+Fibra: ~6 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 50 g → aceite 10 g; parmesano 50 → 25 g; jugo desgrasado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-fettuccine-salsa-blanca
+TITULO: Fettuccine en Salsa Blanca
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Fettuccine con una salsa cremosa de yogur y parmesano.
+INGREDIENTES:
+• Masa de pasta fresca (receta de este recetario) — 1 ración
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Parmesano rallado — 40 g
+• Yogur natural espeso — 100 g
+• Nuez moscada — 1 pizca
+PREPARACION:
+1. Corta la masa en tiras y cuece 3 minutos.
+2. Mezcla aceite, yogur, parmesano y nuez moscada fuera del fuego con un poco del agua de cocción.
+3. Combina con la pasta.
+JUSTIFICACION: Cremosa sin nata.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~42 g
+Grasas: ~11 g
+Fibra: ~5 g
+Sodio: ~210 mg
+IG: Medio
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite; parmesano 80 → 40 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-lasana-bolonesa
+TITULO: Lasaña a la Boloñesa
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: La lasaña clásica con ragú de res magra, bechamel ligera y parmesano, sin vino.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Zanahoria picada — 1
+• Cebolla picada — 1
+• Carne molida magra de res — 250 g
+• Zumo de naranja reducido — 3 cdas
+• Tomate asado triturado — 250 g
+• Masa de pasta fresca (receta de este recetario) — 1 ración
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Parmesano rallado — 30 g
+PREPARACION:
+1. Rehoga zanahoria y cebolla en el aceite; dora la carne, añade la naranja y el tomate y cuece 30 minutos.
+2. Cuece las láminas de pasta 2 minutos.
+3. Monta capas en una fuente engrasada con pasta, ragú, bechamel y parmesano; hornea 30 minutos a 190 °C.
+JUSTIFICACION: Clásica y más ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~400 kcal (por porción)
+Proteínas: ~26 g
+Carbohidratos: ~42 g
+Grasas: ~13 g
+Fibra: ~5 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; aceite 3 → 1 cda; mantequilla fuera; carne magra 300 → 250 g; parmesano 65 → 30 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-lasana-napolitana
+TITULO: Lasaña a la Napolitana
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Lasaña con albóndigas de res magra horneadas, huevo duro, mozzarella baja en grasa y salsa de tomate asado.
+INGREDIENTES:
+• Harina integral y de trigo (mitad y mitad) — 250 g (y un poco para enharinar)
+• Huevos — 2
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Cebolla picada — 1
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Ajo asado — ¼ diente
+• Tomate asado triturado — 800 ml
+• Carne molida magra de res — 250 g
+• Parmesano rallado — 30 g
+• Huevos — 3 (1 para las albóndigas y 2 duros)
+• Mozzarella baja en grasa en lonchas — 100 g
+PREPARACION:
+1. Amasa harina y 2 huevos y estira láminas; haz el sofrito con aceite, verduras y tomate 20 minutos.
+2. Mezcla la carne con 1 huevo y parmesano; forma albóndigas pequeñas y hornéalas 12 minutos a 200 °C.
+3. Monta capas con pasta, salsa, albóndigas, huevo duro en rodajas y mozzarella; hornea 30 minutos a 190 °C.
+JUSTIFICACION: Menos grasa y sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~410 kcal (por porción)
+Proteínas: ~28 g
+Carbohidratos: ~40 g
+Grasas: ~15 g
+Fibra: ~6 g
+Sodio: ~200 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 5 → 1½ cdas; mantequilla fuera; huevos 5 → 3; mozzarella 150 → 100 g baja en grasa; albóndigas al horno.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-lasana-berenjena-ricota
+TITULO: Lasaña de Berenjena y Ricota
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Frutos secos, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Lasaña con berenjena asada, ricota baja en grasa, piñones, tomate asado y albahaca.
+INGREDIENTES:
+• Berenjena grande en rodajas asada — 1
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Láminas de lasaña integral preparadas — 250 g
+• Piñones desmenuzados — 15 g
+• Ricota baja en grasa — 150 g
+• Tomate asado triturado — 120 ml
+• Hojas de albahaca — 12
+• Parmesano rallado — 2 cdas
+PREPARACION:
+1. Ásala la berenjena 20 minutos a 200 °C; cuece las láminas.
+2. Mezcla la ricota con los piñones y la albahaca.
+3. Monta capas en una fuente engrasada con pasta, berenjena, ricota y tomate; cubre con parmesano y hornea 25 minutos a 190 °C.
+JUSTIFICACION: Ligera y mediterránea.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~280 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~38 g
+Grasas: ~9 g
+Fibra: ~6 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Piñones 50 → 15 g; ricota baja en grasa; concentrado → tomate asado; parmesano 4 → 2 cdas; lasaña integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-lasana-achicoria
+TITULO: Lasaña de Achicoria
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Lasaña con yogur, achicoria y bechamel ligera, horneada.
+INGREDIENTES:
+• Harina integral y de trigo (mitad y mitad) — 250 g (y un poco para enharinar)
+• Huevos — 2
+• Yogur natural espeso — 100 g
+• Achicoria en tiras — 300 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Salsa Bechamel (receta de este recetario) — 1 ración
+PREPARACION:
+1. Amasa harina y huevos; estira láminas y cuécelas 2 minutos.
+2. Rehoga la achicoria en el aceite 5 minutos y mezcla con el yogur.
+3. Monta capas en una fuente engrasada con pasta, achicoria y bechamel; hornea 25 minutos a 190 °C.
+JUSTIFICACION: Amarguita suave y cremosa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~270 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~38 g
+Grasas: ~8 g
+Fibra: ~5 g
+Sodio: ~100 mg
+IG: Medio
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite; huevos 3 → 2; harina integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-macarrones-chitarra
+TITULO: Macarrones a la Chitarra
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Pasta de Abruzzo cortada con la chitarra, con salsa de tomate asado y pimentón dulce en lugar de guindilla.
+INGREDIENTES:
+• Harina integral y de trigo (mitad y mitad) — 350 g (y un poco para enharinar)
+• Huevos — 3
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Tomates pera asados y en dados — 500 g
+• Pimentón dulce — 1 pizca
+PREPARACION:
+1. Amasa harina y huevos; estira y corta con la chitarra o a cuchillo en tiras gruesas.
+2. Cuece el tomate asado con el aceite y el pimentón 15 minutos.
+3. Cuece la pasta 4 minutos y mezcla con la salsa.
+JUSTIFICACION: Rústica y sin picante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~52 g
+Grasas: ~7 g
+Fibra: ~7 g
+Sodio: ~35 mg
+IG: Medio
+ADAPTACIÓN:
+• Guindilla → pimentón dulce; aceite 6 → 1½ cdas; harina integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-macarrones-chitarra-higadillos
+TITULO: Macarrones a la Chitarra con Pollo
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Macarrones a la chitarra con pechuga de pollo rehogada con cebolla, caldo y parmesano, en lugar de higadillos.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Pechuga de pollo picada — 300 g
+• Caldo de carne casero sin sal — 4 cdas
+• Macarrones a la chitarra (receta anterior) — 1 ración (350 g de harina)
+• Parmesano rallado — 2 cdas
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade el pollo y dóralo 8 minutos con el caldo.
+2. Cuece la pasta 4 minutos.
+3. Mezcla con el pollo y sirve con parmesano.
+JUSTIFICACION: Textura similar sin vísceras.
+ADVERTENCIAS: Es una evocación: pollo en lugar de higadillos.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal (por porción)
+Proteínas: ~29 g
+Carbohidratos: ~50 g
+Grasas: ~7 g
+Fibra: ~6 g
+Sodio: ~120 mg
+IG: Medio
+ADAPTACIÓN:
+• Higadillos → pollo; mantequilla fuera; aceite 3 → 1 cda; parmesano reducido.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-maltagliati-calabaza
+TITULO: Maltagliati con Calabaza
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Pasta cortada irregular con una salsa de calabaza, aceite y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Calabaza pelada, despepitada y en dados — 500 g
+• Maltagliati integrales (pasta fresca cortada irregular) — 300 g
+• Nuez moscada — 1 pizca
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Cuece la calabaza con el aceite y un poco de agua 20 minutos; machácala parcialmente.
+2. Cuece la pasta 3 minutos.
+3. Mezcla con la salsa, la nuez moscada y el parmesano.
+JUSTIFICACION: Dulce y cremosa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~54 g
+Grasas: ~7 g
+Fibra: ~7 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 100 g y aceite 3 → aceite 1 cda; parmesano 50 → 25 g; pasta integral 400 → 300 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-orecchiette-basica
+TITULO: Orecchiette (Receta Básica)
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Pasta, Base, Perfil1
+CONCEPTO: Pasta de Apulia en forma de pequeñas orejas, de harina y sémola, sin sal.
+INGREDIENTES:
+• Harina integral y de trigo (mitad y mitad) — 150 g
+• Sémola integral — 100 g
+• Agua tibia — 120 ml
+PREPARACION:
+1. Mezcla harina, sémola y agua; amasa 10 minutos y reposa 30.
+2. Forma tiras finas, corta trocitos y presiónalos con el pulgar para darles forma de oreja.
+3. Cuece 8-10 minutos.
+JUSTIFICACION: Pasta sin huevo y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~46 g
+Grasas: ~1 g
+Fibra: ~5 g
+Sodio: ~5 mg
+IG: Medio
+ADAPTACIÓN:
+• Sin sal; harinas integrales.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-orecchiette-brecol
+TITULO: Orecchiette con Brócoli
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Orecchiette con brócoli rehogado con ajo asado y pimentón dulce, sin guindilla.
+INGREDIENTES:
+• Brócoli en ramitos — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Pimentón dulce — 1 pizca
+• Orecchiette integrales — 250 g
+• Parmesano rallado — 1 cdta (para servir)
+PREPARACION:
+1. Cuece el brócoli al vapor 8 minutos.
+2. Rehoga con el aceite, el ajo y el pimentón 3 minutos y aplasta ligeramente.
+3. Mezcla con la pasta cocida y sirve con parmesano.
+JUSTIFICACION: Verde y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~54 g
+Grasas: ~5 g
+Fibra: ~10 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Guindilla → pimentón dulce; aceite 2 → 1 cda; pecorino fuera; pasta integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-orecchiette-nabizas
+TITULO: Orecchiette con Hojas Verdes
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Orecchiette integrales con nabizas o espinacas y ajo asado.
+INGREDIENTES:
+• Orecchiette integrales — 300 g
+• Nabizas o espinacas — 400 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 2 dientes
+PREPARACION:
+1. Cuece las hojas 4 minutos y pícalas.
+2. Rehógalas con el aceite y el ajo.
+3. Mezcla con la pasta cocida.
+JUSTIFICACION: Simple y rica en fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~300 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~54 g
+Grasas: ~4 g
+Fibra: ~9 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; pasta integral; ajo asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-orecchiette-tomate-ricota
+TITULO: Orecchiette con Tomate y Ricota
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Orecchiette integrales con salsa de tomate asado y albahaca y ricota rallada.
+INGREDIENTES:
+• Tomate entero asado y pelado — 250 g
+• Hojas grandes de albahaca — 6
+• Orecchiette integrales — 300 g
+• Ricota baja en grasa rallada o desmenuzada — 50 g
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION:
+1. Cuece el tomate asado con el aceite 10 minutos; añade la albahaca.
+2. Cuece la pasta.
+3. Mezcla con la salsa y corona con la ricota.
+JUSTIFICACION: Fresca y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~56 g
+Grasas: ~5 g
+Fibra: ~8 g
+Sodio: ~40 mg
+IG: Medio
+ADAPTACIÓN:
+• Ricota curada → ricota baja en grasa; tomate asado; pasta integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-pansotti
+TITULO: Pansotti a la Genovesa
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Frutos secos, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Pasta rellena de hierbas con ricota baja en grasa, servida con una salsa ligera de avellanas.
+INGREDIENTES:
+• Harina integral y de trigo (mitad y mitad) — 300 g (y un poco para enharinar)
+• Agua — 80 ml
+• Borrajas, escarola, acelgas o espinacas — 800 g
+• Ajo asado — ¼ diente
+• Ricota baja en grasa — 200 g
+• Huevos — 2
+• Parmesano rallado — 30 g
+• Rebanada de pan integral sin corteza — 1
+• Leche descremada — 3 cdas
+• Avellanas peladas — 40 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Amasa harina, 1 huevo y agua; cuece las hierbas y pícalas; mezcla con ricota, 1 huevo, ajo y parmesano para el relleno.
+2. Estira la masa, rellena y forma los pansotti; cuécelos 4 minutos.
+3. Tritura avellanas, pan remojado en leche y aceite hasta lograr una salsa; sirve sobre los pansotti.
+JUSTIFICACION: Salsa de avellanas con la quinta parte del aceite.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~16 g
+Carbohidratos: ~42 g
+Grasas: ~12 g
+Fibra: ~6 g
+Sodio: ~120 mg
+IG: Medio
+ADAPTACIÓN:
+• Avellanas 200 → 40 g; aceite 150 ml → 10 g; vino y mantequilla fuera; ricota baja en grasa; harina integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-pizzoccheri
+TITULO: Pizzoccheri de la Valtellina
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tallarines de alforfón con col, papa, aceite, salvia y quesos bajos en grasa.
+INGREDIENTES:
+• Harina de alforfón — 150 g
+• Harina integral — 80 g
+• Huevo — 1
+• Leche descremada — 2 cdas
+• Col rizada en juliana — 400 g
+• Papa picada — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 1
+• Hojas de salvia desmenuzadas — 4
+• Queso bajo en grasa en lonchas — 120 g
+• Parmesano rallado — 30 g
+PREPARACION:
+1. Amasa harinas, huevo y leche; estira y corta tallarines gruesos.
+2. Cuece col y papa 8 minutos; añade los tallarines 4 minutos.
+3. Rehoga cebolla y salvia en el aceite; monta capas con la pasta, los quesos y el aceite aromatizado y gratina 10 minutos.
+JUSTIFICACION: Mismo plato rústico con menos grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~18 g
+Carbohidratos: ~46 g
+Grasas: ~9 g
+Fibra: ~7 g
+Sodio: ~200 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 100 g → aceite 10 g; queso 150 → 120 g; parmesano 80 → 30 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-raviolis-napolitana
+TITULO: Raviolis a la Napolitana
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Raviolis rellenos de ricota baja en grasa y mozzarella, con salsa de tomate; pollo en lugar de jamón.
+INGREDIENTES:
+• Harina integral y de trigo (mitad y mitad) — 250 g
+• Huevos — 2
+• Ricota baja en grasa — 100 g
+• Huevo — 1
+• Perejil picado — un poco
+• Parmesano rallado — 40 g
+• Pechuga de pollo cocida picada — 80 g
+• Mozzarella baja en grasa en dados — 80 g
+• Salsa de Tomate (receta de este recetario) — 1 ración
+PREPARACION:
+1. Amasa harina y 2 huevos; mezcla ricota, huevo, perejil, parmesano, pollo y mozzarella para el relleno.
+2. Estira la masa, rellena y corta los raviolis.
+3. Cuécelos 4 minutos y sirve con la salsa.
+JUSTIFICACION: Relleno suave y ligero.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~22 g
+Carbohidratos: ~44 g
+Grasas: ~9 g
+Fibra: ~6 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón → pollo; mozzarella 100 → 80 g baja en grasa; parmesano 100 → 40 g; harina integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-raviolis-verdura
+TITULO: Raviolis de Verdura
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Raviolis rellenos de espinacas y ricota baja en grasa, con aceite y salvia.
+INGREDIENTES:
+• Harina integral y de trigo (mitad y mitad) — 250 g (y un poco para enharinar)
+• Huevos — 2
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Hojas de salvia — 8
+• Espinacas — 1 kg
+• Ricota baja en grasa — 400 g
+• Huevo — 1
+• Parmesano rallado — 60 g
+PREPARACION:
+1. Amasa harina y 2 huevos; cuece las espinacas, escúrrelas y pícalas; mezcla con ricota, huevo y 40 g de parmesano.
+2. Estira, rellena y corta los raviolis; cuécelos 4 minutos.
+3. Saltea con el aceite y la salvia y sirve con el resto del parmesano.
+JUSTIFICACION: Muy rica en vegetales y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~38 g
+Grasas: ~9 g
+Fibra: ~6 g
+Sodio: ~160 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; ricota 500 → 400 g baja en grasa; parmesano 170 → 60 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-stracci-bogavante
+TITULO: Stracci con Langostinos
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Marisco, Gluten, Huevo
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Pasta en cuadrados irregulares con langostinos (en lugar de bogavante), verduras, tomate asado e hinojo.
+INGREDIENTES:
+• Cebolla picada — 1
+• Rama de apio en bastoncitos — 1
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Ajo asado — 1 diente
+• Perejil — un poco
+• Calabacín en bastoncitos — 1
+• Berenjena asada en bastoncitos — ½
+• Bulbo de hinojo en bastoncitos — ½
+• Langostinos pelados — 500 g
+• Tomates asados en dados — 3
+• Stracci (cuadrados de pasta fresca integral) — 300 g
+PREPARACION:
+1. Rehoga cebolla, apio, calabacín, hinojo y berenjena en el aceite 10 minutos; añade ajo y tomate y cuece 10 minutos.
+2. Agrega los langostinos 3 minutos.
+3. Cuece la pasta 3 minutos y mezcla con la salsa y el perejil.
+JUSTIFICACION: Marina y llena de verduras.
+ADVERTENCIAS: Es una evocación: langostinos en lugar de bogavante.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~28 g
+Carbohidratos: ~42 g
+Grasas: ~7 g
+Fibra: ~6 g
+Sodio: ~210 mg
+IG: Medio
+ADAPTACIÓN:
+• Bogavante → langostinos; aceite 5 → 1½ cdas; mantequilla fuera; berenjena asada; pasta integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tallarines-setas
+TITULO: Tallarines con Setas
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tallarines con salsa de setas, naranja reducida y tomate asado, sin vino.
+INGREDIENTES:
+• Setas frescas — 250 g
+• Cebolla pequeña — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zumo de naranja reducido — 3 cdas
+• Tomate asado triturado — 3 cdas
+• Tallarines frescos integrales — 250 g
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Rehoga cebolla y setas en el aceite 10 minutos; añade naranja y tomate y cuece 8 minutos.
+2. Cuece los tallarines 3 minutos.
+3. Mezcla con la salsa y sirve con parmesano.
+JUSTIFICACION: Terrosa y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~52 g
+Grasas: ~6 g
+Fibra: ~8 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; concentrado → tomate asado; aceite 2 → 1 cda; parmesano 40 → 20 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tallarines-berenjena
+TITULO: Tallarines con Berenjena
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tallarines con berenjena asada (no frita), salsa de tomate y albahaca, cubiertos de ricota.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Berenjenas en rodajas finas asadas — 2
+• Ajo asado — 1 diente
+• Tomates asados picados — 250 g
+• Hojas de albahaca — 10
+• Tallarines frescos integrales — 250 g
+• Ricota baja en grasa rallada o desmenuzada — 60 g
+PREPARACION:
+1. Ásala la berenjena 20 minutos a 200 °C.
+2. Cuece ajo, tomate y aceite 10 minutos; añade la albahaca y la berenjena.
+3. Mezcla con los tallarines cocidos y corona con la ricota.
+JUSTIFICACION: Sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~330 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~52 g
+Grasas: ~7 g
+Fibra: ~9 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Fritura → horno; aceite 6 → 1 cda; ricota curada → baja en grasa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tallarines-sepia
+TITULO: Tallarines de Tinta de Sepia
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Pescado
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tallarines negros con salsa de atún al natural y aceite, sin alcaparras.
+INGREDIENTES:
+• Harina integral y de trigo (mitad y mitad) — 200 g (y un poco para enharinar)
+• Huevos — 2
+• Bolsitas de tinta de sepia — 1 o 2
+• Atún al natural, escurrido y desmenuzado — 100 g
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Perejil picado — 1 cda
+PREPARACION:
+1. Amasa harina, huevos y tinta; reposa 30 minutos, estira y corta tallarines.
+2. Cuece 3 minutos.
+3. Mezcla con el atún, el aceite y el perejil.
+JUSTIFICACION: Dramática y sencilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal (por porción)
+Proteínas: ~22 g
+Carbohidratos: ~46 g
+Grasas: ~10 g
+Fibra: ~6 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Atún en aceite → al natural; alcaparras fuera; aceite 3 → 1½ cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tallarines-salmon
+TITULO: Tallarines con Salmón
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Pescado, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tallarines con salmón fresco horneado, yogur y ralladura de limón, sin whisky ni ahumado.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Salmón fresco horneado en dados — 120 g
+• Ralladura de limón — de 1 limón
+• Yogur natural espeso — 100 g
+• Zumo de naranja reducido — 2 cdas
+• Tallarines frescos integrales — 250 g
+• Eneldo — 1 pizca
+PREPARACION:
+1. Hornea el salmón 12 minutos a 180 °C.
+2. Mezcla aceite, yogur, naranja y ralladura fuera del fuego.
+3. Combina con los tallarines cocidos y el salmón; sirve con eneldo.
+JUSTIFICACION: Cremosa y fresca.
+ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado; sin whisky.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~410 kcal (por porción)
+Proteínas: ~26 g
+Carbohidratos: ~48 g
+Grasas: ~12 g
+Fibra: ~6 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Ahumado → fresco; whisky → naranja reducida; nata → yogur; mantequilla → aceite; limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tallarines-alcachofas
+TITULO: Tallarines con Alcachofas
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tallarines con corazones de alcachofa, tomate asado, albahaca y perejil.
+INGREDIENTES:
+• Alcachofas (corazones) — 4
+• Ralladura de limón — de 1 limón
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Hojas de albahaca — 6
+• Perejil picado — un poco
+• Tomates asados troceados — 5
+• Tallarines frescos integrales — 250 g
+• Parmesano rallado — 2 cdas
+PREPARACION:
+1. Cuece las alcachofas al vapor 15 minutos y córtalas en láminas.
+2. Saltéalas con aceite y ajo; añade tomate asado y hierbas y cuece 8 minutos.
+3. Mezcla con los tallarines cocidos, la ralladura y el parmesano.
+JUSTIFICACION: Fresca y rica en fibra.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~52 g
+Grasas: ~6 g
+Fibra: ~9 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Zumo de limón → ralladura; aceite 4 → 1 cda; tomate asado; parmesano 4 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tallarines-espinacas
+TITULO: Tallarines con Espinacas
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tallarines gratinados al horno con espinacas, parmesano y yogur.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Espinacas — 600 g
+• Cebolla picada fina — 1
+• Parmesano rallado — 50 g
+• Tallarines frescos integrales — 250 g
+• Yogur natural espeso — 100 g
+PREPARACION:
+1. Rehoga cebolla y espinacas en el aceite 5 minutos.
+2. Mezcla con los tallarines cocidos, el yogur y la mitad del parmesano en una fuente engrasada.
+3. Cubre con el resto del parmesano y gratina 12 minutos a 200 °C.
+JUSTIFICACION: Verde y gratinado.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~18 g
+Carbohidratos: ~46 g
+Grasas: ~10 g
+Fibra: ~8 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite; parmesano 120 → 50 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tallarines-nata-guisantes
+TITULO: Tallarines con Yogur, Guisantes y Pollo
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tallarines con guisantes, pollo cocido y yogur, con parmesano; sin jamón ni nata.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas muy finas — 1
+• Guisantes — 200 g
+• Yogur natural espeso — 100 g
+• Pechuga de pollo cocida en dados — 80 g
+• Tallarines frescos integrales — 250 g
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade los guisantes y cuece 5 minutos.
+2. Fuera del fuego mezcla con yogur y pollo.
+3. Combina con los tallarines cocidos y sirve con parmesano.
+JUSTIFICACION: Cremosa sin nata ni embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal (por porción)
+Proteínas: ~24 g
+Carbohidratos: ~50 g
+Grasas: ~9 g
+Fibra: ~8 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón → pollo; nata → yogur; mantequilla fuera; parmesano 50 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tagliatelline-cebolla
+TITULO: Tagliatelline a la Cebolla
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tagliatelline con cebolla rehogada hasta quedar transparente y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebollas en rodajas — 400 g
+• Tallarines frescos integrales — 250 g
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Cuece la cebolla con el aceite y un poco de agua a fuego muy suave 25 minutos.
+2. Cuece los tallarines.
+3. Mezcla y sirve con parmesano.
+JUSTIFICACION: Dulce y sencilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~52 g
+Grasas: ~7 g
+Fibra: ~7 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla fuera; aceite 4 → 1 cda; parmesano 50 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tagliolini-cigalas
+TITULO: Tagliolini con Langostinos
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten, Huevo
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tagliolini integrales con salsa de langostinos (en lugar de cigalas), verduras y tomate asado.
+INGREDIENTES:
+• Langostinos — 400 g
+• Cebolla — 1
+• Zanahoria — 1
+• Rama de apio — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Perejil picado — un poco
+• Tomate asado triturado — 3 cdas
+• Tallarines frescos integrales (tagliolini) — 250 g
+PREPARACION:
+1. Pela los langostinos y cuece las cáscaras con las verduras en 400 ml de agua 20 minutos; cuela.
+2. Rehoga los langostinos en el aceite 2 minutos; añade tomate y el caldo y reduce 8 minutos.
+3. Mezcla con los tagliolini cocidos y el perejil.
+JUSTIFICACION: Intenso sabor marino, poca grasa.
+ADVERTENCIAS: Es una evocación: langostinos en lugar de cigalas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~370 kcal (por porción)
+Proteínas: ~30 g
+Carbohidratos: ~50 g
+Grasas: ~7 g
+Fibra: ~6 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Cigalas → langostinos; aceite 3 → 1 cda; concentrado → tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tagliolini-trufa
+TITULO: Tagliolini con Aceite de Oliva, Parmesano y Champiñón
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tagliolini con aceite a la nuez moscada, parmesano y láminas de champiñón asado, en lugar de trufa blanca.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Nuez moscada — 1 pizca
+• Tallarines frescos integrales (tagliolini) — 250 g
+• Parmesano rallado — 30 g
+• Champiñones asados en láminas muy finas — 40 g
+PREPARACION:
+1. Cuece los tagliolini 3 minutos.
+2. Mezcla con el aceite, la nuez moscada y el parmesano.
+3. Sirve con los champiñones.
+JUSTIFICACION: Aroma terroso sin trufa.
+ADVERTENCIAS: Es una evocación: champiñón asado en lugar de trufa.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~16 g
+Carbohidratos: ~48 g
+Grasas: ~9 g
+Fibra: ~6 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Trufa → champiñón asado; mantequilla 80 g → aceite 10 g; parmesano 80 → 30 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tagliolini-vieiras
+TITULO: Tagliolini con Vieiras y Lechuga
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten, Huevo
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tagliolini con vieiras salteadas y lechuga en juliana, con naranja reducida y pimentón dulce, sin vino ni guindilla.
+INGREDIENTES:
+• Ajo asado — 2 dientes
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Vieiras sin conchas — 200 g
+• Zumo de naranja reducido — 3 cdas
+• Lechuga en juliana — 150 g
+• Pimentón dulce — 1 pizca
+• Perejil picado — un poco
+• Tallarines frescos integrales (tagliolini) — 250 g
+PREPARACION:
+1. Saltea las vieiras en el aceite 1 minuto por lado; retira.
+2. Añade ajo, naranja y pimentón; cuece 2 minutos y agrega la lechuga 1 minuto.
+3. Mezcla con la pasta cocida, las vieiras y el perejil.
+JUSTIFICACION: Delicada y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~22 g
+Carbohidratos: ~50 g
+Grasas: ~6 g
+Fibra: ~6 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; guindilla → pimentón dulce; mantequilla fuera; aceite 3 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tortelli-calabaza
+TITULO: Tortelli de Calabaza
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tortelli rellenos de calabaza horneada con parmesano y pan rallado, con aceite y salvia.
+INGREDIENTES:
+• Calabaza pelada, despepitada y troceada — 500 g
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Parmesano rallado — 60 g (y un poco más para aderezar)
+• Huevos — 1
+• Pan integral rallado — 60 g
+• Masa de pasta fresca (receta de este recetario) — 200 g de masa
+• Hojas de salvia — 8
+PREPARACION:
+1. Hornea la calabaza con 1 cda de aceite 30 minutos a 200 °C; hazla puré y mezcla con parmesano, huevo y pan rallado.
+2. Estira la masa, rellena y forma los tortelli; cuécelos 4 minutos.
+3. Saltea con el resto del aceite y la salvia.
+JUSTIFICACION: Dulce con mucho menos queso y grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~320 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~46 g
+Grasas: ~9 g
+Fibra: ~6 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Parmesano 200 → 60 g; huevos 2 → 1; mantequilla → aceite; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tortellini-curry
+TITULO: Tortellini al Curry
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tortellini frescos con guisantes, pollo, curry suave y yogur, sin jamón ni nata.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Guisantes — 200 g
+• Pechuga de pollo cocida en dados — 60 g
+• Curry dulce en polvo — 1 cdta
+• Tortellini frescos de verdura — 300 g
+• Parmesano rallado — 20 g
+• Yogur natural espeso — 100 g
+PREPARACION:
+1. Calienta el aceite con el curry; añade guisantes y pollo y cuece 5 minutos.
+2. Cuece los tortellini.
+3. Mezcla todo fuera del fuego con el yogur y sirve con parmesano.
+JUSTIFICACION: Aromática y cremosa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Curry sin picante.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~50 g
+Grasas: ~11 g
+Fibra: ~6 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón → pollo; nata → yogur; mantequilla → aceite; tortellini 400 → 300 g; parmesano 50 → 20 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tortellini-bolonesa
+TITULO: Tortellini a la Boloñesa
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tortellini rellenos de res magra y pollo con parmesano, con salsa de tomate, sin jamón curado ni mortadela.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Carne molida magra de res — 60 g
+• Pechuga de pollo cocida picada — 60 g
+• Parmesano rallado — 1 cda
+• Huevo — 1
+• Masa de pasta fresca (receta de este recetario) — 1 ración
+• Salsa de Tomate (receta de este recetario) — 1 ración
+PREPARACION:
+1. Dora la res en el aceite y mezcla con el pollo, el parmesano y el huevo para el relleno.
+2. Estira la masa, rellena y forma los tortellini.
+3. Cuécelos 4 minutos y sirve con la salsa de tomate.
+JUSTIFICACION: Mismo relleno sin embutidos.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón curado y mortadela.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~21 g
+Carbohidratos: ~42 g
+Grasas: ~9 g
+Fibra: ~6 g
+Sodio: ~120 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón curado y mortadela → pollo; mantequilla → aceite; parmesano reducido.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tortelloni-setas
+TITULO: Tortelloni de Setas
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tortelloni de ricota baja en grasa, parmesano y perejil con setas, salteados con aceite y salvia.
+INGREDIENTES:
+• Masa de pasta fresca (receta de este recetario) — 1 ración
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Cebolla pequeña picada — 1
+• Setas en láminas — 250 g
+• Ricota baja en grasa desmenuzada — 200 g
+• Parmesano rallado — 30 g
+• Perejil picado — un poco
+• Hojas de salvia — 10
+PREPARACION:
+1. Rehoga cebolla y setas con la mitad del aceite 10 minutos.
+2. Mezcla la ricota con el parmesano y el perejil; rellena la masa y forma los tortelloni; cuécelos 4 minutos.
+3. Saltea con el resto del aceite y la salvia y sirve con las setas.
+JUSTIFICACION: Cremosos y ligeros.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~340 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~40 g
+Grasas: ~11 g
+Fibra: ~6 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla fuera; aceite 4 → 1½ cdas; ricota 250 → 200 g baja en grasa; parmesano 50 → 30 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasta-fresca-tortelloni-pesto-calamarcitos
+TITULO: Tortelloni de Pesto con Calamarcitos
+CATEGORIA: Pasta fresca
+ICONO: pasta
+SUBSECCION: Pasta fresca
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Gluten, Huevo, Frutos secos, Lácteos
+ETIQUETAS: Italiana, Pasta, Perfil1
+CONCEPTO: Tortelloni de pesto ligero y ricota baja en grasa con salsa de calamarcitos, tomate asado y albahaca, sin vino.
+INGREDIENTES:
+• Harina integral y de trigo (mitad y mitad) — 250 g (y un poco para enharinar)
+• Huevos — 2
+• Hojas grandes de albahaca — 60 g
+• Perejil — 30 g
+• Piñones — 10 g
+• Nueces — 5 g
+• Aceite de oliva extra virgen — 1 cda (10 g, para el pesto)
+• Ricota baja en grasa — 200 g
+• Aceite de oliva extra virgen — 1 cda (10 g, para la salsa)
+• Calamarcitos limpios — 200 g
+• Ajo asado — 1 diente
+• Zumo de naranja reducido — 3 cdas
+• Tomates asados en dados — 2
+PREPARACION:
+1. Amasa harina y huevos; tritura albahaca, perejil, piñones, nueces y aceite y mezcla con la ricota para el relleno.
+2. Estira, rellena y forma los tortelloni; cuécelos 4 minutos.
+3. Saltea calamarcitos con aceite y ajo; añade naranja y tomate y reduce 8 minutos; sirve sobre los tortelloni.
+JUSTIFICACION: Aromático con una fracción del aceite.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~380 kcal (por porción)
+Proteínas: ~24 g
+Carbohidratos: ~44 g
+Grasas: ~12 g
+Fibra: ~6 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite del pesto 120 ml → 10 g; piñones 20 → 10 g; ricota baja en grasa; vino → naranja reducida.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-escalfados-tecnica
+TITULO: Huevos Escalfados (Técnica Básica)
+CATEGORIA: Huevos escalfados
+ICONO: 🍳
+SUBSECCION: Escalfados
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Base, Perfil1
+CONCEPTO: Huevos cocidos en agua apenas hirviendo, sin vinagre, hasta que clara y yema queden firmes.
+INGREDIENTES:
+• Huevos — 4
+• Agua — un cazo
+PREPARACION:
+1. Lleva el agua a un hervor muy suave.
+2. Casca cada huevo en un cucharón y deslízalo en el agua; cuece 5-6 minutos hasta que la yema esté firme.
+3. Retira con una espumadera y escurre.
+JUSTIFICACION: Sin vinagre ni sal; la yema queda totalmente cocida.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Yema bien cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~75 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~0 g
+Grasas: ~5 g
+Fibra: ~0 g
+Sodio: ~65 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vinagre y sal fuera; cocción hasta yema firme.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-escalfados-alcachofas
+TITULO: Huevos Escalfados con Alcachofas
+CATEGORIA: Huevos escalfados
+ICONO: 🍳
+SUBSECCION: Escalfados
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos escalfados sobre corazones de alcachofa con una salsa de yogur y pollo, en lugar de panceta, mostaza y vinagre.
+INGREDIENTES:
+• Corazones de alcachofa — 4
+• Yogur natural espeso — 60 g
+• Harina de avena — 1 cdta
+• Huevos — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pechuga de pollo asada desmenuzada — 80 g
+• Agua — 200 ml
+PREPARACION:
+1. Cuece las alcachofas al vapor 15 minutos.
+2. Calienta el aceite con la harina, el agua y el pollo 5 minutos; fuera del fuego añade el yogur.
+3. Escalfa los huevos hasta cuajar y sírvelos sobre las alcachofas con la salsa.
+JUSTIFICACION: Cremosa sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta ahumada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~16 g
+Carbohidratos: ~8 g
+Grasas: ~10 g
+Fibra: ~3 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Panceta → pollo; mostaza y vinagre fuera; mantequilla → aceite; yogur.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-escalfados-queso
+TITULO: Huevos Escalfados al Queso
+CATEGORIA: Huevos escalfados
+ICONO: 🍳
+SUBSECCION: Escalfados
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos escalfados sobre pan integral tostado, gratinados con queso bajo en grasa.
+INGREDIENTES:
+• Rebanadas de pan integral sin corteza — 4
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Huevos — 4
+• Mozzarella baja en grasa rallada — 40 g
+PREPARACION:
+1. Tuesta el pan y úntalo con el aceite.
+2. Escalfa los huevos hasta que la yema esté firme.
+3. Colócalos sobre el pan, cubre con queso y gratina 3 minutos.
+JUSTIFICACION: Sencillo y proteico.
+ADVERTENCIAS: Yema bien cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~16 g
+Grasas: ~10 g
+Fibra: ~3 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; emmental 50 → mozzarella baja en grasa 40 g; pan integral; sin vinagre.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-escalfados-croquetas-esparragos
+TITULO: Huevos Escalfados con Croquetas de Espárragos
+CATEGORIA: Huevos escalfados
+ICONO: 🍳
+SUBSECCION: Escalfados
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos escalfados con croquetas de espárragos y bechamel espesa, horneadas en vez de fritas.
+INGREDIENTES:
+• Puntas de espárragos cocidas — 250 g
+• Salsa Bechamel muy espesa (receta de este recetario) — 1 ración (400 g)
+• Parmesano rallado — 2 cdas
+• Huevos — 5 (1 para empanar)
+• Harina de avena — un poco
+• Pan integral rallado — 60 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Mezcla espárragos picados, bechamel y parmesano; enfría y forma croquetas.
+2. Pásalas por harina, huevo batido y pan rallado, rocía con aceite y hornea 20 minutos a 200 °C.
+3. Escalfa los huevos hasta que cuajen y sírvelos con las croquetas.
+JUSTIFICACION: Crujientes sin fritura.
+ADVERTENCIAS: Yema bien cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~280 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~22 g
+Grasas: ~13 g
+Fibra: ~3 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Fritura → horno; mantequilla fuera; vinagre fuera; huevos 6 → 5; parmesano 4 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-escalfados-verduras
+TITULO: Huevos Escalfados con Verduras Variadas
+CATEGORIA: Huevos escalfados
+ICONO: 🍳
+SUBSECCION: Escalfados
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos escalfados sobre un guiso de berenjena, calabacín y tomate asado.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Berenjenas en dados asadas — 2
+• Tomates asados en dados — 3
+• Calabacines en rodajas — 2
+• Huevos — 4
+PREPARACION:
+1. Rehoga la cebolla en el aceite; añade calabacín, berenjena y tomate y cuece 15 minutos.
+2. Escalfa los huevos hasta que cuajen.
+3. Sírvelos sobre las verduras.
+JUSTIFICACION: Ligero y con fibra.
+ADVERTENCIAS: Yema bien cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~12 g
+Grasas: ~9 g
+Fibra: ~4 g
+Sodio: ~80 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; berenjena asada; vinagre fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-escalfados-gelatina
+TITULO: Huevos Escalfados en Gelatina
+CATEGORIA: Huevos escalfados
+ICONO: 🍳
+SUBSECCION: Escalfados
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Pescado
+ETIQUETAS: Italiana, Huevos, Frío, Perfil1
+CONCEPTO: Huevos escalfados cubiertos de gelatina de caldo con pollo y atún al natural, en lugar de jamón, anchoas, alcaparras y pepinillos.
+INGREDIENTES:
+• Gelatina de caldo disuelta (receta de este recetario) — 400 ml
+• Huevos — 4
+• Pechuga de pollo cocida en lonchas finas — 4
+• Atún al natural en trocitos — 40 g
+• Pepino fresco en rodajitas finas — 4
+PREPARACION:
+1. Escalfa los huevos hasta cuajar y enfríalos.
+2. Coloca en moldes una capa de gelatina, el huevo, el pollo, el atún y el pepino.
+3. Cubre con gelatina y cuaja 4 horas en la nevera.
+JUSTIFICACION: Presentación clásica sin conservas saladas.
+ADVERTENCIAS: Es una evocación: pollo y atún en lugar de jamón, anchoas y alcaparras.|Yema bien cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~2 g
+Grasas: ~8 g
+Fibra: ~0 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón, anchoas, alcaparras y pepinillos → pollo, atún al natural y pepino fresco; sin vinagre.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasados-agua-tecnica
+TITULO: Huevos Pasados por Agua (Técnica Básica)
+CATEGORIA: Huevos pasados por agua
+ICONO: 🍳
+SUBSECCION: Pasados por agua
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Base, Perfil1
+CONCEPTO: Huevos cocidos en agua hasta que la yema esté firme (cocción de 9 minutos).
+INGREDIENTES:
+• Huevos — 4
+• Agua — un cazo
+PREPARACION:
+1. Sumerge los huevos en agua hirviendo.
+2. Cuece 9 minutos para que la yema esté firme.
+3. Enfría un momento y sirve.
+JUSTIFICACION: Se evita la yema líquida.
+ADVERTENCIAS: Es una receta base.|Yema bien cuajada.
+VALOR_NUTRICIONAL:
+Calorías: ~75 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~0 g
+Grasas: ~5 g
+Fibra: ~0 g
+Sodio: ~65 mg
+IG: Bajo
+ADAPTACIÓN:
+• Cocción más larga para yema firme.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasados-agua-esparragos
+TITULO: Huevos con Espárragos
+CATEGORIA: Huevos pasados por agua
+ICONO: 🍳
+SUBSECCION: Pasados por agua
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos cocidos con la yema firme y espárragos al vapor, con un hilo de aceite.
+INGREDIENTES:
+• Espárragos — 600 g
+• Huevos — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Cuece los espárragos al vapor 8 minutos.
+2. Cuece los huevos 9 minutos.
+3. Sirve con el aceite.
+JUSTIFICACION: Ligero y sin mantequilla.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~6 g
+Grasas: ~11 g
+Fibra: ~3 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla con sal → aceite; yema firme.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pasados-agua-ketchup
+TITULO: Huevos Cocidos con Salsa de Tomate
+CATEGORIA: Huevos pasados por agua
+ICONO: 🍳
+SUBSECCION: Pasados por agua
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Gluten
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos cocidos con la yema firme servidos con salsa de tomate asado casera en lugar de ketchup y palitos de pan integral.
+INGREDIENTES:
+• Huevos — 4
+• Salsa de tomate asado casera sin azúcar — 4 cdtas
+• Palitos de pan integral — para mojar
+PREPARACION:
+1. Cuece los huevos 9 minutos.
+2. Sirve con una cucharadita de salsa.
+3. Acompaña con los palitos tostados.
+JUSTIFICACION: Sin ketchup (sodio y azúcar).
+ADVERTENCIAS: Yema firme.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~8 g
+Grasas: ~6 g
+Fibra: ~1 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Ketchup → salsa de tomate asado; palitos al sésamo → integrales.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-al-plato-tecnica
+TITULO: Huevos al Plato (Técnica Básica)
+CATEGORIA: Huevos al plato
+ICONO: 🍳
+SUBSECCION: Al plato
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Base, Perfil1
+CONCEPTO: Huevos horneados en platos individuales ligeramente engrasados hasta cuajar por completo.
+INGREDIENTES:
+• Huevos — 4
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION:
+1. Engrasa 4 platos aptos para horno.
+2. Casca un huevo en cada uno.
+3. Hornea 12-15 minutos a 180 °C hasta que clara y yema estén firmes.
+JUSTIFICACION: Sin mantequilla.
+ADVERTENCIAS: Es una receta base.|Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~0 g
+Grasas: ~6 g
+Fibra: ~0 g
+Sodio: ~65 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 30 g → aceite 5 g; cocción hasta yema firme.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-al-plato-champinones
+TITULO: Huevos al Plato con Champiñones
+CATEGORIA: Huevos al plato
+ICONO: 🍳
+SUBSECCION: Al plato
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos horneados sobre champiñones salteados.
+INGREDIENTES:
+• Champiñones en láminas — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Huevos — 4
+PREPARACION:
+1. Saltea los champiñones en el aceite 8 minutos.
+2. Repártelos en platos aptos para horno y casca un huevo en cada uno.
+3. Hornea 12-15 minutos a 180 °C.
+JUSTIFICACION: Ligero y sabroso.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~3 g
+Grasas: ~8 g
+Fibra: ~1 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 80 g → aceite 10 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-al-plato-perejil
+TITULO: Huevos al Plato con Perejil
+CATEGORIA: Huevos al plato
+ICONO: 🍳
+SUBSECCION: Al plato
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos horneados con perejil, servidos sobre pan integral tostado.
+INGREDIENTES:
+• Perejil picado — 2 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Huevos — 8
+• Rebanadas de pan integral — 8
+PREPARACION:
+1. Engrasa platos aptos para horno y espolvorea con perejil.
+2. Casca un huevo por plato y hornea 12-15 minutos a 180 °C.
+3. Sirve con el pan tostado.
+JUSTIFICACION: Simple y ligero.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~210 kcal (por porción de 2 huevos y 2 rebanadas)
+Proteínas: ~15 g
+Carbohidratos: ~17 g
+Grasas: ~9 g
+Fibra: ~3 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 100 g → aceite 10 g; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-al-plato-trufa
+TITULO: Huevos al Plato con Champiñón y Nuez Moscada
+CATEGORIA: Huevos al plato
+ICONO: 🍳
+SUBSECCION: Al plato
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos horneados con láminas de champiñón asado y nuez moscada, evocando la trufa.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Huevos — 8
+• Champiñones asados en láminas muy finas — 50 g
+• Nuez moscada — 1 pizca
+PREPARACION:
+1. Engrasa platos aptos para horno y casca los huevos.
+2. Hornea 12-15 minutos a 180 °C.
+3. Cubre con los champiñones y la nuez moscada.
+JUSTIFICACION: Aroma terroso sin trufa.
+ADVERTENCIAS: Es una evocación: champiñón en lugar de trufa.|Yema firme.
+VALOR_NUTRICIONAL:
+Calorías: ~160 kcal (por porción de 2 huevos)
+Proteínas: ~13 g
+Carbohidratos: ~1 g
+Grasas: ~11 g
+Fibra: ~0 g
+Sodio: ~140 mg
+IG: Bajo
+ADAPTACIÓN:
+• Trufa → champiñón asado; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-al-plato-esparragos
+TITULO: Huevos al Plato con Espárragos
+CATEGORIA: Huevos al plato
+ICONO: 🍳
+SUBSECCION: Al plato
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos horneados sobre espárragos con parmesano.
+INGREDIENTES:
+• Espárragos — 600 g
+• Parmesano rallado — 2 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Huevos — 4
+PREPARACION:
+1. Cuece los espárragos al vapor 8 minutos y colócalos en platos aptos para horno.
+2. Casca un huevo sobre cada uno y espolvorea con parmesano y aceite.
+3. Hornea 12-15 minutos a 180 °C.
+JUSTIFICACION: Ligero y gratinado.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~6 g
+Grasas: ~11 g
+Fibra: ~3 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 80 g → aceite 10 g; parmesano 4 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-al-plato-hinojo-mozzarella
+TITULO: Huevos al Plato con Hinojo y Mozzarella
+CATEGORIA: Huevos al plato
+ICONO: 🍳
+SUBSECCION: Al plato
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos horneados sobre hinojo cocido con mozzarella baja en grasa y parmesano.
+INGREDIENTES:
+• Bulbos de hinojo — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Mozzarella baja en grasa en lonchas finas — 100 g
+• Huevos — 4
+• Parmesano rallado — 2 cdas
+PREPARACION:
+1. Cuece el hinojo al vapor 12 minutos y córtalo en láminas.
+2. Colócalo en una fuente engrasada con la mozzarella, haz huecos y casca los huevos.
+3. Espolvorea con parmesano y hornea 15 minutos a 180 °C.
+JUSTIFICACION: Ligero y aromático.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~220 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~8 g
+Grasas: ~13 g
+Fibra: ~4 g
+Sodio: ~230 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 50 g → aceite 10 g; mozzarella 200 → 100 g baja en grasa; parmesano 4 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-al-plato-berenjena
+TITULO: Huevos al Plato con Berenjena
+CATEGORIA: Huevos al plato
+ICONO: 🍳
+SUBSECCION: Al plato
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos horneados sobre rodajas de berenjena asada con salsa de tomate, sin fritura.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Berenjenas en rodajas — 2
+• Harina de avena — un poco para espolvorear
+• Salsa de Tomate (receta de este recetario) — 3 cdas
+• Huevos — 4
+PREPARACION:
+1. Pasa las rodajas por harina, rocíalas con el aceite y hornéalas 20 minutos a 200 °C.
+2. Colócalas en platos engrasados con la salsa y casca un huevo en cada uno.
+3. Hornea 12-15 minutos a 180 °C.
+JUSTIFICACION: Sin freír la berenjena.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~11 g
+Grasas: ~9 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Fritura → horno; aceite 100 ml → 10 g; mantequilla fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-al-plato-polenta
+TITULO: Huevos al Plato con Polenta
+CATEGORIA: Huevos al plato
+ICONO: 🍳
+SUBSECCION: Al plato
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos horneados sobre rebanadas de polenta dorada al horno.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Rebanadas gruesas de polenta (receta básica de este recetario) — 4
+• Huevos — 4
+PREPARACION:
+1. Dora la polenta en el horno con el aceite 10 minutos a 200 °C.
+2. Haz un hueco en cada rebanada y casca un huevo.
+3. Hornea 12-15 minutos a 180 °C.
+JUSTIFICACION: Sin mantequilla.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~16 g
+Grasas: ~9 g
+Fibra: ~1 g
+Sodio: ~80 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 50 g → aceite 10 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-al-plato-tomate
+TITULO: Huevos al Plato con Tomate
+CATEGORIA: Huevos al plato
+ICONO: 🍳
+SUBSECCION: Al plato
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Tomates asados rellenos con un huevo, orégano y perejil.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 2 cdtas (10 g)
+• Tomates grandes — 4
+• Orégano — 1 pizca
+• Huevos — 4
+• Perejil picado — un poco
+PREPARACION:
+1. Corta la tapa de los tomates y vacíalos; úntalos con el aceite y el orégano.
+2. Casca un huevo en cada uno.
+3. Hornea 25 minutos a 180 °C hasta que el huevo esté firme; sirve con perejil.
+JUSTIFICACION: Ligero y fresco.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~6 g
+Grasas: ~7 g
+Fibra: ~2 g
+Sodio: ~75 mg
+IG: Bajo
+ADAPTACIÓN:
+• Tomate asado al horno; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-al-plato-salchichas
+TITULO: Huevos al Plato con Pollo
+CATEGORIA: Huevos al plato
+ICONO: 🍳
+SUBSECCION: Al plato
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos horneados sobre pollo desmenuzado dorado con naranja reducida, en lugar de salchichas y vino.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Pechuga de pollo en trocitos — 250 g
+• Zumo de naranja reducido — 3 cdas
+• Orégano — 1 pizca
+• Huevos — 4
+PREPARACION:
+1. Dora el pollo en el aceite 8 minutos con el orégano; añade la naranja.
+2. Repártelo en platos aptos para horno y casca un huevo en cada uno.
+3. Hornea 12-15 minutos a 180 °C.
+JUSTIFICACION: Sabroso y sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchichas.|Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~200 kcal (por porción)
+Proteínas: ~25 g
+Carbohidratos: ~3 g
+Grasas: ~10 g
+Fibra: ~0 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Salchichas → pollo; vino → naranja reducida; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-al-plato-pan-leche
+TITULO: Huevos al Plato con Pan y Leche
+CATEGORIA: Huevos al plato
+ICONO: 🍳
+SUBSECCION: Al plato
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Pan integral remojado en leche descremada con cebolla, coronado con huevos horneados.
+INGREDIENTES:
+• Rebanadas de pan integral duro, sin corteza — 4
+• Leche descremada — 400 ml
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Huevos — 4
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos.
+2. Remoja el pan en la leche y colócalo en platos con la cebolla.
+3. Casca un huevo en cada plato y hornea 15 minutos a 180 °C.
+JUSTIFICACION: Reconfortante y sin fritura.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~22 g
+Grasas: ~9 g
+Fibra: ~3 g
+Sodio: ~190 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; leche descremada; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-fritos-tecnica
+TITULO: Huevos a la Plancha (en lugar de Fritos, Técnica Básica)
+CATEGORIA: Huevos fritos
+ICONO: 🍳
+SUBSECCION: Fritos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Base, Perfil1
+CONCEPTO: Huevos cocidos en sartén antiadherente apenas untada con aceite, tapados, hasta que la yema esté firme.
+INGREDIENTES:
+• Huevos — 4
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION:
+1. Calienta la sartén antiadherente con el aceite.
+2. Casca los huevos y cocínalos tapados a fuego medio-bajo 4 minutos.
+3. Comprueba que clara y yema estén firmes.
+JUSTIFICACION: Sin fritura, sin mantequilla.
+ADVERTENCIAS: Es una receta base.|Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~0 g
+Grasas: ~6 g
+Fibra: ~0 g
+Sodio: ~65 mg
+IG: Bajo
+ADAPTACIÓN:
+• Fritura → plancha; mantequilla fuera; yema firme.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-fritos-mantequilla-anchoa
+TITULO: Huevos a la Plancha sobre Tostadas con Atún
+CATEGORIA: Huevos fritos
+ICONO: 🍳
+SUBSECCION: Fritos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Pescado
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos a la plancha sobre pan integral untado con una pasta de atún al natural y aceite, en lugar de mantequilla de anchoa.
+INGREDIENTES:
+• Rebanadas de pan integral sin corteza — 4
+• Atún al natural muy bien escurrido y triturado — 40 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Huevos — 4
+PREPARACION:
+1. Mezcla el atún con la mitad del aceite hasta formar una pasta.
+2. Tuesta el pan y úntalo con la pasta.
+3. Cocina los huevos a la plancha con el resto del aceite hasta que estén firmes y colócalos sobre el pan.
+JUSTIFICACION: Toque marino sin anchoas.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~15 g
+Grasas: ~11 g
+Fibra: ~3 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 100 g → aceite 10 g; anchoas → atún al natural; fritura → plancha.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-fritos-vino-tinto
+TITULO: Huevos a la Cebolla Dulce
+CATEGORIA: Huevos fritos
+ICONO: 🍳
+SUBSECCION: Fritos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos sobre una cebolla caramelizada con stevia y naranja reducida, evocando la salsa al vino tinto sin vinagre ni alcohol.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebollas en rodajas finas — 400 g
+• Stevia en polvo — al gusto
+• Zumo de naranja reducido — 3 cdas
+• Remolacha cocida triturada — 2 cdas
+• Huevos — 8
+• Tostadas integrales — para acompañar
+PREPARACION:
+1. Cuece la cebolla con el aceite a fuego muy suave 25 minutos; añade stevia, naranja y remolacha y reduce 5 minutos.
+2. Cocina los huevos a la plancha antiadherente hasta que estén firmes.
+3. Sirve sobre la cebolla con las tostadas.
+JUSTIFICACION: Dulce y vinoso sin alcohol.
+ADVERTENCIAS: Es una evocación: sin vino ni vinagres.|Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~200 kcal (por porción de 2 huevos)
+Proteínas: ~13 g
+Carbohidratos: ~15 g
+Grasas: ~11 g
+Fibra: ~3 g
+Sodio: ~160 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino, vinagres y azúcar fuera → naranja reducida, remolacha y stevia; aceite 4 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-fritos-vinagre
+TITULO: Huevos a la Plancha con Salvia
+CATEGORIA: Huevos fritos
+ICONO: 🍳
+SUBSECCION: Fritos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos a la plancha aromatizados con salvia y perejil, sin vinagre ni mantequilla.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Huevos — 8
+• Salvia fresca picada — un poco
+• Perejil picado — un poco
+• Ralladura de limón — de ½ limón
+PREPARACION:
+1. Calienta el aceite con la salvia 1 minuto.
+2. Cocina los huevos tapados hasta que estén firmes.
+3. Sirve con el perejil y la ralladura.
+JUSTIFICACION: Aromático y ligero.
+ADVERTENCIAS: Es una evocación: sin vinagre.|Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~160 kcal (por porción de 2 huevos)
+Proteínas: ~13 g
+Carbohidratos: ~1 g
+Grasas: ~11 g
+Fibra: ~0 g
+Sodio: ~140 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 100 g → aceite 10 g; vinagre → ralladura de limón.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-fritos-americana
+TITULO: Huevos a la Americana
+CATEGORIA: Huevos fritos
+ICONO: 🍳
+SUBSECCION: Fritos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos a la plancha con pavo o pollo dorado en lugar de panceta ahumada, y tomates a la plancha.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Pechuga de pollo en tiras finas — 100 g
+• Pimentón dulce — 1 pizca
+• Huevos — 4
+• Tomates a la plancha — para acompañar
+PREPARACION:
+1. Dora el pollo con el pimentón en una sartén antiadherente con el aceite 6 minutos.
+2. Cocina los huevos tapados hasta que estén firmes.
+3. Sirve con el pollo y los tomates a la plancha.
+JUSTIFICACION: Desayuno contundente sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta ahumada.|Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~200 kcal (por porción)
+Proteínas: ~21 g
+Carbohidratos: ~4 g
+Grasas: ~11 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Panceta → pollo; mantequilla y aceite 2 → 1 cdta.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-fritos-rossini
+TITULO: Huevos a la Plancha Estilo Rossini
+CATEGORIA: Huevos fritos
+ICONO: 🍳
+SUBSECCION: Fritos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos a la plancha sobre pan integral con una pasta de champiñón asado y nuez moscada, en lugar de foie gras.
+INGREDIENTES:
+• Champiñones asados triturados — 120 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Nuez moscada — 1 pizca
+• Huevos — 8
+• Rebanadas de pan integral — 8
+PREPARACION:
+1. Tritura los champiñones asados con la mitad del aceite y la nuez moscada hasta formar una pasta untuosa.
+2. Tuesta el pan y úntalo con la pasta.
+3. Cocina los huevos a la plancha con el resto del aceite hasta que estén firmes y colócalos encima.
+JUSTIFICACION: Untuoso, sin foie gras.
+ADVERTENCIAS: Es una evocación: champiñón en lugar de foie gras.|Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~250 kcal (por porción de 2 huevos y 2 rebanadas)
+Proteínas: ~16 g
+Carbohidratos: ~16 g
+Grasas: ~13 g
+Fibra: ~3 g
+Sodio: ~260 mg
+IG: Medio
+ADAPTACIÓN:
+• Foie gras → pasta de champiñón; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-fritos-coles-bruselas
+TITULO: Huevos a la Plancha con Coles de Bruselas
+CATEGORIA: Huevos fritos
+ICONO: 🍳
+SUBSECCION: Fritos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Coles de Bruselas en una crema ligera de yogur con pollo, con huevos a la plancha, sin jamón ni nata.
+INGREDIENTES:
+• Coles de Bruselas — 500 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pechuga de pollo cocida en dados — 80 g
+• Cebolla fina picada — 1
+• Harina de avena — 1 cda
+• Leche descremada — 150 ml
+• Yogur natural espeso — 80 g
+• Huevos — 6
+PREPARACION:
+1. Cuece las coles 10 minutos; rehoga la cebolla en el aceite, añade harina, leche y las coles y cuece 8 minutos; incorpora pollo y yogur fuera del fuego.
+2. Cocina los huevos a la plancha tapados hasta que estén firmes.
+3. Sirve sobre las coles.
+JUSTIFICACION: Cremosas sin nata.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~14 g
+Grasas: ~11 g
+Fibra: ~5 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; nata → yogur; mantequilla → aceite; fritura → plancha.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cazuela-tecnica
+TITULO: Huevos a la Cazuela (Técnica Básica)
+CATEGORIA: Huevos a la cazuela
+ICONO: 🍳
+SUBSECCION: A la cazuela
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Base, Perfil1
+CONCEPTO: Huevos horneados en cazuelitas individuales sobre una capa de ingrediente (pollo, verduras…), hasta cuajar.
+INGREDIENTES:
+• Huevos — 4
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Capa de ingrediente (pollo, verduras…) — al gusto
+PREPARACION:
+1. Engrasa 4 cazuelitas y coloca el ingrediente elegido.
+2. Casca un huevo en cada una.
+3. Hornea 12-15 minutos a 180 °C hasta que cuajen.
+JUSTIFICACION: Sin mantequilla.
+ADVERTENCIAS: Es una receta base.|Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~0 g
+Grasas: ~6 g
+Fibra: ~0 g
+Sodio: ~65 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; higadillos y jamón → pollo o verduras.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cazuela-puerros
+TITULO: Huevos a la Cazuela con Puerros
+CATEGORIA: Huevos a la cazuela
+ICONO: 🍳
+SUBSECCION: A la cazuela
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos horneados sobre puerros tiernos con nuez moscada.
+INGREDIENTES:
+• Puerros en tiras — 500 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Nuez moscada — 1 pizca
+• Huevos — 4
+PREPARACION:
+1. Cuece los puerros con el aceite y un poco de agua 15 minutos.
+2. Repártelos en cazuelitas engrasadas con la nuez moscada y casca un huevo en cada una.
+3. Hornea 12-15 minutos a 180 °C.
+JUSTIFICACION: Dulce y ligero.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~9 g
+Grasas: ~8 g
+Fibra: ~3 g
+Sodio: ~75 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 50 g → aceite 10 g; puerros 600 → 500 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cazuela-pescadora
+TITULO: Huevos a la Cazuela a la Pescadora
+CATEGORIA: Huevos a la cazuela
+ICONO: 🍳
+SUBSECCION: A la cazuela
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Pescado
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos horneados sobre pescado blanco desmenuzado y perejil, en lugar de sardinas en aceite.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Pescado blanco cocido desmenuzado — 100 g
+• Huevos — 4
+• Perejil picado — un poco
+PREPARACION:
+1. Engrasa las cazuelitas y reparte el pescado.
+2. Casca un huevo en cada una.
+3. Hornea 12-15 minutos a 180 °C y sirve con perejil.
+JUSTIFICACION: Marino sin conservas.
+ADVERTENCIAS: Es una evocación: pescado blanco en lugar de sardinas en lata.|Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~0 g
+Grasas: ~8 g
+Fibra: ~0 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sardinas en aceite → pescado blanco; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cazuela-tocino
+TITULO: Huevos a la Cazuela con Pollo y Parmesano
+CATEGORIA: Huevos a la cazuela
+ICONO: 🍳
+SUBSECCION: A la cazuela
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos horneados con yogur y parmesano sobre lonchas finas de pollo asado, en lugar de tocino y nata.
+INGREDIENTES:
+• Lonchas finas de pechuga de pollo asada — 4
+• Yogur natural espeso — 4 cdas
+• Huevos — 4
+• Parmesano rallado — 1 cda
+PREPARACION:
+1. Coloca una loncha de pollo en el fondo de cada cazuelita.
+2. Casca un huevo y cubre con el yogur y el parmesano.
+3. Hornea 12-15 minutos a 180 °C.
+JUSTIFICACION: Cremoso sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de tocino.|Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~21 g
+Carbohidratos: ~3 g
+Grasas: ~10 g
+Fibra: ~0 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Tocino → pollo; nata → yogur; parmesano 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cazuela-bolonesa
+TITULO: Huevos a la Cazuela a la Boloñesa
+CATEGORIA: Huevos a la cazuela
+ICONO: 🍳
+SUBSECCION: A la cazuela
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos horneados sobre una salsa boloñesa de res magra.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Salsa de Carne a la Boloñesa (receta de este recetario) — 1 ración
+• Huevos — 8
+PREPARACION:
+1. Engrasa las cazuelitas y reparte la salsa caliente.
+2. Casca un huevo en cada una.
+3. Hornea 12-15 minutos a 180 °C.
+JUSTIFICACION: Plato único y proteico.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción de 2 huevos)
+Proteínas: ~20 g
+Carbohidratos: ~6 g
+Grasas: ~13 g
+Fibra: ~2 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; salsa boloñesa ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cazuela-hierbas
+TITULO: Huevos a la Cazuela a las Hierbas
+CATEGORIA: Huevos a la cazuela
+ICONO: 🍳
+SUBSECCION: A la cazuela
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos horneados sobre tomate asado con albahaca y orégano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Hojas grandes de albahaca picadas — 8
+• Orégano — 1 pizca
+• Tomates pera asados en rodajas finas — 4
+• Huevos — 4
+PREPARACION:
+1. Engrasa las cazuelitas y coloca el tomate asado con las hierbas.
+2. Casca un huevo en cada una.
+3. Hornea 12-15 minutos a 180 °C.
+JUSTIFICACION: Fresca y aromática.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~5 g
+Grasas: ~7 g
+Fibra: ~2 g
+Sodio: ~75 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-mollets-tecnica
+TITULO: Huevos Mollets (Técnica Básica)
+CATEGORIA: Huevos mollets
+ICONO: 🍳
+SUBSECCION: Mollets
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Base, Perfil1
+CONCEPTO: Huevos cocidos 8 minutos para que la yema quede cuajada pero tierna, en lugar de los 6 minutos tradicionales.
+INGREDIENTES:
+• Huevos — 4
+• Agua — un cazo
+PREPARACION:
+1. Sumerge los huevos en agua hirviendo.
+2. Cuece 8 minutos.
+3. Enfría en agua fría y pela.
+JUSTIFICACION: La yema deja de estar líquida.
+ADVERTENCIAS: Es una receta base.|Yema cuajada.
+VALOR_NUTRICIONAL:
+Calorías: ~75 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~0 g
+Grasas: ~5 g
+Fibra: ~0 g
+Sodio: ~65 mg
+IG: Bajo
+ADAPTACIÓN:
+• Cocción 6 → 8 minutos.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-mollets-espinacas
+TITULO: Huevos Mollets con Espinacas
+CATEGORIA: Huevos mollets
+ICONO: 🍳
+SUBSECCION: Mollets
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos de yema cuajada sobre un lecho de espinacas cremosas con yogur.
+INGREDIENTES:
+• Espinacas — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Yogur natural espeso — 2 cdas
+• Huevos — 4
+PREPARACION:
+1. Cuece las espinacas 3 minutos, escúrrelas y pícalas; rehógalas con el aceite.
+2. Incorpora el yogur fuera del fuego.
+3. Sirve con los huevos cocidos 8 minutos.
+JUSTIFICACION: Cremosas sin nata.
+ADVERTENCIAS: Yema cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~5 g
+Grasas: ~9 g
+Fibra: ~4 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; nata → yogur.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-mollets-boletos
+TITULO: Huevos Mollets con Boletos
+CATEGORIA: Huevos mollets
+ICONO: 🍳
+SUBSECCION: Mollets
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos de yema cuajada sobre boletos grandes asados con perejil y ralladura de limón.
+INGREDIENTES:
+• Boletos grandes (o champiñones grandes) — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Perejil picado — un poco
+• Ralladura de limón — de ½ limón
+• Huevos — 4
+PREPARACION:
+1. Unta los boletos con el aceite y ásalos 15 minutos a 200 °C.
+2. Cuece los huevos 8 minutos y pélalos.
+3. Sirve sobre los boletos con perejil y ralladura.
+JUSTIFICACION: Terroso y ligero.
+ADVERTENCIAS: Yema cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~3 g
+Grasas: ~11 g
+Fibra: ~1 g
+Sodio: ~75 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 80 g → aceite 10 g; zumo de limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-mollets-mostaza-hierbas
+TITULO: Huevos Mollets con Salsa de Hierbas
+CATEGORIA: Huevos mollets
+ICONO: 🍳
+SUBSECCION: Mollets
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Gluten
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos de yema cuajada con una salsa de chalote y yogur con cebollino y perejil, sin mostaza.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Chalote picado fino — 1
+• Harina de avena — 1 cda
+• Yogur natural espeso — 80 g
+• Huevos — 8
+• Cebollino y perejil picados — un poco
+PREPARACION:
+1. Rehoga el chalote en el aceite; añade la harina y 150 ml de agua y cuece 5 minutos; incorpora el yogur fuera del fuego.
+2. Cuece los huevos 8 minutos y pélalos.
+3. Sirve con la salsa y las hierbas.
+JUSTIFICACION: Cremosa sin mostaza.
+ADVERTENCIAS: Es una evocación: sin mostaza.|Yema cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~180 kcal (por porción de 2 huevos)
+Proteínas: ~14 g
+Carbohidratos: ~5 g
+Grasas: ~11 g
+Fibra: ~1 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; mostaza → yogur y hierbas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-mollets-tomate
+TITULO: Huevos Mollets al Tomate
+CATEGORIA: Huevos mollets
+ICONO: 🍳
+SUBSECCION: Mollets
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos de yema cuajada en una salsa de tomate asado con apio, zanahoria y perejil.
+INGREDIENTES:
+• Passata de tomate asado — 200 ml
+• Cebolla picada — 1
+• Rama de apio picada — 1
+• Zanahoria picada — 1
+• Perejil picado — un poco
+• Huevos — 8
+PREPARACION:
+1. Cuece cebolla, apio y zanahoria con un poco de agua 10 minutos; añade la passata y cuece 10 minutos.
+2. Cuece los huevos 8 minutos y pélalos.
+3. Sírvelos en la salsa con perejil.
+JUSTIFICACION: Sin grasa añadida.
+ADVERTENCIAS: Yema cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción de 2 huevos)
+Proteínas: ~13 g
+Carbohidratos: ~7 g
+Grasas: ~10 g
+Fibra: ~2 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Tomate asado; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-mollets-brecol
+TITULO: Huevos Mollets con Brócoli
+CATEGORIA: Huevos mollets
+ICONO: 🍳
+SUBSECCION: Mollets
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos de yema cuajada con brócoli al vapor aliñado con aceite y ajo asado.
+INGREDIENTES:
+• Brócoli en ramitos — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Huevos — 4
+PREPARACION:
+1. Cuece el brócoli al vapor 8 minutos.
+2. Mezcla con el aceite y el ajo.
+3. Sirve con los huevos cocidos 8 minutos.
+JUSTIFICACION: Ligero y rico en fibra.
+ADVERTENCIAS: Yema cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~7 g
+Grasas: ~8 g
+Fibra: ~5 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; ajo asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-mollets-alcachofas
+TITULO: Huevos Mollets con Alcachofas
+CATEGORIA: Huevos mollets
+ICONO: 🍳
+SUBSECCION: Mollets
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos de yema cuajada con alcachofas, chalote y tomillo con naranja reducida y pollo, sin vino ni jamón.
+INGREDIENTES:
+• Corazones de alcachofa — 4
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Chalote picado — 1
+• Tomillo fresco picado — un poco
+• Zumo de naranja reducido — 3 cdas
+• Harina de avena — 1 pizca
+• Huevos — 4
+• Pechuga de pollo cocida en tiras — 80 g
+PREPARACION:
+1. Cuece las alcachofas al vapor 15 minutos y córtalas en láminas.
+2. Rehoga chalote y tomillo en el aceite; añade harina, naranja y alcachofas y cuece 5 minutos; suma el pollo.
+3. Sirve con los huevos cocidos 8 minutos.
+JUSTIFICACION: Aromático y ligero.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón; sin vino.|Yema cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~180 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~8 g
+Grasas: ~8 g
+Fibra: ~3 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vino → naranja reducida; jamón → pollo; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-duros-tecnica
+TITULO: Huevos Duros (Técnica Básica)
+CATEGORIA: Huevos duros
+ICONO: 🍳
+SUBSECCION: Duros
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Base, Perfil1
+CONCEPTO: Huevos cocidos 10 minutos en agua, sin sal.
+INGREDIENTES:
+• Huevos — 4
+• Agua — un cazo
+PREPARACION:
+1. Sumerge los huevos en agua hirviendo.
+2. Cuece 10 minutos.
+3. Enfría en agua fría y pela.
+JUSTIFICACION: Base de muchas recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.
+VALOR_NUTRICIONAL:
+Calorías: ~75 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~0 g
+Grasas: ~5 g
+Fibra: ~0 g
+Sodio: ~65 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal en el agua.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-duros-aspic
+TITULO: Áspic de Huevo Duro
+CATEGORIA: Huevos duros
+ICONO: 🍳
+SUBSECCION: Duros
+SECCION: Huevos
+TIPO: Almuerzo
+PORCIONES: 5
+RIESGOS: Huevo, Pescado
+ETIQUETAS: Italiana, Huevos, Frío, Perfil1
+CONCEPTO: Moldes de gelatina con huevo duro, pollo asado y mayonesa ligera de yogur, sin lengua encurtida ni jamón.
+INGREDIENTES:
+• Huevos duros — 4
+• Pechuga de pollo asada, sin piel, en tiras — 200 g
+• Mayonesa ligera de yogur (receta de este recetario) — 1 ración
+• Gelatina en láminas — 2 láminas
+• Ralladura de limón — de ½ limón
+• Rábanos en forma de flor — para adornar
+PREPARACION:
+1. Hidrata la gelatina, disuélvela en 200 ml de caldo casero tibio sin sal y mézclala con la mayonesa ligera y la ralladura.
+2. Coloca en moldes el huevo duro en rodajas y el pollo; cubre con la mezcla.
+3. Cuaja 4 horas en la nevera, desmolda y adorna con los rábanos.
+JUSTIFICACION: Mismo plato frío, sin embutidos ni encurtidos.
+ADVERTENCIAS: Es una evocación: pollo en lugar de lengua encurtida y jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~24 g
+Carbohidratos: ~3 g
+Grasas: ~9 g
+Fibra: ~0 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Lengua y jamón → pollo; mayonesa → versión con yogur; zumo de limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-duros-curry
+TITULO: Huevos Duros al Curry
+CATEGORIA: Huevos duros
+ICONO: 🍳
+SUBSECCION: Duros
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Gluten, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos duros gratinados con una bechamel ligera aromatizada con curry suave.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Curry dulce en polvo — 1 cdta
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Huevos duros — 6
+• Parmesano rallado — 2 cdtas
+PREPARACION:
+1. Mezcla la bechamel con el curry.
+2. Coloca los huevos duros partidos por la mitad en una fuente engrasada y cúbrelos con la salsa.
+3. Espolvorea con parmesano y gratina 10 minutos a 200 °C.
+JUSTIFICACION: Aromático y cremoso con poca grasa.
+ADVERTENCIAS: Curry sin picante.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~7 g
+Grasas: ~12 g
+Fibra: ~1 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; bechamel ligera; parmesano 1 cda → 2 cdtas; curry dulce.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-duros-napolitana
+TITULO: Huevos Duros a la Napolitana
+CATEGORIA: Huevos duros
+ICONO: 🍳
+SUBSECCION: Duros
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Pescado
+ETIQUETAS: Italiana, Huevos, Frío, Perfil1
+CONCEPTO: Huevos duros rellenos de tomate asado, aceitunas enjuagadas y atún al natural, con mayonesa ligera.
+INGREDIENTES:
+• Huevos duros — 8
+• Tomates asados, pelados y en dados — 4
+• Aceitunas verdes y negras enjuagadas y picadas — 15 g
+• Atún al natural escurrido y desmenuzado — 40 g
+• Mayonesa ligera de yogur (receta de este recetario) — 4 cdas
+• Hojas de lechuga — para acompañar
+PREPARACION:
+1. Parte los huevos por la mitad y retira las yemas; machácalas con el atún, las aceitunas y la mitad del tomate.
+2. Rellena las claras con la mezcla.
+3. Sirve sobre lechuga con el resto del tomate y la mayonesa ligera.
+JUSTIFICACION: Sabor marino sin anchoas.
+ADVERTENCIAS: Es una evocación: atún al natural en lugar de anchoas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~200 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~6 g
+Grasas: ~12 g
+Fibra: ~2 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas → atún al natural; aceitunas enjuagadas; mayonesa → versión con yogur; tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-duros-nueces
+TITULO: Huevos Duros con Nueces
+CATEGORIA: Huevos duros
+ICONO: 🍳
+SUBSECCION: Duros
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Frutos secos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos duros cubiertos con una crema de nueces, yogur, perejil y ralladura de limón, en lugar de mantequilla de anchoa.
+INGREDIENTES:
+• Huevos duros — 4
+• Nueces — 6 (pocas)
+• Yogur natural espeso — 3 cdas
+• Ralladura de limón — de ½ limón
+• Perejil picado — un poco
+PREPARACION:
+1. Tritura las nueces con el yogur y la ralladura hasta obtener una crema.
+2. Parte los huevos por la mitad.
+3. Cubre con la crema y espolvorea con perejil.
+JUSTIFICACION: Cremosa sin anchoas ni mantequilla.
+ADVERTENCIAS: Es una evocación: yogur en lugar de mantequilla y pasta de anchoas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~180 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~3 g
+Grasas: ~14 g
+Fibra: ~1 g
+Sodio: ~80 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas y mantequilla → yogur; nueces 10 → 6; zumo de limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-duros-sombrero
+TITULO: Huevos Duros con Sombrero
+CATEGORIA: Huevos duros
+ICONO: 🍳
+SUBSECCION: Duros
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Frío, Perfil1
+CONCEPTO: Huevos duros sobre una ensalada de escarola, rúcula y tomate con aliño de aceite y naranja, con una cucharada de mayonesa ligera.
+INGREDIENTES:
+• Huevos duros — 8
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Zumo de naranja — 2 cdas
+• Escarola o endibia en tiras — 1 puñado
+• Rúcula — 1 puñado
+• Tomates — 4
+• Mayonesa ligera de yogur (receta de este recetario) — 4 cdas
+PREPARACION:
+1. Mezcla el aceite con la naranja.
+2. Reparte la escarola, la rúcula y el tomate en rodajas y aliña.
+3. Coloca los huevos partidos y corona con la mayonesa ligera.
+JUSTIFICACION: Sin vinagre ni alcaparras.
+ADVERTENCIAS: Es una evocación: aliño de naranja en lugar de vinagre.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~210 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~7 g
+Grasas: ~14 g
+Fibra: ~2 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 6 → 1½ cdas; vinagre → naranja; mayonesa con alcaparras → mayonesa ligera de yogur.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-duros-gambas
+TITULO: Huevos Duros con Gambas
+CATEGORIA: Huevos duros
+ICONO: 🍳
+SUBSECCION: Duros
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Marisco
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos duros con una crema de yogur y perejil y gambas cocidas, en lugar de la mantequilla de anchoa.
+INGREDIENTES:
+• Huevos duros — 4
+• Yogur natural espeso — 2 cdas
+• Perejil picado — un poco
+• Gambas cocidas y peladas — 8
+PREPARACION:
+1. Parte los huevos por la mitad y mezcla las yemas con el yogur y el perejil.
+2. Rellena las claras.
+3. Corona cada mitad con una gamba.
+JUSTIFICACION: Ligero y fresco.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~16 g
+Carbohidratos: ~2 g
+Grasas: ~8 g
+Fibra: ~0 g
+Sodio: ~140 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla y anchoas → yogur.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-duros-salmon
+TITULO: Huevos Duros con Salmón
+CATEGORIA: Huevos duros
+ICONO: 🍳
+SUBSECCION: Duros
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Pescado, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos duros con salmón fresco horneado y yogur sobre hojas de lechuga, en lugar de ahumado y nata.
+INGREDIENTES:
+• Huevos duros — 4
+• Salmón fresco horneado y desmenuzado — 120 g
+• Yogur natural espeso — 3 cdas
+• Eneldo — 1 pizca
+• Hojas de lechuga — 4
+PREPARACION:
+1. Hornea el salmón 12 minutos a 180 °C y desmenúzalo.
+2. Mezcla con el yogur y el eneldo.
+3. Sirve con los huevos partidos sobre las hojas de lechuga.
+JUSTIFICACION: Fresco, sin ahumados.
+ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~22 g
+Carbohidratos: ~3 g
+Grasas: ~14 g
+Fibra: ~0 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Ahumado → fresco horneado; nata → yogur.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-duros-ostras
+TITULO: Huevos Duros con Mejillones
+CATEGORIA: Huevos duros
+ICONO: 🍳
+SUBSECCION: Duros
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Marisco, Gluten
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos duros con mejillones cocidos al vapor sobre pan integral tostado, con aceite y ralladura de limón, en lugar de ostras crudas.
+INGREDIENTES:
+• Huevos duros — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ralladura de limón — de 1 limón
+• Mejillones cocidos al vapor y sin conchas — 8
+• Perejil picado — un poco
+• Rebanadas de pan integral sin corteza — 8
+• Naranja pelada en rodajas finas — 1
+PREPARACION:
+1. Mezcla el aceite con la ralladura y el perejil.
+2. Tuesta el pan y cubre con rodajas de huevo duro y un mejillón.
+3. Aliña con el aceite aromatizado y sirve con la naranja.
+JUSTIFICACION: Marino sin marisco crudo.
+ADVERTENCIAS: Es una evocación: mejillones cocidos en lugar de ostras crudas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~20 g
+Grasas: ~10 g
+Fibra: ~3 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Ostras crudas → mejillones cocidos; zumo de limón → ralladura; mantequilla fuera; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-duros-jamon-gelatina
+TITULO: Huevos Duros con Pollo en Gelatina
+CATEGORIA: Huevos duros
+ICONO: 🍳
+SUBSECCION: Duros
+SECCION: Huevos
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Frío, Perfil1
+CONCEPTO: Huevos duros y lonchas finas de pollo en gelatina de caldo, con aceitunas enjuagadas, en lugar de jamón y alcaparras.
+INGREDIENTES:
+• Huevos duros — 6
+• Gelatina de caldo disuelta (receta de este recetario) — 800 ml
+• Lonchas finas de pechuga de pollo cocida — 6
+• Aceitunas negras enjuagadas — 8
+PREPARACION:
+1. Vierte una capa de gelatina en los moldes y cuaja 30 minutos.
+2. Coloca el pollo, el huevo y las aceitunas y cubre con gelatina.
+3. Cuaja 4 horas en la nevera.
+JUSTIFICACION: Vistoso y sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~18 g
+Carbohidratos: ~1 g
+Grasas: ~8 g
+Fibra: ~0 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; alcaparras fuera; aceitunas enjuagadas 12 → 8.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-duros-rebozados
+TITULO: Huevos Duros Rebozados al Horno
+CATEGORIA: Huevos duros
+ICONO: 🍳
+SUBSECCION: Duros
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Gluten, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos duros rellenos de ricota y parmesano, empanados y horneados en vez de fritos.
+INGREDIENTES:
+• Huevos duros — 5
+• Ricota baja en grasa — 100 g
+• Parmesano rallado — 20 g
+• Yogur natural espeso — 2 cdas
+• Perejil picado — un poco
+• Pan integral rallado — 60 g
+• Harina de avena — un poco
+• Huevo — 1 (batido)
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Parte los huevos por la mitad, retira las yemas y mézclalas con ricota, parmesano, yogur y perejil; rellena las claras y júntalas.
+2. Pásalos por harina, huevo batido y pan rallado.
+3. Rocíalos con el aceite y hornea 15 minutos a 200 °C.
+JUSTIFICACION: Crujientes sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~16 g
+Carbohidratos: ~12 g
+Grasas: ~13 g
+Fibra: ~2 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Fritura → horno; nata → yogur; ricota baja en grasa; parmesano 40 → 20 g; mantequilla fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-revueltos-tecnica
+TITULO: Huevos Revueltos (Técnica Básica)
+CATEGORIA: Huevos revueltos
+ICONO: 🍳
+SUBSECCION: Revueltos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Base, Perfil1
+CONCEPTO: Huevos revueltos cocinados con una pizca de aceite hasta quedar totalmente cuajados.
+INGREDIENTES:
+• Huevos — 6
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION:
+1. Bate los huevos sin sal.
+2. Calienta el aceite en sartén antiadherente a fuego bajo y vierte los huevos.
+3. Remueve hasta que estén completamente cuajados.
+JUSTIFICACION: Sin mantequilla y sin textura cremosa cruda.
+ADVERTENCIAS: Es una receta base.|Totalmente cuajados.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~0 g
+Grasas: ~8 g
+Fibra: ~0 g
+Sodio: ~95 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 125 g → aceite 5 g; cocción total.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-revueltos-alcachofas
+TITULO: Huevos Revueltos con Alcachofas
+CATEGORIA: Huevos revueltos
+ICONO: 🍳
+SUBSECCION: Revueltos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos revueltos con corazones de alcachofa cocidos y salteados.
+INGREDIENTES:
+• Alcachofas (corazones) — 3
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Huevos — 4
+PREPARACION:
+1. Cuece las alcachofas al vapor 15 minutos y córtalas en láminas.
+2. Saltéalas con el aceite 4 minutos.
+3. Añade los huevos batidos y remueve hasta cuajar por completo.
+JUSTIFICACION: Ligero y de temporada.
+ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~6 g
+Grasas: ~9 g
+Fibra: ~3 g
+Sodio: ~95 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 50 g → aceite 10 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-revueltos-abruzzo
+TITULO: Huevos Revueltos al Estilo de Abruzzo
+CATEGORIA: Huevos revueltos
+ICONO: 🍳
+SUBSECCION: Revueltos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos revueltos con sofrito de cebolla, ajo asado, tomate asado, hierbas y aceitunas, con pimentón dulce en lugar de guindilla.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada fina — 1
+• Ajo asado picado — 1 diente
+• Tomates asados, pelados y en dados — 4
+• Albahaca y mejorana picadas — un poco
+• Pimentón dulce — 1 pizca
+• Huevos — 8
+• Aceitunas negras enjuagadas, sin hueso — 50 g
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade ajo, tomate, hierbas y pimentón y cuece 10 minutos.
+2. Incorpora los huevos batidos y remueve hasta cuajar por completo.
+3. Añade las aceitunas y sirve.
+JUSTIFICACION: Rústicos y sin picante.
+ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~6 g
+Grasas: ~11 g
+Fibra: ~2 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Guindilla → pimentón dulce; aceite 3 → 1 cda; aceitunas 100 → 50 g enjuagadas; tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-revueltos-fontina
+TITULO: Huevos Revueltos con Queso Fundente
+CATEGORIA: Huevos revueltos
+ICONO: 🍳
+SUBSECCION: Revueltos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos revueltos con mozzarella baja en grasa fundida, en lugar de fontina y mantequilla.
+INGREDIENTES:
+• Huevos — 5
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Mozzarella baja en grasa rallada — 50 g
+PREPARACION:
+1. Calienta el aceite y añade los huevos batidos.
+2. Remueve a fuego bajo hasta que estén casi cuajados.
+3. Incorpora el queso y cocina hasta que los huevos estén firmes.
+JUSTIFICACION: Cremosos sin exceso de grasa.
+ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de fontina.|Totalmente cuajados.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~1 g
+Grasas: ~10 g
+Fibra: ~0 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 80 g → aceite 5 g; fontina 80 → mozzarella baja en grasa 50 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-revueltos-trufa
+TITULO: Huevos Revueltos con Champiñón y Nuez Moscada
+CATEGORIA: Huevos revueltos
+ICONO: 🍳
+SUBSECCION: Revueltos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Gluten
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos revueltos sobre pan integral untado con pasta de champiñón asado, en lugar de pasta de trufa.
+INGREDIENTES:
+• Rebanadas de pan integral sin corteza — 4
+• Champiñones asados triturados — 60 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Nuez moscada — 1 pizca
+• Huevos — 8
+• Yogur natural espeso — 2 cdas
+PREPARACION:
+1. Mezcla el champiñón con la mitad del aceite y la nuez moscada y unta el pan tostado.
+2. Revuelve los huevos con el resto del aceite hasta que cuajen por completo; incorpora el yogur fuera del fuego.
+3. Sirve sobre el pan.
+JUSTIFICACION: Aroma terroso sin trufa.
+ADVERTENCIAS: Es una evocación: champiñón en lugar de trufa.|Totalmente cuajados.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción de 2 huevos)
+Proteínas: ~15 g
+Carbohidratos: ~15 g
+Grasas: ~11 g
+Fibra: ~3 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Trufa → champiñón; mantequilla → aceite; nata → yogur; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-revueltos-espinacas
+TITULO: Huevos Revueltos con Espinacas
+CATEGORIA: Huevos revueltos
+ICONO: 🍳
+SUBSECCION: Revueltos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos revueltos con espinacas, albahaca, perejil y chalote.
+INGREDIENTES:
+• Espinacas — 400 g
+• Perejil picado — un poco
+• Hojas de albahaca picadas — 6
+• Chalote picado — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Huevos — 6
+PREPARACION:
+1. Rehoga el chalote en el aceite 3 minutos; añade las espinacas y cuece 4 minutos.
+2. Incorpora las hierbas y los huevos batidos.
+3. Remueve hasta que estén totalmente cuajados.
+JUSTIFICACION: Verdes y ligeros.
+ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~3 g
+Grasas: ~8 g
+Fibra: ~3 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-revueltos-alubias
+TITULO: Huevos Revueltos con Frijoles
+CATEGORIA: Huevos revueltos
+ICONO: 🍳
+SUBSECCION: Revueltos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos revueltos con frijoles (alubias pintas) cocidos en casa y cebolla.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en aros finos — 1
+• Frijoles cocidos en casa sin sal, escurridos — 250 g
+• Huevos — 4
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos.
+2. Añade los frijoles y calienta 3 minutos.
+3. Incorpora los huevos batidos y remueve hasta cuajar por completo.
+JUSTIFICACION: Contundente y con fibra.
+ADVERTENCIAS: Es una evocación: frijoles cocidos en casa en lugar de conserva con sal.|Totalmente cuajados.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~21 g
+Grasas: ~9 g
+Fibra: ~7 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Conserva → frijoles cocidos en casa sin sal; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-revueltos-higadillos
+TITULO: Huevos Revueltos con Pollo
+CATEGORIA: Huevos revueltos
+ICONO: 🍳
+SUBSECCION: Revueltos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos revueltos con pechuga de pollo picada y salsa de tomate asado, en lugar de higadillos.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pechuga de pollo picada gruesa — 150 g
+• Salsa de Tomate (receta de este recetario) — 1 cda
+• Huevos — 4
+PREPARACION:
+1. Dora el pollo en el aceite 8 minutos; añade la salsa.
+2. Incorpora los huevos batidos.
+3. Remueve hasta que estén totalmente cuajados.
+JUSTIFICACION: Textura parecida, sin vísceras.
+ADVERTENCIAS: Es una evocación: pollo en lugar de higadillos.|Totalmente cuajados.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~29 g
+Carbohidratos: ~2 g
+Grasas: ~12 g
+Fibra: ~0 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Higadillos → pollo; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-revueltos-salchichas
+TITULO: Huevos Revueltos con Pollo Sazonado
+CATEGORIA: Huevos revueltos
+ICONO: 🍳
+SUBSECCION: Revueltos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Huevos revueltos con carne magra de pollo sazonada al estilo de salchicha (ajo asado, hinojo y pimentón dulce), sin embutido.
+INGREDIENTES:
+• Pechuga de pollo picada — 150 g
+• Ajo asado — 1 diente
+• Semillas de hinojo — 1 pizca
+• Pimentón dulce — 1 pizca
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Huevos — 5
+PREPARACION:
+1. Mezcla el pollo con ajo, hinojo y pimentón y deja reposar 15 minutos.
+2. Dóralo en el aceite 8 minutos.
+3. Añade los huevos batidos y remueve hasta cuajar por completo.
+JUSTIFICACION: Sabor de salchicha sin procesados.
+ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchichas.|Totalmente cuajados.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~200 kcal (por porción)
+Proteínas: ~26 g
+Carbohidratos: ~1 g
+Grasas: ~10 g
+Fibra: ~0 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Salchichas → pollo sazonado; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-revueltos-nidos-patata
+TITULO: Huevos Revueltos en Nidos de Papa
+CATEGORIA: Huevos revueltos
+ICONO: 🍳
+SUBSECCION: Revueltos
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Nidos de puré de papa gratinados que se rellenan con huevos revueltos, con parmesano.
+INGREDIENTES:
+• Papas — 400 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Leche descremada — 50 ml
+• Huevos — 6
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Cuece las papas, hazlas puré con la leche y el aceite; forma nidos sobre una bandeja engrasada y gratina 10 minutos a 200 °C.
+2. Revuelve los huevos hasta que estén totalmente cuajados.
+3. Rellena los nidos y espolvorea con el parmesano.
+JUSTIFICACION: Menos grasa, mismo plato.
+ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~22 g
+Grasas: ~10 g
+Fibra: ~2 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla y nata → aceite y leche descremada; parmesano 50 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crepes-saladas-salmon-ahumado
+TITULO: Crepes de Salmón Horneado
+CATEGORIA: Crepes saladas
+ICONO: pasta
+SUBSECCION: Crepes
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Pescado, Lácteos
+ETIQUETAS: Italiana, Crepes, Perfil1
+CONCEPTO: Crepes rellenas de salmón fresco horneado con una crema de yogur y ralladura de limón, en lugar de salmón ahumado y mantequilla.
+INGREDIENTES:
+• Crepes integrales (receta de este recetario) — 12 unidades
+• Yogur natural espeso — 80 g
+• Salmón fresco horneado y desmenuzado — 150 g
+• Ralladura de limón — de 1 limón
+PREPARACION:
+1. Hornea el salmón 12 minutos a 180 °C y desmenúzalo.
+2. Mezcla el yogur con la ralladura.
+3. Unta las crepes con el yogur, reparte el salmón y enróllalas.
+JUSTIFICACION: Fresco y ligero.
+ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~160 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~13 g
+Grasas: ~7 g
+Fibra: ~2 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Ahumado → fresco horneado; mantequilla → yogur; zumo de limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crepes-saladas-salmon-marinado
+TITULO: Crepes de Salmón con Pimienta Verde
+CATEGORIA: Crepes saladas
+ICONO: pasta
+SUBSECCION: Crepes
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Pescado
+ETIQUETAS: Italiana, Crepes, Perfil1
+CONCEPTO: Crepes rellenas de láminas de salmón cocido al vapor con pimienta verde y ralladura de limón, en lugar de salmón crudo marinado.
+INGREDIENTES:
+• Salmón fresco al vapor en lonchas finas — 150 g
+• Ralladura de limón — de 2 limones
+• Granos de pimienta verde — 1 cdta (suave, machacados)
+• Crepes integrales (receta de este recetario) — 12 unidades
+PREPARACION:
+1. Cuece el salmón al vapor 8 minutos y córtalo en lonchas finas.
+2. Mézclalo con la ralladura y la pimienta verde.
+3. Rellena las crepes y enróllalas.
+JUSTIFICACION: Sin pescado crudo ni marinado ácido.
+ADVERTENCIAS: Es una evocación: salmón cocido en lugar de crudo marinado en limón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~12 g
+Grasas: ~6 g
+Fibra: ~2 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Salmón crudo → cocido al vapor; zumo de limón → ralladura; pimienta verde 1 cda → 1 cdta.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crepes-saladas-queso-nueces
+TITULO: Crepes de Queso y Nueces
+CATEGORIA: Crepes saladas
+ICONO: pasta
+SUBSECCION: Crepes
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos, Frutos secos
+ETIQUETAS: Italiana, Crepes, Perfil1
+CONCEPTO: Crepes gratinadas con un relleno cremoso de ricota baja en grasa, queso azul suave y nueces, sin mascarpone ni nata.
+INGREDIENTES:
+• Crepes integrales (receta de este recetario) — 12 unidades
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Ricota baja en grasa — 120 g
+• Queso azul suave desmenuzado — 40 g
+• Nueces picadas — 6
+• Yogur natural espeso — 3 cdas
+PREPARACION:
+1. Mezcla ricota, queso azul y nueces; rellena las crepes y dóblalas en una fuente engrasada.
+2. Cubre con el yogur.
+3. Gratina 10 minutos a 200 °C.
+JUSTIFICACION: Sabor a queso azul con mucho menos grasa.
+ADVERTENCIAS: Es una evocación: ricota y yogur en lugar de mascarpone y nata.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~14 g
+Grasas: ~9 g
+Fibra: ~2 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Gorgonzola 150 → 40 g; mascarpone y nata → ricota y yogur; nueces 12 → 6.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crepes-saladas-cardos
+TITULO: Crepes de Cardos
+CATEGORIA: Crepes saladas
+ICONO: pasta
+SUBSECCION: Crepes
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Crepes, Perfil1
+CONCEPTO: Crepes rellenas de cardos (o apio cocido) con bechamel ligera, gratinadas.
+INGREDIENTES:
+• Cardos pelados (o tallos de apio) — 500 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Crepes integrales (receta de este recetario) — 12 unidades
+• Salsa Bechamel (receta de este recetario) — ¾ de ración
+PREPARACION:
+1. Cuece los cardos 25 minutos, escúrrelos y saltéalos con el aceite.
+2. Rellena las crepes, dóblalas en una fuente engrasada y cubre con la bechamel.
+3. Gratina 15 minutos a 200 °C.
+JUSTIFICACION: Verduras, poca grasa.
+ADVERTENCIAS: Es una evocación: si no hay cardos, apio cocido.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~17 g
+Grasas: ~6 g
+Fibra: ~4 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-crepes-saladas-ricota-espinacas
+TITULO: Crepes de Ricota y Espinacas
+CATEGORIA: Crepes saladas
+ICONO: pasta
+SUBSECCION: Crepes
+SECCION: Pasta, arroz y masas
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Crepes, Perfil1
+CONCEPTO: Crepes rellenas de espinacas y ricota baja en grasa, gratinadas con parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Espinacas — 500 g
+• Ricota baja en grasa — 200 g
+• Yema de huevo — 1
+• Parmesano rallado — 1 cda
+• Crepes integrales (receta de este recetario) — 12 unidades
+PREPARACION:
+1. Rehoga las espinacas en el aceite 4 minutos, escúrrelas y pícalas; mezcla con ricota, yema y la mitad del parmesano.
+2. Rellena las crepes y dóblalas en una fuente engrasada.
+3. Espolvorea con el resto del parmesano y gratina 12 minutos a 200 °C.
+JUSTIFICACION: Ligeras y con hierro.
+ADVERTENCIAS: Yema bien cocida al gratinar.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~14 g
+Grasas: ~8 g
+Fibra: ~3 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; ricota baja en grasa; parmesano 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-tecnica
+TITULO: Frittata (Técnica Básica)
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Base, Perfil1
+CONCEPTO: Tortilla italiana cocida a fuego suave por los dos lados hasta cuajar por completo, sin sal.
+INGREDIENTES:
+• Huevos — 4
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION:
+1. Bate los huevos y calienta el aceite en una sartén antiadherente.
+2. Cuaja a fuego bajo tapada 6 minutos.
+3. Dale la vuelta y cocina 3 minutos más.
+JUSTIFICACION: Sin mantequilla ni sal; centro firme.
+ADVERTENCIAS: Es una receta base.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~0 g
+Grasas: ~7 g
+Fibra: ~0 g
+Sodio: ~65 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; sal fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-pimiento
+TITULO: Frittata de Pimiento
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Frittata con pimientos amarillos y tomate asado.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pimientos amarillos asados, en dados — 2
+• Tomates asados, pelados y en dados — 3
+• Huevos — 6
+PREPARACION:
+1. Rehoga pimiento y tomate en el aceite 10 minutos.
+2. Vierte los huevos batidos.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Colorida y ligera.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~6 g
+Grasas: ~9 g
+Fibra: ~2 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla y aceite 4 cdas → aceite 1 cda; verduras asadas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-queso
+TITULO: Frittata de Queso
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Frittata con mozzarella baja en grasa, pollo y parmesano, en lugar de fontina y jamón.
+INGREDIENTES:
+• Huevos — 8
+• Mozzarella baja en grasa en dados — 60 g
+• Pechuga de pollo cocida en dados — 40 g
+• Parmesano rallado — 1 cda
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION:
+1. Mezcla los huevos batidos con el queso, el pollo y el parmesano.
+2. Calienta el aceite en una sartén antiadherente y vierte la mezcla.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Sabrosa con poca grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~16 g
+Carbohidratos: ~1 g
+Grasas: ~11 g
+Fibra: ~0 g
+Sodio: ~180 mg
+IG: Bajo
+ADAPTACIÓN:
+• Fontina 80 → mozzarella baja en grasa 60 g; jamón → pollo.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-borrajas
+TITULO: Frittata de Borrajas
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Gluten, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Frittata de borrajas (o espinacas y acelgas) con pan integral, parmesano y mejorana.
+INGREDIENTES:
+• Pan integral sin corteza, desmenuzado — 50 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Borrajas (o espinacas y acelgas) picadas finas — 600 g
+• Huevos — 4
+• Parmesano rallado — 1 cda
+• Mejorana fresca picada — un poco
+• Ajo asado picado — ¼ diente
+PREPARACION:
+1. Cuece las verduras 5 minutos, escúrrelas bien y rehógalas con el aceite y el ajo.
+2. Mezcla con el pan, los huevos batidos, el parmesano y la mejorana.
+3. Cuaja en sartén antiadherente tapada 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Muy verde y con fibra.
+ADVERTENCIAS: Es una evocación: espinacas y acelgas si no hay borrajas.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~9 g
+Grasas: ~8 g
+Fibra: ~3 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; parmesano 2 → 1 cda; ajo asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-jamon
+TITULO: Frittata de Pollo
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Frittata con pollo cocido, perejil y parmesano, con yogur en lugar de nata y sin jamón.
+INGREDIENTES:
+• Huevos — 6
+• Pechuga de pollo cocida en trocitos — 100 g
+• Perejil picado — un poco
+• Parmesano rallado — 1 cdta
+• Yogur natural espeso — 2 cdas
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION:
+1. Mezcla huevos, yogur, pollo, perejil y parmesano.
+2. Calienta el aceite en una sartén antiadherente y vierte la mezcla.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Contundente y ligera.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~1 g
+Grasas: ~10 g
+Fibra: ~0 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-jamon-salvia
+TITULO: Frittata de Pollo a la Salvia
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Frittata de pollo cocido aromatizada con salvia fresca.
+INGREDIENTES:
+• Huevos — 6
+• Pechuga de pollo cocida en trocitos — 100 g
+• Salvia fresca picada — un poco
+• Parmesano rallado — 1 cdta
+• Yogur natural espeso — 2 cdas
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION:
+1. Mezcla huevos, yogur, pollo, salvia y parmesano.
+2. Calienta el aceite en una sartén antiadherente y vierte la mezcla.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Aromática y ligera.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~1 g
+Grasas: ~10 g
+Fibra: ~0 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-apio-salchichas
+TITULO: Frittata de Apio y Pollo
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Frittata con apio tierno y pollo sazonado al estilo de salchicha con hinojo, sin embutido.
+INGREDIENTES:
+• Huevos — 6
+• Pechuga de pollo picada — 100 g
+• Semillas de hinojo — 1 pizca
+• Cogollo de apio picado — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Dora el pollo con el hinojo en la mitad del aceite 8 minutos; añade el apio y cuece 5 minutos.
+2. Vierte los huevos batidos con el resto del aceite.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Sabor de salchicha sin procesados.
+ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchichas.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~180 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~2 g
+Grasas: ~10 g
+Fibra: ~1 g
+Sodio: ~140 mg
+IG: Bajo
+ADAPTACIÓN:
+• Salchichas → pollo con hinojo; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-atun
+TITULO: Frittata de Atún
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Pescado
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Frittata con cebolleta y atún al natural.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Cebolleta en rodajas finas — 1
+• Atún al natural escurrido y desmenuzado — 100 g
+• Huevos — 6
+• Perejil picado — un poco
+PREPARACION:
+1. Rehoga la cebolleta en el aceite 4 minutos.
+2. Mezcla con el atún, los huevos batidos y el perejil y vierte en la sartén.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Proteica y sin grasa extra.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~160 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~1 g
+Grasas: ~9 g
+Fibra: ~0 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Atún en aceite → al natural; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-cebolla-tomillo
+TITULO: Frittata de Cebolla al Tomillo
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Frittata con cebolla cocida lentamente y tomillo fresco.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 300 g
+• Tomillo fresco — un poco
+• Huevos — 6
+PREPARACION:
+1. Cuece la cebolla con el aceite y un poco de agua a fuego suave 20 minutos; añade el tomillo.
+2. Vierte los huevos batidos.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Dulce y ligera.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~6 g
+Grasas: ~9 g
+Fibra: ~1 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite y mantequilla → aceite 1 cda; cebolla cocida.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-pan
+TITULO: Frittata de Pan
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Gluten, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Frittata esponjosa con pan integral remojado en leche descremada, parmesano y perejil.
+INGREDIENTES:
+• Rebanadas de pan integral duro, sin corteza — 2
+• Leche descremada — 200 ml
+• Huevos — 6
+• Parmesano rallado — 1 cda
+• Perejil picado — un poco
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Remoja el pan en la leche y desmenúzalo; mezcla con los huevos, el parmesano y el perejil.
+2. Calienta el aceite en una sartén antiadherente y vierte la mezcla.
+3. Cuaja tapada a fuego bajo 10 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Esponjosa y ligera.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~9 g
+Grasas: ~9 g
+Fibra: ~1 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite y mantequilla → aceite 1 cda; leche descremada; parmesano 2 → 1 cda; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-aceitunas
+TITULO: Frittata de Aceitunas
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Frittata con aceitunas verdes y negras enjuagadas, pollo y parmesano, en lugar de panceta.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Chalote picado fino — 1
+• Pechuga de pollo cocida en tiras — 40 g
+• Huevos — 5
+• Parmesano rallado — 1 cda
+• Aceitunas verdes sin hueso enjuagadas y picadas — 15 g
+• Aceitunas negras sin hueso enjuagadas y picadas — 15 g
+PREPARACION:
+1. Rehoga el chalote y el pollo en el aceite 4 minutos.
+2. Añade los huevos batidos con el parmesano y las aceitunas.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Sabor salino con poca sal.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~2 g
+Grasas: ~11 g
+Fibra: ~1 g
+Sodio: ~200 mg
+IG: Bajo
+ADAPTACIÓN:
+• Panceta → pollo; aceitunas enjuagadas 50 → 30 g; mantequilla y aceite → aceite 1 cda; parmesano 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-calabacin
+TITULO: Frittata de Calabacín
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Frittata con rodajas finas de calabacín rehogadas.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Calabacines en rodajas finas — 300 g
+• Huevos — 6
+PREPARACION:
+1. Rehoga el calabacín en el aceite 8 minutos.
+2. Vierte los huevos batidos.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Ligera y fresca.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~3 g
+Grasas: ~9 g
+Fibra: ~1 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla y aceite → aceite 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-patatas-canela
+TITULO: Frittata de Papas a la Canela
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Frittata esponjosa de puré de papa con claras montadas y un toque de canela, con las yemas bien cuajadas.
+INGREDIENTES:
+• Papas — 2
+• Leche descremada — 100 ml
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Huevos (yemas y claras separadas) — 4
+• Canela en polvo — 1 pizca
+PREPARACION:
+1. Cuece las papas, hazlas puré con la leche y la mitad del aceite; añade las yemas y la canela.
+2. Monta las claras e incorpóralas con suavidad.
+3. Cuaja en sartén antiadherente con el resto del aceite tapada 10 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Esponjosa y poco grasa.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~16 g
+Grasas: ~8 g
+Fibra: ~2 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 65 g y aceite 2 cdas → aceite 1 cda; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-carne
+TITULO: Frittata de Carne
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Frittata con carne magra de res o pollo picada y perejil.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Carne magra picada (res o pollo) — 150 g
+• Huevos — 4
+• Perejil picado — un poco
+• Leche descremada — 2 cdas
+PREPARACION:
+1. Dora la carne en el aceite 8 minutos.
+2. Añade los huevos batidos con la leche y el perejil.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Plato único y proteico.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~220 kcal (por porción)
+Proteínas: ~24 g
+Carbohidratos: ~1 g
+Grasas: ~13 g
+Fibra: ~0 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla y aceite → aceite 1 cda; carne magra.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-rellena
+TITULO: Frittata Rellena
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Dos frittatas finas rellenas de champiñones, pollo y queso bajo en grasa, en lugar de jamón, lengua y gruyère.
+INGREDIENTES:
+• Huevos — 4
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Champiñones en láminas — 200 g
+• Pechuga de pollo cocida en dados — 60 g
+• Mozzarella baja en grasa en dados — 40 g
+PREPARACION:
+1. Saltea los champiñones en la mitad del aceite 8 minutos; mezcla con el pollo y el queso.
+2. Cuaja 2 frittatas finas con los huevos y el resto del aceite, tapadas y volteadas.
+3. Rellena una con la mezcla, cubre con la otra y calienta 3 minutos.
+JUSTIFICACION: Mismo plato con menos grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón y lengua.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~2 g
+Grasas: ~9 g
+Fibra: ~1 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón y lengua → pollo; gruyère → mozzarella baja en grasa; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-pastel
+TITULO: Pastel de Frittata
+CATEGORIA: Frittate
+ICONO: 🍳
+SUBSECCION: Frittate
+SECCION: Huevos
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Capas de berenjena y pimiento asados con frittata, perejil y mozzarella baja en grasa, sin fritura.
+INGREDIENTES:
+• Berenjenas en rodajas — 200 g
+• Pimientos rojos o amarillos — 200 g
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Huevos — 6
+• Perejil picado — un poco
+• Parmesano rallado — 1 cdta
+• Mozzarella baja en grasa en lonchas — 60 g
+PREPARACION:
+1. Ásalas berenjenas y los pimientos con la mitad del aceite 25 minutos a 200 °C; pela los pimientos.
+2. Cuaja 3 frittatas finas con los huevos, el perejil, el parmesano y el resto del aceite.
+3. Monta capas alternando frittata, verduras y queso; calienta 8 minutos a 180 °C.
+JUSTIFICACION: Sin fritura.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~6 g
+Grasas: ~11 g
+Fibra: ~2 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Fritura → horno; fontina → mozzarella baja en grasa; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tortilla-pimiento
+TITULO: Tortilla de Pimiento
+CATEGORIA: Tortillas
+ICONO: 🍳
+SUBSECCION: Tortillas
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Tortilla con cebolla, pimientos verdes y tomate asado y pollo cocido, en lugar de jamón.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Pimientos verdes pequeños asados en tiras gruesas — 2
+• Tomates asados, pelados y en dados — 3
+• Pechuga de pollo cocida en dados — 40 g
+• Huevos — 4
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade pimiento, tomate y pollo y cuece 8 minutos.
+2. Vierte los huevos batidos.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Jugosa y sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~8 g
+Grasas: ~10 g
+Fibra: ~2 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; mantequilla y aceite → aceite 1 cda; verduras asadas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tortilla-cangrejo
+TITULO: Tortilla de Cangrejo
+CATEGORIA: Tortillas
+ICONO: 🍳
+SUBSECCION: Tortillas
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Marisco
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Tortilla con carne de cangrejo o jaiba cocida fresca y yogur, en lugar de conserva y nata.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Carne de cangrejo o jaiba cocida fresca — 80 g
+• Yogur natural espeso — 2 cdas
+• Huevos — 6
+PREPARACION:
+1. Mezcla los huevos batidos con el yogur y el cangrejo.
+2. Calienta el aceite en una sartén antiadherente y vierte la mezcla.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Sabor marino sin sal de conserva.
+ADVERTENCIAS: Es una evocación: cangrejo o jaiba fresca en lugar de conserva.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~2 g
+Grasas: ~8 g
+Fibra: ~0 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Conserva → carne fresca; nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tortilla-provenzal
+TITULO: Tortilla a la Provenzal
+CATEGORIA: Tortillas
+ICONO: 🍳
+SUBSECCION: Tortillas
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Tortilla con tomate asado, ajo asado y pollo sazonado al estilo de salchicha, con perejil.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Tomates asados, pelados y en dados — 2
+• Ajo asado — 1 diente
+• Pechuga de pollo picada con semillas de hinojo — 80 g
+• Huevos — 4
+• Perejil picado — un poco
+PREPARACION:
+1. Dora el pollo en la mitad del aceite 6 minutos; añade tomate y ajo y cuece 6 minutos.
+2. Vierte los huevos batidos con el resto del aceite.
+3. Cuaja tapada a fuego bajo 8 minutos, dale la vuelta 3 minutos y sirve con perejil.
+JUSTIFICACION: Aromática y sin embutido.
+ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchichas.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~3 g
+Grasas: ~12 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Salchichas → pollo sazonado; mantequilla y aceite → aceite 1 cda; ajo asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tortilla-caracoles
+TITULO: Tortilla de Setas
+CATEGORIA: Tortillas
+ICONO: 🍳
+SUBSECCION: Tortillas
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Tortilla con setas salteadas con ajo asado y perejil, en lugar de caracoles y vinagre.
+INGREDIENTES:
+• Setas en trozos — 150 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Perejil picado — un poco
+• Ralladura de limón — de ½ limón
+• Huevos — 6
+PREPARACION:
+1. Saltea las setas en el aceite 8 minutos con el ajo; añade perejil y ralladura.
+2. Vierte los huevos batidos.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Textura carnosa sin caracoles.
+ADVERTENCIAS: Es una evocación: setas en lugar de caracoles; sin vinagre.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~2 g
+Grasas: ~10 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Caracoles → setas; vinagre → ralladura de limón; mantequilla fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tortilla-calabacin
+TITULO: Tortilla de Calabacín
+CATEGORIA: Tortillas
+ICONO: 🍳
+SUBSECCION: Tortillas
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Tortilla con calabacín en bastoncitos y perejil.
+INGREDIENTES:
+• Calabacines en bastoncitos — 3
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Huevos — 6
+• Perejil picado — un poco
+PREPARACION:
+1. Rehoga el calabacín en el aceite 8 minutos.
+2. Vierte los huevos batidos con el perejil.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Ligera y fresca.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~3 g
+Grasas: ~9 g
+Fibra: ~1 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla y aceite → aceite 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tortilla-achicoria
+TITULO: Tortilla de Achicoria
+CATEGORIA: Tortillas
+ICONO: 🍳
+SUBSECCION: Tortillas
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Tortilla con achicoria cocida y salsa suave de yogur.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Achicorias en tiras — 2
+• Yogur natural espeso — 3 cdas
+• Harina de avena — 1 pizca
+• Huevos — 4
+PREPARACION:
+1. Rehoga la achicoria en el aceite 6 minutos; añade la harina y el yogur fuera del fuego.
+2. Vierte los huevos batidos.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Amargor suave y cremosa.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~4 g
+Grasas: ~9 g
+Fibra: ~2 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tortilla-hierbas
+TITULO: Tortilla a las Hierbas
+CATEGORIA: Tortillas
+ICONO: 🍳
+SUBSECCION: Tortillas
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Tortilla fresca con perejil, albahaca, menta y cebollino.
+INGREDIENTES:
+• Huevos — 6
+• Perejil, albahaca, menta y cebollino picados — un puñado
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Mezcla los huevos batidos con las hierbas.
+2. Calienta el aceite en una sartén antiadherente y vierte la mezcla.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Aromática y sencilla.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~1 g
+Grasas: ~9 g
+Fibra: ~1 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla y aceite → aceite 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tortilla-champinones-curry
+TITULO: Tortilla de Champiñones al Curry
+CATEGORIA: Tortillas
+ICONO: 🍳
+SUBSECCION: Tortillas
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Tortilla con champiñones y cebolla en una salsa suave de curry y yogur.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 1
+• Champiñones en láminas — 150 g
+• Harina de avena — 1 pizca
+• Curry dulce en polvo — 1 pizca
+• Yogur natural espeso — 3 cdas
+• Huevos — 6
+PREPARACION:
+1. Rehoga cebolla y champiñones en el aceite 8 minutos; añade harina y curry y, fuera del fuego, el yogur.
+2. Cuaja los huevos batidos en una sartén antiadherente tapada 8 minutos y dales la vuelta 3 minutos.
+3. Sirve con la salsa.
+JUSTIFICACION: Aromática y cremosa con poca grasa.
+ADVERTENCIAS: Curry sin picante.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~160 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~5 g
+Grasas: ~10 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite; curry dulce.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tortilla-cuatro-quesos
+TITULO: Tortilla a los Tres Quesos
+CATEGORIA: Tortillas
+ICONO: 🍳
+SUBSECCION: Tortillas
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Tortilla con parmesano y mozzarella baja en grasa y queso fresco, en lugar de cuatro quesos grasos.
+INGREDIENTES:
+• Huevos — 6
+• Parmesano rallado — 1 cda
+• Leche descremada — 100 ml
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Mozzarella baja en grasa en daditos — 30 g
+• Queso fresco bajo en grasa en daditos — 30 g
+PREPARACION:
+1. Bate los huevos con la leche y el parmesano; añade los quesos.
+2. Calienta el aceite y vierte la mezcla.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Sabor a quesos con mucha menos grasa.
+ADVERTENCIAS: Es una evocación: tres quesos bajos en grasa en lugar de cuatro.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~3 g
+Grasas: ~11 g
+Fibra: ~0 g
+Sodio: ~190 mg
+IG: Bajo
+ADAPTACIÓN:
+• Emmental y fontina → queso fresco bajo en grasa; parmesano 3 → 1 cda; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tortilla-ricota
+TITULO: Tortilla a la Ricota
+CATEGORIA: Tortillas
+ICONO: 🍳
+SUBSECCION: Tortillas
+SECCION: Huevos
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Gluten, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Tortilla con ricota baja en grasa, pollo y parmesano, servida con salsa de tomate, sin jamón.
+INGREDIENTES:
+• Harina de avena — 2 cdas
+• Huevos — 4
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Ricota baja en grasa — 150 g
+• Pechuga de pollo cocida picada — 40 g
+• Parmesano rallado — 1 cda
+• Salsa de Tomate (receta de este recetario) — para acompañar
+PREPARACION:
+1. Mezcla harina, huevos, ricota, pollo y parmesano.
+2. Calienta el aceite y vierte la mezcla.
+3. Cuaja tapada a fuego bajo 10 minutos, dale la vuelta 3 minutos y sirve con la salsa.
+JUSTIFICACION: Cremosa y ligera.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~7 g
+Grasas: ~9 g
+Fibra: ~1 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; ricota baja en grasa; mantequilla → aceite; harina de avena.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-esparragos-coccion-basica
+TITULO: Espárragos: Cocción Básica
+CATEGORIA: Verduras - Espárragos
+ICONO: 🥗
+SUBSECCION: Espárragos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Espárragos cocidos al vapor, sin sal.
+INGREDIENTES:
+• Espárragos frescos — 1 kg
+PREPARACION:
+1. Limpia los espárragos y retira la parte dura.
+2. Átalos en manojos y cuécelos al vapor en posición vertical.
+3. Cuece 8-12 minutos según el grosor.
+JUSTIFICACION: Conserva el sabor sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~35 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~4 g
+Grasas: ~0 g
+Fibra: ~2 g
+Sodio: ~5 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal en el agua; vapor en lugar de agua.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-esparragos-al-gratin
+TITULO: Espárragos al Gratín
+CATEGORIA: Verduras - Espárragos
+ICONO: 🥗
+SUBSECCION: Espárragos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Espárragos gratinados con bechamel ligera, parmesano y mozzarella baja en grasa.
+INGREDIENTES:
+• Espárragos limpios — 1 kg
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Parmesano rallado — 20 g
+• Mozzarella baja en grasa rallada — 40 g
+• Salsa Bechamel (receta de este recetario) — 250 ml
+PREPARACION:
+1. Cuece los espárragos al vapor 8 minutos y colócalos en una fuente engrasada.
+2. Cubre con la bechamel, la mozzarella y el parmesano.
+3. Gratina 15 minutos a 200 °C.
+JUSTIFICACION: Gratinado con menos grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~10 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; emmental → mozzarella baja en grasa; parmesano 40 → 20 g; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-esparragos-bella-elena
+TITULO: Espárragos Bella Elena
+CATEGORIA: Verduras - Espárragos
+ICONO: 🥗
+SUBSECCION: Espárragos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Espárragos rebozados en pan rallado y horneados, con una pasta de pan, leche y parmesano, sin fritura.
+INGREDIENTES:
+• Espárragos limpios — 800 g
+• Pan integral sin corteza — 40 g
+• Leche descremada — 100 ml
+• Parmesano rallado — 25 g
+• Huevos — 3
+• Pan integral rallado — 100 g
+• Harina de avena — 3 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Cuece los espárragos al vapor 6 minutos; remoja el pan en la leche, mézclalo con el parmesano y 1 huevo y unta los espárragos.
+2. Pásalos por harina, huevo batido y pan rallado.
+3. Rocíalos con el aceite y hornea 15 minutos a 200 °C.
+JUSTIFICACION: Crujientes sin freír.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~24 g
+Grasas: ~9 g
+Fibra: ~4 g
+Sodio: ~230 mg
+IG: Medio
+ADAPTACIÓN:
+• Fritura → horno; huevos 4 → 3; parmesano 40 → 25 g; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-esparragos-con-panceta
+TITULO: Espárragos con Pollo
+CATEGORIA: Verduras - Espárragos
+ICONO: 🥗
+SUBSECCION: Espárragos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Espárragos gratinados con bechamel ligera, nuez moscada y lonchas finas de pollo, sin panceta ni vino.
+INGREDIENTES:
+• Espárragos limpios — 1 kg
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Parmesano rallado — 20 g
+• Yemas de huevo — 2
+• Salsa Bechamel (receta de este recetario) — 250 ml
+• Zumo de naranja reducido — 3 cdas
+• Nuez moscada — 1 pizca
+• Lonchas finas de pechuga de pollo cocida — 150 g
+PREPARACION:
+1. Cuece los espárragos al vapor 8 minutos; mezcla la bechamel con la naranja, las yemas y la nuez moscada.
+2. Envuelve los espárragos con el pollo, colócalos en una fuente engrasada y cubre con la salsa y el parmesano.
+3. Hornea 20 minutos a 200 °C hasta que las yemas estén bien cocidas.
+JUSTIFICACION: Sabroso sin embutido ni alcohol.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta; sin vino.|Yemas bien cocidas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~8 g
+Grasas: ~7 g
+Fibra: ~3 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Panceta → pollo; vino → naranja reducida; mantequilla → aceite; parmesano 40 → 20 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-esparragos-al-parmesano
+TITULO: Espárragos al Parmesano
+CATEGORIA: Verduras - Espárragos
+ICONO: 🥗
+SUBSECCION: Espárragos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Espárragos al vapor con aceite y parmesano.
+INGREDIENTES:
+• Espárragos limpios — 1 kg
+• Parmesano rallado — 30 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Cuece los espárragos al vapor 8 minutos.
+2. Aliña con el aceite.
+3. Espolvorea con el parmesano y gratina 3 minutos.
+JUSTIFICACION: Sencillo y ligero.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~4 g
+Grasas: ~5 g
+Fibra: ~2 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; parmesano 80 → 30 g; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-esparragos-a-la-naranja
+TITULO: Espárragos a la Naranja
+CATEGORIA: Verduras - Espárragos
+ICONO: 🥗
+SUBSECCION: Espárragos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Espárragos con salsa ligera de yogur y naranja, sin mostaza ni mayonesa de huevo crudo.
+INGREDIENTES:
+• Espárragos limpios — 1 kg
+• Yogur natural espeso — 100 g
+• Zumo de ½ naranja colado — ½ naranja
+• Cáscara de naranja en tiras finas — opcional
+PREPARACION:
+1. Cuece los espárragos al vapor 8 minutos y enfríalos.
+2. Mezcla el yogur con el zumo de naranja.
+3. Cubre los espárragos con la salsa y adorna con la cáscara.
+JUSTIFICACION: Fresca, sin huevo crudo.
+ADVERTENCIAS: Es una evocación: yogur en lugar de mayonesa y mostaza.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~60 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~8 g
+Grasas: ~1 g
+Fibra: ~2 g
+Sodio: ~35 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mayonesa y mostaza → yogur y naranja.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-esparragos-al-valle-d-aosta
+TITULO: Espárragos al Valle d'Aosta
+CATEGORIA: Verduras - Espárragos
+ICONO: 🥗
+SUBSECCION: Espárragos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Espárragos gratinados con pollo, queso bajo en grasa y huevos, con parmesano, sin jamón ni fontina.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Espárragos limpios — 1 kg
+• Pechuga de pollo cocida en tiras — 60 g
+• Mozzarella baja en grasa en lonchas — 80 g
+• Huevos duros picados — 2
+• Parmesano rallado — 1 cda
+PREPARACION:
+1. Cuece los espárragos al vapor 8 minutos y colócalos en una fuente engrasada.
+2. Cubre con el pollo, la mozzarella y los huevos duros.
+3. Espolvorea con parmesano y gratina 10 minutos a 200 °C.
+JUSTIFICACION: Contundente y ligero.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón y mozzarella en lugar de fontina.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~5 g
+Grasas: ~6 g
+Fibra: ~2 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; fontina 120 → mozzarella baja en grasa 80 g; huevos duros.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-esparragos-mimosa
+TITULO: Espárragos Mimosa
+CATEGORIA: Verduras - Espárragos
+ICONO: 🥗
+SUBSECCION: Espárragos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Espárragos al vapor con huevo duro rallado, perejil y aceite.
+INGREDIENTES:
+• Espárragos limpios — 1 kg
+• Huevos duros — 4
+• Perejil picado — 1 cda
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Cuece los espárragos al vapor 8 minutos.
+2. Ralla los huevos duros y mézclalos con el perejil.
+3. Sirve los espárragos con el aceite y el huevo.
+JUSTIFICACION: Sencillo y proteico.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~4 g
+Grasas: ~7 g
+Fibra: ~2 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-mousse-de-esparragos
+TITULO: Mousse de Espárragos
+CATEGORIA: Verduras - Espárragos
+ICONO: 🥗
+SUBSECCION: Espárragos
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Mousse horneada de espárragos con queso fresco bajo en grasa y claras montadas, bien cocida.
+INGREDIENTES:
+• Espárragos limpios y cocidos — 400 g
+• Huevos — 3
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Queso fresco cremoso bajo en grasa — 200 g
+• Ralladura de limón — de ½ limón
+• Clara de huevo — 1
+PREPARACION:
+1. Tritura los espárragos con los huevos, el aceite, el queso y la ralladura; incorpora la clara montada.
+2. Vierte en moldes engrasados.
+3. Hornea al baño maría 35 minutos a 170 °C hasta que cuaje por completo; sirve templada.
+JUSTIFICACION: Cuajada por completo.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~4 g
+Grasas: ~8 g
+Fibra: ~1 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Queso cremoso → fresco bajo en grasa; zumo de limón → ralladura; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-rollitos-de-esparragos
+TITULO: Rollitos de Espárragos
+CATEGORIA: Verduras - Espárragos
+ICONO: 🥗
+SUBSECCION: Espárragos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Espárragos envueltos en lonchas finas de pollo asado y gratinados con parmesano, en lugar de jamón curado.
+INGREDIENTES:
+• Espárragos limpios — 1 kg
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Lonchas finas de pechuga de pollo asada — 100 g
+• Parmesano rallado — 30 g
+PREPARACION:
+1. Cuece los espárragos al vapor 8 minutos y envuélvelos en las lonchas de pollo.
+2. Colócalos en una fuente engrasada y rocía con el aceite.
+3. Espolvorea con el parmesano y gratina 10 minutos a 200 °C.
+JUSTIFICACION: Sin embutido curado.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón curado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~4 g
+Grasas: ~5 g
+Fibra: ~2 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón curado → pollo; mantequilla → aceite; parmesano 65 → 30 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-remolacha-coccion-basica
+TITULO: Remolacha: Cocción Básica
+CATEGORIA: Verduras - Remolacha
+ICONO: 🥗
+SUBSECCION: Remolacha
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Remolacha cocida en agua sin sal o asada en papel de aluminio hasta quedar tierna.
+INGREDIENTES:
+• Remolacha — 150 g por persona
+PREPARACION:
+1. Lava la remolacha sin pelarla.
+2. Cuece en agua 45-60 minutos o ásala envuelta 60 minutos a 200 °C.
+3. Pela y corta.
+JUSTIFICACION: Base para ensaladas y guarniciones.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~60 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~13 g
+Grasas: ~0 g
+Fibra: ~3 g
+Sodio: ~80 mg
+IG: Medio
+ADAPTACIÓN:
+• Sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-remolacha-con-bechamel
+TITULO: Remolacha con Bechamel
+CATEGORIA: Verduras - Remolacha
+ICONO: 🥗
+SUBSECCION: Remolacha
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Remolacha cocida gratinada con bechamel ligera.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, y un poco para engrasar)
+• Remolacha cocida, pelada y en rodajas de 5 mm — 600 g
+• Salsa Bechamel (receta de este recetario) — 250 ml
+PREPARACION:
+1. Coloca la remolacha en una fuente engrasada.
+2. Cubre con la bechamel.
+3. Gratina 15 minutos a 200 °C.
+JUSTIFICACION: Dulce y cremosa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~16 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-remolacha-con-anchoas
+TITULO: Remolacha con Atún
+CATEGORIA: Verduras - Remolacha
+ICONO: 🥗
+SUBSECCION: Remolacha
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Dados de remolacha con atún al natural, perejil, ajo asado y aceite con naranja, sin anchoas ni vinagre.
+INGREDIENTES:
+• Atún al natural escurrido y desmenuzado — 40 g
+• Remolacha cocida, pelada y en dados — 600 g
+• Perejil picado — 1 cda
+• Ajo asado — ¼ diente
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zumo de naranja — 1 cda
+PREPARACION:
+1. Mezcla el aceite con la naranja y el ajo.
+2. Combina la remolacha con el atún y el perejil.
+3. Aliña y sirve.
+JUSTIFICACION: Sabor marino y dulce, sin vinagre.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas; naranja en lugar de vinagre.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~14 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Anchoas → atún al natural; vinagre → naranja; aceite 4 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-remolacha-con-cebolla
+TITULO: Remolacha con Cebolla
+CATEGORIA: Verduras - Remolacha
+ICONO: 🥗
+SUBSECCION: Remolacha
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Bastoncitos de remolacha con cebolla cocida muy suave.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Remolacha cocida, pelada y en bastoncitos finos — 600 g
+PREPARACION:
+1. Cuece la cebolla con el aceite y un poco de agua a fuego suave 15 minutos.
+2. Añade la remolacha.
+3. Calienta 5 minutos y sirve.
+JUSTIFICACION: Dulce y sin mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~14 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-estrellamar-coccion-basica
+TITULO: Habichuelas Verdes: Cocción Básica (en lugar de Estrellamar)
+CATEGORIA: Verduras - Estrellamar
+ICONO: 🥗
+SUBSECCION: Estrellamar
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Habichuelas verdes tiernas cocidas al vapor, como sustituto del estrellamar o hinojo marino.
+INGREDIENTES:
+• Habichuelas verdes (ejotes) — 150 g por persona
+PREPARACION:
+1. Despunta las habichuelas.
+2. Cuécelas al vapor 8-10 minutos.
+3. Escúrrelas.
+JUSTIFICACION: Textura crujiente similar.
+ADVERTENCIAS: Es una evocación: habichuelas verdes en lugar de estrellamar.|Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~35 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~7 g
+Grasas: ~0 g
+Fibra: ~3 g
+Sodio: ~5 mg
+IG: Bajo
+ADAPTACIÓN:
+• Estrellamar → habichuelas verdes; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-estrellamar-con-panceta
+TITULO: Habichuelas Verdes con Pollo (en lugar de Estrellamar con Panceta)
+CATEGORIA: Verduras - Estrellamar
+ICONO: 🥗
+SUBSECCION: Estrellamar
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Habichuelas verdes rehogadas con cebolla, pollo y yogur, en lugar de estrellamar, panceta y nata.
+INGREDIENTES:
+• Habichuelas verdes (ejotes) — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada fina — 1
+• Pechuga de pollo cocida picada fina — 80 g
+• Perejil picado — 1 cda
+• Yogur natural espeso — 3 cdas
+PREPARACION:
+1. Cuece las habichuelas al vapor 8 minutos.
+2. Rehoga cebolla y pollo en el aceite 8 minutos; añade las habichuelas 3 minutos.
+3. Incorpora el yogur fuera del fuego y el perejil.
+JUSTIFICACION: Cremosas y ligeras.
+ADVERTENCIAS: Es una evocación: habichuelas verdes en lugar de estrellamar; pollo en lugar de panceta.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~8 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~60 mg
+IG: Bajo
+ADAPTACIÓN:
+• Estrellamar → habichuelas; panceta → pollo; nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-estrellamar-sabrosa
+TITULO: Habichuelas Verdes Sabrosas (en lugar de Estrellamar)
+CATEGORIA: Verduras - Estrellamar
+ICONO: 🥗
+SUBSECCION: Estrellamar
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Habichuelas verdes con ajo asado y atún al natural, en lugar de estrellamar con anchoas.
+INGREDIENTES:
+• Habichuelas verdes (ejotes) — 600 g
+• Atún al natural escurrido y desmenuzado — 30 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+PREPARACION:
+1. Cuece las habichuelas al vapor 8 minutos.
+2. Rehoga el ajo asado y el atún con el aceite 2 minutos.
+3. Mezcla con las habichuelas.
+JUSTIFICACION: Sabor intenso sin anchoas.
+ADVERTENCIAS: Es una evocación: habichuelas en lugar de estrellamar; atún en lugar de anchoas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~8 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~60 mg
+IG: Bajo
+ADAPTACIÓN:
+• Estrellamar → habichuelas; anchoas → atún; aceite 4 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-acelgas-coccion-basica
+TITULO: Acelgas: Cocción Básica
+CATEGORIA: Verduras - Acelgas
+ICONO: 🥗
+SUBSECCION: Acelgas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Acelgas cocidas al vapor sin sal.
+INGREDIENTES:
+• Acelgas — 1 kg
+PREPARACION:
+1. Lava y separa las pencas de las hojas.
+2. Cuece las pencas al vapor 10 minutos y las hojas 5 minutos.
+3. Escurre bien.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~25 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~4 g
+Grasas: ~0 g
+Fibra: ~2 g
+Sodio: ~210 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal; vapor.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-acelgas-con-parmesano
+TITULO: Acelgas con Parmesano
+CATEGORIA: Verduras - Acelgas
+ICONO: 🥗
+SUBSECCION: Acelgas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Acelgas cocidas con leche descremada, aceite y parmesano.
+INGREDIENTES:
+• Acelgas — 1 kg
+• Leche descremada — 100 ml
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Parmesano rallado — 30 g
+PREPARACION:
+1. Cuece las acelgas al vapor y pícalas.
+2. Caliéntalas con la leche y el aceite 5 minutos.
+3. Sirve con el parmesano.
+JUSTIFICACION: Suave y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~6 g
+Grasas: ~5 g
+Fibra: ~2 g
+Sodio: ~290 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; parmesano 100 → 30 g; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-acelgas-con-anchoas
+TITULO: Acelgas con Atún
+CATEGORIA: Verduras - Acelgas
+ICONO: 🥗
+SUBSECCION: Acelgas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Acelgas aliñadas con ajo asado, atún al natural y parmesano, sin anchoas.
+INGREDIENTES:
+• Acelgas — 1 kg
+• Atún al natural escurrido y desmenuzado — 40 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado picado — 1 diente
+• Parmesano rallado — 15 g
+PREPARACION:
+1. Cuece las acelgas al vapor y pícalas.
+2. Rehoga el ajo y el atún con el aceite 2 minutos.
+3. Mezcla con las acelgas y sirve con parmesano.
+JUSTIFICACION: Sabor salino sin anchoas.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~4 g
+Grasas: ~4 g
+Fibra: ~2 g
+Sodio: ~300 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas → atún; aceite 2 → 1 cda; parmesano 40 → 15 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-acelgas-al-gratin
+TITULO: Acelgas al Gratín
+CATEGORIA: Verduras - Acelgas
+ICONO: 🥗
+SUBSECCION: Acelgas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Acelgas gratinadas con bechamel ligera y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Acelgas cocidas y escurridas — 1 kg
+• Salsa Bechamel (receta de este recetario) — 250 ml
+• Parmesano rallado — 30 g
+PREPARACION:
+1. Coloca las acelgas en una fuente engrasada.
+2. Cubre con la bechamel y el parmesano.
+3. Gratina 15 minutos a 200 °C.
+JUSTIFICACION: Gratinadas con poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~8 g
+Grasas: ~5 g
+Fibra: ~2 g
+Sodio: ~300 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; parmesano 80 → 30 g; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-brecol-coccion-basica
+TITULO: Brócoli: Cocción Básica
+CATEGORIA: Verduras - Brécol
+ICONO: 🥗
+SUBSECCION: Brécol
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Brócoli cocido al vapor sin sal.
+INGREDIENTES:
+• Brócoli — 1 kg
+PREPARACION:
+1. Separa en ramitos.
+2. Cuece al vapor 8 minutos.
+3. Escurre.
+JUSTIFICACION: Conserva color y nutrientes.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~35 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~6 g
+Grasas: ~0 g
+Fibra: ~3 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal; vapor.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-brecol-con-botarga
+TITULO: Brócoli con Atún y Tomate
+CATEGORIA: Verduras - Brécol
+ICONO: 🥗
+SUBSECCION: Brécol
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Brócoli con tomate asado, albahaca, ajo asado y atún al natural, en lugar de botarga.
+INGREDIENTES:
+• Brócoli en ramitos — 800 g
+• Atún al natural escurrido y desmenuzado — 50 g
+• Ralladura de limón — de 1 limón
+• Ajo asado picado — 1 diente
+• Perejil picado — 1 cda
+• Hojas de albahaca troceadas — 8
+• Tomates asados, pelados y troceados — 3
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Rodajitas de limón — para adornar
+PREPARACION:
+1. Cuece el brócoli al vapor 8 minutos.
+2. Mezcla con el atún, el tomate, las hierbas, el ajo y la ralladura.
+3. Aliña con el aceite y adorna con las rodajitas.
+JUSTIFICACION: Fresco y sabroso.
+ADVERTENCIAS: Es una evocación: atún en lugar de botarga.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~9 g
+Grasas: ~4 g
+Fibra: ~4 g
+Sodio: ~80 mg
+IG: Bajo
+ADAPTACIÓN:
+• Botarga → atún; zumo de limón → ralladura; tomate asado; aceite ajustado a 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-brecol-con-anchoas
+TITULO: Brócoli con Atún y Pimentón
+CATEGORIA: Verduras - Brécol
+ICONO: 🥗
+SUBSECCION: Brécol
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Brócoli salteado con ajo asado, atún al natural y pimentón dulce, en lugar de anchoas y guindilla.
+INGREDIENTES:
+• Brócoli en ramitos — 800 g
+• Atún al natural escurrido y desmenuzado — 50 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 2 dientes
+• Pimentón dulce — 1 pizca
+PREPARACION:
+1. Cuece el brócoli al vapor 8 minutos.
+2. Rehoga el ajo y el atún con el aceite y el pimentón 2 minutos.
+3. Mezcla con el brócoli.
+JUSTIFICACION: Sin picante ni anchoas.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas; pimentón dulce en lugar de guindilla.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~8 g
+Grasas: ~4 g
+Fibra: ~4 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas → atún; guindilla → pimentón dulce; aceite 3 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-brecol-picante-con-yogur
+TITULO: Brócoli con Yogur y Hierbas
+CATEGORIA: Verduras - Brécol
+ICONO: 🥗
+SUBSECCION: Brécol
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Brócoli al vapor con una salsa de yogur, ajo asado, perejil y pimentón dulce, sin guindilla ni mostaza.
+INGREDIENTES:
+• Brócoli en ramitos — 800 g
+• Perejil picado — 1 cda
+• Ajo asado picado — 1 diente
+• Pimentón dulce — 1 pizca
+• Yogur natural desnatado — 100 ml
+PREPARACION:
+1. Cuece el brócoli al vapor 8 minutos.
+2. Mezcla el yogur con el perejil, el ajo y el pimentón.
+3. Sirve el brócoli con la salsa.
+JUSTIFICACION: Fresco, sin picante.
+ADVERTENCIAS: Es una evocación: pimentón dulce en lugar de guindilla; sin mostaza.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~60 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~9 g
+Grasas: ~1 g
+Fibra: ~4 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Guindilla → pimentón dulce; mostaza fuera; ajo asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-brecol-rehogado
+TITULO: Brócoli Rehogado
+CATEGORIA: Verduras - Brécol
+ICONO: 🥗
+SUBSECCION: Brécol
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Brócoli al vapor rehogado con aceite y ajo asado.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado picado — 2 dientes
+• Brócoli en ramitos — 800 g
+• Agua — 50 ml
+PREPARACION:
+1. Cuece el brócoli al vapor 6 minutos.
+2. Rehoga el ajo asado en el aceite con el agua 2 minutos.
+3. Mezcla con el brócoli y cocina 3 minutos más.
+JUSTIFICACION: Sencillo y fibroso.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~7 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 2 → 1 cda; ajo asado; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-brecol-fantasia
+TITULO: Brócoli Fantasía
+CATEGORIA: Verduras - Brécol
+ICONO: 🥗
+SUBSECCION: Brécol
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Brócoli gratinado con puerros y una salsa cremosa de yogur y naranja reducida, sin vino ni nata.
+INGREDIENTES:
+• Brócoli en ramitos — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Ajo asado — 2 dientes
+• Puerros limpios en rodajas — 2
+• Harina de avena — 1 cda
+• Yogur natural espeso — 100 g
+• Zumo de naranja reducido — 4 cdas
+• Parmesano rallado — 2 cdas
+PREPARACION:
+1. Cuece el brócoli al vapor 6 minutos; rehoga puerros y ajo en el aceite 8 minutos, añade la harina y la naranja y cuece 3 minutos; incorpora el yogur fuera del fuego.
+2. Coloca el brócoli en una fuente engrasada y cubre con la salsa.
+3. Espolvorea con parmesano y gratina 12 minutos a 200 °C.
+JUSTIFICACION: Gratinado cremoso con mucha menos grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~13 g
+Grasas: ~6 g
+Fibra: ~5 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; vino → naranja reducida; mantequilla → aceite; parmesano 6 → 2 cdas; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alcachofas-coccion-basica
+TITULO: Alcachofas: Cocción Básica
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Alcachofas cocidas al vapor con rodajas de naranja para que no se oscurezcan, sin sal.
+INGREDIENTES:
+• Alcachofas — 8
+• Naranja en rodajas — 1
+PREPARACION:
+1. Limpia las alcachofas, retira las hojas duras y las pelusas y colócalas en agua con las rodajas de naranja.
+2. Cuécelas al vapor 20-25 minutos hasta que el fondo esté tierno.
+3. Escurre.
+JUSTIFICACION: Conserva color sin zumo de limón ni sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~60 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~11 g
+Grasas: ~0 g
+Fibra: ~6 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Limón → naranja; sin sal; vapor.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alcachofas-con-ajo-y-aceite-de-oliva
+TITULO: Alcachofas con Ajo y Aceite de Oliva
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Alcachofas braseadas con ajo asado y un poco de aceite, cubiertas de agua hasta dos tercios.
+INGREDIENTES:
+• Alcachofas limpias — 8
+• Ajo asado — 2 dientes
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Agua — 250 ml
+PREPARACION:
+1. Coloca las alcachofas con la base hacia abajo en una cazuela con ajo, aceite y agua.
+2. Tapa y cuece a fuego suave 25 minutos.
+3. Sirve con el jugo.
+JUSTIFICACION: Sabor mediterráneo con una fracción del aceite.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~11 g
+Grasas: ~3 g
+Fibra: ~6 g
+Sodio: ~95 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 2 partes → 1 cda y agua; ajo asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alcachofas-con-queso
+TITULO: Alcachofas con Queso
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Alcachofas gratinadas con una salsa de leche, azafrán, curry suave y mozzarella baja en grasa.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Alcachofas limpias y cocidas — 8
+• Leche descremada — 250 ml
+• Harina de arroz — 3 cdas
+• Hebras de azafrán — unas hebras
+• Curry dulce — 1 pizca
+• Mozzarella baja en grasa rallada — 80 g
+• Huevo — 1
+• Hojas de tomillo — unas pocas
+PREPARACION:
+1. Calienta la leche con la harina, el azafrán y el curry removiendo 5 minutos; añade la mitad del queso y el huevo batido fuera del fuego.
+2. Coloca las alcachofas en una fuente engrasada y cubre con la salsa y el resto del queso.
+3. Hornea 20 minutos a 190 °C hasta que el huevo esté cuajado; sirve con tomillo.
+JUSTIFICACION: Gratinadas con menos grasa.
+ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de emmental.|Curry sin picante.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~17 g
+Grasas: ~5 g
+Fibra: ~6 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; emmental 150 → mozzarella baja en grasa 80 g; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alcachofas-judias
+TITULO: Alcachofas Judías
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Alcachofas abiertas al horno con un hilo de aceite, doradas por fuera y tiernas por dentro, en lugar de fritas.
+INGREDIENTES:
+• Alcachofas limpias — 8
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Agua — 100 ml
+PREPARACION:
+1. Abre las alcachofas presionándolas contra la mesa y colócalas en una fuente.
+2. Rocía con el aceite y el agua y cubre con papel de aluminio.
+3. Hornea 30 minutos a 200 °C, destapa y dora 10 minutos.
+JUSTIFICACION: Crujientes sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~11 g
+Grasas: ~3 g
+Fibra: ~6 g
+Sodio: ~95 mg
+IG: Bajo
+ADAPTACIÓN:
+• Fritura en aceite → horno; aceite reducido a 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alcachofas-al-mousse-de-higadillo
+TITULO: Alcachofas con Mousse de Pollo
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Alcachofas cocidas rellenas de una mousse suave de pollo, chalote y yogur, en lugar de higadillos con brandy y Madeira.
+INGREDIENTES:
+• Alcachofas limpias y cocidas (fondos) — 8
+• Chalote picado fino — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pechuga de pollo cocida — 200 g
+• Zumo de naranja reducido — 3 cdas
+• Yogur natural espeso — 100 g
+• Perifollo o perejil — para adornar
+PREPARACION:
+1. Rehoga el chalote en el aceite 4 minutos y tritúralo con el pollo, la naranja y el yogur hasta obtener una crema.
+2. Enfría la crema 1 hora.
+3. Rellena los fondos de alcachofa y adorna.
+JUSTIFICACION: Textura de mousse sin vísceras ni alcohol.
+ADVERTENCIAS: Es una evocación: pollo en lugar de higadillos; sin brandy ni Madeira.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~21 g
+Carbohidratos: ~12 g
+Grasas: ~5 g
+Fibra: ~5 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Higadillos → pollo; vino, brandy y Madeira → naranja reducida; mantequilla 120 g → aceite 10 g; nata → yogur.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alcachofas-a-la-napolitana
+TITULO: Alcachofas a la Napolitana
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Alcachofas braseadas con aceitunas enjuagadas, ajo asado y perejil, sin alcaparras.
+INGREDIENTES:
+• Alcachofas limpias — 8
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 2 dientes
+• Aceitunas verdes sin hueso enjuagadas y picadas — 30 g
+• Perejil picado — 1 cda
+• Agua tibia — 150 ml
+• Naranja en gajos — 1
+PREPARACION:
+1. Coloca las alcachofas en una cazuela con aceite, ajo, aceitunas y agua.
+2. Tapa y cuece a fuego suave 25 minutos.
+3. Sirve con perejil y gajos de naranja.
+JUSTIFICACION: Sabor salino sin sal ni alcaparras.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~13 g
+Grasas: ~3 g
+Fibra: ~6 g
+Sodio: ~160 mg
+IG: Bajo
+ADAPTACIÓN:
+• Alcaparras fuera; aceitunas 100 → 30 g enjuagadas; aceite 4 → 1 cda; limón → naranja.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alcachofas-a-la-provenzal
+TITULO: Alcachofas a la Provenzal
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Alcachofas con cebolleta, tomate asado, albahaca y tomillo, con pollo en lugar de panceta y caldo en lugar de vino.
+INGREDIENTES:
+• Alcachofas limpias y troceadas — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolletas picadas — 3
+• Pechuga de pollo cocida en dados — 50 g
+• Albahaca picada — 1 cda
+• Tomillo fresco picado — 1 cdta
+• Zumo de naranja reducido — 3 cdas
+• Caldo de verduras casero sin sal (receta de este recetario) — 5 cdas
+• Tomates asados en rodajas — 3
+PREPARACION:
+1. Rehoga cebolletas y pollo en el aceite 5 minutos; añade las alcachofas y las hierbas.
+2. Agrega naranja y caldo y cuece tapado 15 minutos.
+3. Incorpora el tomate y cuece 8 minutos más.
+JUSTIFICACION: Aromática y ligera.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta; sin vino.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~13 g
+Grasas: ~4 g
+Fibra: ~5 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Panceta → pollo; vino → naranja reducida; aceite 3 → 1 cda; tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alcachofas-a-la-romana
+TITULO: Alcachofas a la Romana
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Alcachofas rellenas de perejil, ajo asado y menta, cocidas tapadas con agua y un poco de aceite.
+INGREDIENTES:
+• Alcachofas limpias — 8
+• Ajo asado — 2 dientes
+• Perejil — un manojo pequeño
+• Hojas de menta — para el relleno y adornar
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Agua — 350 ml
+PREPARACION:
+1. Pica el ajo, el perejil y la menta y rellena los centros de las alcachofas.
+2. Colócalas con la base hacia arriba en una cazuela con el agua y el aceite.
+3. Tapa y cuece a fuego suave 30 minutos.
+JUSTIFICACION: Fresca y sin sal.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~11 g
+Grasas: ~3 g
+Fibra: ~6 g
+Sodio: ~95 mg
+IG: Bajo
+ADAPTACIÓN:
+• Zumo de limón fuera; aceite reducido a 1 cda; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alcachofas-a-la-sarda
+TITULO: Alcachofas a la Sarda
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Alcachofas con papas, cebolla y ajo asado cocidos en caldo.
+INGREDIENTES:
+• Alcachofas limpias en rodajas — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Ajo asado picado — 1 diente
+• Papas en dados — 400 g
+• Caldo de verduras casero sin sal (receta de este recetario) — 150 ml
+• Perejil picado — 1 cda
+PREPARACION:
+1. Rehoga cebolla y ajo en el aceite 6 minutos.
+2. Añade alcachofas, papas y caldo; cuece tapado 25 minutos.
+3. Sirve con perejil.
+JUSTIFICACION: Guiso sencillo, poco aceite.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~23 g
+Grasas: ~3 g
+Fibra: ~5 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; zumo de limón fuera; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alcachofas-con-pecorino
+TITULO: Alcachofas con Queso y Pan Rallado
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Alcachofas salteadas con ajo asado y perejil, con virutas de parmesano y pan integral rallado, en lugar de pecorino.
+INGREDIENTES:
+• Alcachofas limpias y troceadas — 8
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 2 dientes
+• Perejil picado — 1 cda
+• Parmesano en virutas — 30 g
+• Pan integral rallado — 40 g
+PREPARACION:
+1. Cuece las alcachofas al vapor 15 minutos.
+2. Saltéalas con aceite y ajo 5 minutos.
+3. Espolvorea con perejil, parmesano y pan rallado y gratina 5 minutos.
+JUSTIFICACION: Crujientes y con menos queso.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~16 g
+Grasas: ~5 g
+Fibra: ~6 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Pecorino 100 → parmesano 30 g; aceite 3 → 1 cda; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alcachofas-con-atun
+TITULO: Alcachofas con Atún
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Pescado, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Alcachofas grandes rellenas de atún al natural con huevo, yogur y parmesano, horneadas.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Alcachofas grandes limpias y cocidas (fondos) — 4
+• Huevos — 2
+• Yogur natural espeso — 2 cdas
+• Perejil picado — 1 cda
+• Parmesano rallado — 15 g
+• Atún al natural escurrido y desmenuzado — 200 g
+PREPARACION:
+1. Mezcla atún, huevos, yogur, perejil y parmesano.
+2. Rellena las alcachofas colocadas en una fuente engrasada.
+3. Hornea 25 minutos a 180 °C hasta que el relleno cuaje.
+JUSTIFICACION: Proteica y ligera.
+ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~28 g
+Carbohidratos: ~10 g
+Grasas: ~8 g
+Fibra: ~5 g
+Sodio: ~230 mg
+IG: Bajo
+ADAPTACIÓN:
+• Atún en aceite → al natural; nata → yogur; aceite 3 → 1 cdta; parmesano 25 → 15 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alcachofas-fritas
+TITULO: Alcachofas Crujientes al Horno
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Alcachofas rebozadas en harina y huevo y horneadas, con orégano y ajo asado, en lugar de fritas.
+INGREDIENTES:
+• Alcachofas limpias en cuartos y cocidas — 6
+• Orégano seco — 1 pizca
+• Ajo asado picado — 1 diente
+• Harina de avena — 4 cdas
+• Huevo — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Rodajas de naranja y ramitas de perejil — para adornar
+PREPARACION:
+1. Mezcla las alcachofas con orégano y ajo.
+2. Pásalas por harina y huevo batido.
+3. Rocía con el aceite y hornea 20 minutos a 220 °C hasta dorar.
+JUSTIFICACION: Crujientes sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~16 g
+Grasas: ~5 g
+Fibra: ~5 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Fritura → horno; zumo de limón → naranja.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alcachofas-en-salsa-holandesa
+TITULO: Alcachofas en Salsa Holandesa Ligera
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Alcachofas cocidas con salsa holandesa ligera de yogur (con yemas bien cocidas).
+INGREDIENTES:
+• Alcachofas limpias y cocidas — 8
+• Salsa Holandesa Ligera (receta de este recetario) — 1 ración (unos 150 ml)
+• Perejil — para adornar
+PREPARACION:
+1. Cuece las alcachofas al vapor 25 minutos.
+2. Sírvelas templadas con la salsa.
+3. Adorna con perejil.
+JUSTIFICACION: Salsa ligera, con yema cocida.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~12 g
+Grasas: ~4 g
+Fibra: ~6 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Holandesa clásica → holandesa ligera; zumo de limón fuera; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alcachofas-rellenas-de-salchicha
+TITULO: Alcachofas Rellenas de Pollo
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Alcachofas rellenas de pollo sazonado al estilo de salchicha con cebolla y perejil, sin panceta ni vino.
+INGREDIENTES:
+• Alcachofas limpias — 8
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado picado — 2 dientes
+• Perejil picado — 1 cda
+• Cebolla picada — 1
+• Pechuga de pollo picada con semillas de hinojo — 150 g
+• Zumo de naranja reducido — 4 cdas
+PREPARACION:
+1. Rehoga cebolla, ajo y pollo en el aceite 8 minutos; añade naranja y perejil.
+2. Rellena las alcachofas.
+3. Cuece tapadas en agua 25 minutos a fuego suave.
+JUSTIFICACION: Sabrosas y sin embutido.
+ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchicha y panceta; sin vino.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~13 g
+Grasas: ~4 g
+Fibra: ~6 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Salchicha y panceta → pollo; vino → naranja reducida; aceite 3 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alcachofas-rellenas-de-pimientos
+TITULO: Alcachofas Rellenas de Pimientos
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Alcachofas cocidas rellenas de pimiento amarillo asado picado y perejil.
+INGREDIENTES:
+• Alcachofas limpias y cocidas — 8
+• Pimientos amarillos asados, despepitados y picados — 2
+• Perejil picado — 1 cda
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Champiñones asados — para adornar (opcional)
+PREPARACION:
+1. Cuece las alcachofas al vapor 25 minutos.
+2. Mezcla el pimiento con el perejil y el aceite.
+3. Rellena y adorna con los champiñones.
+JUSTIFICACION: Fresca y colorida.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~13 g
+Grasas: ~3 g
+Fibra: ~6 g
+Sodio: ~95 mg
+IG: Bajo
+ADAPTACIÓN:
+• Champiñones en aceite → asados; zumo de limón fuera; pimiento asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-clafoutis-de-alcachofas
+TITULO: Clafoutis de Alcachofas
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Pastel horneado de alcachofas con masa suave de huevo y leche descremada.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Alcachofas limpias y cocidas — 6
+• Harina integral y de avena (mitad y mitad) — 80 g
+• Huevos — 3
+• Leche descremada — 400 ml
+• Perejil picado — 1 cda
+PREPARACION:
+1. Bate harina, huevos y leche hasta una masa lisa; añade el perejil.
+2. Coloca las alcachofas en una fuente engrasada y vierte la masa.
+3. Hornea 35 minutos a 180 °C hasta que cuaje y dore.
+JUSTIFICACION: Ligero y sin mantequilla.
+ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~160 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~19 g
+Grasas: ~5 g
+Fibra: ~4 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; leche descremada; harinas integrales.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pastelitos-de-alcachofas
+TITULO: Pastelitos de Alcachofas
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Flanes salados de alcachofa con yogur, parmesano y nuez moscada, horneados al baño maría.
+INGREDIENTES:
+• Alcachofas limpias en rodajas finas — 5
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Cebolla picada — ½
+• Parmesano rallado — 2 cdas
+• Yogur natural espeso — 150 g
+• Nuez moscada — 1 pizca
+• Huevos ligeramente batidos — 3
+PREPARACION:
+1. Rehoga cebolla y alcachofas en el aceite 10 minutos y tritura con el yogur.
+2. Mezcla con los huevos, el parmesano y la nuez moscada y reparte en moldes engrasados.
+3. Hornea al baño maría 30 minutos a 170 °C hasta cuajar.
+JUSTIFICACION: Cremosos con menos grasa.
+ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~9 g
+Grasas: ~8 g
+Fibra: ~3 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite; parmesano 3 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tarta-de-alcachofas-y-patatas
+TITULO: Tarta de Alcachofas y Papas
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Tarta de capas finas de papa y alcachofa horneadas con tomillo y parmesano.
+INGREDIENTES:
+• Alcachofas limpias y en trozos finos — 4
+• Papas en rodajas finas — 400 g
+• Parmesano rallado — 2 cdas
+• Hojas de tomillo fresco — unas pocas
+• Aceite de oliva extra virgen — 1½ cdas (15 g, y un poco para engrasar)
+PREPARACION:
+1. Engrasa un molde y alterna capas de papa y alcachofa con tomillo y parmesano.
+2. Rocía con el aceite y cubre con aluminio.
+3. Hornea 40 minutos a 190 °C; destapa y dora 10 minutos.
+JUSTIFICACION: Ligera y sin mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~19 g
+Grasas: ~4 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 5 → 1½ cdas; pecorino 4 → parmesano 2 cdas; mantequilla fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tarta-de-alcachofas
+TITULO: Tarta de Alcachofas
+CATEGORIA: Verduras - Alcachofas
+ICONO: 🥗
+SUBSECCION: Alcachofas
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Tarta sin masa de alcachofas con huevo y leche, bien cuajada.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Alcachofas limpias y troceadas — 5
+• Leche descremada — 50 ml
+• Huevos — 5
+PREPARACION:
+1. Rehoga las alcachofas en el aceite 10 minutos.
+2. Mezcla con los huevos batidos con la leche en un molde engrasado.
+3. Hornea 30 minutos a 180 °C hasta cuajar.
+JUSTIFICACION: Sencilla y ligera.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~7 g
+Grasas: ~8 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; huevos 6 → 5; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cardos-coccion-basica
+TITULO: Cardos: Cocción Básica
+CATEGORIA: Verduras - Cardos
+ICONO: 🥗
+SUBSECCION: Cardos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Cardos (o tallos de apio grueso) cocidos hasta quedar tiernos, con naranja y sin sal.
+INGREDIENTES:
+• Cardos o tallos de apio — 150 g por persona
+• Naranja en rodajas — 1
+PREPARACION:
+1. Pela los hilos y corta en trozos de 8 cm.
+2. Cuece en agua con la naranja 30-45 minutos (apio 15 minutos).
+3. Escurre.
+JUSTIFICACION: Sin sal ni limón.
+ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~25 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~5 g
+Grasas: ~0 g
+Fibra: ~2 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Limón → naranja; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cardos-con-queso
+TITULO: Cardos con Queso
+CATEGORIA: Verduras - Cardos
+ICONO: 🥗
+SUBSECCION: Cardos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Cardos (o apio) gratinados con salsa de leche, parmesano y queso bajo en grasa.
+INGREDIENTES:
+• Cardos o apio cocidos — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Harina de avena — 1 cdta
+• Parmesano rallado — 25 g
+• Mozzarella baja en grasa — 60 g
+• Leche descremada — 200 ml
+PREPARACION:
+1. Calienta aceite y harina, añade la leche y cuece 5 minutos hasta espesar.
+2. Coloca los cardos en una fuente engrasada y cubre con la salsa y los quesos.
+3. Gratina 15 minutos a 200 °C.
+JUSTIFICACION: Gratinado cremoso con poca grasa.
+ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~8 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~190 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla y nata → aceite y leche descremada; fontina y emmental → mozzarella baja en grasa; parmesano 50 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cardos-con-bagna-cauda
+TITULO: Cardos con Bagna Cauda Ligera
+CATEGORIA: Verduras - Cardos
+ICONO: 🥗
+SUBSECCION: Cardos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Cardos (o apio) con una salsa tibia de ajo asado, atún al natural y aceite, sin mantequilla ni anchoas.
+INGREDIENTES:
+• Cardos o apio cocidos — 800 g
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Ajo asado — 3 dientes
+• Atún al natural escurrido — 50 g
+• Parmesano rallado — 15 g
+PREPARACION:
+1. Tritura el ajo asado con el atún y el aceite hasta lograr una crema tibia.
+2. Calienta suavemente sin hervir.
+3. Sirve sobre los cardos con el parmesano.
+JUSTIFICACION: Sabor marino y a ajo con poca grasa.
+ADVERTENCIAS: Es una evocación: atún al natural en lugar de anchoas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~4 g
+Grasas: ~6 g
+Fibra: ~2 g
+Sodio: ~160 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas → atún al natural; mantequilla 150 g → aceite 15 g; parmesano 40 → 15 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cardos-delicados
+TITULO: Cardos Delicados
+CATEGORIA: Verduras - Cardos
+ICONO: 🥗
+SUBSECCION: Cardos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Cardos (o apio) gratinados con leche descremada, yogur y parmesano.
+INGREDIENTES:
+• Cardos o apio cocidos — 800 g
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Leche descremada — 100 ml
+• Yogur natural espeso — 100 g
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Coloca los cardos en una fuente engrasada.
+2. Mezcla leche y yogur y vierte por encima.
+3. Espolvorea con parmesano y gratina 12 minutos a 200 °C.
+JUSTIFICACION: Suave y ligero.
+ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~8 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~160 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite; parmesano 40 → 20 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cardos-fritos
+TITULO: Cardos Rebozados al Horno
+CATEGORIA: Verduras - Cardos
+ICONO: 🥗
+SUBSECCION: Cardos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Cardos (o apio) rebozados en harina y huevo y horneados, en lugar de fritos.
+INGREDIENTES:
+• Cardos o apio cocidos — 800 g
+• Harina de avena — 50 g
+• Huevo — 1
+• Clara de huevo — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Pasa los cardos por harina y por huevo y clara batidos.
+2. Colócalos en una bandeja y rocía con el aceite.
+3. Hornea 20 minutos a 220 °C hasta dorar.
+JUSTIFICACION: Dorados sin fritura.
+ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~11 g
+Grasas: ~4 g
+Fibra: ~2 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Fritura → horno; harina de avena; zumo de limón fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-cardos
+TITULO: Ensalada de Cardos
+CATEGORIA: Verduras - Cardos
+ICONO: 🥗
+SUBSECCION: Cardos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Ensalada templada de cardos (o apio) con huevo duro, perejil y pan integral rallado, aliñada con aceite y naranja.
+INGREDIENTES:
+• Cardos o apio cocidos — 800 g
+• Huevos duros — 4
+• Perejil picado — 1 cda
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zumo de naranja — 2 cdas
+• Pan integral rallado tostado — 1 cda
+PREPARACION:
+1. Mezcla aceite y naranja.
+2. Coloca los cardos con el huevo duro picado y el perejil.
+3. Aliña y espolvorea con el pan.
+JUSTIFICACION: Fresca, sin limón.
+ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~7 g
+Grasas: ~8 g
+Fibra: ~2 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; limón → naranja.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-savarines-de-cardos-con-champinones
+TITULO: Savarines de Cardos con Champiñones
+CATEGORIA: Verduras - Cardos
+ICONO: 🥗
+SUBSECCION: Cardos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Flancitos de cardo (o apio) con bechamel ligera y parmesano, con champiñones, menta y perejil.
+INGREDIENTES:
+• Cardos o apio cocidos y triturados — 400 g
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Pan integral rallado — 2 cdas
+• Salsa Bechamel (receta de este recetario) — 1 ración (250 ml)
+• Parmesano rallado — 20 g
+• Huevo ligeramente batido — 1
+• Chalote picado — 1 pequeño
+• Champiñones picados — 100 g
+• Hojas de menta picadas — 4
+• Perejil picado — 1 cda
+PREPARACION:
+1. Saltea chalote y champiñones con un poco de agua 8 minutos; mezcla con cardos, bechamel, parmesano, huevo y hierbas.
+2. Engrasa moldes y espolvorea con el pan rallado; reparte la mezcla.
+3. Hornea al baño maría 30 minutos a 180 °C hasta cuajar.
+JUSTIFICACION: Moldes cuajados con poca grasa.
+ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Totalmente cuajados.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~11 g
+Grasas: ~5 g
+Fibra: ~2 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; parmesano 40 → 20 g; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-zanahorias-coccion-basica
+TITULO: Zanahorias: Cocción Básica
+CATEGORIA: Verduras - Zanahorias
+ICONO: 🥗
+SUBSECCION: Zanahorias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Zanahorias cocidas al vapor, sin sal ni azúcar.
+INGREDIENTES:
+• Zanahorias — 2 por persona
+PREPARACION:
+1. Pela y corta en bastones o rodajas.
+2. Cuece al vapor 10-15 minutos.
+3. Escurre.
+JUSTIFICACION: Conservan su dulzor natural.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~50 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~11 g
+Grasas: ~0 g
+Fibra: ~3 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Sal y azúcar fuera; vapor.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-zanahorias-con-roquefort
+TITULO: Zanahorias con Queso Azul Suave
+CATEGORIA: Verduras - Zanahorias
+ICONO: 🥗
+SUBSECCION: Zanahorias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Zanahorias con una salsa tibia de queso azul suave, leche descremada y perejil.
+INGREDIENTES:
+• Queso azul suave en dados — 30 g
+• Leche descremada — 150 ml
+• Perejil picado — 1 cda
+• Zanahorias cocidas en bastoncitos — 600 g
+PREPARACION:
+1. Calienta la leche con el queso hasta fundir.
+2. Añade el perejil.
+3. Baña las zanahorias.
+JUSTIFICACION: Sabor a queso azul con 40 g menos de sodio.
+ADVERTENCIAS: Es una evocación: queso azul suave en lugar de roquefort.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~13 g
+Grasas: ~2 g
+Fibra: ~3 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Roquefort 80 → queso azul suave 30 g; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-zanahorias-con-romero
+TITULO: Zanahorias con Romero
+CATEGORIA: Verduras - Zanahorias
+ICONO: 🥗
+SUBSECCION: Zanahorias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Zanahorias cocidas en caldo casero con romero y un hilo de aceite.
+INGREDIENTES:
+• Zanahorias en bastoncitos — 750 g
+• Caldo de verduras casero sin sal (receta de este recetario) — 300 ml
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Romero fresco picado — 1 cda
+PREPARACION:
+1. Cuece las zanahorias en el caldo 15 minutos.
+2. Escurre y mezcla con el romero.
+3. Aliña con el aceite.
+JUSTIFICACION: Aromáticas y sin sal.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~11 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~80 mg
+IG: Medio
+ADAPTACIÓN:
+• Caldo sin sal; aceite reducido a 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-zanahorias-crudas-al-rabano
+TITULO: Zanahorias Crudas con Rábano
+CATEGORIA: Verduras - Zanahorias
+ICONO: 🥗
+SUBSECCION: Zanahorias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Zanahorias crudas en bastoncitos con rábano fresco y aliño de naranja, sin vinagre ni mostaza.
+INGREDIENTES:
+• Rábanos frescos rallados — 4
+• Zumo de naranja — 3 cdas
+• Ralladura de limón — de ½ limón
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zanahorias en bastoncitos — 400 g
+PREPARACION:
+1. Mezcla rábano, naranja, ralladura y aceite.
+2. Aliña las zanahorias.
+3. Deja reposar 15 minutos.
+JUSTIFICACION: Fresca, sin picante fuerte.
+ADVERTENCIAS: Es una evocación: rábano fresco en lugar de picante; naranja en lugar de vinagre.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~10 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Rábano picante → rábano fresco; vinagre y mostaza → naranja; aceite 2 → 1 cda; azúcar fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-zanahorias-glaseadas-al-limon
+TITULO: Zanahorias Glaseadas al Limón
+CATEGORIA: Verduras - Zanahorias
+ICONO: 🥗
+SUBSECCION: Zanahorias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Zanahorias glaseadas con cebolleta, ralladura de limón, sésamo y perejil, con aceite en lugar de mantequilla.
+INGREDIENTES:
+• Zanahorias en rodajas gruesas — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolletas picadas — 2
+• Ralladura de ½ limón — de ½ limón
+• Semillas de sésamo — 1 cdta
+• Perejil picado — 1 cda
+PREPARACION:
+1. Cuece las zanahorias con un poco de agua 12 minutos.
+2. Rehoga cebolleta con el aceite 3 minutos y añade las zanahorias; saltea 5 minutos.
+3. Sirve con ralladura, sésamo y perejil.
+JUSTIFICACION: Dulces y brillantes con poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~13 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; zumo de limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-zanahorias-con-salsa-francesa
+TITULO: Zanahorias con Salsa de Yogur y Huevo
+CATEGORIA: Verduras - Zanahorias
+ICONO: 🥗
+SUBSECCION: Zanahorias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Zanahorias pequeñas con una salsa cocida de yema y yogur, sin vinagre ni mostaza.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Zanahorias pequeñas — 600 g
+• Huevo duro picado — 1
+• Yogur natural espeso — 3 cdas
+• Perejil picado — 1 cda
+PREPARACION:
+1. Cuece las zanahorias al vapor 12 minutos.
+2. Mezcla huevo, yogur, aceite y perejil.
+3. Sirve las zanahorias con la salsa.
+JUSTIFICACION: Sin huevo crudo ni vinagre.
+ADVERTENCIAS: Es una evocación: salsa de yogur en lugar de la salsa de mostaza y vinagre.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~11 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~100 mg
+IG: Medio
+ADAPTACIÓN:
+• Huevo crudo → duro; mostaza y vinagre → yogur; aceite reducido.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-zanahorias-marinadas
+TITULO: Zanahorias Marinadas
+CATEGORIA: Verduras - Zanahorias
+ICONO: 🥗
+SUBSECCION: Zanahorias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Zanahorias pequeñas cocidas y marinadas en aceite, ajo asado, orégano y naranja, sin vinagre ni guindilla.
+INGREDIENTES:
+• Zanahorias pequeñas — 500 g
+• Ajo asado — 2 dientes
+• Perejil picado — 1 cda
+• Orégano seco — 1 pizca
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zumo de naranja — 3 cdas
+• Pimentón dulce — 1 pizca
+PREPARACION:
+1. Cuece las zanahorias al vapor 12 minutos.
+2. Mezcla aceite, naranja, ajo, hierbas y pimentón.
+3. Marina las zanahorias 2 horas en la nevera.
+JUSTIFICACION: Sabrosas sin vinagre ni picante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~10 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~60 mg
+IG: Medio
+ADAPTACIÓN:
+• Vinagre → naranja; guindilla → pimentón dulce; aceite 6 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-zanahorias-con-nata
+TITULO: Zanahorias con Yogur
+CATEGORIA: Verduras - Zanahorias
+ICONO: 🥗
+SUBSECCION: Zanahorias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Zanahorias pequeñas cocidas con yogur, nuez moscada, perejil y cebollino, en lugar de nata.
+INGREDIENTES:
+• Zanahorias pequeñas — 800 g
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Yogur natural espeso — 150 g
+• Nuez moscada — 1 pizca
+• Perejil picado — 1 cda
+• Tallos de cebollino picados — 4
+PREPARACION:
+1. Cuece las zanahorias al vapor 12 minutos y saltéalas con el aceite.
+2. Fuera del fuego, mezcla con el yogur y la nuez moscada.
+3. Sirve con perejil y cebollino.
+JUSTIFICACION: Cremosas sin nata.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~14 g
+Grasas: ~2 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-croquetas-sorpresa-de-zanahoria
+TITULO: Croquetas Sorpresa de Zanahoria
+CATEGORIA: Verduras - Zanahorias
+ICONO: 🥗
+SUBSECCION: Zanahorias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Croquetas de zanahoria con corazón de queso bajo en grasa, empanadas y horneadas.
+INGREDIENTES:
+• Zanahorias cocidas — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Huevos — 2
+• Parmesano rallado — 2 cdas
+• Nuez moscada — 1 pizca
+• Pan integral rallado — 100 g
+• Mozzarella baja en grasa en dados — 40 g
+• Harina de avena — 3 cdas
+PREPARACION:
+1. Haz un puré con las zanahorias, 1 huevo, el parmesano y la nuez moscada; forma bolas con un dado de queso en el centro.
+2. Pasa por harina, huevo batido y pan rallado.
+3. Rocía con el aceite y hornea 20 minutos a 200 °C.
+JUSTIFICACION: Crujientes sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~17 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Fritura → horno; mantequilla fuera; parmesano 5 → 2 cdas; emmental → mozzarella baja en grasa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-castanas-coccion-basica
+TITULO: Castañas: Cocción Básica
+CATEGORIA: Verduras - Castañas
+ICONO: 🥗
+SUBSECCION: Castañas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Frutos secos
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Castañas cocidas en agua sin sal hasta quedar tiernas.
+INGREDIENTES:
+• Castañas con cáscara — 100 g por persona
+PREPARACION:
+1. Haz un corte en la cáscara de cada castaña.
+2. Cuece en agua 30 minutos.
+3. Pela mientras están calientes.
+JUSTIFICACION: Base de purés y guarniciones.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~37 g
+Grasas: ~1 g
+Fibra: ~5 g
+Sodio: ~5 mg
+IG: Medio
+ADAPTACIÓN:
+• Sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-castanas-asadas
+TITULO: Castañas Asadas
+CATEGORIA: Verduras - Castañas
+ICONO: 🥗
+SUBSECCION: Castañas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Frutos secos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Castañas asadas con laurel y un toque de aceite.
+INGREDIENTES:
+• Castañas — 500 g
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Hoja de laurel — 1
+PREPARACION:
+1. Haz un corte a cada castaña y mézclalas con el aceite y el laurel.
+2. Hornea 25 minutos a 200 °C.
+3. Pela y sirve calientes.
+JUSTIFICACION: Sencillas, sin mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~32 g
+Grasas: ~2 g
+Fibra: ~5 g
+Sodio: ~5 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; castañas 600 → 500 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-castanas-asadas-con-coles-de-bruselas
+TITULO: Castañas Asadas con Coles de Bruselas
+CATEGORIA: Verduras - Castañas
+ICONO: 🥗
+SUBSECCION: Castañas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Frutos secos, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Castañas asadas con coles de Bruselas, chalote, nuez moscada y mozzarella baja en grasa.
+INGREDIENTES:
+• Castañas — 400 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Chalote picado — 1
+• Coles de Bruselas limpias — 500 g
+• Ralladura de limón — de 1 limón
+• Nuez moscada — 1 pizca
+• Mozzarella baja en grasa rallada — 60 g
+• Agua — 120 ml
+PREPARACION:
+1. Asa las castañas 25 minutos a 200 °C y pélalas.
+2. Rehoga chalote y coles con el aceite y el agua 12 minutos; añade castañas, ralladura y nuez moscada.
+3. Cubre con el queso en una fuente engrasada y gratina 8 minutos.
+JUSTIFICACION: Contundente y ligera.
+ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de fontina.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~30 g
+Grasas: ~5 g
+Fibra: ~7 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; fontina → mozzarella baja en grasa; castañas 500 → 400 g; zumo de limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-castanas-braseadas
+TITULO: Castañas Braseadas
+CATEGORIA: Verduras - Castañas
+ICONO: 🥗
+SUBSECCION: Castañas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Frutos secos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Castañas cocidas lentamente en caldo casero con laurel, tomillo y apio.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Castañas peladas — 500 g
+• Caldo de carne casero sin sal (receta de este recetario) — 1 litro
+• Hoja de laurel — 1
+• Tomillo fresco — unas ramitas
+• Rama de apio — 1
+PREPARACION:
+1. Dora las castañas en el aceite 3 minutos.
+2. Añade caldo, laurel, tomillo y apio.
+3. Cuece tapado a fuego suave 30 minutos.
+JUSTIFICACION: Aromáticas y sin sal.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~35 g
+Grasas: ~2 g
+Fibra: ~5 g
+Sodio: ~40 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; caldo sin sal; castañas 600 → 500 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pure-de-castanas
+TITULO: Puré de Castañas
+CATEGORIA: Verduras - Castañas
+ICONO: 🥗
+SUBSECCION: Castañas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Frutos secos, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Puré sedoso de castañas con yogur y aceite.
+INGREDIENTES:
+• Castañas peladas y cocidas — 500 g
+• Yogur natural espeso — 100 g
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION:
+1. Tritura las castañas con un poco del agua de cocción.
+2. Añade el aceite y mezcla.
+3. Incorpora el yogur fuera del fuego.
+JUSTIFICACION: Cremoso sin nata ni mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~34 g
+Grasas: ~2 g
+Fibra: ~5 g
+Sodio: ~40 mg
+IG: Medio
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-diente-de-leon-coccion-basica
+TITULO: Hojas Amargas (Diente de León): Cocción Básica
+CATEGORIA: Verduras - Diente de León
+ICONO: 🥗
+SUBSECCION: Diente de León
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Hojas amargas tiernas (diente de león, o berros y rúcula) cocidas al vapor sin sal.
+INGREDIENTES:
+• Diente de león, berros o rúcula — 200 g por persona
+PREPARACION:
+1. Lava bien las hojas.
+2. Cuece al vapor 3-5 minutos.
+3. Escurre.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una evocación: berros o rúcula si no hay diente de león.|Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~35 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~6 g
+Grasas: ~0 g
+Fibra: ~3 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal; vapor.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-diente-de-leon-con-ajo-y-aceite-de-oliva
+TITULO: Hojas Amargas con Ajo y Aceite de Oliva
+CATEGORIA: Verduras - Diente de León
+ICONO: 🥗
+SUBSECCION: Diente de León
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Diente de león (o berros y rúcula) salteado con ajo asado y aceite, sin guindilla.
+INGREDIENTES:
+• Diente de león, berros o rúcula en tiras — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 3 dientes
+• Pimentón dulce — 1 pizca
+PREPARACION:
+1. Cuece las hojas al vapor 4 minutos.
+2. Rehoga el ajo asado en el aceite con el pimentón 1 minuto.
+3. Mezcla con las hojas.
+JUSTIFICACION: Sencillas y sin picante.
+ADVERTENCIAS: Es una evocación: berros o rúcula si no hay diente de león.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~8 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; guindilla → pimentón dulce.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-diente-de-leon-al-parmesano
+TITULO: Hojas Amargas al Parmesano
+CATEGORIA: Verduras - Diente de León
+ICONO: 🥗
+SUBSECCION: Diente de León
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Diente de león (o berros y espinacas) cocido con aceite y parmesano.
+INGREDIENTES:
+• Diente de león, berros o espinacas — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Cuece las hojas al vapor 4 minutos.
+2. Rehoga con el aceite 2 minutos.
+3. Sirve con el parmesano.
+JUSTIFICACION: Sencillo y ligero.
+ADVERTENCIAS: Es una evocación: berros o espinacas si no hay diente de león.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~6 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~140 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 65 g → aceite 10 g; parmesano 4 cdas → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-diente-de-leon
+TITULO: Ensalada de Hojas Amargas
+CATEGORIA: Verduras - Diente de León
+ICONO: 🥗
+SUBSECCION: Diente de León
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Ensalada de diente de león (o berros y rúcula) con ajo asado, atún al natural y aliño de naranja, sin anchoas ni limón.
+INGREDIENTES:
+• Atún al natural desmenuzado — 40 g
+• Puntas de diente de león, berros o rúcula — 400 g
+• Ajo asado picado — ¼ diente
+• Zumo de naranja — 3 cdas
+• Ralladura de limón — de ½ limón
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Mezcla naranja, ralladura, ajo y aceite.
+2. Coloca las hojas con el atún.
+3. Aliña y sirve.
+JUSTIFICACION: Fresca y proteica.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~6 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas → atún; zumo de limón → naranja; aceite 6 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-coliflor-coccion-basica
+TITULO: Coliflor: Cocción Básica
+CATEGORIA: Verduras - Coliflor
+ICONO: 🥗
+SUBSECCION: Coliflor
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Coliflor cocida al vapor sin sal.
+INGREDIENTES:
+• Coliflor — 200 g por persona
+PREPARACION:
+1. Separa en ramitos.
+2. Cuece al vapor 10 minutos.
+3. Escurre.
+JUSTIFICACION: Conserva textura y sabor.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~40 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~6 g
+Grasas: ~0 g
+Fibra: ~3 g
+Sodio: ~45 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal; vapor.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-coliflor-con-gorgonzola
+TITULO: Coliflor con Queso Azul Suave
+CATEGORIA: Verduras - Coliflor
+ICONO: 🥗
+SUBSECCION: Coliflor
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Coliflor con salsa de leche descremada y queso azul suave, con comino y naranja reducida en lugar de brandy.
+INGREDIENTES:
+• Coliflor en ramitos — 800 g
+• Harina de avena — 1 cdta
+• Queso azul suave en dados — 40 g
+• Leche descremada — 150 ml
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Zumo de naranja reducido — 2 cdas
+• Semillas de comino — 1 cdta
+PREPARACION:
+1. Cuece la coliflor al vapor 8 minutos.
+2. Calienta aceite, harina, leche, naranja y queso azul 5 minutos hasta fundir.
+3. Cubre la coliflor con la salsa y espolvorea con comino.
+JUSTIFICACION: Sabor a queso azul con poca grasa.
+ADVERTENCIAS: Es una evocación: queso azul suave y naranja en lugar de gorgonzola y brandy.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~10 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Gorgonzola 250 → queso azul suave 40 g; brandy → naranja reducida; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-coliflor-con-jamon
+TITULO: Coliflor con Pollo
+CATEGORIA: Verduras - Coliflor
+ICONO: 🥗
+SUBSECCION: Coliflor
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Coliflor gratinada con huevo, pollo cocido y parmesano, en lugar de jamón.
+INGREDIENTES:
+• Coliflor en ramitos — 800 g
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Huevos — 2
+• Pan integral rallado — 2 cdas
+• Pechuga de pollo cocida en dados — 100 g
+• Parmesano rallado — 2 cdas
+PREPARACION:
+1. Cuece la coliflor al vapor 8 minutos y mézclala con los huevos batidos y el pollo.
+2. Colócala en una fuente engrasada y cubre con pan y parmesano.
+3. Hornea 25 minutos a 190 °C hasta cuajar y dorar.
+JUSTIFICACION: Gratinada y proteica.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~12 g
+Grasas: ~6 g
+Fibra: ~4 g
+Sodio: ~140 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; mantequilla → aceite; parmesano 4 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-coliflor-bicolor-al-pimiento
+TITULO: Coliflor Bicolor al Pimiento
+CATEGORIA: Verduras - Coliflor
+ICONO: 🥗
+SUBSECCION: Coliflor
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Coliflor blanca y verde (o brócoli) aliñada con pimiento asado, ralladura de limón, ajo asado y orégano, sin guindilla.
+INGREDIENTES:
+• Coliflor blanca pequeña en ramitos — 1
+• Coliflor verde o brócoli en ramitos — 1
+• Ralladura fina de limón — 2 cdtas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zumo de naranja — 2 cdas
+• Pimiento rojo asado picado fino — 1
+• Pimentón dulce — 1 pizca
+• Orégano seco — 1 pizca
+• Ajo asado picado — 1 diente
+PREPARACION:
+1. Cuece ambas coles al vapor 8 minutos.
+2. Mezcla aceite, naranja, pimiento, ralladura, ajo, orégano y pimentón.
+3. Aliña las coles y sirve templadas.
+JUSTIFICACION: Vistosa y sin picante.
+ADVERTENCIAS: Es una evocación: brócoli si no hay coliflor verde.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~9 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Pimiento en salmuera → asado; guindilla → pimentón dulce; zumo de limón → ralladura y naranja; aceite 6 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-croquetas-de-coliflor
+TITULO: Croquetas de Coliflor
+CATEGORIA: Verduras - Coliflor
+ICONO: 🥗
+SUBSECCION: Coliflor
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Croquetas de puré de coliflor con parmesano y nuez moscada, empanadas y horneadas.
+INGREDIENTES:
+• Coliflor en ramitos — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Huevos — 2
+• Parmesano rallado — 25 g
+• Perejil picado — 1 cda
+• Nuez moscada — 1 pizca
+• Pan integral rallado — 80 g
+• Harina de avena — 3 cdas
+PREPARACION:
+1. Cuece la coliflor al vapor 10 minutos, tritúrala y mézclala con 1 huevo, el parmesano, el perejil y la nuez moscada.
+2. Forma croquetas y pásalas por harina, huevo batido y pan rallado.
+3. Rocía con el aceite y hornea 20 minutos a 200 °C.
+JUSTIFICACION: Crujientes sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~14 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Fritura → horno; mantequilla fuera; parmesano 40 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-coliflor-a-la-francesa
+TITULO: Coliflor a la Francesa
+CATEGORIA: Verduras - Coliflor
+ICONO: 🥗
+SUBSECCION: Coliflor
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Coliflor rebozada en masa ligera, horneada en vez de frita, con salsa de tomate y albahaca.
+INGREDIENTES:
+• Coliflor en ramitos cocida — 800 g
+• Huevo — 1
+• Harina de avena — 80 g
+• Leche descremada — 150 ml
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Salsa de Tomate (receta de este recetario) — 1 ración (unos 200 ml)
+• Hojas de albahaca troceadas — 4
+PREPARACION:
+1. Bate huevo, harina y leche hasta lograr una masa fluida y baña la coliflor.
+2. Colócala en una bandeja, rocía con el aceite y hornea 20 minutos a 220 °C.
+3. Sirve con la salsa de tomate caliente y la albahaca.
+JUSTIFICACION: Crujiente sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~20 g
+Grasas: ~5 g
+Fibra: ~5 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Fritura → horno; harina de avena; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-coliflor
+TITULO: Ensalada de Coliflor
+CATEGORIA: Verduras - Coliflor
+ICONO: 🥗
+SUBSECCION: Coliflor
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Pescado
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Coliflor templada con huevo duro, atún al natural y aceitunas enjuagadas, con aliño de naranja, sin anchoas ni alcaparras.
+INGREDIENTES:
+• Coliflor pequeña en ramitos — 1
+• Huevos duros — 2
+• Atún al natural desmenuzado — 40 g
+• Aceitunas negras enjuagadas, en cuartos — 6
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zumo de naranja — 3 cdas
+• Perejil picado — 1 cda
+PREPARACION:
+1. Cuece la coliflor al vapor 8 minutos.
+2. Mezcla aceite y naranja.
+3. Combina coliflor, huevo, atún y aceitunas, aliña y espolvorea con perejil.
+JUSTIFICACION: Sabor marino sin salmuera ni vinagre.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas y alcaparras; naranja en lugar de vinagreta.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~7 g
+Grasas: ~7 g
+Fibra: ~3 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas y alcaparras → atún; vinagreta → naranja; aceitunas 10 → 6 enjuagadas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-coliflor-con-salsa-de-huevo
+TITULO: Coliflor con Salsa de Huevo
+CATEGORIA: Verduras - Coliflor
+ICONO: 🥗
+SUBSECCION: Coliflor
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Gluten
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Coliflor con una salsa cocida de huevo duro, ajo asado y aceite, sin vinagre.
+INGREDIENTES:
+• Coliflor en ramitos — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado picado — 1½ dientes
+• Huevos duros — 3
+• Harina de avena — 1 cdta
+• Zumo de naranja — 2 cdas
+PREPARACION:
+1. Cuece la coliflor al vapor 8 minutos.
+2. Calienta aceite, ajo y harina; añade naranja y 100 ml de agua y cuece 3 minutos; agrega el huevo picado.
+3. Sirve sobre la coliflor.
+JUSTIFICACION: Sabrosa y sin vinagre.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~8 g
+Grasas: ~7 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; vinagre → naranja.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-coliflor-con-salsa-verde
+TITULO: Coliflor con Salsa Verde
+CATEGORIA: Verduras - Coliflor
+ICONO: 🥗
+SUBSECCION: Coliflor
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Pescado
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Coliflor con salsa verde de perejil, huevo duro, atún y aceite, sin anchoas, alcaparras, pepinillos ni vinagre.
+INGREDIENTES:
+• Coliflor en ramitos — 800 g
+• Huevo duro — 1
+• Atún al natural — 20 g
+• Perejil — un manojo pequeño
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zumo de naranja — 3 cdas
+• Aceitunas verdes enjuagadas — 3
+PREPARACION:
+1. Cuece la coliflor al vapor 8 minutos.
+2. Tritura perejil, huevo, atún, aceitunas, naranja y aceite.
+3. Sirve la coliflor con la salsa.
+JUSTIFICACION: Fresca y herbácea con 1 cda de aceite.
+ADVERTENCIAS: Es una evocación: atún y aceitunas en lugar de anchoas, alcaparras y pepinillos.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~7 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas, alcaparras y pepinillos → atún y aceitunas enjuagadas; vinagre → naranja; aceite 150 ml → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-coliflor-con-especias
+TITULO: Coliflor con Especias
+CATEGORIA: Verduras - Coliflor
+ICONO: 🥗
+SUBSECCION: Coliflor
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Coliflor y zanahoria con comino y pimentón dulce, aliñadas con naranja y aceite, sin vinagre.
+INGREDIENTES:
+• Coliflor pequeña (ramitos tiernos) — 1
+• Zanahorias en tiras finas — 2
+• Ajo asado picado — 1 diente
+• Zumo de naranja — 3 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Semillas de comino — ½ cdta
+• Pimentón dulce — 1 pizca
+PREPARACION:
+1. Cuece coliflor y zanahoria al vapor 6 minutos.
+2. Mezcla aceite, naranja, ajo, comino y pimentón.
+3. Aliña y deja reposar 15 minutos.
+JUSTIFICACION: Aromática y sin vinagre.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~9 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Limón y vinagre → naranja; aceite 3 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-repollo-coccion-basica
+TITULO: Repollo: Cocción Básica
+CATEGORIA: Verduras - Repollo
+ICONO: 🥗
+SUBSECCION: Repollo
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Repollo verde o col rizada cocidos al vapor sin sal.
+INGREDIENTES:
+• Repollo verde o col rizada — 150 g por persona
+PREPARACION:
+1. Corta en tiras o trozos.
+2. Cuece al vapor 8-10 minutos.
+3. Escurre.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~35 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~7 g
+Grasas: ~0 g
+Fibra: ~3 g
+Sodio: ~25 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal; vapor.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-repollo-con-pimenton
+TITULO: Repollo con Pimentón
+CATEGORIA: Verduras - Repollo
+ICONO: 🥗
+SUBSECCION: Repollo
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Repollo con cebolla, manzana y pimentón dulce, con yogur en lugar de nata.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebollas picadas — 3
+• Repollo blanco en tiras finas — 800 g
+• Manzana pelada y en lonchas finas — 1
+• Yogur natural espeso — 150 g
+• Stevia en polvo — al gusto
+• Pimentón dulce — 1 pizca
+• Mejorana fresca — para adornar
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade repollo, manzana y un poco de agua y cuece tapado 20 minutos.
+2. Fuera del fuego añade yogur, stevia y pimentón.
+3. Sirve con mejorana.
+JUSTIFICACION: Dulce y cremoso con poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~16 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite; azúcar → stevia.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-col-rizada-al-horno
+TITULO: Col Rizada al Horno
+CATEGORIA: Verduras - Repollo
+ICONO: 🥗
+SUBSECCION: Repollo
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Col rizada gratinada con pollo sazonado al estilo de salchicha, tomate asado, mozzarella baja en grasa y yogur.
+INGREDIENTES:
+• Col rizada sin el troncho y en tiras — 1 kg
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Pechuga de pollo picada con semillas de hinojo — 250 g
+• Tomate asado triturado — 4 cdas
+• Mozzarella baja en grasa en lonchas — 150 g
+• Yogur natural espeso — 100 g
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Cuece la col al vapor 8 minutos; dora el pollo en el aceite con el tomate 10 minutos.
+2. En una fuente engrasada alterna col, pollo, mozzarella y yogur.
+3. Espolvorea con parmesano y hornea 25 minutos a 190 °C.
+JUSTIFICACION: Plato único con menos grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchicha.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~10 g
+Grasas: ~8 g
+Fibra: ~4 g
+Sodio: ~210 mg
+IG: Bajo
+ADAPTACIÓN:
+• Salchicha → pollo; nata → yogur; mozzarella 300 → 150 g baja en grasa; parmesano 40 → 20 g; concentrado → tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-col-rizada-a-la-capuchina
+TITULO: Col Rizada a la Capuchina
+CATEGORIA: Verduras - Repollo
+ICONO: 🥗
+SUBSECCION: Repollo
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Col rizada salteada con ajo asado, perejil y un poco de atún al natural, en lugar de anchoas.
+INGREDIENTES:
+• Col rizada sin el troncho y en tiras — ½
+• Atún al natural escurrido — 30 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 2 dientes
+• Perejil picado — 1 cda
+PREPARACION:
+1. Cuece la col al vapor 8 minutos.
+2. Rehoga ajo y atún en el aceite 2 minutos.
+3. Mezcla con la col y el perejil.
+JUSTIFICACION: Sabrosa sin anchoas.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~7 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas → atún; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-col-rizada-rehogada
+TITULO: Col Rizada con Papas y Huevo al Horno
+CATEGORIA: Verduras - Repollo
+ICONO: 🥗
+SUBSECCION: Repollo
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Capas de papa y col rizada cuajadas al horno con huevo, leche y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Papas en rodajas finas — 3
+• Col rizada sin el troncho en tiras finas — ¼
+• Parmesano rallado — 1 cda
+• Huevos — 2
+• Leche descremada — 100 ml
+PREPARACION:
+1. Cuece papas y col al vapor 8 minutos.
+2. Colócalas por capas en una fuente engrasada con el aceite.
+3. Cubre con huevos batidos con la leche y el parmesano; hornea 25 minutos a 180 °C hasta cuajar.
+JUSTIFICACION: Sencillo y sin mantequilla.
+ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~160 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~16 g
+Grasas: ~7 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 50 g → aceite 10 g; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-choucroute-con-champinones-y-patatas
+TITULO: Repollo con Champiñones y Papas
+CATEGORIA: Verduras - Repollo
+ICONO: 🥗
+SUBSECCION: Repollo
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Repollo blanco cocido con cebolla, champiñones y papas, en lugar de choucroute en conserva.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Repollo blanco en tiras finas cocido — 200 g
+• Sombrerillos de champiñones en dados — 200 g
+• Papas en rodajas finas — 300 g
+PREPARACION:
+1. Rehoga la cebolla en el aceite 6 minutos; añade champiñones y repollo y cuece 10 minutos.
+2. Cuece las papas al vapor 12 minutos.
+3. Mezcla y sirve.
+JUSTIFICACION: Sin conserva salada ni vinagre.
+ADVERTENCIAS: Es una evocación: repollo fresco en lugar de choucroute.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~19 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~40 mg
+IG: Medio
+ADAPTACIÓN:
+• Choucroute → repollo fresco; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-choucroute-braseada
+TITULO: Repollo Braseado
+CATEGORIA: Verduras - Repollo
+ICONO: 🥗
+SUBSECCION: Repollo
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Repollo blanco braseado con cebolla, tomillo, enebro y pollo, en lugar de panceta, vino y vinagre.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Pechuga de pollo en dados — 100 g
+• Zumo de naranja reducido — 4 cdas
+• Repollo blanco sin el troncho y en tiras — 1 kg
+• Tomillo fresco — unas ramitas
+• Enebrinas — 6
+• Caldo de carne casero sin sal (receta de este recetario) — 300 ml
+PREPARACION:
+1. Rehoga cebolla y pollo en el aceite 8 minutos; añade la naranja.
+2. Agrega repollo, tomillo, enebrinas y caldo.
+3. Cuece tapado a fuego suave 40 minutos.
+JUSTIFICACION: Reconfortante, sin embutido ni vinagre.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta; sin vino ni vinagre.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~13 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Panceta → pollo; vino y vinagre → naranja reducida; mantequilla y aceite 4 → aceite 1 cda; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-rollitos-de-col-rizada-y-ricota
+TITULO: Rollitos de Col Rizada y Ricota
+CATEGORIA: Verduras - Repollo
+ICONO: 🥗
+SUBSECCION: Repollo
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Rollitos de col rizada rellenos de acelgas y ricota baja en grasa, con salsa de tomate.
+INGREDIENTES:
+• Hojas de col rizada — 8
+• Acelgas sin las pencas — 300 g
+• Ricota baja en grasa — 200 g
+• Parmesano rallado — 2 cdas
+• Huevos ligeramente batidos — 2
+• Salsa de Tomate (receta de este recetario) — 1 ración (unos 250 ml)
+• Bramante de cocina — para atar
+PREPARACION:
+1. Escalda las hojas de col 2 minutos; cuece las acelgas, pícalas y mézclalas con ricota, parmesano y huevos.
+2. Rellena las hojas, enróllalas y átalas.
+3. Cuécelos en la salsa de tomate 25 minutos a fuego suave.
+JUSTIFICACION: Ligeros y llenos de verduras.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~9 g
+Grasas: ~6 g
+Fibra: ~4 g
+Sodio: ~210 mg
+IG: Bajo
+ADAPTACIÓN:
+• Ricota baja en grasa; parmesano 4 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-coles-de-bruselas-coccion-basica
+TITULO: Coles de Bruselas: Cocción Básica
+CATEGORIA: Verduras - Coles de Bruselas
+ICONO: 🥗
+SUBSECCION: Coles de Bruselas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Coles de Bruselas cocidas al vapor sin sal.
+INGREDIENTES:
+• Coles de Bruselas — 6 por persona
+PREPARACION:
+1. Retira las hojas exteriores y haz una cruz en la base.
+2. Cuece al vapor 10-12 minutos.
+3. Escurre.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~45 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~8 g
+Grasas: ~0 g
+Fibra: ~4 g
+Sodio: ~25 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal; vapor.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-coles-de-bruselas-con-parmesano
+TITULO: Coles de Bruselas con Parmesano
+CATEGORIA: Verduras - Coles de Bruselas
+ICONO: 🥗
+SUBSECCION: Coles de Bruselas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Coles de Bruselas al vapor con aceite, nuez moscada y parmesano.
+INGREDIENTES:
+• Coles de Bruselas limpias — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Nuez moscada — 1 pizca
+• Parmesano rallado — 30 g
+PREPARACION:
+1. Cuece las coles al vapor 12 minutos.
+2. Saltéalas con el aceite y la nuez moscada.
+3. Sirve con el parmesano.
+JUSTIFICACION: Sencillas y ligeras.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~9 g
+Grasas: ~5 g
+Fibra: ~5 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; parmesano 6 cdas → 30 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-coles-de-bruselas-con-almendras
+TITULO: Coles de Bruselas con Almendras
+CATEGORIA: Verduras - Coles de Bruselas
+ICONO: 🥗
+SUBSECCION: Coles de Bruselas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Frutos secos, Gluten
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Coles de Bruselas salteadas con almendras tostadas, ajo asado, ralladura de limón y pan integral rallado.
+INGREDIENTES:
+• Coles de Bruselas limpias — 700 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Almendras peladas y picadas — 15 g
+• Ajo asado — 1 diente
+• Ralladura de limón — de 1 limón
+• Pan integral rallado — 1½ cdtas
+PREPARACION:
+1. Cuece las coles al vapor 12 minutos.
+2. Saltea almendras, ajo y pan rallado en el aceite 2 minutos.
+3. Mezcla con las coles y la ralladura.
+JUSTIFICACION: Crujientes con poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~10 g
+Grasas: ~5 g
+Fibra: ~5 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; almendras 25 → 15 g; cáscara de limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-coles-de-bruselas-al-gratin
+TITULO: Coles de Bruselas al Gratín
+CATEGORIA: Verduras - Coles de Bruselas
+ICONO: 🥗
+SUBSECCION: Coles de Bruselas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Coles de Bruselas gratinadas con pollo, bechamel ligera y mozzarella baja en grasa, sin panceta ni gruyère.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Coles de Bruselas limpias y cocidas — 700 g
+• Pechuga de pollo cocida en dados — 80 g
+• Mozzarella baja en grasa rallada — 60 g
+• Salsa Bechamel (receta de este recetario) — 1 ración (unos 250 ml)
+PREPARACION:
+1. Saltea las coles con el aceite y el pollo 5 minutos.
+2. Colócalas en una fuente engrasada con la bechamel y el queso.
+3. Gratina 15 minutos a 200 °C.
+JUSTIFICACION: Gratinado cremoso, poco graso.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~13 g
+Grasas: ~6 g
+Fibra: ~5 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Panceta → pollo; gruyère 100 → mozzarella baja en grasa 60 g; mantequilla y aceite → aceite 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-coles-de-bruselas-con-salsa-veloute
+TITULO: Coles de Bruselas con Salsa Velouté
+CATEGORIA: Verduras - Coles de Bruselas
+ICONO: 🥗
+SUBSECCION: Coles de Bruselas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Coles de Bruselas cocidas con pimienta y naranja, cubiertas con velouté ligera y parmesano.
+INGREDIENTES:
+• Granos de pimienta negra — 4
+• Naranja en rodajas — 1
+• Coles de Bruselas limpias — 700 g
+• Cebollino picado — 2-3 tallos
+• Salsa Velouté (receta de este recetario) — 1 ración (unos 250 ml)
+• Parmesano rallado — 2 cdas
+PREPARACION:
+1. Cuece las coles al vapor con la pimienta y la naranja 12 minutos.
+2. Colócalas en una fuente y cubre con la velouté caliente.
+3. Espolvorea con parmesano y cebollino y gratina 5 minutos.
+JUSTIFICACION: Salsa ligera, sin vino.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~12 g
+Grasas: ~4 g
+Fibra: ~5 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vino y limón → naranja; pimienta 8 → 4 granos; parmesano 4 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-garbanzos-coccion-basica
+TITULO: Garbanzos: Cocción Básica
+CATEGORIA: Verduras - Garbanzos
+ICONO: 🥗
+SUBSECCION: Garbanzos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Base, Perfil1
+CONCEPTO: Garbanzos secos remojados y cocidos sin sal.
+INGREDIENTES:
+• Garbanzos secos — 50 g por persona
+• Agua — abundante
+PREPARACION:
+1. Remoja los garbanzos 12 horas.
+2. Cuece en agua nueva 1½-2 horas hasta que estén tiernos.
+3. Escurre.
+JUSTIFICACION: Base de legumbres con fibra y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~180 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~27 g
+Grasas: ~3 g
+Fibra: ~8 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-garbanzos-con-anchoas
+TITULO: Garbanzos con Atún y Perejil
+CATEGORIA: Verduras - Garbanzos
+ICONO: 🥗
+SUBSECCION: Garbanzos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado
+ETIQUETAS: Italiana, Legumbres, Perfil1
+CONCEPTO: Garbanzos cocidos aliñados con atún al natural, perejil y aceite, en lugar de anchoas.
+INGREDIENTES:
+• Garbanzos cocidos — 400 g
+• Atún al natural desmenuzado — 60 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Perejil picado — 1 cda
+PREPARACION:
+1. Calienta los garbanzos cocidos.
+2. Mezcla con el atún y el perejil.
+3. Aliña con el aceite.
+JUSTIFICACION: Proteica y sin anchoas.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~27 g
+Grasas: ~7 g
+Fibra: ~8 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas → atún al natural; aceite 100 ml → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-garbanzos-con-atun
+TITULO: Garbanzos con Atún
+CATEGORIA: Verduras - Garbanzos
+ICONO: 🥗
+SUBSECCION: Garbanzos
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado
+ETIQUETAS: Italiana, Legumbres, Perfil1
+CONCEPTO: Garbanzos cocidos con atún al natural, aliñados con aceite y naranja, sin vinagre.
+INGREDIENTES:
+• Garbanzos secos remojados — 150 g
+• Bicarbonato sódico — 1 pizca (solo para el remojo)
+• Atún al natural desmenuzado — 120 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zumo de naranja — 2 cdas
+PREPARACION:
+1. Cuece los garbanzos con el bicarbonato 1½ hora y escurre.
+2. Mezcla aceite y naranja.
+3. Combina con el atún y aliña.
+JUSTIFICACION: Plato único con fibra y proteína.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~260 kcal (por porción)
+Proteínas: ~22 g
+Carbohidratos: ~28 g
+Grasas: ~7 g
+Fibra: ~8 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Atún en aceite → al natural; aceite 6 → 1 cda; vinagre → naranja.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tortitas-de-liguria-farinata
+TITULO: Tortitas de Liguria (Farinata)
+CATEGORIA: Verduras - Garbanzos
+ICONO: 🥗
+SUBSECCION: Garbanzos
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Perfil1
+CONCEPTO: Tortas finas de harina de garbanzo horneadas, con menos aceite y sin sal.
+INGREDIENTES:
+• Harina de garbanzo — 250 g
+• Aceite de oliva extra virgen — 2 cdas (20 g, y un poco para engrasar)
+• Agua fría — 1 litro
+• Pimienta — al gusto
+PREPARACION:
+1. Bate la harina con el agua y el aceite; reposa 2 horas.
+2. Vierte en una bandeja engrasada formando una capa fina.
+3. Hornea 25 minutos a 230 °C hasta dorar.
+JUSTIFICACION: Crujiente y sin sal.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~21 g
+Grasas: ~5 g
+Fibra: ~5 g
+Sodio: ~25 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 100 ml → 2 cdas; sal fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-polenta-a-la-ligur-panissa
+TITULO: Panissa (Polenta Ligur de Garbanzo)
+CATEGORIA: Verduras - Garbanzos
+ICONO: 🥗
+SUBSECCION: Garbanzos
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Perfil1
+CONCEPTO: Masa cocida de harina de garbanzo, enfriada, cortada y dorada al horno en vez de frita.
+INGREDIENTES:
+• Harina de garbanzo — 250 g
+• Aceite de oliva extra virgen — 2 cdas (20 g)
+• Agua — 1 litro
+PREPARACION:
+1. Cuece harina, agua y 1 cda de aceite 20 minutos removiendo hasta espesar; extiende y deja enfriar.
+2. Corta en tiras.
+3. Colócalas en una bandeja con el resto del aceite y hornea 20 minutos a 220 °C.
+JUSTIFICACION: Dorada sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~21 g
+Grasas: ~5 g
+Fibra: ~5 g
+Sodio: ~25 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 6 → 2 cdas; fritura → horno; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pepino-con-mayonesa
+TITULO: Pepino con Mayonesa
+CATEGORIA: Verduras - Pepino
+ICONO: 🥗
+SUBSECCION: Pepino
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Rodajas de pepino con mayonesa ligera de yogur y perejil.
+INGREDIENTES:
+• Pepinos pelados y en rodajas gruesas — 3
+• Mayonesa Ligera de Yogur (receta de este recetario) — 4 cdas
+• Perejil picado — 1 cda
+PREPARACION:
+1. Pela y corta los pepinos.
+2. Colócalos en una fuente.
+3. Cubre con la mayonesa y el perejil.
+JUSTIFICACION: Fresco y ligero.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~50 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~5 g
+Grasas: ~2 g
+Fibra: ~1 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mayonesa clásica → versión de yogur; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pepino-con-nata
+TITULO: Pepino con Yogur
+CATEGORIA: Verduras - Pepino
+ICONO: 🥗
+SUBSECCION: Pepino
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Pepinos rehogados con aceite y terminados con yogur fuera del fuego.
+INGREDIENTES:
+• Pepinos pelados — 4
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Yogur natural espeso — 3 cdas
+PREPARACION:
+1. Corta los pepinos en bastones y saltéalos con el aceite 5 minutos.
+2. Retira del fuego.
+3. Incorpora el yogur y sirve.
+JUSTIFICACION: Suave y cremoso.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~50 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~6 g
+Grasas: ~2 g
+Fibra: ~1 g
+Sodio: ~25 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pepino-a-la-parisina
+TITULO: Pepino a la Parisina
+CATEGORIA: Verduras - Pepino
+ICONO: 🥗
+SUBSECCION: Pepino
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Ensalada de pepino con hierbas, ajo asado y aliño de naranja y ralladura de limón, sin mostaza.
+INGREDIENTES:
+• Pepinos pelados y en rodajas finas — 3
+• Perejil picado — 1 cda
+• Perifollo picado — 1 cda
+• Ajo asado picado — 1 diente
+• Zumo de naranja — 3 cdas
+• Ralladura de limón — de 1 limón
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Mezcla aceite, naranja, ralladura y ajo.
+2. Coloca el pepino con las hierbas.
+3. Aliña y sirve frío.
+JUSTIFICACION: Fresca y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~50 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~6 g
+Grasas: ~3 g
+Fibra: ~1 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mostaza fuera; limón → naranja y ralladura; aceite 120 ml → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pepino-con-aceitunas
+TITULO: Pepino con Aceitunas
+CATEGORIA: Verduras - Pepino
+ICONO: 🥗
+SUBSECCION: Pepino
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Pepino con eneldo, aceitunas negras enjuagadas y aliño de naranja.
+INGREDIENTES:
+• Pepinos pelados y en rodajas finas — 2
+• Eneldo fresco picado — 1 cda
+• Zumo de naranja — 1 cda
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Aceitunas negras enjuagadas, en cuartos — 8
+PREPARACION:
+1. Mezcla naranja y aceite.
+2. Combina pepino, eneldo y aceitunas.
+3. Aliña y sirve.
+JUSTIFICACION: Fresca con menos sal.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~40 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~4 g
+Grasas: ~3 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceitunas 20 → 8 enjuagadas; limón → naranja.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-achicoria-coccion-basica
+TITULO: Achicoria: Cocción Básica
+CATEGORIA: Verduras - Achicoria
+ICONO: 🥗
+SUBSECCION: Achicoria
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Achicoria cocida al vapor sin sal.
+INGREDIENTES:
+• Achicoria limpia — 185 g por persona
+PREPARACION:
+1. Lava y corta la achicoria.
+2. Cuece al vapor 8 minutos.
+3. Escurre.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~30 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~5 g
+Grasas: ~0 g
+Fibra: ~3 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal; vapor.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-achicoria-con-bechamel
+TITULO: Achicoria con Bechamel
+CATEGORIA: Verduras - Achicoria
+ICONO: 🥗
+SUBSECCION: Achicoria
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Achicoria gratinada con bechamel ligera y pollo cocido, en lugar de jamón.
+INGREDIENTES:
+• Achicorias limpias y cocidas — 800 g
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Pechuga de pollo cocida picada — 80 g
+• Salsa Bechamel (receta de este recetario) — 250 ml
+PREPARACION:
+1. Mezcla la achicoria con el pollo.
+2. Colócala en una fuente engrasada y cubre con la bechamel.
+3. Gratina 15 minutos a 200 °C.
+JUSTIFICACION: Gratinada sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~9 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; mantequilla → aceite; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-achicoria-a-la-guindilla
+TITULO: Achicoria al Pimentón
+CATEGORIA: Verduras - Achicoria
+ICONO: 🥗
+SUBSECCION: Achicoria
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Achicoria salteada con ajo asado y pimentón dulce, sin guindilla.
+INGREDIENTES:
+• Achicorias limpias — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 3 dientes
+• Pimentón dulce — 1 pizca
+PREPARACION:
+1. Cuece la achicoria al vapor 8 minutos.
+2. Rehoga el ajo con el pimentón en el aceite 1 minuto.
+3. Mezcla con la achicoria.
+JUSTIFICACION: Sabrosa sin picante.
+ADVERTENCIAS: Es una evocación: pimentón dulce en lugar de guindilla.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~60 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~6 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Guindilla → pimentón dulce; aceite 3 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pure-de-achicoria
+TITULO: Puré de Achicoria
+CATEGORIA: Verduras - Achicoria
+ICONO: 🥗
+SUBSECCION: Achicoria
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Puré gratinado de achicoria con yogur, nuez moscada y mozzarella baja en grasa.
+INGREDIENTES:
+• Achicorias limpias y cocidas — 1,5 kg
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Yogur natural espeso — 100 g
+• Stevia en polvo — una pizca
+• Nuez moscada — 1 pizca
+• Mozzarella baja en grasa rallada — 60 g
+PREPARACION:
+1. Tritura la achicoria con el aceite, el yogur, la stevia y la nuez moscada.
+2. Colócala en una fuente engrasada y cubre con el queso.
+3. Gratina 12 minutos a 200 °C.
+JUSTIFICACION: Cremoso, sin mantequilla ni nata.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~8 g
+Grasas: ~4 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite; azúcar → stevia; gruyère → mozzarella baja en grasa 60 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-nabizas-coccion-basica
+TITULO: Hojas de Nabo (Nabizas): Cocción Básica
+CATEGORIA: Verduras - Nabizas
+ICONO: 🥗
+SUBSECCION: Nabizas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Nabizas (o espinacas y berros) cocidas al vapor sin sal.
+INGREDIENTES:
+• Nabizas, espinacas o berros — 100 g por persona
+PREPARACION:
+1. Lava las hojas.
+2. Cuece al vapor 4 minutos.
+3. Escurre.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una evocación: espinacas o berros si no hay nabizas.|Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~25 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~4 g
+Grasas: ~0 g
+Fibra: ~2 g
+Sodio: ~60 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal; vapor.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-nabizas-en-papillote
+TITULO: Hojas Verdes en Papillote
+CATEGORIA: Verduras - Nabizas
+ICONO: 🥗
+SUBSECCION: Nabizas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Nabizas (o espinacas y berros) al horno en papel con ajo asado y naranja.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Nabizas, espinacas o berros limpios — 800 g
+• Ajo asado en láminas — ½ diente
+• Zumo de naranja — 2 cdas
+PREPARACION:
+1. Unta con aceite una hoja de papel de hornear.
+2. Coloca las hojas, el ajo y la naranja y cierra el paquete.
+3. Hornea 20 minutos a 200 °C.
+JUSTIFICACION: Sin sal ni limón.
+ADVERTENCIAS: Es una evocación: espinacas o berros si no hay nabizas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~60 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~6 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Zumo de limón → naranja; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-nabizas-a-la-parmesana
+TITULO: Hojas Verdes a la Parmesana
+CATEGORIA: Verduras - Nabizas
+ICONO: 🥗
+SUBSECCION: Nabizas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Nabizas (o espinacas) rehogadas con aceite y parmesano.
+INGREDIENTES:
+• Nabizas o espinacas limpias — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Cuece las hojas al vapor 4 minutos.
+2. Rehoga con el aceite 2 minutos.
+3. Sirve con el parmesano.
+JUSTIFICACION: Sencillas y ligeras.
+ADVERTENCIAS: Es una evocación: espinacas si no hay nabizas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~5 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 50 g → aceite 10 g; parmesano 40 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-nabizas-con-jamon
+TITULO: Hojas Verdes con Pollo
+CATEGORIA: Verduras - Nabizas
+ICONO: 🥗
+SUBSECCION: Nabizas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Nabizas (o espinacas) con ajo asado, pollo en tiras y pan integral rallado, con pimentón dulce en vez de guindilla.
+INGREDIENTES:
+• Nabizas o espinacas limpias — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 2 dientes
+• Pimentón dulce — 1 pizca
+• Pechuga de pollo cocida en tiras — 80 g
+• Pan integral rallado — 20 g
+PREPARACION:
+1. Cuece las hojas al vapor 4 minutos.
+2. Rehoga ajo, pimentón y pollo en el aceite 3 minutos.
+3. Mezcla con las hojas y espolvorea con el pan rallado.
+JUSTIFICACION: Sencillas y proteicas.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón; espinacas si no hay nabizas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~8 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; guindilla → pimentón dulce; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-nabizas-con-anchoas
+TITULO: Hojas Verdes con Atún
+CATEGORIA: Verduras - Nabizas
+ICONO: 🥗
+SUBSECCION: Nabizas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Nabizas (o espinacas y berros) con ajo asado, atún al natural y aceitunas enjuagadas, sin anchoas ni alcaparras.
+INGREDIENTES:
+• Nabizas, espinacas o berros limpios — 800 g
+• Atún al natural desmenuzado — 50 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Aceitunas verdes enjuagadas y picadas — 15 g
+PREPARACION:
+1. Cuece las hojas al vapor 4 minutos.
+2. Rehoga ajo, atún y aceitunas en el aceite 2 minutos.
+3. Mezcla con las hojas.
+JUSTIFICACION: Sabor salino sin anchoas.
+ADVERTENCIAS: Es una evocación: atún y aceitunas en lugar de anchoas y alcaparras; espinacas o berros si no hay nabizas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~5 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~160 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas y alcaparras → atún y aceitunas enjuagadas; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cebollas-coccion-basica
+TITULO: Cebollas: Cocción Básica
+CATEGORIA: Verduras - Cebollas
+ICONO: 🥗
+SUBSECCION: Cebollas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Cebollas cocidas enteras en agua o al vapor hasta quedar tiernas.
+INGREDIENTES:
+• Cebollas medianas — 1 por persona
+PREPARACION:
+1. Pela las cebollas.
+2. Cuece al vapor 25-30 minutos.
+3. Escurre.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~45 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~10 g
+Grasas: ~0 g
+Fibra: ~2 g
+Sodio: ~5 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vapor; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-aros-de-cebolla-fritos
+TITULO: Aros de Cebolla al Horno
+CATEGORIA: Verduras - Cebollas
+ICONO: 🥗
+SUBSECCION: Cebollas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Aros de cebolla rebozados en una masa ligera y horneados en vez de fritos.
+INGREDIENTES:
+• Cebollas grandes en aros gruesos — 2
+• Harina de avena — 3 cdas
+• Huevo — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Agua — 3 cdas
+• Pimienta blanca — al gusto
+PREPARACION:
+1. Bate harina, huevo, agua y la mitad del aceite.
+2. Pasa los aros por la masa.
+3. Colócalos en una bandeja con el resto del aceite y hornea 20 minutos a 220 °C, dándoles la vuelta a mitad de tiempo.
+JUSTIFICACION: Crujientes sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~13 g
+Grasas: ~4 g
+Fibra: ~2 g
+Sodio: ~35 mg
+IG: Bajo
+ADAPTACIÓN:
+• Fritura → horno; harina de avena; aceite reducido.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tortilla-de-cebolla
+TITULO: Tortilla de Cebolla
+CATEGORIA: Verduras - Cebollas
+ICONO: 🥗
+SUBSECCION: Cebollas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Tortilla de cebolleta cocida lentamente con ajo asado, perejil y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Cebolletas en rodajas finas — 500 g
+• Huevos — 6
+• Parmesano rallado — 20 g
+• Perejil picado — 1 cda
+• Pan rústico integral — para servir
+PREPARACION:
+1. Cuece las cebolletas con el aceite, el ajo y un poco de agua a fuego muy suave 20 minutos.
+2. Mezcla con los huevos batidos, el parmesano y el perejil.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más; sirve con pan.
+JUSTIFICACION: Dulce y ligera.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~9 g
+Grasas: ~10 g
+Fibra: ~2 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; parmesano 40 → 20 g; cebolleta cocida.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cebollas-grosseto
+TITULO: Cebollas Grosseto
+CATEGORIA: Verduras - Cebollas
+ICONO: 🥗
+SUBSECCION: Cebollas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Cebollas rellenas de res magra y pollo sazonado con parmesano y nuez moscada, horneadas.
+INGREDIENTES:
+• Cebollas grandes — 4
+• Carne magra de res picada — 100 g
+• Pechuga de pollo picada con hinojo — 50 g
+• Parmesano rallado — 1 cda
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Huevo ligeramente batido — 1
+• Nuez moscada — 1 pizca
+• Caldo de carne casero sin sal (receta de este recetario) — 100 ml
+PREPARACION:
+1. Cuece las cebollas 15 minutos, vacíalas y pica el interior; dora las carnes con él en el aceite 8 minutos y mezcla con parmesano, huevo y nuez moscada.
+2. Rellena las cebollas y colócalas en una fuente con el caldo.
+3. Hornea 30 minutos a 180 °C.
+JUSTIFICACION: Relleno magro y sin embutido.
+ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchicha.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~14 g
+Grasas: ~7 g
+Fibra: ~3 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Salchicha → pollo; aceite 2 → 1 cda; parmesano 2 → 1 cda; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cebollas-rellenas
+TITULO: Cebollas Rellenas
+CATEGORIA: Verduras - Cebollas
+ICONO: 🥗
+SUBSECCION: Cebollas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Cebollas rellenas de carne magra con pan remojado en leche descremada, perejil y mozzarella baja en grasa.
+INGREDIENTES:
+• Pan integral sin corteza — 1 rebanada
+• Leche descremada — 4 cdas
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Cebollas grandes — 4
+• Carne magra picada cocinada — 150 g
+• Perejil picado — 1 cda
+• Mozzarella baja en grasa rallada — 1 cda
+• Huevo ligeramente batido — 1
+• Lonchas pequeñas de mozzarella baja en grasa — 4
+PREPARACION:
+1. Cuece las cebollas 15 minutos y vacíalas; mezcla el interior picado con carne, pan remojado en leche, perejil, queso rallado y huevo.
+2. Rellena, coloca en una fuente engrasada y cubre con las lonchas de queso.
+3. Hornea 30 minutos a 180 °C.
+JUSTIFICACION: Menos grasa, mismo plato.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~14 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; gruyère → mozzarella baja en grasa; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cebollitas-con-salvia
+TITULO: Cebollitas con Salvia
+CATEGORIA: Verduras - Cebollas
+ICONO: 🥗
+SUBSECCION: Cebollas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Cebollitas cocidas con salvia y pollo en lugar de panceta.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Pechuga de pollo picada — 40 g
+• Cebollitas — 500 g
+• Hojas de salvia — 5
+• Agua — 5 cdas
+PREPARACION:
+1. Dora el pollo en el aceite 4 minutos.
+2. Añade las cebollitas, la salvia y el agua.
+3. Cuece tapado a fuego suave 20 minutos.
+JUSTIFICACION: Dulces y aromáticas.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~10 g
+Grasas: ~2 g
+Fibra: ~2 g
+Sodio: ~25 mg
+IG: Bajo
+ADAPTACIÓN:
+• Panceta → pollo; aceite 1 cda → 1 cdta.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cebollitas-del-sultan
+TITULO: Cebollitas del Sultán
+CATEGORIA: Verduras - Cebollas
+ICONO: 🥗
+SUBSECCION: Cebollas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Cebollitas con tomillo y pasas en caldo con naranja reducida, en lugar de vino.
+INGREDIENTES:
+• Cebollitas — 500 g
+• Tomillo fresco picado — 1 cdta
+• Zumo de naranja reducido — 4 cdas
+• Caldo de verduras casero sin sal (receta de este recetario) — 175 ml
+• Pasas sultanas — 15 g
+PREPARACION:
+1. Pon las cebollitas con el tomillo, la naranja y el caldo en una cazuela.
+2. Cuece tapado 20 minutos.
+3. Añade las pasas y reduce 5 minutos.
+JUSTIFICACION: Agridulces y sin alcohol.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~60 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~14 g
+Grasas: ~0 g
+Fibra: ~2 g
+Sodio: ~35 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vino → naranja reducida; pasas 20 → 15 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cebollitas-glaseadas
+TITULO: Cebollitas Glaseadas
+CATEGORIA: Verduras - Cebollas
+ICONO: 🥗
+SUBSECCION: Cebollas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Cebollitas glaseadas con aceite y stevia.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebollitas — 500 g
+• Stevia en polvo — al gusto
+• Agua — 100 ml
+PREPARACION:
+1. Dora las cebollitas en el aceite 5 minutos.
+2. Añade agua y stevia y cuece tapado 15 minutos.
+3. Destapa y reduce hasta que brillen.
+JUSTIFICACION: Brillantes sin mantequilla ni azúcar.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~60 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~9 g
+Grasas: ~2 g
+Fibra: ~2 g
+Sodio: ~5 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 80 g → aceite 10 g; azúcar → stevia.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cebollitas-braseadas
+TITULO: Cebollitas Braseadas
+CATEGORIA: Verduras - Cebollas
+ICONO: 🥗
+SUBSECCION: Cebollas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Cebollitas braseadas en caldo casero ligado con harina de avena.
+INGREDIENTES:
+• Cebollitas — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Harina de avena — 1 cda
+• Caldo de verduras casero sin sal (receta de este recetario) — 100 ml
+PREPARACION:
+1. Dora las cebollitas en el aceite 5 minutos; añade la harina.
+2. Agrega el caldo.
+3. Cuece tapado a fuego suave 20 minutos.
+JUSTIFICACION: Sencillas y sin sal.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~12 g
+Grasas: ~2 g
+Fibra: ~2 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 80 g → aceite 10 g; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alubias-coccion-basica
+TITULO: Alubias: Cocción Básica
+CATEGORIA: Verduras - Alubias
+ICONO: 🥗
+SUBSECCION: Alubias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Base, Perfil1
+CONCEPTO: Alubias (frijoles blancos) secas remojadas y cocidas con apio, ajo asado y salvia, sin sal.
+INGREDIENTES:
+• Alubias secas — 65 g por persona
+• Apio, ajo asado y salvia — para la cocción
+PREPARACION:
+1. Remoja las alubias 12 horas y escúrrelas.
+2. Cuece en agua nueva con apio, ajo y salvia 1½ hora hasta que estén tiernas.
+3. Escurre.
+JUSTIFICACION: Base de legumbres sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~29 g
+Grasas: ~1 g
+Fibra: ~9 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-tres-legumbres
+TITULO: Ensalada de Tres Legumbres
+CATEGORIA: Verduras - Alubias
+ICONO: 🥗
+SUBSECCION: Alubias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Frío, Perfil1
+CONCEPTO: Alubias, lentejas y garbanzos cocidos en casa, aliñados con aceite, naranja y cebollino.
+INGREDIENTES:
+• Alubias blancas cocidas en casa — 200 g
+• Lentejas cocidas en casa — 100 g
+• Garbanzos cocidos en casa — 100 g
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Zumo de naranja — 3 cdas
+• Cebollino picado — 1 cda
+PREPARACION:
+1. Mezcla las tres legumbres.
+2. Bate aceite y naranja.
+3. Aliña y espolvorea con cebollino.
+JUSTIFICACION: Fibra y proteína sin sal de conserva ni vinagre.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~25 g
+Grasas: ~6 g
+Fibra: ~8 g
+Sodio: ~15 mg
+IG: Bajo
+ADAPTACIÓN:
+• Conserva → cocidas en casa; vinagre y limón → naranja; aceite 7 → 1½ cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alubias-a-la-pizzaiola
+TITULO: Alubias a la Pizzaiola
+CATEGORIA: Verduras - Alubias
+ICONO: 🥗
+SUBSECCION: Alubias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Perfil1
+CONCEPTO: Alubias frescas (o cocidas) con apio, salvia y salsa de tomate asado y albahaca.
+INGREDIENTES:
+• Alubias frescas desvainadas o cocidas — 600 g
+• Ramas de apio — 2
+• Hojas de salvia — 3
+• Ajo asado — 1 diente
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Tomate asado triturado — 4 cdas
+• Hojas de albahaca troceadas — 4
+• Perejil picado — 1 cda
+PREPARACION:
+1. Cuece las alubias con apio y salvia 40 minutos y escúrrelas.
+2. Rehoga el ajo en el aceite; añade tomate y cuece 8 minutos.
+3. Mezcla con las alubias, la albahaca y el perejil.
+JUSTIFICACION: Rústicas y sin mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~180 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~27 g
+Grasas: ~3 g
+Fibra: ~9 g
+Sodio: ~25 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; passata → tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alubias-a-la-uccelletto
+TITULO: Alubias a la Uccelletto
+CATEGORIA: Verduras - Alubias
+ICONO: 🥗
+SUBSECCION: Alubias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Perfil1
+CONCEPTO: Alubias con ajo, salvia y tomate asado.
+INGREDIENTES:
+• Alubias remojadas 12 horas — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 2 dientes
+• Hojas de salvia — 4
+• Tomates asados — 300 g
+PREPARACION:
+1. Cuece las alubias 1½ hora y escúrrelas.
+2. Rehoga ajo y salvia en el aceite; añade el tomate y cuece 10 minutos.
+3. Mezcla con las alubias y cuece 10 minutos más.
+JUSTIFICACION: Sin conservas ni sal.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~30 g
+Grasas: ~3 g
+Fibra: ~10 g
+Sodio: ~25 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; tomate en conserva → asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alubias-con-salchichas
+TITULO: Alubias con Pollo
+CATEGORIA: Verduras - Alubias
+ICONO: 🥗
+SUBSECCION: Alubias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Perfil1
+CONCEPTO: Alubias con apio, ajo y salvia, con pollo sazonado al estilo de salchicha y naranja reducida, sin vino.
+INGREDIENTES:
+• Alubias remojadas 12 horas — 200 g
+• Rama de apio — 1
+• Ajo asado — 2 dientes
+• Hojas de salvia — 2
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pechuga de pollo picada con semillas de hinojo, en bolitas — 200 g
+• Zumo de naranja reducido — 3 cdas
+PREPARACION:
+1. Cuece las alubias con apio y salvia 1½ hora.
+2. Dora las bolitas de pollo en el aceite con el ajo 8 minutos; añade la naranja.
+3. Mezcla con las alubias.
+JUSTIFICACION: Contundente y sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchichas; sin vino.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~280 kcal (por porción)
+Proteínas: ~29 g
+Carbohidratos: ~25 g
+Grasas: ~6 g
+Fibra: ~8 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Salchichas → pollo; vino → naranja reducida; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alubias-exoticas
+TITULO: Alubias Exóticas
+CATEGORIA: Verduras - Alubias
+ICONO: 🥗
+SUBSECCION: Alubias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Perfil1
+CONCEPTO: Alubias cocidas en casa con piña, aguacate y pollo, aliñadas con naranja, sin jamón ni mostaza.
+INGREDIENTES:
+• Aguacate en rodajas — ½
+• Zumo de naranja — 3 cdas
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Pechuga de pollo cocida en dados — 100 g
+• Piña pelada y en dados — ½
+• Alubias cocidas en casa — 500 g
+PREPARACION:
+1. Mezcla alubias, piña y pollo.
+2. Bate naranja y aceite y aliña.
+3. Sirve con el aguacate.
+JUSTIFICACION: Fresca y sin sal.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~250 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~30 g
+Grasas: ~6 g
+Fibra: ~9 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; mantequilla y mostaza → naranja; conserva → cocidas en casa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-alubias-cannellini-de-verano
+TITULO: Alubias de Verano
+CATEGORIA: Verduras - Alubias
+ICONO: 🥗
+SUBSECCION: Alubias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Perfil1
+CONCEPTO: Alubias blancas con berenjena y pimiento asados y tomate, con albahaca y ralladura de limón.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Berenjena asada en dados — 1
+• Pimiento amarillo asado en dados — 1
+• Tomates asados picados — 2
+• Alubias blancas cocidas en casa — 300 g
+• Ralladura de limón — de ½ limón
+• Hojas de albahaca picadas — 4
+• Perejil picado — 1 cda
+PREPARACION:
+1. Mezcla las verduras asadas con el aceite y el ajo.
+2. Añade las alubias.
+3. Sirve templado con la ralladura y las hierbas.
+JUSTIFICACION: Ligera, sin conserva.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~28 g
+Grasas: ~4 g
+Fibra: ~9 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; verduras asadas; alubias cocidas en casa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-alubias-variadas
+TITULO: Ensalada de Alubias Variadas
+CATEGORIA: Verduras - Alubias
+ICONO: 🥗
+SUBSECCION: Alubias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Perfil1
+CONCEPTO: Alubias frescas variadas con habichuelas verdes y chalote, con aceite y pimentón dulce, sin guindilla.
+INGREDIENTES:
+• Alubias variadas cocidas — 400 g
+• Chalote picado — 1
+• Habichuelas verdes cocidas — 50 g
+• Ajo asado picado — ½ diente
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pimentón dulce — 1 pizca
+PREPARACION:
+1. Mezcla alubias, habichuelas y chalote.
+2. Bate aceite, ajo y pimentón.
+3. Aliña.
+JUSTIFICACION: Sin picante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~24 g
+Grasas: ~4 g
+Fibra: ~8 g
+Sodio: ~15 mg
+IG: Bajo
+ADAPTACIÓN:
+• Guindilla → pimentón dulce; aceite 4 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pure-de-alubias
+TITULO: Puré de Alubias
+CATEGORIA: Verduras - Alubias
+ICONO: 🥗
+SUBSECCION: Alubias
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Perfil1
+CONCEPTO: Puré de alubias con apio, ajo asado y salvia, en caldo casero.
+INGREDIENTES:
+• Alubias remojadas 12 horas — 250 g
+• Rama de apio — 1
+• Ajo asado — 1 diente
+• Salvia — unas hojas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Caldo de verduras casero sin sal (receta de este recetario) — 250 ml
+PREPARACION:
+1. Cuece las alubias con apio, ajo y salvia 1½ hora.
+2. Tritura con el caldo.
+3. Termina con el aceite.
+JUSTIFICACION: Cremoso sin mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~180 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~29 g
+Grasas: ~3 g
+Fibra: ~9 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-judias-verdes-coccion-basica
+TITULO: Habichuelas Verdes: Cocción Básica
+CATEGORIA: Verduras - Judías Verdes
+ICONO: 🥗
+SUBSECCION: Judías Verdes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Habichuelas verdes cocidas al vapor sin sal.
+INGREDIENTES:
+• Habichuelas verdes (ejotes) — 150 g por persona
+PREPARACION:
+1. Despunta las habichuelas.
+2. Cuece al vapor 8-10 minutos.
+3. Escurre.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~35 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~7 g
+Grasas: ~0 g
+Fibra: ~3 g
+Sodio: ~5 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vapor en lugar de agua con sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-judias-verdes-con-crema-de-huevo
+TITULO: Habichuelas Verdes con Crema de Huevo
+CATEGORIA: Verduras - Judías Verdes
+ICONO: 🥗
+SUBSECCION: Judías Verdes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Habichuelas verdes con cebolla y una crema de huevo cuajada al calor, con parmesano.
+INGREDIENTES:
+• Habichuelas verdes cocidas — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebollas pequeñas picadas — 2
+• Huevos — 2
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos; añade las habichuelas.
+2. Vierte los huevos batidos con el parmesano y remueve a fuego bajo.
+3. Cocina hasta que el huevo esté totalmente cuajado.
+JUSTIFICACION: Sin mantequilla; huevo bien cocido.
+ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~9 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; parmesano 25 → 20 g; huevo bien cuajado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-judias-verdes-a-la-polaca
+TITULO: Habichuelas Verdes a la Polaca
+CATEGORIA: Verduras - Judías Verdes
+ICONO: 🥗
+SUBSECCION: Judías Verdes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Pescado
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Habichuelas verdes con alubias, cebolleta, atún, pollo y huevo duro, con pimentón dulce, sin salchichas, anchoas ni vinagre.
+INGREDIENTES:
+• Habichuelas verdes cocidas — 400 g
+• Alubias blancas cocidas en casa — 200 g
+• Cebolleta picada fina — 1
+• Atún al natural desmenuzado — 30 g
+• Pechuga de pollo cocida en lonchitas — 100 g
+• Huevos duros — 2
+• Pimentón dulce — 1 pizca
+• Zumo de naranja — 2 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Mezcla habichuelas, alubias, cebolleta, atún y pollo.
+2. Bate aceite, naranja y pimentón y aliña.
+3. Sirve con el huevo duro en cuartos.
+JUSTIFICACION: Plato único, sin embutido ni vinagre.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchichas; atún en lugar de anchoas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~21 g
+Carbohidratos: ~20 g
+Grasas: ~8 g
+Fibra: ~7 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Salchichas → pollo; anchoas → atún; vinagre → naranja; conserva → alubias cocidas en casa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-judias-verdes-con-parmesano
+TITULO: Habichuelas Verdes con Parmesano
+CATEGORIA: Verduras - Judías Verdes
+ICONO: 🥗
+SUBSECCION: Judías Verdes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Habichuelas verdes horneadas con huevo, leche descremada y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Habichuelas verdes cocidas — 800 g
+• Huevos — 3
+• Leche descremada — 5 cdas
+• Parmesano rallado — 40 g
+PREPARACION:
+1. Coloca las habichuelas en una fuente engrasada.
+2. Cubre con huevos batidos con la leche y el parmesano.
+3. Hornea 25 minutos a 180 °C hasta cuajar.
+JUSTIFICACION: Gratinado ligero.
+ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~9 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; parmesano 100 → 40 g; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-judias-verdes-con-tomate
+TITULO: Habichuelas Verdes con Tomate
+CATEGORIA: Verduras - Judías Verdes
+ICONO: 🥗
+SUBSECCION: Judías Verdes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Habichuelas verdes guisadas con cebolla, tomate asado, aceitunas enjuagadas y albahaca.
+INGREDIENTES:
+• Habichuelas verdes — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Ajo asado — 1 diente
+• Tomates asados picados — 5
+• Aceitunas verdes enjuagadas en cuartos — 4
+• Hojas de albahaca picadas — 6
+PREPARACION:
+1. Rehoga cebolla y ajo en el aceite 8 minutos; añade el tomate.
+2. Agrega las habichuelas y cuece tapado 15 minutos.
+3. Añade aceitunas y albahaca.
+JUSTIFICACION: Fresca y sencilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~13 g
+Grasas: ~3 g
+Fibra: ~5 g
+Sodio: ~60 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 2 → 1 cda; tomate asado; aceitunas 6 → 4 enjuagadas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-judias-verdes-glaseadas-al-sesamo
+TITULO: Habichuelas Verdes Glaseadas al Sésamo
+CATEGORIA: Verduras - Judías Verdes
+ICONO: 🥗
+SUBSECCION: Judías Verdes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Sésamo
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Habichuelas verdes salteadas con cebolleta, ralladura de limón y sésamo.
+INGREDIENTES:
+• Habichuelas verdes cocidas — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolletas en rodajas finas — 2
+• Ralladura de limón — de ½ limón
+• Semillas de sésamo — 1 cda
+PREPARACION:
+1. Rehoga las cebolletas en el aceite 3 minutos.
+2. Añade las habichuelas y saltea 4 minutos.
+3. Sirve con la ralladura y el sésamo tostado.
+JUSTIFICACION: Crujientes y aromáticas.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~9 g
+Grasas: ~4 g
+Fibra: ~4 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; zumo de limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-judias-verdes-gratinadas
+TITULO: Habichuelas Verdes Gratinadas
+CATEGORIA: Verduras - Judías Verdes
+ICONO: 🥗
+SUBSECCION: Judías Verdes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Habichuelas verdes planas gratinadas con puerro y salsa de leche descremada y naranja reducida, sin vino.
+INGREDIENTES:
+• Habichuelas verdes planas cocidas — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Ajo asado — 1 diente
+• Puerros en rodajas — 2
+• Harina de avena — 1 cda
+• Leche descremada — 150 ml
+• Zumo de naranja reducido — 3 cdas
+• Parmesano rallado — 2 cdas
+PREPARACION:
+1. Rehoga puerros y ajo en el aceite 8 minutos; añade la harina, la leche y la naranja y cuece 4 minutos.
+2. Coloca las habichuelas en una fuente engrasada y cubre con la salsa.
+3. Espolvorea con parmesano y gratina 12 minutos a 200 °C.
+JUSTIFICACION: Gratinadas sin vino ni mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~15 g
+Grasas: ~4 g
+Fibra: ~4 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vino → naranja reducida; mantequilla → aceite; parmesano 4 → 2 cdas; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-judias-verdes-con-bechamel-al-gratin
+TITULO: Habichuelas Verdes con Bechamel al Gratín
+CATEGORIA: Verduras - Judías Verdes
+ICONO: 🥗
+SUBSECCION: Judías Verdes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Habichuelas con champiñones y pollo cubiertas con bechamel ligera y gratinadas, sin jamón.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Cebolla picada — 1
+• Habichuelas verdes cocidas y partidas — 400 g
+• Champiñones en láminas finas — 200 g
+• Pechuga de pollo cocida en dados — 80 g
+• Salsa Bechamel (receta de este recetario) — 1 ración (unos 250 ml)
+• Huevo — 1
+PREPARACION:
+1. Rehoga cebolla y champiñones en el aceite 8 minutos; mezcla con habichuelas y pollo.
+2. Mezcla la bechamel con el huevo y cubre las verduras en una fuente engrasada.
+3. Hornea 25 minutos a 190 °C hasta cuajar.
+JUSTIFICACION: Gratinado ligero y sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~13 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; mantequilla y aceite → aceite 1 cda; yema → quitada; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-judias-verdes
+TITULO: Ensalada de Habichuelas Verdes
+CATEGORIA: Verduras - Judías Verdes
+ICONO: 🥗
+SUBSECCION: Judías Verdes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Habichuelas verdes con cebolla, ajo asado y perejil, aliñadas con naranja y aceite, sin mostaza.
+INGREDIENTES:
+• Habichuelas verdes cocidas — 600 g
+• Cebolla en rodajas finas — 1
+• Ajo asado en láminas finas — 1 diente
+• Zumo de naranja — 3 cdas
+• Ralladura de limón — de ½ limón
+• Perejil picado — 1 cda
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Mezcla habichuelas, cebolla y ajo.
+2. Bate naranja, ralladura y aceite.
+3. Aliña y espolvorea con perejil.
+JUSTIFICACION: Fresca y sin mostaza ni limón.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~9 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mostaza fuera; limón → naranja y ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-judias-verdes-con-alioli
+TITULO: Habichuelas Verdes con Alioli Ligero
+CATEGORIA: Verduras - Judías Verdes
+ICONO: 🥗
+SUBSECCION: Judías Verdes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Habichuelas verdes con un alioli ligero de ajo asado, yogur y aceite, sin vinagre.
+INGREDIENTES:
+• Habichuelas verdes cocidas — 600 g
+• Ajo asado — 2 dientes
+• Yogur natural espeso — 100 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Machaca el ajo asado.
+2. Mezcla con yogur y aceite hasta que quede una crema.
+3. Sirve con las habichuelas.
+JUSTIFICACION: Alioli sin huevo crudo, vinagre ni excesos de aceite.
+ADVERTENCIAS: Es una evocación: yogur en lugar de la base de pan y aceite.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~9 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Pan con vinagre y aceite 120 ml → yogur; aceite 1 cda; ajo asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-judias-verdes-con-salsa-de-huevo
+TITULO: Habichuelas Verdes con Salsa de Huevo
+CATEGORIA: Verduras - Judías Verdes
+ICONO: 🥗
+SUBSECCION: Judías Verdes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Habichuelas verdes con una salsa cocida de huevo duro, aceite y naranja, sin mantequilla ni limón.
+INGREDIENTES:
+• Habichuelas verdes cocidas — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Perejil picado — 1 cda
+• Huevos duros — 2
+• Zumo de naranja — 2 cdas
+PREPARACION:
+1. Machaca el huevo duro con el aceite y la naranja.
+2. Calienta suavemente.
+3. Cubre las habichuelas y espolvorea con perejil.
+JUSTIFICACION: Sin yema cruda.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~8 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Yemas crudas → huevo duro; mantequilla → aceite; limón → naranja.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-habas-coccion-basica
+TITULO: Habas: Cocción Básica
+CATEGORIA: Verduras - Habas
+ICONO: 🥗
+SUBSECCION: Habas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Habas frescas desvainadas y cocidas al vapor sin sal (o frijoles tiernos si no hay habas).
+INGREDIENTES:
+• Habas frescas con vaina — 500 g por persona
+PREPARACION:
+1. Desvaina las habas.
+2. Cuece al vapor 8 minutos.
+3. Escurre.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~15 g
+Grasas: ~1 g
+Fibra: ~6 g
+Sodio: ~25 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vapor; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-habas-a-la-piamontesa
+TITULO: Habas a la Piamontesa
+CATEGORIA: Verduras - Habas
+ICONO: 🥗
+SUBSECCION: Habas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Habas tiernas con una crema de yogur y mozzarella baja en grasa, en lugar de nata y fontina.
+INGREDIENTES:
+• Habas desvainadas — 400 g
+• Yogur natural espeso — 150 g
+• Mozzarella baja en grasa en lonchas — 40 g
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION:
+1. Cuece las habas al vapor 8 minutos.
+2. Mézclalas con el aceite y colócalas en una fuente.
+3. Cubre con yogur y queso y gratina 5 minutos.
+JUSTIFICACION: Cremosas sin nata.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~14 g
+Grasas: ~4 g
+Fibra: ~5 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; fontina → mozzarella baja en grasa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-habas-con-jamon
+TITULO: Habas con Pollo
+CATEGORIA: Verduras - Habas
+ICONO: 🥗
+SUBSECCION: Habas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Habas guisadas con cebolla, zanahoria y pollo, en lugar de jamón.
+INGREDIENTES:
+• Habas desvainadas — 400 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pechuga de pollo cocida en dados — 80 g
+• Cebolla picada — 1
+• Zanahoria picada — 1
+• Caldo de carne casero sin sal (receta de este recetario) — 200 ml
+• Perejil picado — 1 cda
+PREPARACION:
+1. Rehoga cebolla, zanahoria y pollo en el aceite 8 minutos.
+2. Añade habas y caldo; cuece tapado 15 minutos.
+3. Sirve con perejil.
+JUSTIFICACION: Guiso sencillo sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~16 g
+Grasas: ~3 g
+Fibra: ~5 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; mantequilla → aceite; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pure-de-habas-frescas
+TITULO: Puré de Habas Frescas
+CATEGORIA: Verduras - Habas
+ICONO: 🥗
+SUBSECCION: Habas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Puré de habas con papa y caldo, con un hilo de aceite.
+INGREDIENTES:
+• Habas desvainadas — 500 g
+• Papas pequeñas en dados — 2
+• Caldo de verduras casero sin sal (receta de este recetario) — 100 ml
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Cuece habas y papas 15 minutos.
+2. Tritura con el caldo.
+3. Sirve con el aceite.
+JUSTIFICACION: Cremoso sin sal.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~25 g
+Grasas: ~4 g
+Fibra: ~8 g
+Sodio: ~40 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite abundante → 1 cda; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-hinojo-coccion-basica
+TITULO: Hinojo: Cocción Básica
+CATEGORIA: Verduras - Hinojo
+ICONO: 🥗
+SUBSECCION: Hinojo
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Bulbos de hinojo cocidos al vapor sin sal.
+INGREDIENTES:
+• Bulbos de hinojo — 1 por persona
+PREPARACION:
+1. Limpia y corta en cuartos.
+2. Cuece al vapor 15 minutos.
+3. Escurre.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~30 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~7 g
+Grasas: ~0 g
+Fibra: ~3 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vapor; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-hinojo-endiablado
+TITULO: Hinojo con Aliño de Atún
+CATEGORIA: Verduras - Hinojo
+ICONO: 🥗
+SUBSECCION: Hinojo
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Hinojo con aliño de atún, aceite y naranja, sin anchoas, mostaza ni vinagre.
+INGREDIENTES:
+• Atún al natural desmenuzado — 40 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Bulbos de hinojo cocidos y troceados — 4
+• Zumo de naranja — 3 cdas
+• Ralladura de limón — de ½ limón
+PREPARACION:
+1. Mezcla atún, aceite, naranja y ralladura.
+2. Coloca el hinojo en una fuente.
+3. Cubre con el aliño.
+JUSTIFICACION: Contundente sin picante ni vinagre.
+ADVERTENCIAS: Es una evocación: atún y naranja en lugar de anchoas, mostaza y vinagre.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~8 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~80 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas → atún; mostaza, vinagre y limón → naranja y ralladura; aceite 100 ml → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-hinojo-con-mozzarella
+TITULO: Hinojo con Mozzarella
+CATEGORIA: Verduras - Hinojo
+ICONO: 🥗
+SUBSECCION: Hinojo
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Hinojo gratinado con mozzarella baja en grasa y una salsa cuajada de huevo y yogur.
+INGREDIENTES:
+• Bulbos de hinojo cocidos — 800 g
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Mozzarella baja en grasa en lonchas — 100 g
+• Perejil picado — 1 cda
+• Huevos — 3
+• Yogur natural espeso — 100 g
+• Parmesano rallado — 20 g
+PREPARACION:
+1. Coloca el hinojo en una fuente engrasada con la mozzarella y el perejil.
+2. Cubre con huevos batidos con el yogur.
+3. Espolvorea con parmesano y hornea 25 minutos a 180 °C hasta cuajar.
+JUSTIFICACION: Gratinado con menos grasa.
+ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~160 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~8 g
+Grasas: ~8 g
+Fibra: ~3 g
+Sodio: ~210 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; mozzarella 200 → 100 g baja en grasa; mantequilla → aceite; huevos 4 → 3; parmesano 40 → 20 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-hinojo-con-vino-blanco
+TITULO: Hinojo con Naranja Reducida
+CATEGORIA: Verduras - Hinojo
+ICONO: 🥗
+SUBSECCION: Hinojo
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Hinojo estofado con ajo asado y naranja reducida, en lugar de vino blanco.
+INGREDIENTES:
+• Bulbos de hinojo troceados — 1 kg
+• Ajo asado — 1 diente
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zumo de naranja reducido — 4 cdas
+• Perejil picado — 1 cda
+PREPARACION:
+1. Rehoga el hinojo en el aceite con el ajo 5 minutos.
+2. Añade la naranja y 100 ml de agua; cuece tapado 20 minutos.
+3. Sirve con perejil.
+JUSTIFICACION: Dulce y aromático, sin alcohol.
+ADVERTENCIAS: Es una evocación: naranja reducida en lugar de vino.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~60 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~10 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vino → naranja reducida; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-hinojo-con-nueces-y-naranja
+TITULO: Hinojo con Nueces y Naranja
+CATEGORIA: Verduras - Hinojo
+ICONO: 🥗
+SUBSECCION: Hinojo
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Frutos secos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Ensalada fresca de hinojo con gajos de naranja y nueces.
+INGREDIENTES:
+• Bulbos de hinojo tiernos en rodajas finas — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Naranjas — 2
+• Nueces peladas picadas — 4
+PREPARACION:
+1. Pela las naranjas y sepárala en gajos, reservando el jugo.
+2. Mezcla hinojo y naranja.
+3. Aliña con el jugo y el aceite y espolvorea con nueces.
+JUSTIFICACION: Fresca y de sabor cítrico.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~15 g
+Grasas: ~5 g
+Fibra: ~5 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nueces 6 → 4; aceite reducido; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-hinojo-frito
+TITULO: Hinojo Gratinado con Parmesano
+CATEGORIA: Verduras - Hinojo
+ICONO: 🥗
+SUBSECCION: Hinojo
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Hinojo rebozado en huevo y parmesano y horneado, en lugar de frito en mantequilla.
+INGREDIENTES:
+• Bulbos de hinojo cocidos y en cuartos — 4
+• Huevo — 1
+• Parmesano rallado — 25 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Pasa el hinojo por el huevo batido con el parmesano.
+2. Colócalo en una bandeja y rocía con el aceite.
+3. Hornea 20 minutos a 200 °C hasta dorar.
+JUSTIFICACION: Dorado sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~8 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Fritura en mantequilla → horno; parmesano 40 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-empanadillas-de-hinojo
+TITULO: Empanadillas de Hinojo
+CATEGORIA: Verduras - Hinojo
+ICONO: 🥗
+SUBSECCION: Hinojo
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 8
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Empanadillas horneadas de masa integral con relleno de hinojo, atún y queso bajo en grasa, en lugar de anchoas y gruyère.
+INGREDIENTES:
+• Harina integral — 250 g (y un poco para espolvorear)
+• Aceite de oliva extra virgen — 3 cdas (30 g)
+• Bulbos de hinojo limpios — 800 g
+• Atún al natural desmenuzado — 40 g
+• Mozzarella baja en grasa rallada — 60 g
+• Huevo — 1
+• Agua — 100 ml
+PREPARACION:
+1. Amasa la harina con 2 cdas de aceite, el agua y la clara; reposa 30 minutos. Cuece el hinojo, pícalo y rehógalo con el resto del aceite; mezcla con atún y queso.
+2. Estira la masa, corta círculos, rellena y cierra las empanadillas.
+3. Píntalas con la yema y hornea 25 minutos a 190 °C.
+JUSTIFICACION: Horneadas y con relleno ligero.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~22 g
+Grasas: ~6 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 100 g → aceite 30 g; anchoas → atún; gruyère → mozzarella baja en grasa 60 g; harina integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tarta-de-hinojo
+TITULO: Tarta de Hinojo
+CATEGORIA: Verduras - Hinojo
+ICONO: 🥗
+SUBSECCION: Hinojo
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Tarta de hinojo con pan integral remojado, huevo y queso bajo en grasa, horneada hasta cuajar.
+INGREDIENTES:
+• Bulbos de hinojo pequeños cocidos — 5
+• Huevos — 3
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Rebanadas de pan integral sin corteza — 4
+• Leche descremada — 6 cdas
+• Mozzarella baja en grasa en lonchas — 100 g
+• Parmesano rallado — 2 cdas
+PREPARACION:
+1. Remoja el pan en la leche; mézclalo con los huevos y el hinojo troceado.
+2. Coloca en un molde engrasado con la mozzarella y el parmesano.
+3. Hornea 35 minutos a 180 °C hasta cuajar.
+JUSTIFICACION: Ligera y proteica.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~14 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~210 mg
+IG: Medio
+ADAPTACIÓN:
+• Taleggio → mozzarella baja en grasa 100 g; mantequilla → aceite; parmesano 4 → 2 cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-setas-coccion-basica
+TITULO: Setas: Cocción Básica
+CATEGORIA: Verduras - Setas
+ICONO: 🥗
+SUBSECCION: Setas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Setas salteadas «trifolati» con ajo asado y perejil, con muy poco aceite.
+INGREDIENTES:
+• Setas — 150 g por persona
+• Aceite de oliva extra virgen — 1 cdta (5 g) por cada 300 g
+• Ajo asado y perejil — para el trifolati
+PREPARACION:
+1. Limpia las setas con un paño húmedo y trocéalas.
+2. Saltéalas en sartén antiadherente con el aceite 8 minutos.
+3. Añade ajo asado y perejil.
+JUSTIFICACION: Sabor intenso con poca grasa.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~50 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~5 g
+Grasas: ~2 g
+Fibra: ~2 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite reducido; ajo asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-setas-con-nata
+TITULO: Setas con Yogur
+CATEGORIA: Verduras - Setas
+ICONO: 🥗
+SUBSECCION: Setas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Setas en salsa de caldo, yogur y yema cocida, en lugar de nata y mantequilla.
+INGREDIENTES:
+• Setas — 700 g
+• Ralladura de limón — de 1 limón
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Caldo de verduras casero sin sal (receta de este recetario) — 150 ml
+• Harina de avena — 1 cda
+• Yogur natural espeso — 100 g
+• Yemas de huevo cocidas — 2
+PREPARACION:
+1. Saltea las setas con el aceite y el ajo 8 minutos; añade la harina y el caldo y cuece 5 minutos.
+2. Fuera del fuego incorpora el yogur y las yemas cocidas desmenuzadas.
+3. Sirve con ralladura.
+JUSTIFICACION: Cremosa sin nata.
+ADVERTENCIAS: Yemas cocidas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~9 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~60 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite; yema cruda → cocida; limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-champinones-con-tomate
+TITULO: Champiñones con Tomate
+CATEGORIA: Verduras - Setas
+ICONO: 🥗
+SUBSECCION: Setas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Champiñones con chalote, ajo asado, tomate asado y mejorana, con naranja reducida en lugar de vino.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Chalote picado fino — 1
+• Ajo asado picado — 1 diente
+• Perejil picado fino — 1 cda
+• Champiñones en láminas finas — 600 g
+• Zumo de naranja reducido — 3 cdas
+• Tomates asados picados — 350 g
+• Mejorana fresca picada — 1 cda
+PREPARACION:
+1. Rehoga chalote, ajo y perejil en el aceite 4 minutos; añade los champiñones y cuece 8 minutos.
+2. Agrega naranja y tomate y cuece 12 minutos.
+3. Termina con la mejorana.
+JUSTIFICACION: Ligeros y aromáticos.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~9 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~20 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vino → naranja reducida; aceite 2 → 1 cda; tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-setas-con-calabaza
+TITULO: Setas con Calabaza
+CATEGORIA: Verduras - Setas
+ICONO: 🥗
+SUBSECCION: Setas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Setas variadas con calabaza, cebolla y mejorana en caldo casero.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 1
+• Calabaza en dados — 300 g
+• Setas variadas — 600 g
+• Caldo de verduras casero sin sal (receta de este recetario) — 150 ml
+• Perejil picado — 1 cda
+• Mejorana fresca picada — 1 cda
+PREPARACION:
+1. Rehoga la cebolla en el aceite 6 minutos; añade calabaza y caldo y cuece 12 minutos.
+2. Agrega las setas y cuece 8 minutos.
+3. Sirve con las hierbas.
+JUSTIFICACION: Dulce y terrosa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~14 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla y aceite → aceite 1 cda; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-boletos-al-horno
+TITULO: Boletos al Horno
+CATEGORIA: Verduras - Setas
+ICONO: 🥗
+SUBSECCION: Setas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Boletos (o champiñones grandes) al horno con perejil, ajo asado y pan integral rallado.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1½ cdas (15 g, y un poco para engrasar)
+• Boletos o champiñones grandes — 800 g
+• Perejil picado — 1 cda
+• Ajo asado picado — 1 diente
+• Pan integral rallado — 40 g
+PREPARACION:
+1. Mezcla perejil, ajo y pan rallado con la mitad del aceite.
+2. Coloca los hongos en una fuente engrasada y cúbrelos con la mezcla y el resto del aceite.
+3. Hornea 25 minutos a 200 °C.
+JUSTIFICACION: Dorados con poco aceite.
+ADVERTENCIAS: Es una evocación: champiñones grandes si no hay boletos.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~11 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 100 ml → 1½ cdas; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-setas-al-gratin
+TITULO: Setas al Gratín
+CATEGORIA: Verduras - Setas
+ICONO: 🥗
+SUBSECCION: Setas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Setas gratinadas con bechamel ligera, pollo y parmesano, sin jamón.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Chalote picado — 1
+• Setas troceadas — 600 g
+• Pechuga de pollo cocida en dados — 60 g
+• Perejil picado — 1 cda
+• Yema de huevo cocida — 1
+• Parmesano rallado — 1 cda
+• Nuez moscada — 1 pizca
+• Salsa Bechamel (receta de este recetario) — 1 ración (unos 250 ml)
+• Pan integral rallado — 1 cda
+PREPARACION:
+1. Rehoga chalote y setas en el aceite 8 minutos; mezcla con pollo, perejil y yema desmenuzada.
+2. Coloca en una fuente engrasada, cubre con bechamel con la nuez moscada, parmesano y pan.
+3. Gratina 15 minutos a 200 °C.
+JUSTIFICACION: Gratinado cremoso y ligero.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Yema cocida.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~11 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; mantequilla → aceite; parmesano 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-tibia-de-champinones
+TITULO: Ensalada Tibia de Champiñones
+CATEGORIA: Verduras - Setas
+ICONO: 🥗
+SUBSECCION: Setas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Champiñones salteados con ajo asado y pollo sobre canónigos (o rúcula), con aliño de naranja, en lugar de speck y balsámico.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Champiñones o setas en láminas — 400 g
+• Ajo asado — 1 diente
+• Pechuga de pollo asada en tiras — 50 g
+• Canónigos o rúcula — 200 g
+• Zumo de naranja reducido — 2 cdas
+PREPARACION:
+1. Saltea champiñones y ajo en el aceite 6 minutos; añade el pollo.
+2. Mezcla la naranja con el jugo de la sartén.
+3. Sirve sobre las hojas.
+JUSTIFICACION: Sin embutido ni vinagre.
+ADVERTENCIAS: Es una evocación: pollo en lugar de speck; naranja en lugar de balsámico.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~7 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Speck → pollo; balsámico → naranja reducida; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-setas-con-alioli
+TITULO: Setas con Alioli Ligero
+CATEGORIA: Verduras - Setas
+ICONO: 🥗
+SUBSECCION: Setas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Setas con hierbas aromáticas y un alioli ligero de ajo asado y yogur.
+INGREDIENTES:
+• Setas — 700 g
+• Ralladura de limón — de 1 limón
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Estragón fresco picado — 1 cda
+• Tallos de cebollino picados — 4
+• Tomillo fresco picado — 1 cda
+• Perifollo o perejil picado — 1 cda
+• Semillas de hinojo — 1 cdta
+• Alioli ligero de ajo asado y yogur — 4 cdas
+PREPARACION:
+1. Saltea las setas con el aceite 8 minutos.
+2. Añade las hierbas, el hinojo y la ralladura.
+3. Sirve con el alioli ligero (3 dientes de ajo asado triturados con yogur).
+JUSTIFICACION: Aromáticas, sin huevo crudo.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~9 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~25 mg
+IG: Bajo
+ADAPTACIÓN:
+• Alioli clásico → yogur y ajo asado; limón → ralladura; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-boletos-con-estragon
+TITULO: Boletos con Estragón
+CATEGORIA: Verduras - Setas
+ICONO: 🥗
+SUBSECCION: Setas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Boletos (o champiñones grandes) a la plancha con estragón y ralladura de limón.
+INGREDIENTES:
+• Boletos o champiñones grandes — 8
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Estragón fresco picado — 1 cda
+• Ralladura de limón — de 1 limón
+PREPARACION:
+1. Unta los hongos con el aceite.
+2. Cocínalos a la plancha 4 minutos por lado.
+3. Sirve con estragón y ralladura.
+JUSTIFICACION: Sencillos y aromáticos.
+ADVERTENCIAS: Es una evocación: champiñones grandes si no hay boletos.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~4 g
+Grasas: ~4 g
+Fibra: ~2 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; zumo de limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-boletos-con-jamon-curado
+TITULO: Boletos con Pollo
+CATEGORIA: Verduras - Setas
+ICONO: 🥗
+SUBSECCION: Setas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Boletos (o champiñones) salteados con pollo, ajo asado, mejorana y naranja reducida, sin jamón curado ni vino.
+INGREDIENTES:
+• Boletos pequeños o champiñones — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pechuga de pollo cocida en dados — 100 g
+• Zumo de naranja reducido — 3 cdas
+• Ajo asado picado — 1 diente
+• Mejorana fresca picada — 1 cda
+PREPARACION:
+1. Saltea los hongos en el aceite 8 minutos.
+2. Añade pollo, ajo y naranja y cuece 5 minutos.
+3. Sirve con la mejorana.
+JUSTIFICACION: Sabroso, sin embutido ni alcohol.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón curado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~6 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón curado → pollo; vino → naranja reducida; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-boletos-fritos
+TITULO: Boletos Rebozados al Horno
+CATEGORIA: Verduras - Setas
+ICONO: 🥗
+SUBSECCION: Setas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Boletos (o champiñones) picados, rebozados en harina y huevo y horneados.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Harina de avena — 3 cdas
+• Boletos o champiñones picados — 500 g
+• Huevo ligeramente batido — 1
+PREPARACION:
+1. Mezcla los hongos con el huevo y la harina.
+2. Forma tortitas sobre una bandeja con el aceite.
+3. Hornea 20 minutos a 220 °C dándoles la vuelta a mitad de tiempo.
+JUSTIFICACION: Doradas sin fritura.
+ADVERTENCIAS: Es una evocación: champiñones si no hay boletos.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~9 g
+Grasas: ~4 g
+Fibra: ~2 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Fritura → horno; harina de avena.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-champinones-rellenos
+TITULO: Champiñones Rellenos
+CATEGORIA: Verduras - Setas
+ICONO: 🥗
+SUBSECCION: Setas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Champiñones grandes rellenos de pan integral remojado en leche, ajo asado, huevo, parmesano y perejil.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Champiñones grandes — 8
+• Rebanadas de pan integral sin corteza — 3
+• Leche descremada — 5 cdas
+• Ajo asado — 1 diente
+• Huevo ligeramente batido — 1
+• Parmesano rallado — 1 cda
+• Perejil picado — 1 cda
+PREPARACION:
+1. Retira los tallos, píclalos y mézclalos con el pan remojado en leche, ajo, huevo, parmesano y perejil.
+2. Rellena los sombreros y colócalos en una fuente engrasada.
+3. Rocía con el aceite y hornea 25 minutos a 190 °C.
+JUSTIFICACION: Ligeros y horneados.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~10 g
+Grasas: ~4 g
+Fibra: ~2 g
+Sodio: ~80 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 2 → 1 cda; parmesano 2 → 1 cda; pan integral; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-setas-trifolati
+TITULO: Setas Trifolati
+CATEGORIA: Verduras - Setas
+ICONO: 🥗
+SUBSECCION: Setas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Setas salteadas con ajo asado y perejil con solo una cucharada de aceite.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Boletos o setas — 800 g
+• Perejil fresco picado — 1 cda
+PREPARACION:
+1. Saltea las setas en sartén antiadherente con el aceite 8 minutos.
+2. Añade el ajo asado.
+3. Termina con el perejil.
+JUSTIFICACION: Sencillas, sin mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~6 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 cdas y mantequilla 50 g → aceite 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-setas-a-la-montanara
+TITULO: Setas a la Montanara
+CATEGORIA: Verduras - Setas
+ICONO: 🥗
+SUBSECCION: Setas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Boletos (o champiñones grandes) asados sobre polenta blanda de leche descremada con mozzarella baja en grasa.
+INGREDIENTES:
+• Boletos o champiñones grandes — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Leche descremada — 350 ml
+• Ajo asado — 1 diente
+• Mejorana fresca picada — 1 cda
+• Harina de maíz precocida — 80 g
+• Mozzarella baja en grasa en tiras finas — 30 g
+PREPARACION:
+1. Cuece la harina de maíz en la leche con ajo 10 minutos removiendo; añade la mejorana.
+2. Unta los hongos con aceite y ásalos 15 minutos a 200 °C.
+3. Sirve sobre la polenta con el queso.
+JUSTIFICACION: Reconfortante y ligera.
+ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de fontina.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~200 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~28 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Fontina → mozzarella baja en grasa; harina de maíz 100 → 80 g; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pastel-de-setas-y-patata
+TITULO: Pastel de Setas y Papa
+CATEGORIA: Verduras - Setas
+ICONO: 🥗
+SUBSECCION: Setas
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Pastel de papa en láminas finas con boletos (o champiñones) y parmesano, horneado.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Papas en rodajas muy finas — 400 g
+• Boletos o champiñones en láminas — 400 g
+• Parmesano rallado — 30 g
+• Perejil picado — 1 cda
+PREPARACION:
+1. Alterna en un molde engrasado capas de papa y hongos, con parmesano y perejil.
+2. Rocía con el aceite y cubre con aluminio.
+3. Hornea 40 minutos a 190 °C; destapa y dora 10 minutos.
+JUSTIFICACION: Rústico y ligero.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~17 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; parmesano 100 → 30 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-brotes-de-soja-coccion-basica
+TITULO: Brotes de Soja: Cocción Básica
+CATEGORIA: Verduras - Brotes de Soja
+ICONO: 🥗
+SUBSECCION: Brotes de Soja
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Soja
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Brotes de soja escaldados 2 minutos y escurridos, sin sal.
+INGREDIENTES:
+• Brotes de soja — en función de la receta
+PREPARACION:
+1. Lava los brotes.
+2. Escáldalos 2 minutos en agua hirviendo.
+3. Escurre bien.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~30 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~3 g
+Grasas: ~1 g
+Fibra: ~1 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-brotes-de-soja-con-gambas
+TITULO: Brotes de Soja con Gambas
+CATEGORIA: Verduras - Brotes de Soja
+ICONO: 🥗
+SUBSECCION: Brotes de Soja
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco, Soja
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Ensalada tibia de brotes de soja con gambas, pollo, apio y sésamo, con un chorrito de soja baja en sodio.
+INGREDIENTES:
+• Pechuga de pollo cocida desmenuzada — 100 g
+• Gambas cocidas y peladas — 300 g
+• Rama de apio en rodajas — 1
+• Brotes de soja escaldados — 300 g
+• Semillas de sésamo — 1 cda
+• Cebolleta picada (solo la parte verde) — 1
+• Salsa de soja baja en sodio — 1 cdta
+• Aceite de sésamo — 1 cdta (5 g)
+PREPARACION:
+1. Mezcla pollo, gambas, apio, brotes y cebolleta.
+2. Aliña con la soja y el aceite de sésamo.
+3. Sirve con el sésamo tostado.
+JUSTIFICACION: Fresca con solo una cucharadita de soja.
+ADVERTENCIAS: Soja baja en sodio, solo 1 cdta.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~26 g
+Carbohidratos: ~5 g
+Grasas: ~5 g
+Fibra: ~2 g
+Sodio: ~260 mg
+IG: Bajo
+ADAPTACIÓN:
+• Salsa de soja oscura 5 cdas → baja en sodio 1 cdta; sal fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-brotes-de-soja-al-parmesano
+TITULO: Brotes de Soja al Parmesano
+CATEGORIA: Verduras - Brotes de Soja
+ICONO: 🥗
+SUBSECCION: Brotes de Soja
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Soja, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Brotes de soja salteados con aceite y parmesano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Brotes de soja — 600 g
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Escalda los brotes 2 minutos.
+2. Saltéalos con el aceite 2 minutos.
+3. Sirve con el parmesano.
+JUSTIFICACION: Sencillos y ligeros.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~4 g
+Grasas: ~5 g
+Fibra: ~1 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla 65 g → aceite 10 g; parmesano 40 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-brotes-de-soja-con-anchoas
+TITULO: Brotes de Soja con Atún
+CATEGORIA: Verduras - Brotes de Soja
+ICONO: 🥗
+SUBSECCION: Brotes de Soja
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Soja, Pescado
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Brotes de soja con atún al natural, aceitunas enjuagadas y aliño de naranja, sin anchoas ni alcaparras.
+INGREDIENTES:
+• Brotes de soja escaldados — 400 g
+• Atún al natural desmenuzado — 40 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zumo de naranja — 3 cdas
+• Aceitunas verdes enjuagadas en cuartos — 5
+• Perejil picado — 1 cda
+PREPARACION:
+1. Mezcla aceite y naranja.
+2. Combina los brotes con atún y aceitunas.
+3. Aliña y sirve con perejil.
+JUSTIFICACION: Sabor marino sin anchoas ni sal.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas y alcaparras.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~5 g
+Grasas: ~5 g
+Fibra: ~2 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas y alcaparras → atún; limón → naranja; aceite 3 → 1 cda; aceitunas 10 → 5.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-escarola-coccion-basica
+TITULO: Escarola: Cocción Básica
+CATEGORIA: Verduras - Escarola
+ICONO: 🥗
+SUBSECCION: Escarola
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Escarola cocida al vapor sin sal.
+INGREDIENTES:
+• Escarola — medio cogollo por persona
+PREPARACION:
+1. Lava y corta.
+2. Cuece al vapor 5 minutos.
+3. Escurre.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~20 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~3 g
+Grasas: ~0 g
+Fibra: ~3 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vapor; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-escarola-rizada-rebozada
+TITULO: Escarola Rizada Rebozada al Horno
+CATEGORIA: Verduras - Escarola
+ICONO: 🥗
+SUBSECCION: Escarola
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Escarola rizada rebozada en masa ligera y horneada, en lugar de frita.
+INGREDIENTES:
+• Escarola rizada limpia y cocida — 500 g
+• Harina de avena — 60 g
+• Huevo — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Agua — 4 cdas
+PREPARACION:
+1. Bate harina, huevo y agua.
+2. Pasa la escarola por la masa.
+3. Colócala en una bandeja con el aceite y hornea 15 minutos a 220 °C.
+JUSTIFICACION: Crujiente sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~11 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Fritura → horno; harina de avena.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-escarola-con-aceitunas-y-alcaparras
+TITULO: Escarola con Aceitunas y Pan Rallado
+CATEGORIA: Verduras - Escarola
+ICONO: 🥗
+SUBSECCION: Escarola
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Escarola salteada con ajo asado, aceitunas enjuagadas y pan integral rallado dorado, sin alcaparras.
+INGREDIENTES:
+• Ajo asado — 1½ dientes
+• Cogollos de escarola limpios — 2
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pan integral rallado — 40 g
+• Aceitunas verdes enjuagadas en láminas — 30 g
+• Perejil picado — 1 cda
+PREPARACION:
+1. Cuece la escarola al vapor 5 minutos.
+2. Dora el pan rallado con el aceite y el ajo 3 minutos.
+3. Mezcla con la escarola, las aceitunas y el perejil.
+JUSTIFICACION: Crujiente y sabrosa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~14 g
+Grasas: ~4 g
+Fibra: ~5 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Alcaparras fuera; aceitunas 80 → 30 g enjuagadas; aceite 3 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pure-de-escarola-rizada
+TITULO: Puré de Escarola Rizada
+CATEGORIA: Verduras - Escarola
+ICONO: 🥗
+SUBSECCION: Escarola
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Puré cremoso de escarola con leche descremada y harina de avena.
+INGREDIENTES:
+• Escarola rizada limpia — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Stevia en polvo — una pizca (opcional)
+• Harina de avena — 20 g
+• Leche descremada — 400 ml
+PREPARACION:
+1. Cuece la escarola al vapor 8 minutos y tritúrala.
+2. Calienta aceite y harina, añade la leche y cuece 5 minutos.
+3. Mezcla con la escarola y la stevia.
+JUSTIFICACION: Cremoso sin mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~10 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; azúcar → stevia; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-endibia-coccion-basica
+TITULO: Endibia: Cocción Básica
+CATEGORIA: Verduras - Endibia
+ICONO: 🥗
+SUBSECCION: Endibia
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Endibias cocidas al vapor sin sal.
+INGREDIENTES:
+• Endibias — 1 cogollo mediano por persona
+PREPARACION:
+1. Retira las hojas exteriores y la base amarga.
+2. Cuece al vapor 8 minutos.
+3. Escurre.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~20 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~4 g
+Grasas: ~0 g
+Fibra: ~3 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vapor; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-endibias-con-jamon-de-praga
+TITULO: Endibias con Pollo y Bechamel
+CATEGORIA: Verduras - Endibia
+ICONO: 🥗
+SUBSECCION: Endibia
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Endibias envueltas en pollo asado y gratinadas con bechamel ligera y nuez moscada, en lugar de jamón ahumado.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Cogollos de endibia cocidos — 4
+• Lonchas grandes de pechuga de pollo asada — 4
+• Salsa Bechamel (receta de este recetario) — 250 ml
+• Nuez moscada — 1 pizca
+• Caldo de carne casero sin sal (receta de este recetario) — 100 ml
+• Parmesano rallado — 2 cdas
+PREPARACION:
+1. Envuelve cada endibia con una loncha de pollo y colócalas en una fuente engrasada con el caldo.
+2. Cubre con la bechamel con nuez moscada y el parmesano.
+3. Gratina 20 minutos a 200 °C.
+JUSTIFICACION: Gratinadas sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón ahumado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~18 g
+Carbohidratos: ~9 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón ahumado → pollo; parmesano 4 → 2 cdas; mantequilla → aceite; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-endibias-al-horno
+TITULO: Endibias al Horno
+CATEGORIA: Verduras - Endibia
+ICONO: 🥗
+SUBSECCION: Endibia
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Endibias horneadas en leche descremada y caldo casero.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Endibias limpias — 800 g
+• Leche descremada — 200 ml
+• Caldo de verduras casero sin sal (receta de este recetario) — 200 ml
+PREPARACION:
+1. Coloca las endibias en una fuente engrasada.
+2. Cubre con leche y caldo.
+3. Hornea 40 minutos a 180 °C.
+JUSTIFICACION: Sencillas y ligeras.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~50 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~7 g
+Grasas: ~1 g
+Fibra: ~3 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; leche descremada; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-endibias-con-nuez-moscada
+TITULO: Endibias con Nuez Moscada
+CATEGORIA: Verduras - Endibia
+ICONO: 🥗
+SUBSECCION: Endibia
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Endibias horneadas cubiertas con pan integral rallado y nuez moscada.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Endibias limpias — 800 g
+• Pan integral rallado — 60 g
+• Nuez moscada — al gusto
+PREPARACION:
+1. Coloca las endibias en una fuente engrasada.
+2. Cubre con pan rallado, nuez moscada y el aceite.
+3. Hornea 35 minutos a 180 °C.
+JUSTIFICACION: Dorada y aromática.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~12 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~60 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; pan integral; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-salmon-con-perlitas
+TITULO: Ensalada de Salmón con «Perlitas»
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Lácteos
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Ensalada de hojas amargas, lechuga y rabanitos con salmón fresco horneado y perlitas de ricota, con aliño de naranja, en lugar de ahumado.
+INGREDIENTES:
+• Berros o diente de león limpios — 1 manojo
+• Cogollos de lechuga limpios — 2
+• Escarola limpia — 1
+• Rabanitos en rodajas finas — 1 manojo
+• Cebolleta en rodajas finas — 1
+• Salmón fresco horneado en tiras — 150 g
+• Zumo de naranja — 3 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ricota baja en grasa en bolitas — 50 g
+• Perejil y eneldo picados — 1 cda
+PREPARACION:
+1. Hornea el salmón 12 minutos a 180 °C.
+2. Mezcla las hojas con rabanitos y cebolleta y aliña con naranja y aceite.
+3. Sirve con el salmón, las perlitas de ricota y las hierbas.
+JUSTIFICACION: Fresca y proteica.
+ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~8 g
+Grasas: ~10 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Ahumado → fresco; limón → naranja; aceite 100 ml → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-con-granada
+TITULO: Ensalada con Granada
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Ensalada de hojas tiernas, zanahoria y granada con aliño de naranja, sin balsámico.
+INGREDIENTES:
+• Granada — 1
+• Zanahorias en bastoncitos — 2
+• Puñado de canónigos — 1
+• Puñado de rúcula — 1
+• Manojo de espinacas tiernas — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zumo de naranja — 4 cdas
+PREPARACION:
+1. Desgrana la granada.
+2. Mezcla las hojas con la zanahoria.
+3. Aliña con aceite y naranja y corona con los granos.
+JUSTIFICACION: Fresca, sin vinagre.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~14 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~45 mg
+IG: Bajo
+ADAPTACIÓN:
+• Balsámico → naranja; aceite 100 ml → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-aguacate
+TITULO: Ensalada de Aguacate
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Aguacate, mandarina, lechuga y tomate con aliño de naranja, sin mostaza ni vinagre.
+INGREDIENTES:
+• Aguacate — 1
+• Mandarinas — 2
+• Lechuga romana — 1
+• Tomates en rodajas — 2
+• Cebolla en rodajas — ½
+• Perejil picado — 1 cda
+• Zumo de naranja — 3 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Pela mandarinas y aguacate.
+2. Dispón lechuga, tomate, cebolla y fruta.
+3. Aliña con naranja y aceite y espolvorea con perejil.
+JUSTIFICACION: Cremosa y cítrica.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~180 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~18 g
+Grasas: ~12 g
+Fibra: ~6 g
+Sodio: ~25 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aguacates 2 → 1; mostaza y limón → naranja; aceite 6 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-bresaola-y-canonigos
+TITULO: Ensalada de Res Magra y Canónigos
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Canónigos con hinojo y apio y lonchas finas de res magra asada, con aliño de naranja, en lugar de bresaola y balsámico.
+INGREDIENTES:
+• Canónigos — 150 g
+• Bulbos de hinojo en tiras finas — 2
+• Res magra asada en lonchas finas — 120 g
+• Rama de apio en bastoncitos — 1
+• Zumo de naranja — 3 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Mezcla canónigos, hinojo y apio.
+2. Bate naranja y aceite y aliña.
+3. Corona con la res.
+JUSTIFICACION: Sin curados ni yema cruda.
+ADVERTENCIAS: Es una evocación: res magra asada en lugar de bresaola; sin yema cruda.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~8 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Bresaola → res asada; balsámico → naranja; yema cruda fuera; aceite 100 ml → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-repollo-blanco
+TITULO: Ensalada de Repollo Blanco
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Ensalada de repollo, zanahoria y apio con mayonesa ligera de yogur, sin Worcestershire.
+INGREDIENTES:
+• Repollo blanco en tiras finas — ¼
+• Zanahorias en bastoncitos — 2
+• Rama de apio en bastoncitos — 1
+• Cebolleta en rodajas finas — 1
+• Perejil picado — 1 cda
+• Mayonesa Ligera de Yogur (receta de este recetario) — 80 ml
+PREPARACION:
+1. Mezcla las verduras.
+2. Añade la mayonesa.
+3. Reposa 15 minutos y sirve.
+JUSTIFICACION: Cremosa y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~60 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~9 g
+Grasas: ~2 g
+Fibra: ~3 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mayonesa clásica → versión de yogur; Worcestershire fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-pepino
+TITULO: Ensalada de Pepino y Pera
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Pepino y pera con queso fresco bajo en grasa, tomillo y aliño de naranja, en lugar de feta y balsámico.
+INGREDIENTES:
+• Pepinos pequeños en rodajas — 3
+• Peras — 2
+• Queso fresco bajo en grasa en dados — 100 g
+• Tomillo fresco picado — 1 cda
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zumo de naranja — 3 cdas
+PREPARACION:
+1. Mezcla pepino, pera y queso.
+2. Bate aceite y naranja.
+3. Aliña y espolvorea con tomillo.
+JUSTIFICACION: Fresca y dulce.
+ADVERTENCIAS: Es una evocación: queso fresco en lugar de feta.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~14 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Feta 200 → queso fresco 100 g; balsámico y limón → naranja; aceite 4 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-maiz-dulce-y-achicoria
+TITULO: Ensalada de Maíz Dulce y Achicoria
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Espinacas, achicoria y maíz tierno cocido con pollo, aliñados con naranja, en lugar de jamón ahumado y maíz en conserva.
+INGREDIENTES:
+• Espinacas tiernas picadas — 100 g
+• Achicorias picadas — 3
+• Pechuga de pollo asada en dados — 80 g
+• Maíz tierno cocido y desgranado — 150 g
+• Zumo de naranja — 3 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Mezcla hojas, maíz y pollo.
+2. Bate naranja y aceite.
+3. Aliña y sirve.
+JUSTIFICACION: Sin conserva ni embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón ahumado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~11 g
+Carbohidratos: ~16 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~60 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón → pollo; maíz en conserva → fresco; limón → naranja; aceite 100 ml → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-setas-a-la-mejorana
+TITULO: Ensalada de Setas a la Mejorana
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Setas cocidas al vapor con mejorana y aliño de naranja.
+INGREDIENTES:
+• Setas limpias — 400 g
+• Zumo de naranja — 3 cdas
+• Mejorana fresca picada — 1 cda
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Cuece las setas al vapor 6 minutos.
+2. Bate naranja, mejorana y aceite.
+3. Aliña las setas templadas.
+JUSTIFICACION: Sencilla y sin limón.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~60 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~6 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Limón → naranja; setas cocidas (no crudas).
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-espinacas-y-vieiras
+TITULO: Ensalada de Espinacas y Vieiras
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Espinacas y tomates cherry con vieiras salteadas, con naranja reducida en lugar de vino y vinagre.
+INGREDIENTES:
+• Vieiras — 8
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zumo de naranja reducido — 3 cdas
+• Espinacas tiernas — 300 g
+• Tomates cherry asados por la mitad — 8
+• Chalote picado — 1
+• Perejil picado — 1 cda
+PREPARACION:
+1. Saltea las vieiras con la mitad del aceite 1 minuto por lado; retira.
+2. En la misma sartén cuece chalote y naranja 3 minutos con el resto del aceite.
+3. Sirve sobre las espinacas con los tomates y el perejil.
+JUSTIFICACION: Elegante y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~11 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vino y vinagre → naranja reducida; aceite 6 → 1 cda; tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-espinacas-y-champinones
+TITULO: Ensalada de Espinacas y Champiñones
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Frutos secos
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Espinacas con champiñones cocidos y piñones tostados, con aliño de naranja.
+INGREDIENTES:
+• Champiñones en láminas finas — 150 g
+• Espinacas — 300 g
+• Piñones — 10 g
+• Zumo de naranja — 3 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Saltea los champiñones en una sartén seca 4 minutos.
+2. Mezcla con las espinacas.
+3. Aliña con naranja y aceite y espolvorea con los piñones.
+JUSTIFICACION: Sencilla, sin cruda.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~7 g
+Grasas: ~7 g
+Fibra: ~3 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Champiñones cocidos; piñones 25 → 10 g; limón → naranja; aceite 4 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-pavo-y-alubias
+TITULO: Ensalada de Pavo y Alubias
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Pavo a la plancha con alubias cocidas en casa, cebolleta y perejil, con aliño de naranja, sin alcaparras, mostaza ni vinagre.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Pechuga de pavo en tiras — 250 g
+• Perejil picado — 1 cda
+• Cebolleta en rodajas finas — 1
+• Alubias borlotti cocidas en casa — 300 g
+• Zumo de naranja — 3 cdas
+PREPARACION:
+1. Dora el pavo con la mitad del aceite 6 minutos.
+2. Mezcla alubias, cebolleta y perejil.
+3. Combina con el pavo y aliña con naranja y el resto del aceite.
+JUSTIFICACION: Plato único, proteico.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~270 kcal (por porción)
+Proteínas: ~30 g
+Carbohidratos: ~21 g
+Grasas: ~7 g
+Fibra: ~7 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Alcaparras, mostaza y vinagre → naranja; aceite 7 → 1½ cdas; conserva → cocidas en casa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-achicoria-y-champinones
+TITULO: Ensalada de Achicoria y Champiñones
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Achicoria, canónigos y hojas amargas con champiñones cocidos y aliño de naranja.
+INGREDIENTES:
+• Achicorias limpias — 3
+• Champiñones cocidos en láminas — 250 g
+• Canónigos — 200 g
+• Berros o diente de león — 1 manojo
+• Zumo de naranja — 3 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Cuece los champiñones en una sartén seca 5 minutos y deja templar.
+2. Mezcla con las hojas.
+3. Aliña con naranja y aceite.
+JUSTIFICACION: Amarga, fresca y sin cruda.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~9 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~35 mg
+IG: Bajo
+ADAPTACIÓN:
+• Champiñones cocidos; limón → naranja; aceite 4 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-achicoria-y-gambas
+TITULO: Ensalada de Achicoria y Gambas
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Achicoria con aguacate, gambas y palmito fresco, con hierbas y aliño de naranja.
+INGREDIENTES:
+• Achicorias limpias — 3
+• Aguacate — 1
+• Zumo de naranja — 3 cdas
+• Gambas cocidas y peladas — 300 g
+• Palmito fresco cocido — 150 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Tomillo, perejil y mejorana picados — 1 cda
+PREPARACION:
+1. Mezcla achicoria, aguacate, gambas y palmito.
+2. Bate naranja y aceite.
+3. Aliña y espolvorea con las hierbas.
+JUSTIFICACION: Fresca y proteica.
+ADVERTENCIAS: Es una evocación: palmito fresco en lugar de conserva.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~10 g
+Grasas: ~9 g
+Fibra: ~5 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aguacates 2 → 1; limón → naranja; palmito en conserva → fresco.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-amarilla-al-maiz
+TITULO: Ensalada Amarilla al Maíz
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Soja, Lácteos
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Maíz tierno cocido, manzana, zanahoria, brotes de soja y rábanos con queso fresco y aliño de naranja.
+INGREDIENTES:
+• Manzana golden — ½
+• Queso fresco bajo en grasa en dados — 40 g
+• Zanahorias en bastoncitos — 2
+• Maíz tierno cocido y desgranado — 200 g
+• Brotes de soja escaldados — 150 g
+• Rábanos en rodajas finas — 5
+• Zumo de naranja — 3 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Mezcla todos los ingredientes sólidos.
+2. Bate naranja y aceite.
+3. Aliña y sirve.
+JUSTIFICACION: Colorida y fresca.
+ADVERTENCIAS: Es una evocación: queso fresco en lugar de pecorino.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~22 g
+Grasas: ~5 g
+Fibra: ~4 g
+Sodio: ~70 mg
+IG: Medio
+ADAPTACIÓN:
+• Pecorino → queso fresco; maíz en conserva → fresco; limón → naranja.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-hawaiana
+TITULO: Ensalada Hawaiana
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Marisco
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Gambas con maíz tierno, pimientos y piña, con aliño de naranja, sin Tabasco.
+INGREDIENTES:
+• Gambas cocidas y peladas — 200 g
+• Maíz tierno cocido y desgranado — 150 g
+• Pimiento rojo en dados — ½
+• Pimiento verde en dados — ¼
+• Piñas pequeñas — 2
+• Zumo de naranja — 3 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Vacía las piñas y corta la pulpa en dados.
+2. Mezcla con gambas, maíz y pimientos.
+3. Aliña con naranja y aceite y sirve en las piñas.
+JUSTIFICACION: Fresca y sin picante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~15 g
+Carbohidratos: ~25 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Tabasco fuera; maíz en conserva → fresco; aceite 4 → 1 cda; limón → naranja.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-variada-de-atun
+TITULO: Ensalada Variada de Atún
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Alubias cocidas en casa, rúcula, achicoria, pimiento, hinojo y tomate con atún al natural, con aliño de aceite y naranja.
+INGREDIENTES:
+• Alubias blancas cocidas en casa — 200 g
+• Rúcula — 1 manojo
+• Achicoria — 1
+• Pimiento rojo asado en tiras — 1
+• Rama de apio en bastoncitos — 1
+• Bulbo de hinojo en rodajas finas — 1
+• Tomates en cuartos — 2
+• Atún al natural desmenuzado — 200 g
+• Aceitunas negras enjuagadas — 20 g
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Zumo de naranja — 3 cdas
+• Orégano seco — 1 pizca
+PREPARACION:
+1. Mezcla verduras, alubias, atún y aceitunas.
+2. Bate aceite, naranja y orégano.
+3. Aliña y sirve.
+JUSTIFICACION: Plato único, rico en fibra y proteína.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~270 kcal (por porción)
+Proteínas: ~26 g
+Carbohidratos: ~23 g
+Grasas: ~8 g
+Fibra: ~8 g
+Sodio: ~220 mg
+IG: Bajo
+ADAPTACIÓN:
+• Atún en aceite → al natural; conserva → cocidas en casa; aceite 4 → 1½ cdas; aceitunas 50 → 20 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-sabrosa
+TITULO: Ensalada Sabrosa
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Frutos secos
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Aguacate, escarola, achicoria y palmito fresco con piñones, en aliño de naranja, sin Worcestershire.
+INGREDIENTES:
+• Aguacate — ½
+• Escarola picada — 1
+• Achicoria en tiras — 1
+• Piñones — 15 g
+• Palmito fresco cocido en rodajas — 250 g
+• Zumo de naranja — 3 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Mezcla las hojas con el palmito.
+2. Añade el aguacate y los piñones.
+3. Aliña con naranja y aceite.
+JUSTIFICACION: Fresca y cremosa.
+ADVERTENCIAS: Es una evocación: palmito fresco en lugar de conserva.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~11 g
+Grasas: ~12 g
+Fibra: ~5 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Worcestershire fuera; piñones 40 → 15 g; aguacate 1 → ½; aceite 4 → 1 cda; limón → naranja.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-siciliana
+TITULO: Ensalada Siciliana
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Soja
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Cebolleta, rábanos, naranjas (en lugar de cidras), rúcula, achicoria y canónigos con brotes de soja.
+INGREDIENTES:
+• Cebolleta remojada en agua fría — 1
+• Rábanos limpios y remojados — 4
+• Naranjas peladas en gajos — 2
+• Manojos de rúcula — 2
+• Achicorias — 2
+• Puñados de canónigos — 2
+• Brotes de soja escaldados — 50 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Perejil picado — 1 cda
+PREPARACION:
+1. Mezcla todo.
+2. Aliña con el jugo de los gajos y el aceite.
+3. Espolvorea con perejil.
+JUSTIFICACION: Cítrica y fresca.
+ADVERTENCIAS: Es una evocación: naranja en lugar de cidra.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~14 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Cidras → naranja; limón → jugo de naranja; aceite 4 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-alcaparras
+TITULO: Ensalada de Hojas Amargas y Aceitunas
+CATEGORIA: Verduras - Ensaladas
+ICONO: 🥗
+SUBSECCION: Ensaladas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Hojas amargas, lechuga, zanahoria e hinojo con albahaca y aceitunas enjuagadas, sin alcaparras ni vinagre.
+INGREDIENTES:
+• Berros o diente de león — 1 manojo
+• Lechuga rizada — 1
+• Zanahoria en bastoncitos — 1
+• Bulbo de hinojo en rodajas finas — 1
+• Aceitunas negras enjuagadas — 5
+• Hojas de albahaca picadas — 6
+• Zumo de naranja — 3 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Mezcla las hojas con la zanahoria y el hinojo.
+2. Bate naranja y aceite.
+3. Aliña y añade aceitunas y albahaca.
+JUSTIFICACION: Fresca y sin vinagre.
+ADVERTENCIAS: Es una evocación: aceitunas en lugar de alcaparras.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~80 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~9 g
+Grasas: ~4 g
+Fibra: ~4 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Alcaparras → aceitunas enjuagadas; vinagre → naranja; aceite 4 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-lechuga-coccion-basica
+TITULO: Lechuga: Cocción Básica
+CATEGORIA: Verduras - Lechuga
+ICONO: 🥗
+SUBSECCION: Lechuga
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Lechuga lavada y escurrida (cruda para ensalada o escaldada para brasear).
+INGREDIENTES:
+• Lechuga — 1 cogollo mediano para 2 o 3 raciones
+PREPARACION:
+1. Retira las hojas exteriores y lava.
+2. Seca con cuidado.
+3. Para brasear, escalda 1 minuto.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.
+VALOR_NUTRICIONAL:
+Calorías: ~15 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~2 g
+Grasas: ~0 g
+Fibra: ~1 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin cambios relevantes.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-cogollos-a-las-finas-hierbas
+TITULO: Cogollos a las Finas Hierbas
+CATEGORIA: Verduras - Lechuga
+ICONO: 🥗
+SUBSECCION: Lechuga
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Cogollos de lechuga con aliño de naranja y finas hierbas, sin mostaza ni balsámico.
+INGREDIENTES:
+• Cogollos de lechuga — 4
+• Zumo de naranja — 3 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Estragón fresco picado — 1 cda
+• Tallos de cebollino picados — 4
+• Perifollo picado — 1 cda
+PREPARACION:
+1. Corta los cogollos por la mitad.
+2. Bate naranja y aceite con las hierbas.
+3. Aliña.
+JUSTIFICACION: Fresca y aromática.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~50 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~5 g
+Grasas: ~3 g
+Fibra: ~1 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mostaza y balsámico → naranja; aceite 5-6 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-lechuga-braseada-con-panceta
+TITULO: Lechuga Braseada con Pollo
+CATEGORIA: Verduras - Lechuga
+ICONO: 🥗
+SUBSECCION: Lechuga
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Cogollos de lechuga braseados en caldo con chalote, zanahoria y pollo, en lugar de panceta.
+INGREDIENTES:
+• Cogollos de lechuga limpios — 4
+• Pechuga de pollo en tiras — 100 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Chalote en rodajas — 1
+• Zanahoria picada — 1
+• Caldo de carne casero sin sal (receta de este recetario) — 150 ml
+PREPARACION:
+1. Dora el pollo en el aceite con chalote y zanahoria 8 minutos.
+2. Coloca los cogollos escaldados encima y añade el caldo.
+3. Cuece tapado 20 minutos.
+JUSTIFICACION: Sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta coppata.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~6 g
+Grasas: ~4 g
+Fibra: ~2 g
+Sodio: ~60 mg
+IG: Bajo
+ADAPTACIÓN:
+• Panceta → pollo; mantequilla → aceite; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-lechuga-rellena
+TITULO: Lechuga Rellena
+CATEGORIA: Verduras - Lechuga
+ICONO: 🥗
+SUBSECCION: Lechuga
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Cogollos de lechuga rellenos de res magra y pollo sazonado con pan remojado, braseados al horno, sin tocino ni salchicha.
+INGREDIENTES:
+• Rebanada de pan integral sin corteza — 1
+• Leche descremada — 100 ml
+• Carne magra de res picada — 100 g
+• Pechuga de pollo picada con hinojo — 100 g
+• Parmesano rallado — 1 cda
+• Huevo ligeramente batido — 1
+• Cogollos de lechuga redonda — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Mezcla el pan remojado en leche con las carnes, el parmesano y el huevo; escalda los cogollos y rellénalos.
+2. Átalos y colócalos en una fuente con el aceite y 100 ml de agua.
+3. Hornea 40 minutos a 180 °C.
+JUSTIFICACION: Relleno magro y horneado.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchicha y tocino.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~22 g
+Carbohidratos: ~8 g
+Grasas: ~8 g
+Fibra: ~2 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Salchicha y tocino → pollo; mantequilla y aceite 3 → aceite 1 cda; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-lentejas-coccion-basica
+TITULO: Lentejas: Cocción Básica
+CATEGORIA: Verduras - Lentejas
+ICONO: 🥗
+SUBSECCION: Lentejas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Base, Perfil1
+CONCEPTO: Lentejas cocidas sin sal con verduras aromáticas.
+INGREDIENTES:
+• Lentejas secas — 65 g por persona
+PREPARACION:
+1. Remoja las lentejas 3 horas y escúrrelas.
+2. Cuece en agua nueva con zanahoria y apio 30-35 minutos.
+3. Escurre.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~28 g
+Grasas: ~1 g
+Fibra: ~8 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-lentejas-con-salchichas
+TITULO: Lentejas con Pollo
+CATEGORIA: Verduras - Lentejas
+ICONO: 🥗
+SUBSECCION: Lentejas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Perfil1
+CONCEPTO: Lentejas con verduras, salvia y bolitas de pollo sazonado, en lugar de salchichas.
+INGREDIENTES:
+• Lentejas remojadas 3 horas — 250 g
+• Rama de apio — 1
+• Zanahoria — 1
+• Cebolla pequeña — 1
+• Pechuga de pollo picada con hinojo en bolitas — 200 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Hojas de salvia — 6
+• Ajo asado — 1 diente
+PREPARACION:
+1. Cuece las lentejas con apio, zanahoria y cebolla 30 minutos.
+2. Dora las bolitas con aceite, salvia y ajo 8 minutos.
+3. Mezcla y cuece 5 minutos.
+JUSTIFICACION: Sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchichas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~290 kcal (por porción)
+Proteínas: ~29 g
+Carbohidratos: ~30 g
+Grasas: ~6 g
+Fibra: ~8 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Salchichas → pollo; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-lentejas-con-salsa-de-tomate
+TITULO: Lentejas con Salsa de Tomate
+CATEGORIA: Verduras - Lentejas
+ICONO: 🥗
+SUBSECCION: Lentejas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Perfil1
+CONCEPTO: Lentejas con sofrito de salvia, zanahoria, apio y cebolla y tomate asado, sin panceta ni mantequilla.
+INGREDIENTES:
+• Lentejas remojadas 3 horas — 250 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Hoja de salvia picada — 1
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Cebolla picada — 1
+• Tomate asado triturado — 400 ml
+PREPARACION:
+1. Rehoga zanahoria, apio, cebolla y salvia en el aceite 8 minutos; añade el tomate y cuece 10 minutos.
+2. Cuece las lentejas 30 minutos.
+3. Mezcla.
+JUSTIFICACION: Vegetal y sin sal.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~32 g
+Grasas: ~3 g
+Fibra: ~9 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Panceta y mantequilla fuera; aceite 2 → 1 cda; passata → tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-lentejas-con-beicon
+TITULO: Lentejas con Pollo y Verduras
+CATEGORIA: Verduras - Lentejas
+ICONO: 🥗
+SUBSECCION: Lentejas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Legumbres, Perfil1
+CONCEPTO: Lentejas cocidas con zanahoria, apio, ajo y cebolla y un trozo de pollo, en lugar de beicon.
+INGREDIENTES:
+• Lentejas remojadas 3 horas — 300 g
+• Zanahoria — 1
+• Rama de apio — 1
+• Muslo de pollo sin piel — 1 (unos 150 g)
+• Ajo asado — 1 diente
+• Cebolla — 1
+PREPARACION:
+1. Cuece las lentejas con las verduras y el pollo 40 minutos.
+2. Retira el pollo, desmenúzalo.
+3. Mezcla con las lentejas.
+JUSTIFICACION: Sabor profundo sin ahumado.
+ADVERTENCIAS: Es una evocación: pollo en lugar de beicon.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~20 g
+Carbohidratos: ~32 g
+Grasas: ~3 g
+Fibra: ~9 g
+Sodio: ~60 mg
+IG: Bajo
+ADAPTACIÓN:
+• Beicon → pollo.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pure-de-lentejas
+TITULO: Puré de Lentejas
+CATEGORIA: Verduras - Lentejas
+ICONO: 🥗
+SUBSECCION: Lentejas
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Legumbres, Perfil1
+CONCEPTO: Puré de lentejas con apio y zanahoria, con yogur en lugar de nata.
+INGREDIENTES:
+• Lentejas remojadas 3 horas — 300 g
+• Rama de apio — 1
+• Zanahoria — 1
+• Yogur natural espeso — 100 g
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+PREPARACION:
+1. Cuece las lentejas con apio y zanahoria 35 minutos.
+2. Tritura con un poco del caldo.
+3. Incorpora yogur y aceite fuera del fuego.
+JUSTIFICACION: Cremoso sin nata ni mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~30 g
+Grasas: ~3 g
+Fibra: ~9 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-berenjena-coccion-basica
+TITULO: Berenjena: Cocción Básica
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Berenjena asada al horno hasta quedar blanda, sin sal.
+INGREDIENTES:
+• Berenjenas — 200 g por persona
+PREPARACION:
+1. Corta las berenjenas por la mitad.
+2. Hornea 30-40 minutos a 200 °C.
+3. Retira la pulpa.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~50 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~11 g
+Grasas: ~0 g
+Fibra: ~5 g
+Sodio: ~5 mg
+IG: Bajo
+ADAPTACIÓN:
+• Horno; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-caviar-de-berenjena
+TITULO: Caviar de Berenjena
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Puré de berenjena asada con ajo asado, aceite y ralladura, para untar en tostadas integrales.
+INGREDIENTES:
+• Berenjenas asadas — 3
+• Ralladura de limón — de 1 limón
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Ajo asado — 1 diente
+• Rodajas de tomate — para adornar
+• Tostadas integrales — para servir
+PREPARACION:
+1. Retira la pulpa de las berenjenas asadas.
+2. Tritura con aceite, ajo y ralladura.
+3. Sirve sobre tostadas con tomate.
+JUSTIFICACION: Untable ligero, sin mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~13 g
+Grasas: ~5 g
+Fibra: ~5 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 6 → 1½ cdas; limón → ralladura; tostadas sin mantequilla.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-fricase-de-berenjena
+TITULO: Fricasé de Berenjena
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Berenjenas asadas guisadas con tomate asado, ajo asado y perejil, con huevo duro y ralladura.
+INGREDIENTES:
+• Berenjenas en rodajas gruesas — 5
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla picada — 1
+• Tomates asados picados — 500 g
+• Perejil picado — 1 cda
+• Ajo asado picado — 1
+• Huevos duros picados — 2
+• Ralladura de limón — de 1 limón
+PREPARACION:
+1. Ásala las berenjenas 20 minutos a 200 °C.
+2. Rehoga cebolla en el aceite, añade tomate y ajo y cuece 10 minutos; incorpora las berenjenas.
+3. Sirve con huevo, perejil y ralladura.
+JUSTIFICACION: Ligero y sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~15 g
+Grasas: ~4 g
+Fibra: ~6 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla y aceite 3 → aceite 1 cda; huevo crudo → duro; zumo de limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-berenjenas-con-nata
+TITULO: Berenjenas con Yogur
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Frutos secos, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Berenjenas asadas con chalote, perejil y piñones, con salsa de yogur y naranja, sin pepinillos ni vinagre.
+INGREDIENTES:
+• Berenjenas en rodajas de 5 mm asadas — 3
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Chalote picado — 1
+• Perejil picado — 1 cda
+• Piñones picados — 10 g
+• Zumo de naranja — 3 cdas
+• Yogur natural espeso — 100 g
+PREPARACION:
+1. Rehoga chalote y piñones con el aceite 3 minutos; añade naranja y reduce.
+2. Fuera del fuego mezcla con yogur y perejil.
+3. Sirve sobre las berenjenas.
+JUSTIFICACION: Cremosas sin nata.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~13 g
+Grasas: ~4 g
+Fibra: ~5 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite; vinagre y pepinillos fuera; piñones 25 → 10 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-berenjenas-con-anchoas
+TITULO: Berenjenas con Atún
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Berenjenas asadas con ajo asado, atún al natural y perejil, aliñadas con naranja, sin anchoas ni vinagre.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Berenjenas en rodajas de 5 mm asadas — 3
+• Ajo asado — 1 diente
+• Atún al natural desmenuzado — 40 g
+• Perejil picado — 1 cda
+• Zumo de naranja — 2 cdas
+PREPARACION:
+1. Mezcla aceite, naranja y ajo.
+2. Coloca las berenjenas en una fuente.
+3. Cubre con el aliño, el atún y el perejil.
+JUSTIFICACION: Sin anchoas ni vinagre.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~10 g
+Grasas: ~4 g
+Fibra: ~5 g
+Sodio: ~70 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas → atún; vinagre → naranja; aceite 120 ml → 1 cda; berenjenas asadas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-berenjenas-asadas
+TITULO: Berenjenas Asadas
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Berenjenas asadas con ajo y albahaca fresca.
+INGREDIENTES:
+• Berenjenas en rodajas gruesas — 3
+• Ajo en láminas finas — 3 dientes
+• Hojas de albahaca — 18
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Pon las rodajas en una bandeja con el ajo.
+2. Ásalas 25 minutos a 200 °C.
+3. Sirve con albahaca y el aceite.
+JUSTIFICACION: Sencilla y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~10 g
+Grasas: ~3 g
+Fibra: ~5 g
+Sodio: ~5 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-berenjenas-de-la-abuela
+TITULO: Berenjenas de la Abuela
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Berenjenas asadas con tomate asado, cebolla cocida y aceitunas enjuagadas, con un toque dulce de stevia, sin vinagre ni alcaparras.
+INGREDIENTES:
+• Berenjenas por la mitad a lo largo — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebollas en rodajas finas — 2
+• Ajo asado — 2 dientes
+• Tomates asados en dados — 5
+• Perejil picado — 1 cda
+• Aceitunas negras enjuagadas en rodajas — 1 cda
+• Stevia en polvo — al gusto
+• Zumo de naranja — 2 cdas
+PREPARACION:
+1. Ásala las berenjenas 30 minutos a 200 °C.
+2. Cuece cebolla y ajo con el aceite 8 minutos; añade tomate, naranja y stevia y cuece 10 minutos.
+3. Cubre las berenjenas y sirve con perejil y aceitunas.
+JUSTIFICACION: Agridulce sin vinagre ni azúcar.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~16 g
+Grasas: ~3 g
+Fibra: ~7 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Alcaparras y vinagre fuera; azúcar → stevia; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-berenjenas-rellenas-de-mozzarella
+TITULO: Berenjenas Rellenas de Mozzarella
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Berenjenas asadas rellenas de mozzarella baja en grasa y salsa de tomate asado, sin anchoas.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Berenjenas pequeñas por la mitad a lo largo — 4
+• Mozzarella baja en grasa en dados — 120 g
+• Tomate asado triturado — 120 ml
+• Albahaca — para adornar
+PREPARACION:
+1. Ásala las berenjenas 20 minutos a 200 °C con el aceite; vacía parte de la pulpa.
+2. Rellénalas con mozzarella y salsa.
+3. Hornea 12 minutos más.
+JUSTIFICACION: Clásica con menos queso.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~11 g
+Grasas: ~6 g
+Fibra: ~5 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mozzarella 200 → 120 g baja en grasa; anchoas fuera; aceite 2 → 1 cda; passata → tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-berenjenas-gratinadas
+TITULO: Berenjenas Gratinadas
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Rodajas de berenjena asadas y gratinadas con tomate asado, cebolla y mozzarella baja en grasa.
+INGREDIENTES:
+• Berenjenas en rodajas de 5 mm — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Ajo asado picado — 2 dientes
+• Cebollas picadas — 2
+• Perejil picado — 1 cda
+• Tomate asado picado — 400 g
+• Mozzarella baja en grasa en dados — 60 g
+• Pan integral rallado — 40 g
+PREPARACION:
+1. Ásala las rodajas 15 minutos a 200 °C; rehoga cebolla y ajo en el aceite 8 minutos y añade el tomate 10 minutos.
+2. Alterna capas de berenjena y salsa en una fuente engrasada.
+3. Cubre con queso y pan y gratina 15 minutos a 200 °C.
+JUSTIFICACION: Gratinadas sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~16 g
+Grasas: ~4 g
+Fibra: ~6 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Emmental → mozzarella baja en grasa; mantequilla → aceite; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-berenjenas-sorpresa-rebozadas
+TITULO: Berenjenas Sorpresa al Horno
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Rodajas de berenjena rellenas de pollo, ricota y queso, empanadas y horneadas, en lugar de jamón curado y fritura.
+INGREDIENTES:
+• Berenjenas en rodajas de 5 mm asadas — 600 g
+• Pechuga de pollo cocida en dados — 60 g
+• Ricota baja en grasa — 80 g
+• Mozzarella baja en grasa en dados — 60 g
+• Perejil picado — 1 cda
+• Parmesano rallado — 1 cda
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Huevos — 2
+• Pan integral rallado — 60 g
+PREPARACION:
+1. Mezcla pollo, ricota, mozzarella, perejil y parmesano; rellena un sándwich de dos rodajas de berenjena.
+2. Pasa por huevo batido y pan rallado.
+3. Colócalas en una bandeja con el aceite y hornea 20 minutos a 200 °C.
+JUSTIFICACION: Crujientes sin fritura.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón curado.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~14 g
+Grasas: ~6 g
+Fibra: ~4 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Jamón curado → pollo; scamorza ahumada → mozzarella baja en grasa; fritura → horno.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-berenjenas-festivas
+TITULO: Berenjenas Festivas
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Berenjenas pequeñas rellenas de capas de tomate, mozzarella baja en grasa, ajo asado y hierbas.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Berenjenas redondas pequeñas — 4
+• Tomates grandes maduros en rodajas finas — 4
+• Mozzarella baja en grasa en lonchas finas — 150 g
+• Ajo asado picado — 2 dientes
+• Perejil picado — 1 cda
+• Hojas de albahaca picadas — 4
+PREPARACION:
+1. Haz cortes transversales en las berenjenas.
+2. Rellena con tomate, queso, ajo y hierbas y rocía con el aceite.
+3. Hornea 35 minutos a 190 °C.
+JUSTIFICACION: Vistosa y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~13 g
+Grasas: ~6 g
+Fibra: ~6 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mozzarella 250 → 150 g baja en grasa; aceite 4 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-berenjenas-al-horno-con-ricota
+TITULO: Berenjenas al Horno con Ricota
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Berenjenas rellenas de ricota baja en grasa, setas y parmesano, horneadas, sin anchoas.
+INGREDIENTES:
+• Setas frescas picadas — 80 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Berenjenas pequeñas por la mitad a lo largo — 4
+• Ajo asado picado — 2 dientes
+• Perejil picado — 1 cda
+• Ricota baja en grasa — 120 g
+• Parmesano rallado — 2 cdas
+• Huevo ligeramente batido — 1
+• Orégano seco — 1 pizca
+PREPARACION:
+1. Ásala las berenjenas 20 minutos a 200 °C y vacía la pulpa; sofríe setas, pulpa y ajo en el aceite 6 minutos.
+2. Mezcla con ricota, parmesano, huevo, perejil y orégano y rellena.
+3. Hornea 25 minutos a 180 °C hasta cuajar.
+JUSTIFICACION: Rellenas y ligeras.
+ADVERTENCIAS: Totalmente cuajadas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~13 g
+Grasas: ~7 g
+Fibra: ~5 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas fuera; ricota baja en grasa; parmesano 4 → 2 cdas; setas frescas; aceite 4 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-berenjenas-marinadas
+TITULO: Berenjenas Marinadas
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Berenjenas asadas marinadas con ajo asado, menta y naranja, sin guindilla ni alcaparras.
+INGREDIENTES:
+• Berenjenas en rodajas de 5 mm — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pimentón dulce — 1 pizca
+• Ajo asado picado — 3 dientes
+• Hojas de menta picadas — 10
+• Zumo de naranja — 3 cdas
+PREPARACION:
+1. Ásala las rodajas 20 minutos a 200 °C.
+2. Mezcla aceite, pimentón, ajo, menta y naranja.
+3. Marina las berenjenas 2 horas.
+JUSTIFICACION: Sabrosas, sin fritura ni picante.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~11 g
+Grasas: ~3 g
+Fibra: ~5 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Guindilla → pimentón dulce; alcaparras fuera; aceite 175 ml → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-berenjenas-a-la-parmesana
+TITULO: Berenjenas a la Parmesana
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Capas de berenjena asada, salsa de tomate asado y albahaca, mozzarella baja en grasa y parmesano, sin fritura.
+INGREDIENTES:
+• Berenjenas en lonchas de 5 mm — 4
+• Tomates asados en dados — 500 g
+• Albahaca — 5 hojas
+• Aceite de oliva extra virgen — 1½ cdas (15 g, y un poco para engrasar)
+• Parmesano rallado — 25 g
+• Mozzarella baja en grasa en lonchas — 80 g
+• Huevos ligeramente batidos — 2
+PREPARACION:
+1. Ásala las berenjenas 20 minutos a 200 °C; cuece el tomate con la albahaca y 1 cda de aceite 15 minutos.
+2. En una fuente engrasada alterna berenjena, salsa, mozzarella y parmesano; cubre con el huevo batido.
+3. Hornea 30 minutos a 180 °C hasta cuajar.
+JUSTIFICACION: El clásico sin fritura.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~11 g
+Grasas: ~7 g
+Fibra: ~5 g
+Sodio: ~140 mg
+IG: Bajo
+ADAPTACIÓN:
+• Fritura → horno; aceite 6 → 1½ cdas; mantequilla fuera; parmesano 50 → 25 g; mozzarella baja en grasa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-terrina-de-berenjena
+TITULO: Terrina de Berenjena
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Terrina de capas de berenjena y pimientos asados con queso bajo en grasa, albahaca y huevo, servida con tomate.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Pimientos amarillos asados — 2
+• Pimiento rojo asado — 1
+• Berenjenas en rodajas de 5 mm asadas — 3
+• Mozzarella baja en grasa — 100 g
+• Albahaca picada — al gusto
+• Huevos ligeramente batidos — 3
+• Tomates maduros asados picados — 3
+• Ajo asado — 1 diente
+PREPARACION:
+1. Alterna en un molde engrasado capas de berenjena, pimiento, queso y albahaca.
+2. Vierte los huevos y hornea al baño maría 40 minutos a 180 °C hasta cuajar.
+3. Sirve con el tomate asado triturado con el ajo.
+JUSTIFICACION: Ligera y sin fritura.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~10 g
+Grasas: ~8 g
+Fibra: ~4 g
+Sodio: ~130 mg
+IG: Bajo
+ADAPTACIÓN:
+• Emmental 150 → mozzarella baja en grasa 100 g; aceite 2 → 1 cda; verduras asadas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-torre-fria-de-berenjena
+TITULO: Torre Fría de Berenjena
+CATEGORIA: Verduras - Berenjena
+ICONO: 🥗
+SUBSECCION: Berenjena
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Frío, Perfil1
+CONCEPTO: Torres de berenjena asada, tomate, mozzarella baja en grasa y albahaca sobre pan integral tostado.
+INGREDIENTES:
+• Berenjenas en rodajas de 5 mm — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Rebanadas de pan integral sin corteza — 4
+• Mozzarella baja en grasa en lonchas finas — 150 g
+• Cebolleta en rodajas finas — 1
+• Hojas de albahaca — 10
+• Tomates maduros en rodajas finas — 4
+PREPARACION:
+1. Unta las berenjenas con la mitad del aceite y ásalas 20 minutos a 200 °C; tuesta el pan.
+2. Monta torres sobre el pan alternando berenjena, tomate, queso, cebolleta y albahaca.
+3. Rocía con el aceite restante y sirve fría.
+JUSTIFICACION: Fresca y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~17 g
+Grasas: ~5 g
+Fibra: ~5 g
+Sodio: ~170 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; mozzarella 350 → 150 g baja en grasa; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-patata-coccion-basica
+TITULO: Papa: Cocción Básica
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Papas cocidas en agua sin sal o al vapor.
+INGREDIENTES:
+• Papas — 200 g por persona
+PREPARACION:
+1. Lava las papas.
+2. Cuécelas con piel 20-30 minutos.
+3. Pela y usa.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~33 g
+Grasas: ~0 g
+Fibra: ~3 g
+Sodio: ~15 mg
+IG: Alto
+ADAPTACIÓN:
+• Sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-corona-de-patata-con-coliflor
+TITULO: Corona de Papa con Coliflor
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Corona de puré de papa con ricota y queso fresco bajos en grasa, rellena de coliflor, horneada.
+INGREDIENTES:
+• Papas en dados — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Chalote picado — 1
+• Ricota baja en grasa — 150 g
+• Queso fresco bajo en grasa — 150 g
+• Huevos — 3
+• Parmesano rallado — 15 g
+• Coliflor pequeña en ramitos — 1
+PREPARACION:
+1. Cuece las papas y haz un puré con ricota, queso, huevos y parmesano.
+2. Cubre un molde de corona engrasado con el puré; rellena con la coliflor rehogada con chalote y aceite.
+3. Hornea 40 minutos a 180 °C hasta cuajar.
+JUSTIFICACION: Ligera y vistosa.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~13 g
+Carbohidratos: ~22 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~150 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; ricota y queso fresco bajos en grasa; parmesano 25 → 15 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pastelitos-de-patata
+TITULO: Pastelitos de Papa
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Pastelitos horneados de puré de papa con leche descremada y mozzarella baja en grasa.
+INGREDIENTES:
+• Papas — 600 g
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Leche descremada — 200 ml
+• Mozzarella baja en grasa rallada — 50 g
+• Huevos — 2
+PREPARACION:
+1. Cuece las papas y haz un puré con la leche, el queso y los huevos.
+2. Reparte en moldes engrasados.
+3. Hornea 30 minutos a 180 °C.
+JUSTIFICACION: Sin mantequilla.
+ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~22 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~100 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; emmental 80 → mozzarella baja en grasa 50 g; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-croquetas-de-patata-con-fontina
+TITULO: Croquetas de Papa con Queso
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Croquetas de papa con corazón de mozzarella baja en grasa y pollo, empanadas y horneadas.
+INGREDIENTES:
+• Papas harinosas cocidas — 700 g
+• Huevos — 3
+• Parmesano rallado — 25 g
+• Mozzarella baja en grasa en tiras — 60 g
+• Pechuga de pollo cocida en tiras — 40 g
+• Pan integral rallado — 70 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Hojas de albahaca — para adornar
+PREPARACION:
+1. Haz un puré con las papas, 1 huevo y el parmesano; forma croquetas rellenas de queso y pollo.
+2. Pásalas por huevo batido y pan rallado.
+3. Rocía con el aceite y hornea 25 minutos a 200 °C.
+JUSTIFICACION: Crujientes sin fritura.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~22 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Fritura → horno; jamón → pollo; fontina → mozzarella baja en grasa; parmesano 50 → 25 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-delicia-de-patata-a-la-salsa-vegetal
+TITULO: Delicia de Papa a la Salsa Vegetal
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Papas con salsa de zanahoria, apio y chalote con naranja reducida, en lugar de vino y mantequilla.
+INGREDIENTES:
+• Papas en dados — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zanahoria picada — 1
+• Rama de apio picada — 1
+• Chalote picado — 1
+• Zumo de naranja reducido — 4 cdas
+• Harina de avena — ½ cdta
+• Perejil picado — 1 cda
+• Hojas de albahaca picadas finas — 4
+PREPARACION:
+1. Rehoga zanahoria, apio y chalote en el aceite 8 minutos; añade harina y naranja y cuece 5 minutos.
+2. Cuece las papas al vapor 15 minutos.
+3. Mezcla con la salsa y las hierbas.
+JUSTIFICACION: Ligera y sin alcohol.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~25 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~30 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-patata-con-salsa-de-anchoas
+TITULO: Ensalada de Papa con Salsa de Atún
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Pescado
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Ensalada de papa con una salsa de atún, huevo duro, aceitunas enjuagadas y perejil, sin anchoas, encurtidos ni vinagre.
+INGREDIENTES:
+• Papas harinosas cocidas — 600 g
+• Huevo duro — 1
+• Atún al natural desmenuzado — 40 g
+• Perejil picado — 10 g
+• Aceitunas verdes enjuagadas picadas — 15 g
+• Cebolleta fresca picada — 1
+• Pimiento rojo asado picado fino — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Zumo de naranja — 3 cdas
+PREPARACION:
+1. Corta las papas templadas en rodajas.
+2. Mezcla huevo, atún, perejil, aceitunas, cebolleta, pimiento, aceite y naranja.
+3. Aliña las papas.
+JUSTIFICACION: Sabrosa sin salmueras ni vinagre.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas; naranja en lugar de vinagre.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~190 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~27 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Anchoas, alcaparras, encurtidos, vinagre y mostaza fuera; aceite 3 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-rollitos-de-patata-y-jamon
+TITULO: Rollitos de Papa y Pollo
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Rollitos de puré de papa rellenos de pollo, puerro y mozzarella baja en grasa, horneados, en lugar de jamón y fontina.
+INGREDIENTES:
+• Papas cocidas — 600 g
+• Mozzarella baja en grasa rallada — 80 g
+• Pan integral rallado — 3 cdas
+• Huevo ligeramente batido — 1
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Puerro (parte blanca) cocido — 1
+• Lonchas finas de pechuga de pollo cocida — 8
+PREPARACION:
+1. Haz un puré con las papas, la mitad del queso, el pan y el huevo.
+2. Extiende sobre papel de hornear, cubre con pollo, puerro y el resto del queso y enrolla con ayuda del papel.
+3. Hornea en una bandeja engrasada 25 minutos a 190 °C.
+JUSTIFICACION: Sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~20 g
+Grasas: ~4 g
+Fibra: ~2 g
+Sodio: ~130 mg
+IG: Medio
+ADAPTACIÓN:
+• Jamón → pollo; fontina 150 → mozzarella baja en grasa 80 g; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-nidos-de-patata-con-huevos
+TITULO: Nidos de Papa con Huevos
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Papas asadas ahuecadas rellenas de huevo horneado hasta cuajar, con atún, en lugar de pasta de anchoas.
+INGREDIENTES:
+• Papas grandes — 4
+• Huevos — 4
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Atún al natural desmenuzado — 20 g
+PREPARACION:
+1. Hornea las papas 45 minutos a 200 °C y ahuécalas.
+2. Rellena con el atún y un huevo y rocía con el aceite.
+3. Hornea 15 minutos a 180 °C hasta que el huevo esté cuajado.
+JUSTIFICACION: Sencillos y sin mantequilla.
+ADVERTENCIAS: Es una evocación: atún en lugar de pasta de anchoas.|Yema firme.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~230 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~30 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Anchoas → atún; mantequilla → aceite; yema firme.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-patatas-en-papillote-con-yogur
+TITULO: Papas en Papillote con Yogur
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Papas al horno en papel con yogur, cebollino y perejil.
+INGREDIENTES:
+• Papas — 8
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Yogur natural espeso — 150 g
+• Tallos de cebollino picados — 6
+• Perejil picado — 1 cda
+• Ralladura de limón — de 1 limón
+PREPARACION:
+1. Envuelve las papas con el aceite en papel de hornear y hornea 45 minutos a 200 °C.
+2. Mezcla el yogur con las hierbas y la ralladura.
+3. Abre las papas y sirve con el yogur.
+JUSTIFICACION: Sin mantequilla ni nata.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~32 g
+Grasas: ~2 g
+Fibra: ~3 g
+Sodio: ~30 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla → aceite; nata → yogur; zumo de limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pastel-de-patata-y-fontina-al-horno
+TITULO: Pastel de Papa y Queso al Horno
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 8
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Pastel de capas de papa con pollo, mozzarella baja en grasa y yogur, en lugar de fontina, gruyère, jamón y nata.
+INGREDIENTES:
+• Papas en rodajas finas — 1,2 kg
+• Ajo asado — 1 diente
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Mozzarella baja en grasa en dados — 120 g
+• Pechuga de pollo cocida en tiras — 80 g
+• Yogur natural espeso — 200 g
+PREPARACION:
+1. Engrasa un molde y frota con el ajo.
+2. Alterna capas de papa, queso y pollo, cubriendo con yogur.
+3. Hornea 50 minutos a 180 °C.
+JUSTIFICACION: Gratinado con la tercera parte de grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~10 g
+Carbohidratos: ~25 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Fontina y gruyère → mozzarella baja en grasa; jamón → pollo; nata → yogur; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-patatas-al-horno-con-salmon
+TITULO: Papas al Horno con Salmón
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Papas asadas con salmón fresco horneado, yogur y cebollino, en lugar de ahumado, nata y huevas.
+INGREDIENTES:
+• Papas — 8
+• Salmón fresco horneado desmenuzado — 100 g
+• Yogur natural espeso — 150 g
+• Ralladura de limón — de ½ limón
+• Cebollino picado — al gusto
+PREPARACION:
+1. Hornea las papas 45 minutos a 200 °C y ábrelas.
+2. Mezcla el yogur con el salmón y la ralladura.
+3. Rellena y sirve con cebollino.
+JUSTIFICACION: Sin ahumados, nata ni huevas.
+ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado; sin huevas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~200 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~32 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~40 mg
+IG: Medio
+ADAPTACIÓN:
+• Ahumado → fresco; nata → yogur; huevas fuera; limón → ralladura.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-patatas-con-bechamel
+TITULO: Papas con Bechamel
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Papas gratinadas con bechamel ligera y parmesano.
+INGREDIENTES:
+• Papas cocidas — 900 g
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Salsa Bechamel (receta de este recetario) — 1 ración
+• Parmesano rallado — 25 g
+PREPARACION:
+1. Coloca las papas en rodajas en una fuente engrasada.
+2. Cubre con la bechamel y el parmesano.
+3. Gratina 15 minutos a 200 °C.
+JUSTIFICACION: Menos grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~26 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Nata y mantequilla fuera; parmesano 50 → 25 g; bechamel ligera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-patatas-de-normandia
+TITULO: Papas de Normandía
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Papas con puerros y cebolla cocidas en caldo con pollo, en lugar de panceta y nata.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla en rodajas finas — 1
+• Puerros limpios y picados — 2
+• Pechuga de pollo en tiras — 80 g
+• Papas en rodajas finas — 600 g
+• Caldo de carne casero sin sal (receta de este recetario) — 400 ml
+PREPARACION:
+1. Rehoga cebolla, puerros y pollo en el aceite 10 minutos.
+2. Añade las papas y el caldo.
+3. Cuece tapado 25 minutos.
+JUSTIFICACION: Caldosas y sin nata.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~24 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~50 mg
+IG: Medio
+ADAPTACIÓN:
+• Panceta → pollo; nata 400 ml → caldo; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-patatas-con-scamorza
+TITULO: Papas con Queso y Curry
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Papas gratinadas con salsa de leche descremada y curry suave y mozzarella baja en grasa, en lugar de scamorza ahumada.
+INGREDIENTES:
+• Papas cocidas en rodajas — 600 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Mozzarella baja en grasa en lonchas finas — 100 g
+• Harina de avena — 20 g
+• Leche descremada — 400 ml
+• Chalotes picados — 2
+• Curry dulce — 1 cdta
+PREPARACION:
+1. Rehoga chalotes y curry en el aceite; añade harina y leche y cuece 6 minutos.
+2. Alterna papas y queso en una fuente engrasada y cubre con la salsa.
+3. Hornea 25 minutos a 190 °C.
+JUSTIFICACION: Aromáticas y ligeras.
+ADVERTENCIAS: Curry sin picante.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~24 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Scamorza ahumada → mozzarella baja en grasa; mantequilla → aceite; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-patatas-duquesa
+TITULO: Papas Duquesa
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Rosetones de puré de papa con huevo y aceite, horneados hasta dorar, con las yemas bien cocidas.
+INGREDIENTES:
+• Papas — 700 g
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Yemas de huevo — 2
+• Nuez moscada — 1 pizca
+PREPARACION:
+1. Cuece las papas y haz un puré seco con el aceite, las yemas y la nuez moscada.
+2. Forma rosetones sobre una bandeja engrasada con manga pastelera.
+3. Hornea 25 minutos a 200 °C hasta dorar.
+JUSTIFICACION: Sin mantequilla.
+ADVERTENCIAS: Yemas cocidas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~24 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~20 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 150 g → aceite 10 g; yemas 4 → 2.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-patatas-con-salsa-blanca-de-mantequilla
+TITULO: Papas con Salsa de Yogur y Hierbas
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Papas con salsa blanca de yogur, chalote, perejil y cebollino, en lugar de mantequilla y vino.
+INGREDIENTES:
+• Papas — 600 g
+• Chalotes pequeños picados — 2
+• Zumo de naranja reducido — 3 cdas
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Yogur natural espeso — 120 g
+• Perejil picado — 3 cdas
+• Tallos de cebollino picados finos — 4
+PREPARACION:
+1. Cuece las papas al vapor 20 minutos.
+2. Cuece chalotes con naranja y aceite 5 minutos; fuera del fuego incorpora yogur y hierbas.
+3. Sirve sobre las papas.
+JUSTIFICACION: Sin mantequilla ni vino.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~25 g
+Grasas: ~2 g
+Fibra: ~3 g
+Sodio: ~30 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla 150 g → yogur y aceite; vino → naranja reducida.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-patatas-con-cebolla-en-cazuela-de-barro
+TITULO: Papas con Cebolla en Cazuela de Barro
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Cazuela horneada de papa, cebolla y zanahoria con albahaca y un toque de queso bajo en grasa.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Papas en rodajas finas — 400 g
+• Cebollas en rodajas finas — 300 g
+• Zanahorias en rodajas finas — 200 g
+• Hojas de albahaca troceadas — 6
+• Mozzarella baja en grasa rallada — 30 g
+PREPARACION:
+1. Engrasa una cazuela y alterna capas de papa, cebolla, zanahoria y albahaca.
+2. Cubre con el queso y el aceite y tapa.
+3. Hornea 45 minutos a 190 °C; destapa y dora 10 minutos.
+JUSTIFICACION: Rústica y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~21 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~50 mg
+IG: Medio
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; emmental → mozzarella baja en grasa 30 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-patatas-rellenas-de-salchicha
+TITULO: Papas Rellenas de Pollo
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Papas pequeñas rellenas de pollo sazonado al estilo de salchicha con parmesano y pan rallado, sin vino.
+INGREDIENTES:
+• Papas pequeñas peladas — 8
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Hoja de laurel — 1
+• Pechuga de pollo picada con hinojo — 100 g
+• Zumo de naranja reducido — 3 cdas
+• Perejil picado — 1 cda
+• Parmesano rallado — 1 cda
+• Pan integral rallado — 3 cdas
+PREPARACION:
+1. Cuece las papas con el laurel 15 minutos y ahuécalas.
+2. Dora el pollo en el aceite con la naranja 6 minutos y mézclalo con el perejil; rellena las papas.
+3. Cubre con parmesano y pan y hornea 20 minutos a 190 °C en una fuente engrasada.
+JUSTIFICACION: Sin embutido ni vino.
+ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchicha; sin vino.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~25 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~80 mg
+IG: Medio
+ADAPTACIÓN:
+• Salchicha → pollo; mantequilla → aceite; vino → naranja reducida; parmesano 3 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-patatas-salteadas-a-la-provenzal
+TITULO: Papas Salteadas a la Provenzal
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Papas nuevas asadas con ajo, azafrán, perejil y tomillo, sin mantequilla.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1½ cdas (15 g)
+• Dientes de ajo sin pelar — 5
+• Papas nuevas en dados — 900 g
+• Azafrán — unas hebras
+• Perejil picado — 1 cda
+• Tomillo fresco picado — 1 cda
+PREPARACION:
+1. Mezcla las papas con el aceite y el ajo en una bandeja.
+2. Asa 35 minutos a 200 °C removiendo a mitad de tiempo.
+3. Sirve con azafrán, perejil y tomillo.
+JUSTIFICACION: Doradas sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~24 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~15 mg
+IG: Medio
+ADAPTACIÓN:
+• Salteado → horno; aceite y mantequilla → aceite 1½ cdas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-patatas-estofadas-con-tomate
+TITULO: Papas Estofadas con Tomate
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Papas estofadas con chalote, ajo asado, tomate asado y orégano, con naranja reducida en lugar de vino.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Chalote picado — 1
+• Ajo asado picado — 1 diente
+• Papas en dados — 500 g
+• Zumo de naranja reducido — 4 cdas
+• Tomates asados picados — 3
+• Orégano seco — 1 pizca
+PREPARACION:
+1. Rehoga chalote y ajo en el aceite 4 minutos.
+2. Añade papas, naranja, tomate y orégano.
+3. Cuece tapado 25 minutos.
+JUSTIFICACION: Sencillas y ligeras.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~25 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~20 mg
+IG: Medio
+ADAPTACIÓN:
+• Vino → naranja reducida; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-patatas-nuevas-al-romero
+TITULO: Papas Nuevas al Romero
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Papas nuevas asadas con romero y ajo, con solo una cucharada de aceite.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ramita de romero fresco — 1
+• Ajo asado — 1 diente
+• Papas nuevas por la mitad — 600 g
+PREPARACION:
+1. Mezcla las papas con el aceite, el romero y el ajo.
+2. Colócalas en una bandeja.
+3. Asa 35 minutos a 200 °C.
+JUSTIFICACION: Crujientes sin mantequilla.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~120 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~22 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~15 mg
+IG: Medio
+ADAPTACIÓN:
+• Mantequilla y aceite 100 ml → aceite 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pure-de-patatas-cremoso
+TITULO: Puré de Papas Cremoso
+CATEGORIA: Verduras - Patata
+ICONO: 🥗
+SUBSECCION: Patata
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Puré de papas cremoso con yogur y cebollino, en lugar de mascarpone, nata y mantequilla.
+INGREDIENTES:
+• Papas — 700 g
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Leche descremada — 100 ml
+• Yogur natural espeso — 100 g
+• Tallos de cebollino picados — 6
+PREPARACION:
+1. Cuece las papas y hazlas puré con la leche caliente y el aceite.
+2. Incorpora el yogur fuera del fuego.
+3. Sirve con cebollino.
+JUSTIFICACION: Cremoso con la décima parte de grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~25 g
+Grasas: ~2 g
+Fibra: ~2 g
+Sodio: ~35 mg
+IG: Alto
+ADAPTACIÓN:
+• Mascarpone, nata y mantequilla → yogur y leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pimiento-coccion-basica
+TITULO: Pimiento: Cocción Básica
+CATEGORIA: Verduras - Pimiento
+ICONO: 🥗
+SUBSECCION: Pimiento
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Pimientos asados y pelados, listos para usar.
+INGREDIENTES:
+• Pimientos — 200 g por persona
+PREPARACION:
+1. Ásalos enteros 35 minutos a 220 °C hasta que la piel se ennegrezca.
+2. Cúbrelos con un paño 10 minutos.
+3. Pela, despepita y corta.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~40 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~8 g
+Grasas: ~0 g
+Fibra: ~3 g
+Sodio: ~5 mg
+IG: Bajo
+ADAPTACIÓN:
+• Asado sin aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-ensalada-de-pimiento-y-espelta
+TITULO: Ensalada de Pimiento y Espelta
+CATEGORIA: Verduras - Pimiento
+ICONO: 🥗
+SUBSECCION: Pimiento
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten
+ETIQUETAS: Italiana, Ensaladas, Perfil1
+CONCEPTO: Pimientos asados con espelta cocida, aceitunas enjuagadas y aliño de naranja.
+INGREDIENTES:
+• Pimientos amarillos asados en tiras finas — 2
+• Pimiento rojo asado en tiras finas — 1
+• Pimiento verde asado en tiras finas — 1
+• Cebolletas en rodajas — 3
+• Aceitunas negras enjuagadas en rodajas — 6
+• Ajo asado picado — ½ diente
+• Espelta cocida — 200 g
+• Zumo de naranja — 3 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Perejil picado — 1 cda
+PREPARACION:
+1. Mezcla pimientos, cebolleta, aceitunas, ajo y espelta.
+2. Bate naranja y aceite.
+3. Aliña y espolvorea con perejil.
+JUSTIFICACION: Fibra y poca grasa.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~24 g
+Grasas: ~4 g
+Fibra: ~5 g
+Sodio: ~50 mg
+IG: Medio
+ADAPTACIÓN:
+• Limón → naranja; aceite 120 ml → 1 cda; aceitunas 10 → 6.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-rollitos-de-pimiento-y-atun
+TITULO: Rollitos de Pimiento y Atún
+CATEGORIA: Verduras - Pimiento
+ICONO: 🥗
+SUBSECCION: Pimiento
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Tiras de pimiento asado enrolladas con atún al natural, cebolleta, champiñón asado y perejil, sin anchoas ni alcaparras.
+INGREDIENTES:
+• Pimientos rojo, amarillo y verde asados — 3
+• Atún al natural desmenuzado — 250 g
+• Cebolleta picada — 1
+• Champiñones asados picados — 3 cdas
+• Perejil picado — 1 cda
+• Zumo de naranja — 2 cdas
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Mezcla atún, cebolleta, champiñones, perejil, naranja y aceite.
+2. Extiende las tiras de pimiento y reparte el relleno.
+3. Enrolla y refrigera 1 hora.
+JUSTIFICACION: Proteicos y ligeros.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~19 g
+Carbohidratos: ~6 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Atún en aceite → al natural; anchoas, alcaparras y vinagre fuera; champiñones asados; aceite 2 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-peperonata-delicada
+TITULO: Peperonata Delicada
+CATEGORIA: Verduras - Pimiento
+ICONO: 🥗
+SUBSECCION: Pimiento
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Pimientos guisados con cebolla, ajo asado y tomate asado.
+INGREDIENTES:
+• Pimientos variados asados en tiras — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Ajo asado — 1 diente
+• Cebolla en rodajas — 1
+• Tomates asados picados — 4
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos.
+2. Añade ajo, pimientos y tomate.
+3. Cuece tapado 20 minutos.
+JUSTIFICACION: Dulce y ligera.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~14 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~20 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; verduras asadas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pimientos-asados
+TITULO: Pimientos Asados
+CATEGORIA: Verduras - Pimiento
+ICONO: 🥗
+SUBSECCION: Pimiento
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Pimientos asados con ajo asado y albahaca, aliñados con un poco de aceite.
+INGREDIENTES:
+• Pimientos — 4
+• Dientes de ajo asados por la mitad — 3
+• Hojas de albahaca — 12
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Ásalos 35 minutos a 220 °C y pélalos.
+2. Córtalos en tiras.
+3. Aliña con el aceite, el ajo y la albahaca.
+JUSTIFICACION: Sencillos y sin sal.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~8 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~5 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 4 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pimientos-caprichosos
+TITULO: Pimientos Caprichosos
+CATEGORIA: Verduras - Pimiento
+ICONO: 🥗
+SUBSECCION: Pimiento
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Pimientos amarillos rellenos de tomate asado, aceitunas enjuagadas y mozzarella baja en grasa, sin anchoas.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Pimientos amarillos — 4
+• Ajo asado picado — 2 dientes
+• Perejil picado — 1 cda
+• Aceitunas verdes enjuagadas picadas — 30 g
+• Hojas de albahaca picadas — 6
+• Tomates asados en dados — 250 g
+• Mozzarella baja en grasa en lonchas — 120 g
+PREPARACION:
+1. Parte los pimientos por la mitad, despepita y ásalos 15 minutos a 200 °C.
+2. Mezcla tomate, ajo, aceitunas y hierbas con el aceite y rellena.
+3. Cubre con la mozzarella y hornea 15 minutos.
+JUSTIFICACION: Rellenos y ligeros.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~11 g
+Grasas: ~6 g
+Fibra: ~3 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas fuera; aceitunas 100 → 30 g enjuagadas; mozzarella 250 → 120 g baja en grasa; aceite 3 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pimientos-agridulces
+TITULO: Pimientos Agridulces
+CATEGORIA: Verduras - Pimiento
+ICONO: 🥗
+SUBSECCION: Pimiento
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Pimientos asados con aliño agridulce de naranja y stevia, sin vinagre ni azúcar.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pimientos por la mitad, despepitados y en tiras gruesas asados — 4
+• Zumo de naranja — 100 ml
+• Stevia en polvo — al gusto
+PREPARACION:
+1. Calienta la naranja con la stevia hasta reducir a la mitad.
+2. Mezcla con los pimientos y el aceite.
+3. Reposa 30 minutos.
+JUSTIFICACION: Dulzor natural sin vinagre.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~14 g
+Grasas: ~3 g
+Fibra: ~3 g
+Sodio: ~5 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vinagre → naranja reducida; azúcar → stevia; aceite 3 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-pimientos-rellenos-de-verano
+TITULO: Pimientos Rellenos de Verano
+CATEGORIA: Verduras - Pimiento
+ICONO: 🥗
+SUBSECCION: Pimiento
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Pimientos verdes rellenos de berenjena, papa, tomate y aceitunas enjuagadas con mozzarella baja en grasa, sin anchoas ni alcaparras.
+INGREDIENTES:
+• Berenjena asada en dados — 1
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Mozzarella baja en grasa en dados — 80 g
+• Aceitunas negras enjuagadas en rodajas — 30 g
+• Perejil fresco picado — 30 g
+• Hojas de albahaca — 6
+• Tomates asados picados — 3
+• Papas cocidas en dados — 2
+• Orégano seco — 1 pizca
+• Pimientos verdes — 6
+PREPARACION:
+1. Mezcla todos los ingredientes del relleno.
+2. Rellena los pimientos sin tapa y colócalos en una fuente engrasada.
+3. Hornea 40 minutos a 190 °C.
+JUSTIFICACION: Rellenos vegetales con poco queso.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~16 g
+Grasas: ~5 g
+Fibra: ~4 g
+Sodio: ~120 mg
+IG: Bajo
+ADAPTACIÓN:
+• Anchoas y alcaparras fuera; gruyère 150 → mozzarella baja en grasa 80 g; aceitunas 100 → 30 g enjuagadas.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-guisantes-coccion-basica
+TITULO: Guisantes: Cocción Básica
+CATEGORIA: Verduras - Guisantes
+ICONO: 🥗
+SUBSECCION: Guisantes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Guisantes frescos (arvejas) cocidos al vapor sin sal.
+INGREDIENTES:
+• Guisantes frescos desvainados — 80 g por persona
+PREPARACION:
+1. Desvaina los guisantes.
+2. Cuece al vapor 6-8 minutos.
+3. Escurre.
+JUSTIFICACION: Base de otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~65 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~11 g
+Grasas: ~0 g
+Fibra: ~4 g
+Sodio: ~5 mg
+IG: Bajo
+ADAPTACIÓN:
+• Vapor; sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-terrina-tricolor
+TITULO: Terrina Tricolor
+CATEGORIA: Verduras - Guisantes
+ICONO: 🥗
+SUBSECCION: Guisantes
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Terrina de capas de guisantes, zanahoria y espinacas con huevo y yogur, horneada al baño maría.
+INGREDIENTES:
+• Guisantes cocidos — 350 g
+• Zanahorias cocidas en rodajas — 350 g
+• Espinacas cocidas — 200 g
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Huevos — 3
+• Yogur natural espeso — 120 g
+• Ricota baja en grasa — 25 g
+• Perifollo — para adornar
+PREPARACION:
+1. Tritura cada verdura por separado con un tercio de huevos, yogur y ricota.
+2. Vierte en un molde engrasado por capas.
+3. Hornea al baño maría 45 minutos a 170 °C hasta cuajar.
+JUSTIFICACION: Vistosa y ligera.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~14 g
+Grasas: ~4 g
+Fibra: ~5 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Nata → yogur; mantequilla → aceite; ricota baja en grasa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-guisantes-a-la-menta
+TITULO: Guisantes a la Menta
+CATEGORIA: Verduras - Guisantes
+ICONO: 🥗
+SUBSECCION: Guisantes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Guisantes al vapor con menta fresca y un hilo de aceite.
+INGREDIENTES:
+• Guisantes frescos desvainados — 800 g
+• Hojas de menta — 10
+• Aceite de oliva extra virgen — 1 cda (10 g)
+PREPARACION:
+1. Cuece los guisantes al vapor 7 minutos.
+2. Mezcla con la menta picada.
+3. Aliña con el aceite.
+JUSTIFICACION: Fresco, sin mantequilla ni azúcar.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~12 g
+Grasas: ~2 g
+Fibra: ~5 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; azúcar fuera.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-guisantes-con-panceta
+TITULO: Guisantes con Pollo
+CATEGORIA: Verduras - Guisantes
+ICONO: 🥗
+SUBSECCION: Guisantes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Guisantes con tiras de pollo dorado, en lugar de panceta ahumada.
+INGREDIENTES:
+• Guisantes frescos desvainados — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Pechuga de pollo en tiras — 100 g
+PREPARACION:
+1. Dora el pollo en el aceite 6 minutos.
+2. Añade los guisantes y 50 ml de agua.
+3. Cuece tapado 8 minutos.
+JUSTIFICACION: Sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta ahumada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~14 g
+Carbohidratos: ~12 g
+Grasas: ~4 g
+Fibra: ~5 g
+Sodio: ~40 mg
+IG: Bajo
+ADAPTACIÓN:
+• Panceta → pollo; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-guisantes-con-perejil
+TITULO: Guisantes con Perejil
+CATEGORIA: Verduras - Guisantes
+ICONO: 🥗
+SUBSECCION: Guisantes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Guisantes cocidos con cebolla y perejil en caldo casero.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla grande en rodajas finas — 1
+• Guisantes frescos desvainados — 800 g
+• Caldo de verduras casero sin sal (receta de este recetario) — 100 ml
+• Perejil picado — al gusto
+PREPARACION:
+1. Rehoga la cebolla en el aceite 8 minutos.
+2. Añade guisantes y caldo.
+3. Cuece tapado 8 minutos y sirve con perejil.
+JUSTIFICACION: Sencillo, sin azúcar.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~15 g
+Grasas: ~3 g
+Fibra: ~5 g
+Sodio: ~30 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; azúcar fuera; caldo sin sal.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-guisantes-con-zanahorias
+TITULO: Guisantes con Zanahorias
+CATEGORIA: Verduras - Guisantes
+ICONO: 🥗
+SUBSECCION: Guisantes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Guisantes con zanahorias pequeñas y cebollitas, con aceite y stevia.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebollitas — 200 g
+• Zanahorias pequeñas en rodajas — 500 g
+• Guisantes frescos desvainados — 400 g
+• Stevia en polvo — al gusto
+• Perejil picado — al gusto
+PREPARACION:
+1. Rehoga las cebollitas en el aceite 5 minutos.
+2. Añade zanahorias y 100 ml de agua y cuece 12 minutos.
+3. Agrega los guisantes y la stevia y cuece 6 minutos; sirve con perejil.
+JUSTIFICACION: Dulce y sencillo.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~5 g
+Carbohidratos: ~16 g
+Grasas: ~3 g
+Fibra: ~5 g
+Sodio: ~50 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite; azúcar → stevia.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-guisantes-con-lechuga
+TITULO: Guisantes con Lechuga
+CATEGORIA: Verduras - Guisantes
+ICONO: 🥗
+SUBSECCION: Guisantes
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Guisantes con lechuga y cebolleta estofados con aceite.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolletas en rodajas finas — 2
+• Lechuga en tiras — 1
+• Guisantes frescos desvainados — 800 g
+PREPARACION:
+1. Rehoga las cebolletas en el aceite 4 minutos.
+2. Añade guisantes y lechuga.
+3. Cuece tapado 10 minutos.
+JUSTIFICACION: Suave y ligero.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~13 g
+Grasas: ~3 g
+Fibra: ~5 g
+Sodio: ~15 mg
+IG: Bajo
+ADAPTACIÓN:
+• Mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tirabeques-caseros
+TITULO: Tirabeques Caseros
+CATEGORIA: Verduras - Guisantes
+ICONO: 🥗
+SUBSECCION: Guisantes
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 6
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Tirabeques (o vainitas planas) cocidos con cebolla, ajo asado y tomate asado.
+INGREDIENTES:
+• Tirabeques limpios — 800 g
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Cebolla pequeña en rodajas finas — 1
+• Ajo asado — 2 dientes
+• Tomates asados en dados — 200 g
+• Albahaca — para adornar
+PREPARACION:
+1. Rehoga la cebolla en el aceite 6 minutos.
+2. Añade ajo, tomate y tirabeques.
+3. Cuece tapado 12 minutos.
+JUSTIFICACION: Sencillos y ligeros.
+ADVERTENCIAS: Es una evocación: vainitas planas si no hay tirabeques.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~70 kcal (por porción)
+Proteínas: ~3 g
+Carbohidratos: ~10 g
+Grasas: ~2 g
+Fibra: ~4 g
+Sodio: ~15 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tomate-coccion-basica
+TITULO: Tomate: Cocción Básica
+CATEGORIA: Verduras - Tomate
+ICONO: 🥗
+SUBSECCION: Tomate
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Base, Perfil1
+CONCEPTO: Tomates asados y pelados, base para salsas.
+INGREDIENTES:
+• Tomates frescos — 500 g
+PREPARACION:
+1. Asa los tomates 30 minutos a 200 °C.
+2. Pélalos y retira las semillas.
+3. Tritura o pica.
+JUSTIFICACION: Tomate asado, más suave y digestivo.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~25 kcal (por porción)
+Proteínas: ~1 g
+Carbohidratos: ~5 g
+Grasas: ~0 g
+Fibra: ~2 g
+Sodio: ~10 mg
+IG: Bajo
+ADAPTACIÓN:
+• Tomate asado, sin conserva.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-corona-de-gelatina-de-tomate
+TITULO: Corona de Gelatina de Tomate
+CATEGORIA: Verduras - Tomate
+ICONO: 🥗
+SUBSECCION: Tomate
+SECCION: Verduras
+TIPO: Almuerzo
+PORCIONES: 5
+RIESGOS: Pescado
+ETIQUETAS: Italiana, Verduras, Frío, Perfil1
+CONCEPTO: Corona de gelatina de tomate asado y ajo asado rellena de atún al natural sobre lechuga, sin vinagre.
+INGREDIENTES:
+• Cebolla picada — 1
+• Tomates pera asados en dados — 500 g
+• Concentrado de tomate casero — 1 cdta
+• Ajo asado — 1 diente
+• Gelatina en polvo sin sabor — 1 sobre
+• Atún al natural desmenuzado — 200 g
+• Lechuga rizada — al gusto
+PREPARACION:
+1. Cuece cebolla, tomate, concentrado y ajo 15 minutos con 200 ml de agua; tritura y cuela.
+2. Disuelve la gelatina en la mezcla caliente y vierte en un molde de corona; cuaja 4 horas.
+3. Desmolda sobre lechuga y rellena con el atún.
+JUSTIFICACION: Fresca y proteica.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~21 g
+Carbohidratos: ~8 g
+Grasas: ~2 g
+Fibra: ~2 g
+Sodio: ~170 mg
+IG: Bajo
+ADAPTACIÓN:
+• Atún en aceite → al natural; vinagre fuera; tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-hatillos-de-tomate-y-mozzarella
+TITULO: Hatillos de Tomate y Mozzarella
+CATEGORIA: Verduras - Tomate
+ICONO: 🥗
+SUBSECCION: Tomate
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Tomates rellenos de mozzarella baja en grasa y albahaca, envueltos en masa quebrada integral y horneados, sin panceta ni hojaldre.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Tomates redondos — 8
+• Mozzarella baja en grasa en dados pequeños — 100 g
+• Hojas de albahaca picadas — 4
+• Perejil picado — 1 cda
+• Huevo — 1
+• Masa Quebrada Integral (receta de este recetario) — 1 ración
+PREPARACION:
+1. Vacía los tomates, rellénalos con queso, albahaca y perejil.
+2. Envuelve cada uno en un círculo de masa quebrada; pinta con yema.
+3. Hornea en bandeja engrasada 25 minutos a 190 °C.
+JUSTIFICACION: Sin hojaldre ni embutido.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~170 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~20 g
+Grasas: ~7 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Medio
+ADAPTACIÓN:
+• Hojaldre → masa quebrada integral; panceta fuera; mozzarella 200 → 100 g baja en grasa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-flan-de-tomate-al-gruyer
+TITULO: Flan de Tomate al Queso
+CATEGORIA: Verduras - Tomate
+ICONO: 🥗
+SUBSECCION: Tomate
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Flancitos de tomate asado con huevo, albahaca y queso bajo en grasa, horneados al baño maría.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Chalotes picados finos — 2
+• Tomate asado triturado — 500 ml
+• Huevos — 4
+• Yogur natural espeso — 1 cda
+• Hojas de albahaca picadas — 6
+• Perejil picado — 1 cda
+• Tallos de cebollino picados — 4
+• Mozzarella baja en grasa rallada — 40 g
+PREPARACION:
+1. Rehoga los chalotes en el aceite y cuece con el tomate 15 minutos; deja templar.
+2. Bate con los huevos, yogur, hierbas y queso y vierte en moldes engrasados.
+3. Hornea al baño maría 30 minutos a 170 °C hasta cuajar.
+JUSTIFICACION: Ligero y sin nata.
+ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~8 g
+Grasas: ~7 g
+Fibra: ~2 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Gruyère 80 → mozzarella baja en grasa 40 g; nata → yogur; passata → tomate asado; aceite 3 → 1 cda.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-frittata-de-tomate
+TITULO: Frittata de Tomate
+CATEGORIA: Verduras - Tomate
+ICONO: 🥗
+SUBSECCION: Tomate
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Huevo
+ETIQUETAS: Italiana, Huevos, Perfil1
+CONCEPTO: Frittata con tomate asado, chalote, ajo asado y albahaca.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Chalote picado — 1
+• Ajo asado picado — ½ diente
+• Tomates pera asados en dados — 300 g
+• Huevos — 6
+• Hojas de albahaca picadas — 4
+PREPARACION:
+1. Rehoga el chalote en el aceite; añade ajo y tomate y cuece 10 minutos.
+2. Vierte los huevos batidos con la albahaca.
+3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
+JUSTIFICACION: Ligera y sabrosa.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~140 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~5 g
+Grasas: ~9 g
+Fibra: ~1 g
+Sodio: ~100 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 3 → 1 cda; tomate asado.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-bunuelos-de-tomate-rebozados
+TITULO: Buñuelos de Tomate Horneados
+CATEGORIA: Verduras - Tomate
+ICONO: 🥗
+SUBSECCION: Tomate
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Rodajas de tomate rebozadas en masa ligera con albahaca y horneadas, en lugar de fritas.
+INGREDIENTES:
+• Harina de avena — 100 g
+• Huevo ligeramente batido — 1
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Tomates maduros pero consistentes en rodajas — 4
+• Hojas de albahaca picadas — 6
+• Agua — 80 ml
+PREPARACION:
+1. Bate harina, huevo, agua y albahaca.
+2. Pasa las rodajas por la masa.
+3. Colócalas en una bandeja con el aceite y hornea 20 minutos a 220 °C.
+JUSTIFICACION: Doradas sin fritura.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~110 kcal (por porción)
+Proteínas: ~4 g
+Carbohidratos: ~14 g
+Grasas: ~4 g
+Fibra: ~2 g
+Sodio: ~20 mg
+IG: Medio
+ADAPTACIÓN:
+• Fritura → horno; harina de avena; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tomates-al-horno
+TITULO: Tomates al Horno
+CATEGORIA: Verduras - Tomate
+ICONO: 🥗
+SUBSECCION: Tomate
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo, Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Tomates rellenos de carne magra y pollo con pan remojado y parmesano, horneados, sin salchichas.
+INGREDIENTES:
+• Tomates por la mitad — 8
+• Rebanada de pan integral sin corteza — 1
+• Leche descremada — 4 cdas
+• Aceite de oliva extra virgen — 1 cdta (5 g, para engrasar)
+• Carne magra cocida picada — 150 g
+• Pechuga de pollo cocida picada — 60 g
+• Parmesano rallado — 20 g
+• Huevo entero — 1
+• Perejil y albahaca picados — al gusto
+• Ajo asado picado — 1 diente
+PREPARACION:
+1. Vacía los tomates; mezcla la pulpa con el pan remojado en leche, las carnes, el parmesano, el huevo, el ajo y las hierbas.
+2. Rellena los tomates y colócalos en una fuente engrasada.
+3. Hornea 30 minutos a 180 °C.
+JUSTIFICACION: Relleno magro y sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchichas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~150 kcal (por porción)
+Proteínas: ~17 g
+Carbohidratos: ~9 g
+Grasas: ~5 g
+Fibra: ~2 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Salchichas → pollo; parmesano 40 → 20 g; pan integral; leche descremada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tomates-gratinados
+TITULO: Tomates Gratinados
+CATEGORIA: Verduras - Tomate
+ICONO: 🥗
+SUBSECCION: Tomate
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Pescado, Gluten
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Tomates gratinados con pan integral rallado, cebolla, atún al natural y perejil, sin anchoas ni alcaparras.
+INGREDIENTES:
+• Tomates por la mitad — 4
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Pan integral rallado — 60 g
+• Cebolla picada — 1
+• Atún al natural desmenuzado — 40 g
+• Perejil picado — al gusto
+PREPARACION:
+1. Rehoga la cebolla con la mitad del aceite 6 minutos; mezcla con pan, atún y perejil.
+2. Cubre los tomates en una fuente engrasada.
+3. Rocía con el aceite y gratina 25 minutos a 190 °C.
+JUSTIFICACION: Sabor marino sin anchoas.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas y alcaparras.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~17 g
+Grasas: ~4 g
+Fibra: ~3 g
+Sodio: ~90 mg
+IG: Medio
+ADAPTACIÓN:
+• Anchoas y alcaparras → atún; aceite 3 → 1 cda; pan 100 → 60 g.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tomates-con-mousse-de-pepino
+TITULO: Tomates con Mousse de Pepino
+CATEGORIA: Verduras - Tomate
+ICONO: 🥗
+SUBSECCION: Tomate
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Frío, Perfil1
+CONCEPTO: Tomates rellenos de una mousse de pepino, ricota baja en grasa y menta, sin claras crudas.
+INGREDIENTES:
+• Tomates — 4
+• Pepinos pequeños pelados y picados — 2
+• Ricota baja en grasa — 200 g
+• Hojas de menta — 4
+• Leche descremada — 2 cdas
+• Tallos de cebollino picados finos — 4
+PREPARACION:
+1. Vacía los tomates.
+2. Tritura pepino, ricota, menta y leche; añade el cebollino.
+3. Rellena y refrigera 1 hora.
+JUSTIFICACION: Fresca, sin clara cruda montada.
+ADVERTENCIAS: Es una evocación: sin claras montadas crudas.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~9 g
+Carbohidratos: ~8 g
+Grasas: ~3 g
+Fibra: ~2 g
+Sodio: ~90 mg
+IG: Bajo
+ADAPTACIÓN:
+• Claras montadas crudas fuera; ricota baja en grasa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tomates-con-berenjena
+TITULO: Tomates con Berenjena
+CATEGORIA: Verduras - Tomate
+ICONO: 🥗
+SUBSECCION: Tomate
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Ninguno conocido
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Tomates rellenos de berenjena asada con ajo asado, cebolleta, albahaca y aliño de naranja, sin vinagre ni alcaparras.
+INGREDIENTES:
+• Tomates — 4
+• Aceite de oliva extra virgen — 1 cda (10 g)
+• Berenjena pelada, en dados y asada — 1
+• Ajo asado picado — 1 diente
+• Cebolleta picada fina — 1
+• Albahaca picada — al gusto
+• Zumo de naranja — 3 cdas
+PREPARACION:
+1. Vacía los tomates.
+2. Mezcla berenjena, ajo, cebolleta, albahaca, aceite y naranja.
+3. Rellena y reposa 30 minutos.
+JUSTIFICACION: Fresca y sin vinagre.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~90 kcal (por porción)
+Proteínas: ~2 g
+Carbohidratos: ~12 g
+Grasas: ~3 g
+Fibra: ~4 g
+Sodio: ~15 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 2 → 1 cda; vinagre y alcaparras → naranja; berenjena asada.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tomates-con-calabacin
+TITULO: Tomates con Calabacín
+CATEGORIA: Verduras - Tomate
+ICONO: 🥗
+SUBSECCION: Tomate
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Tomates y calabacín horneados con mozzarella baja en grasa, perejil, ajo asado y orégano.
+INGREDIENTES:
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Tomates — 8
+• Calabacines limpios en rodajas — 2
+• Perejil picado — 1 cda
+• Ajo asado picado — 1 diente
+• Mozzarella baja en grasa en lonchas — 100 g
+• Orégano seco — ½ cdta
+PREPARACION:
+1. Alterna tomate y calabacín en una fuente engrasada.
+2. Espolvorea con perejil, ajo y orégano y cubre con el queso y el aceite.
+3. Hornea 30 minutos a 190 °C.
+JUSTIFICACION: Ligero y mediterráneo.
+ADVERTENCIAS: Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~6 g
+Carbohidratos: ~9 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~110 mg
+IG: Bajo
+ADAPTACIÓN:
+• Aceite 4 → 1 cda; mozzarella 200 → 100 g baja en grasa.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tomates-con-robiola
+TITULO: Tomates con Queso Suave
+CATEGORIA: Verduras - Tomate
+ICONO: 🥗
+SUBSECCION: Tomate
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Tomates rellenos de queso fresco bajo en grasa y queso azul suave con salsa de tomate asado y pimentón dulce, en lugar de robiola y vodka.
+INGREDIENTES:
+• Tomates por la mitad — 4
+• Queso fresco bajo en grasa en dados — 80 g
+• Queso azul suave desmenuzado — 15 g
+• Aceite de oliva extra virgen — 1 cdta (5 g)
+• Tomates pera asados picados — 4
+• Pimentón dulce — 1 pizca
+• Tallos de cebollino picados — 4
+• Zumo de naranja reducido — 2 cdas
+PREPARACION:
+1. Cuece el tomate asado con aceite, pimentón y naranja 10 minutos.
+2. Rellena los tomates con los quesos y colócalos en una fuente.
+3. Hornea 15 minutos a 180 °C y sirve con la salsa y el cebollino.
+JUSTIFICACION: Cremosos con mucho menos queso graso.
+ADVERTENCIAS: Es una evocación: queso fresco en lugar de robiola; naranja en lugar de vodka.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~7 g
+Carbohidratos: ~8 g
+Grasas: ~4 g
+Fibra: ~2 g
+Sodio: ~140 mg
+IG: Bajo
+ADAPTACIÓN:
+• Robiola y gorgonzola reducidos; vodka → naranja reducida; mantequilla → aceite.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tomates-con-beicon-al-gratin
+TITULO: Tomates con Pollo al Gratín
+CATEGORIA: Verduras - Tomate
+ICONO: 🥗
+SUBSECCION: Tomate
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Gluten, Huevo
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Tomates gratinados con champiñones, cebolla, pollo y hierbas, en lugar de beicon.
+INGREDIENTES:
+• Tomates por la mitad — 4
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Champiñones picados finos — 150 g
+• Cebolla picada fina — 1
+• Pechuga de pollo cocida picada fina — 100 g
+• Tomillo, perejil y mejorana picados — 1 cda de cada uno
+• Huevo ligeramente batido — 1
+• Pan integral rallado — 40 g
+PREPARACION:
+1. Rehoga cebolla, champiñones y pollo en el aceite 8 minutos; mezcla con hierbas y huevo.
+2. Rellena los tomates en una fuente engrasada y cubre con el pan.
+3. Hornea 25 minutos a 190 °C.
+JUSTIFICACION: Sin embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de beicon.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~130 kcal (por porción)
+Proteínas: ~12 g
+Carbohidratos: ~10 g
+Grasas: ~5 g
+Fibra: ~3 g
+Sodio: ~60 mg
+IG: Bajo
+ADAPTACIÓN:
+• Beicon → pollo; aceite 3 → 1 cda; pan integral.
+--FIN_RECETA--
+
+--RECETA--
+ID: p1-tomates-rellenos-de-pecorino
+TITULO: Tomates Rellenos de Queso
+CATEGORIA: Verduras - Tomate
+ICONO: 🥗
+SUBSECCION: Tomate
+SECCION: Verduras
+PORCIONES: 4
+TIPO: Almuerzo
+RIESGOS: Lácteos
+ETIQUETAS: Italiana, Verduras, Perfil1
+CONCEPTO: Tomates rellenos de queso fresco bajo en grasa y parmesano con orégano, en lugar de pecorino.
+INGREDIENTES:
+• Tomates — 8
+• Aceite de oliva extra virgen — 1 cda (10 g, y un poco para engrasar)
+• Queso fresco bajo en grasa desmenuzado — 120 g
+• Parmesano rallado — 30 g
+• Orégano seco — al gusto
+PREPARACION:
+1. Vacía los tomates y mezcla la pulpa con el queso fresco y el orégano.
+2. Rellena, espolvorea con parmesano y colócalos en una fuente engrasada.
+3. Hornea 25 minutos a 190 °C.
+JUSTIFICACION: Sabor a queso con menos sodio.
+ADVERTENCIAS: Es una evocación: queso fresco y parmesano en lugar de pecorino.|Sin sal añadida.
+VALOR_NUTRICIONAL:
+Calorías: ~100 kcal (por porción)
+Proteínas: ~8 g
+Carbohidratos: ~7 g
+Grasas: ~5 g
+Fibra: ~2 g
+Sodio: ~150 mg
+IG: Bajo
+ADAPTACIÓN:
+• Pecorino 300 → queso fresco bajo en grasa y parmesano 150 g; aceite 3 → 1 cda.
 --FIN_RECETA--
