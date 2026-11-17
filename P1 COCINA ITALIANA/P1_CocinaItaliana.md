@@ -3,7 +3,7 @@
 # Una receta por bloque --RECETA-- … --FIN_RECETA--. Lo que está fuera de los bloques se ignora.
 # Cada receta lleva la etiqueta «Perfil1». Los ID empiezan con «p1-» (el original italiano empieza con «it-»).
 # Valores nutricionales estimados por porción (tablas de composición estándar).
-# Recetas en el orden del libro original. Lote 5: posiciones 1 a 1000.
+# Recetas en el orden del libro original. Lote 5: posiciones 1 a 1000. Retoque: «¿Por qué funciona?» (original vs. adaptación) y Advertencias dirigidas al Perfil1 en todas las recetas.
 
 --RECETA--
 ID: p1-bruschetta-tomate
@@ -30,8 +30,8 @@ PREPARACION:
 2. Pica el tomate asado, mézclalo con la mitad del aceite, la sal y la albahaca rota a mano. Pela el ajo asado y májalo hasta hacer una pasta.
 3. Hornea las rebanadas 5-6 minutos a 180 °C, hasta que estén tostadas por fuera y aún suaves por dentro; úntalas con la pasta de ajo.
 4. Reparte el tomate y el queso sobre el pan, riega con el aceite restante y sirve tibio.
-JUSTIFICACION: El tomate asado concentra su dulzor y el ajo asado se vuelve cremoso: el mismo sabor de la bruschetta de siempre, con una textura más suave.
-ADVERTENCIAS: Sírvela justo después de armarla para que el pan no se ablande.|Tuesta el pan sin endurecerlo: debe quedar crujiente por fuera y tierno por dentro.
+JUSTIFICACION: Frente al original pierde el frescor ácido y el crujido de la corteza dura, pero gana un tomate jugoso y dulce y un ajo cremoso que sabe a la misma merienda. Para el Perfil1 el tomate asado y el pan integral blando son más amables con la digestión y dan una energía más sostenida.
+ADVERTENCIAS: Sírvela justo después de armarla para que el pan no se ablande.|Tuesta el pan sin endurecerlo: debe quedar crujiente por fuera y tierno por dentro.|Come despacio y mastica bien.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Si el pan integral se enfría y endurece, caliéntalo 1 minuto antes de armar.
 VALOR_NUTRICIONAL:
 Calorías: ~205 kcal (por porción)
 Proteínas: ~9 g
@@ -71,8 +71,8 @@ PREPARACION:
 2. Alterna tomate y mozzarella en una fuente, ligeramente superpuestos.
 3. Reparte la albahaca, la sal y la pimienta blanca, y riega con el aceite.
 4. Deja reposar 10 minutos a temperatura ambiente antes de servir.
-JUSTIFICACION: El asado concentra el dulzor del tomate y baja su acidez, y el queso fresco aporta la cremosidad de siempre.
-ADVERTENCIAS: Sirve tibia o a temperatura ambiente; fría pierde sabor.
+JUSTIFICACION: El tomate asado cambia el frescor crudo por un dulzor concentrado, y el queso fresco bajo en grasa es menos elástico que la mozzarella pero igual de lácteo y suave. Para el Perfil1 se queda con la esencia del plato, con menos acidez y menos grasa saturada.
+ADVERTENCIAS: Sirve tibia o a temperatura ambiente; fría pierde sabor.|Come despacio y mastica bien.|Usa lácteos bajos en grasa.|Una porción pequeña de queso basta: aquí el sabor lo da el tomate.
 VALOR_NUTRICIONAL:
 Calorías: ~155 kcal (por porción)
 Proteínas: ~10 g
@@ -116,8 +116,8 @@ PREPARACION:
 2. Sofríe la cebolla y el apio en el aceite restante 8 minutos, hasta que estén blandos y dulces.
 3. Añade el tomate y cocina 12 minutos; incorpora las aceitunas, las alcaparras y la berenjena.
 4. Agrega el vinagre y la stevia y cocina 5 minutos más para que el ácido se atenúe. Deja reposar, añade las almendras y sirve tibia o fría con albahaca.
-JUSTIFICACION: El equilibrio de dulce, ácido y salado es el sello siciliano; aquí lo da el tomate bien cocido, con apenas un toque de vinagre.
-ADVERTENCIAS: Mejora tras una noche en la nevera.|Sírvela como guarnición o antipasto junto a una proteína.
+JUSTIFICACION: Pierde el pico ácido y el carácter salado de la caponata clásica, pero la berenjena horneada queda melosa y el equilibrio dulce-salado se mantiene en suave. Para el Perfil1 el vinagre mínimo cocinado, la stevia y las alcaparras enjuagadas evitan irritar y no elevan el azúcar.
+ADVERTENCIAS: Mejora tras una noche en la nevera.|Sírvela como guarnición o antipasto junto a una proteína.|Come despacio y mastica bien.|Es rico en fibra: bebe agua a lo largo del día.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Es una guarnición, no el plato principal.
 VALOR_NUTRICIONAL:
 Calorías: ~165 kcal (por porción)
 Proteínas: ~4 g
@@ -163,8 +163,8 @@ PREPARACION:
 2. Añade batata, calabacín, tomate, sal y el agua; cocina 30 minutos a fuego suave.
 3. Incorpora las caraotas y la pasta y cocina hasta que la pasta esté tierna.
 4. Sirve caliente con el parmesano y un hilo de aceite.
-JUSTIFICACION: Una sopa completa: verduras, legumbre y cereal en un solo plato, con fibra suave que protege el estómago.
-ADVERTENCIAS: Espesa más al reposar; añade agua caliente si hace falta.|Remoja las caraotas 8-12 horas con cambio de agua para que den menos gases.
+JUSTIFICACION: Mantiene el cuerpo y la mezcla de verduras de siempre; la batata aporta un dulzor que la papa no tenía y la pasta integral se nota algo más firme. Para el Perfil1 es un plato completo y suave, con fibra y menos almidón de absorción rápida.
+ADVERTENCIAS: Espesa más al reposar; añade agua caliente si hace falta.|Remoja las caraotas 8-12 horas con cambio de agua para que den menos gases.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Es rico en fibra: bebe agua a lo largo del día.|Come despacio y mastica bien.|Come primero las verduras y la legumbre, la pasta al final.
 VALOR_NUTRICIONAL:
 Calorías: ~275 kcal (por porción)
 Proteínas: ~11 g
@@ -209,8 +209,8 @@ PREPARACION:
 2. Añade el tomate y la mitad de las caraotas; cocina 15 minutos con el agua.
 3. Tritura con batidora la mitad de la sopa y devuélvela a la olla.
 4. Agrega la pasta y cocina hasta que esté tierna; sirve con un hilo de aceite crudo.
-JUSTIFICACION: Las caraotas trituradas dan cuerpo cremoso sin necesidad de nata, y su fibra soluble tapiza y calma.
-ADVERTENCIAS: Remoja las caraotas 8-12 horas con cambio de agua.|Espesa al reposar: añade agua caliente si hace falta.
+JUSTIFICACION: Frente al original queda más legumbre que pasta, con una crema espesa de caraotas que da la misma sensación reconfortante. Para el Perfil1 la fibra de las caraotas y la pasta integral dan saciedad con energía estable, y todo va bien cocido.
+ADVERTENCIAS: Remoja las caraotas 8-12 horas con cambio de agua.|Espesa al reposar: añade agua caliente si hace falta.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Come despacio y mastica bien.|No lo recalientes más de una vez.
 VALOR_NUTRICIONAL:
 Calorías: ~330 kcal (por porción)
 Proteínas: ~13 g
@@ -253,8 +253,8 @@ PREPARACION:
 2. Agrega el tomate troceado, el orégano y la sal; cocina 20 minutos a fuego medio-bajo hasta que espese y se vuelva dulce.
 3. Cuece los penne hasta que estén tiernos, escúrrelos y mézclalos con la salsa 1 minuto.
 4. Sirve con perejil y parmesano.
-JUSTIFICACION: Sin guindilla, el ají dulce y el pimentón asado dan intensidad y aroma; la cocción larga del tomate redondea la salsa.
-ADVERTENCIAS: Sírvelo como primer tiempo de un almuerzo, antes de una proteína.|Sin picante: el «enfado» está en el sabor, no en el calor.
+JUSTIFICACION: Sin guindilla pierde el picor que da nombre al plato, pero el pimentón asado y el ají dulce conservan el color, el humo suave y la intensidad. Para el Perfil1 es la versión sin irritantes: la pasta integral rinde más en fibra y baja el efecto sobre la energía.
+ADVERTENCIAS: Sírvelo como primer tiempo de un almuerzo, antes de una proteína.|Sin picante: el «enfado» está en el sabor, no en el calor.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Come despacio y mastica bien.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~260 kcal (por porción)
 Proteínas: ~10 g
@@ -296,8 +296,8 @@ PREPARACION:
 2. Calienta el resto del aceite y deshaz las anchoas en él a fuego muy bajo; añade las aceitunas picadas.
 3. Cuece la pasta tierna, escúrrela y mézclala con la salsa.
 4. Sirve con el pan rallado por encima.
-JUSTIFICACION: El pan dorado en el horno y las almendras dan la textura crocante que otras recetas piden al queso.
-ADVERTENCIAS: No añadas sal: las anchoas y las aceitunas ya salan.|Desala las anchoas 20 minutos en agua fría antes de usarlas.|Sírvelo como primer tiempo de un almuerzo con proteína.
+JUSTIFICACION: El crocante del pan y el sabor de mar de las anchoas se mantienen, aunque más discretos que en el original, porque el pan se hornea con almendras en vez de freírse. Para el Perfil1 se reduce el sodio y la grasa, y la almendra suma proteína.
+ADVERTENCIAS: No añadas sal: las anchoas y las aceitunas ya salan.|Desala las anchoas 20 minutos en agua fría antes de usarlas.|Sírvelo como primer tiempo de un almuerzo con proteína.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Come despacio y mastica bien.|Enjuaga bien las aceitunas antes de usarlas.
 VALOR_NUTRICIONAL:
 Calorías: ~255 kcal (por porción)
 Proteínas: ~8 g
@@ -344,8 +344,8 @@ INGREDIENTES_SALSA_DE_SALVIA:
 PREPARACION_SALSA_DE_SALVIA:
 1. Calienta el aceite con la mantequilla y la salvia a fuego medio-bajo hasta que la salvia perfume, sin que se queme.
 2. Añade las espinacas hasta que se marchiten, agrega los ñoquis 1 minuto y sirve con el parmesano.
-JUSTIFICACION: Hornear las papas en lugar de hervirlas conserva el sabor y da una masa ligera; la batata aporta dulzor y color.
-ADVERTENCIAS: Amasa lo mínimo: demasiada manipulación los vuelve duros.|Sírvelos como primer tiempo de un almuerzo, antes de una proteína.|Si no tienes salvia, usa romero o tomillo.
+JUSTIFICACION: Quedan un poco más dulces y algo menos ligeros que los de papa sola, pero la salvia y la mantequilla (aquí aceite con un toque) siguen siendo el aroma de siempre. Para el Perfil1 la batata y la harina integral bajan el impacto sobre la energía.
+ADVERTENCIAS: Amasa lo mínimo: demasiada manipulación los vuelve duros.|Sírvelos como primer tiempo de un almuerzo, antes de una proteína.|Si no tienes salvia, usa romero o tomillo.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Come despacio y mastica bien.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~330 kcal (por porción)
 Proteínas: ~10 g
@@ -389,8 +389,8 @@ PREPARACION:
 2. Sofríe la cebolla, el pimentón, el ajo y el romero 8 minutos, hasta que la cebolla esté transparente y dulce.
 3. Añade la pasta de tomate y cocínala 2 minutos; vierte el caldo, añade el tomate y devuelve el pollo.
 4. Tapa y cocina 40 minutos a fuego bajo, hasta que la salsa espese y el pollo esté tierno; añade las aceitunas al final.
-JUSTIFICACION: Sin vino, la pasta de tomate cocida y el caldo dan la profundidad que antes daba el vino; la salsa sigue pidiendo pan para mojar.
-ADVERTENCIAS: Comprueba que el pollo esté bien cocido por dentro.|Cocina el tomate el tiempo completo: así la salsa queda dulce y redonda.
+JUSTIFICACION: Sin vino pierde la nota ácida del fondo, pero la pasta de tomate cocida y el caldo dan una salsa profunda y el pollo sale igual de jugoso. Para el Perfil1 la salsa es suave, sin alcohol y con la cebolla, el ajo y el tomate completamente cocidos.
+ADVERTENCIAS: Comprueba que el pollo esté bien cocido por dentro.|Cocina el tomate el tiempo completo: así la salsa queda dulce y redonda.|Sírvelo tibio, ni muy caliente ni frío.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~41 g
@@ -429,8 +429,8 @@ PREPARACION:
 1. Aplana los escalopes, coloca una ramita de tomillo y una loncha de queso sobre cada uno y fija con un palillo.
 2. Pasa solo el lado del pollo por la harina de avena y dora 2 minutos por lado en el aceite y la mantequilla, empezando por el lado del queso.
 3. Retira, vierte el caldo en el sartén y reduce 2 minutos raspando el fondo; baña el pollo y sirve.
-JUSTIFICACION: Cocción rapidísima: el pollo queda tierno y el queso dorado aporta el punto salado y cremoso que daba el jamón.
-ADVERTENCIAS: No añadas sal: el queso ya sala.|Cocina a fuego medio; el queso no debe quemarse.
+JUSTIFICACION: Pierde el aroma curado del jamón, pero el queso fresco dorado aporta sal y una untuosidad parecida, y la pechuga queda tierna con cocción rápida. Para el Perfil1 se evita el embutido y el alcohol, con proteína magra.
+ADVERTENCIAS: No añadas sal: el queso ya sala.|Cocina a fuego medio; el queso no debe quemarse.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Come despacio y mastica bien.|Cocina a fuego medio: el queso fresco se quema fácil.
 VALOR_NUTRICIONAL:
 Calorías: ~210 kcal (por porción)
 Proteínas: ~27 g
@@ -472,8 +472,8 @@ PREPARACION:
 2. Sazona los filetes con la sal, pásalos por el huevo y luego por el empanizado, presionando bien.
 3. Derrite la mantequilla con el aceite, pincela la bandeja caliente y coloca los filetes.
 4. Hornea 10 minutos por lado, hasta que estén dorados y cocidos por dentro. Sirve enseguida.
-JUSTIFICACION: El empanizado protege la carne y la mantiene jugosa; la linaza lo vuelve más nutritivo sin cambiar su crocante.
-ADVERTENCIAS: No amontones los filetes en la bandeja: así se doran en vez de ablandarse.
+JUSTIFICACION: Se pierde el dorado mantecoso de la fritura, pero la costra de pan integral y linaza queda crujiente al horno y la carne se mantiene jugosa. Para el Perfil1 es la misma idea sin fritura, con menos grasa y más fibra.
+ADVERTENCIAS: No amontones los filetes en la bandeja: así se doran en vez de ablandarse.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~290 kcal (por porción)
 Proteínas: ~35 g
@@ -515,8 +515,8 @@ PREPARACION:
 2. Reparte tomates, aceitunas, alcaparras y ajo en una fuente; coloca encima los filetes con una pizca de sal.
 3. Riega con el aceite y el caldo, tapa con papel de aluminio y hornea 15 minutos; destapa 3 minutos más.
 4. Sirve con el jugo de la fuente y el perejil.
-JUSTIFICACION: Cocina ligera y llena de sabor, con la salsa hecha en la misma bandeja; el tomate horneado se vuelve dulce y reemplaza el brillo del vino.
-ADVERTENCIAS: Revisa que no queden espinas.|Con el ajo laminado bien horneado, se vuelve suave y dulce.
+JUSTIFICACION: Conserva el sabor de mar y la salsa que se hace en la misma bandeja; las aceitunas, enjuagadas, dan menos sal y el vino se cambia por caldo. Para el Perfil1 es un plato magro, sin alcohol ni frituras, con tomate bien horneado.
+ADVERTENCIAS: Revisa que no queden espinas.|Con el ajo laminado bien horneado, se vuelve suave y dulce.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.|Come despacio y mastica bien.|Revisa dos veces que no queden espinas antes de servir.
 VALOR_NUTRICIONAL:
 Calorías: ~245 kcal (por porción)
 Proteínas: ~32 g
@@ -557,8 +557,8 @@ PREPARACION:
 2. Sofríe la cebolla con el aceite restante hasta que esté dulce, añade el tomate y cocina 20 minutos; incorpora la albahaca.
 3. Monta en una fuente capas de salsa, berenjena, mozzarella y parmesano.
 4. Hornea 30 minutos a 190 °C hasta que gratine. Reposa 10 minutos.
-JUSTIFICACION: Asar la berenjena en lugar de freírla reduce la grasa sin perder sabor, y el tomate bien cocido queda dulce y sin acidez.
-ADVERTENCIAS: Mejora al día siguiente, recalentada.|Sírvela como plato principal acompañada de una ensalada suave.
+JUSTIFICACION: La berenjena asada queda menos grasosa y más firme que la frita, y la salsa más dulce por el tomate cocido largo; sigue siendo capas de queso fundido. Para el Perfil1 baja mucho la grasa y el sodio, y es un plato de verdura con proteína.
+ADVERTENCIAS: Mejora al día siguiente, recalentada.|Sírvela como plato principal acompañada de una ensalada suave.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~275 kcal (por porción)
 Proteínas: ~15 g
@@ -594,8 +594,8 @@ PREPARACION:
 1. Lava las espinacas y escúrrelas sin secar del todo.
 2. Calienta el aceite con el ajo a fuego bajo 2 minutos, sin que dore, hasta que esté suave y dulce.
 3. Añade las espinacas por tandas y cocina 3 minutos hasta que se reduzcan; sala y espolvorea el ajonjolí.
-JUSTIFICACION: Verdura de hoja en 5 minutos, con grasa buena del aceite, y el ajonjolí aporta zinc y un toque crujiente.
-ADVERTENCIAS: Cocina el ajo a fuego bajo: debe quedar suave, no tostado.
+JUSTIFICACION: Casi idénticas al original: hojas tiernas y ajo suave, con el ajonjolí aportando un crocante nuevo. Para el Perfil1 el ajo se cocina a fondo para que no irrite y la verdura de hoja aporta hierro y fibra.
+ADVERTENCIAS: Cocina el ajo a fuego bajo: debe quedar suave, no tostado.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~5 g
@@ -631,8 +631,8 @@ PREPARACION:
 1. Hierve las papas en trozos 8 minutos, escúrrelas y déjalas enfriar 30 minutos (así el almidón se vuelve más resistente).
 2. Precalienta el horno a 210 °C. Mezcla papas, batata, aceite, sal, romero y ajo en una bandeja.
 3. Hornea 35 minutos, removiendo a mitad, hasta que doren por fuera.
-JUSTIFICACION: Crujientes sin fritura; la papa precocida y enfriada y la batata hacen el plato más amable con la glicemia.
-ADVERTENCIAS: Sírvelas junto a una proteína; no las comas solas.
+JUSTIFICACION: Dan el exterior crujiente de las papas al horno con un dulzor nuevo de la batata, y el romero mantiene el aroma. Para el Perfil1 la mezcla y la papa enfriada suben la fibra y moderan el efecto en la energía.
+ADVERTENCIAS: Sírvelas junto a una proteína; no las comas solas.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~210 kcal (por porción)
 Proteínas: ~4 g
@@ -686,8 +686,8 @@ PREPARACION_BIZCOCHOS:
 2. Mezcla la harina de avena, la de almendras y el polvo de hornear; incorpóralos a las yemas.
 3. Monta las claras a punto de nieve e incorpóralas en dos tandas con movimientos envolventes.
 4. Forma «dedos» de 8-10 cm sobre una bandeja con papel y hornea 12 minutos, hasta que estén firmes y apenas dorados. Déjalos secar 1 hora para que absorban bien el café.
-JUSTIFICACION: La crema de yemas cocidas da la untuosidad del mascarpone con el yogur escurrido, y el cacao puro conserva el amargor del clásico.
-ADVERTENCIAS: Mejora tras 6 horas de nevera: prepáralo el día anterior.|Moja los bizcochos solo un instante: son más tiernos que la soletilla y se deshacen.|Si prefieres, sustituye el café por infusión de cebada tostada.
+JUSTIFICACION: Frente al original es menos denso y menos graso: el yogur con queso fresco imita el mascarpone con una nota más fresca, y los bizcochos de avena son más rústicos. Para el Perfil1 las yemas van cocidas y el azúcar se sustituye por stevia.
+ADVERTENCIAS: Mejora tras 6 horas de nevera: prepáralo el día anterior.|Moja los bizcochos solo un instante: son más tiernos que la soletilla y se deshacen.|Si prefieres, sustituye el café por infusión de cebada tostada.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~10 g
@@ -732,8 +732,8 @@ INGREDIENTES_SALSA_DE_FRUTOS_ROJOS:
 • Stevia en polvo — ¼ cdta
 PREPARACION_SALSA_DE_FRUTOS_ROJOS:
 1. Cocina las frutas con la stevia 5 minutos hasta que suelten su jugo y aplasta ligeramente.
-JUSTIFICACION: Postre muy sencillo: la textura delicada depende de la proporción de gelatina; el yogur da la frescura que antes daba la nata.
-ADVERTENCIAS: No dejes hervir la leche con la gelatina.|Incorpora el yogur con la mezcla ya tibia, no caliente, para que no se corte.
+JUSTIFICACION: Queda algo menos untuosa que la clásica de nata, con un frescor lácteo que la hace ligera y una textura temblorosa parecida. Para el Perfil1 baja la grasa saturada y el azúcar, y la salsa de frutos rojos va con stevia.
+ADVERTENCIAS: No dejes hervir la leche con la gelatina.|Incorpora el yogur con la mezcla ya tibia, no caliente, para que no se corte.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~4 g
@@ -776,8 +776,8 @@ PREPARACION:
 3. Incorpora las almendras, el cacao y el polvo de hornear.
 4. Monta las claras a punto de nieve e incorpóralas con movimientos suaves.
 5. Hornea 40 minutos hasta que una brocheta salga casi limpia. Enfría del todo antes de desmoldar.
-JUSTIFICACION: Sin harina: la humedad viene de las almendras, el yogur y la manzana, que reemplazan la mantequilla y el azúcar.
-ADVERTENCIAS: Deja enfriar del todo: es muy frágil caliente.|Porción pequeña: es densa y sustanciosa.
+JUSTIFICACION: Sin harina conserva la miga húmeda y densa de la torta original, con un sabor a cacao más amargo y menos dulce. Para el Perfil1 el cacao sin azúcar, las almendras y el yogur dan saciedad y poca carga glucémica.
+ADVERTENCIAS: Deja enfriar del todo: es muy frágil caliente.|Porción pequeña: es densa y sustanciosa.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.|Deja que se enfríe por completo antes de cortarla: caliente se desmorona.
 VALOR_NUTRICIONAL:
 Calorías: ~240 kcal (por porción)
 Proteínas: ~9 g
@@ -818,8 +818,8 @@ INGREDIENTES_YOGUR_HELADO_DE_VAINILLA:
 PREPARACION_YOGUR_HELADO_DE_VAINILLA:
 1. Mezcla el yogur con la stevia y la vainilla y congela en un recipiente plano 4 horas, removiendo con un tenedor cada hora para que quede cremoso.
 2. Pasa a la nevera 15 minutos antes de servir.
-JUSTIFICACION: El contraste entre lo frío y lo tibio es todo el truco; el yogur reemplaza el helado comercial sin azúcar añadida.
-ADVERTENCIAS: Tómalo después de haber comido, nunca en ayunas.|Es una taza pequeña de café por porción: cuenta dentro de tu límite diario.|Sírvelo al momento: el yogur se derrite rápido.
+JUSTIFICACION: Pierde la intensidad del espresso caliente sobre helado, pero el contraste frío-tibio se mantiene con el yogur helado y un café suave. Para el Perfil1 es un postre mucho más liviano, sin azúcar añadida y con un café flojo en poca cantidad.
+ADVERTENCIAS: Tómalo después de haber comido, nunca en ayunas.|Es una taza pequeña de café por porción: cuenta dentro de tu límite diario.|Sírvelo al momento: el yogur se derrite rápido.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.|Toma el café flojo y en poca cantidad; si te cae fuerte, usa solo infusión tibia.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~5 g
@@ -860,8 +860,8 @@ PREPARACION:
 2. Forma dos barras de 4 cm de ancho y hornea 25 minutos a 180 °C.
 3. Deja enfriar 10 minutos y corta en diagonal en rodajas de 1,5 cm.
 4. Vuelve a hornear las rodajas 10 minutos por lado a 160 °C hasta que sequen.
-JUSTIFICACION: La doble cocción los hace crujientes y de larga duración; la ralladura de naranja aporta aroma sin acidez.
-ADVERTENCIAS: Se conservan semanas en un frasco hermético.|Mójalos en infusión de manzanilla tibia o leche tibia antes de comerlos: así no raspan.
+JUSTIFICACION: Mantienen la doble cocción crujiente y el aroma de almendra y naranja, aunque algo más rústicos por la harina integral. Para el Perfil1 la stevia evita el pico de azúcar y las almendras sin piel son más suaves.
+ADVERTENCIAS: Se conservan semanas en un frasco hermético.|Mójalos en infusión de manzanilla tibia o leche tibia antes de comerlos: así no raspan.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.|Mójalos en infusión tibia, nunca en bebidas calientes fuertes.
 VALOR_NUTRICIONAL:
 Calorías: ~155 kcal (por porción)
 Proteínas: ~6 g
@@ -899,8 +899,8 @@ PREPARACION:
 2. Añade el ajo y cocínalo sin dorar durante 8 minutos, hasta que esté muy suave.
 3. Incorpora las anchoas y deshazlas con una cuchara de madera hasta formar una crema; añade la auyama y mezcla bien.
 4. Sirve tibia en un cazo con verduras cocidas para mojar (zanahoria, calabacín, chayote, batata).
-JUSTIFICACION: Todo se cocina a fuego bajo: el ajo se ablanda en vez de amargarse y la auyama da cuerpo sin añadir más grasa.
-ADVERTENCIAS: Desala las anchoas 20 minutos en agua fría antes de usarlas.|Moja verduras cocidas, no crudas: son más suaves.
+JUSTIFICACION: Es menos salada y más cremosa que la piamontesa, con la auyama aportando cuerpo y un dulzor suave. Para el Perfil1 el ajo cocinado largo es más suave y las verduras cocidas son más fáciles de digerir que las crudas.
+ADVERTENCIAS: Desala las anchoas 20 minutos en agua fría antes de usarlas.|Moja verduras cocidas, no crudas: son más suaves.|Come despacio y mastica bien.|Es rico en fibra: bebe agua a lo largo del día.|Desala las anchoas como indica la receta; no añadas sal.
 VALOR_NUTRICIONAL:
 Calorías: ~200 kcal (por porción)
 Proteínas: ~3 g
@@ -939,8 +939,8 @@ PREPARACION:
 2. Vierte la leche tibia en hilo mientras bates para evitar grumos.
 3. Cocina 15-20 minutos a fuego bajo, removiendo, hasta obtener una crema que cubra la cuchara.
 4. Rectifica con la sal y la nuez moscada.
-JUSTIFICACION: El roux espesa la leche sin grumos si ésta se añade poco a poco; la avena lo vuelve más amable y con fibra soluble.
-ADVERTENCIAS: Es un poco menos blanca y más rústica que la bechamel clásica.|Se espesa al enfriar: añade leche tibia si hace falta.
+JUSTIFICACION: Un poco menos blanca y más rústica por la avena, pero igual de sedosa y de sabor lácteo. Para el Perfil1 baja la grasa y la sal, y sirve de base para las demás salsas blancas.
+ADVERTENCIAS: Es un poco menos blanca y más rústica que la bechamel clásica.|Se espesa al enfriar: añade leche tibia si hace falta.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~6 g
@@ -984,8 +984,8 @@ PREPARACION_BECHAMEL_BASE:
 1. Derrite la mantequilla con el aceite y mezcla la harina de avena sin dejar que tome color.
 2. Vierte la leche tibia poco a poco, batiendo, y cocina 15-20 minutos hasta que espese y no sepa a harina cruda.
 3. Sazona con una pizca de sal y de nuez moscada.
-JUSTIFICACION: Evaporar el agua de los champiñones concentra su sabor, y el yogur da la cremosidad de la nata con menos grasa.
-ADVERTENCIAS: Añade el yogur fuera del fuego y sin hervir, o se corta.
+JUSTIFICACION: El champiñón dorado da una nota terrosa y el yogur una frescura ligera en lugar de la nata densa. Para el Perfil1 es mucho menos grasa con el mismo cuerpo cremoso.
+ADVERTENCIAS: Añade el yogur fuera del fuego y sin hervir, o se corta.|Come despacio y mastica bien.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~175 kcal (por porción)
 Proteínas: ~8 g
@@ -1031,8 +1031,8 @@ PREPARACION_BECHAMEL_BASE:
 1. Derrite la mantequilla con el aceite y mezcla la harina de avena sin dejar que tome color.
 2. Vierte la leche tibia poco a poco, batiendo, y cocina 15-20 minutos hasta que espese y no sepa a harina cruda.
 3. Sazona con una pizca de sal.
-JUSTIFICACION: El agua aligera la salsa y la ralladura la despierta; el zumo, poco y cocido, queda suave.
-ADVERTENCIAS: Sírvela con pescado o huevos, nunca sola.|El zumo se cocina 1 minuto con la salsa para atenuar su acidez.
+JUSTIFICACION: Pierde el chispazo ácido del limón, pero la ralladura aporta aroma cítrico sin acidez. Para el Perfil1 el zumo va cocinado y mínimo, en una salsa suave.
+ADVERTENCIAS: Sírvela con pescado o huevos, nunca sola.|El zumo se cocina 1 minuto con la salsa para atenuar su acidez.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~3 g
@@ -1072,8 +1072,8 @@ PREPARACION_BECHAMEL_BASE:
 1. Derrite la mantequilla con el aceite y mezcla la harina de avena sin dejar que tome color.
 2. Vierte la leche tibia poco a poco, batiendo, y cocina 15-20 minutos hasta que espese y no sepa a harina cruda.
 3. Sazona con una pizca de sal y de nuez moscada.
-JUSTIFICACION: El yogur aporta la acidez cremosa de la nata con una fracción de la grasa.
-ADVERTENCIAS: Añade el yogur fuera del fuego, o se corta.|Si va a gratinar, el calor del horno lo asienta sin problema.
+JUSTIFICACION: El yogur espeso reemplaza la nata y deja una cremosidad ligeramente ácida, más fresca que rica. Para el Perfil1 reduce la grasa de unos 425 a 150 kcal por porción.
+ADVERTENCIAS: Añade el yogur fuera del fuego, o se corta.|Si va a gratinar, el calor del horno lo asienta sin problema.|Sírvelo tibio, ni muy caliente ni frío.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~8 g
@@ -1115,8 +1115,8 @@ PREPARACION_BECHAMEL_BASE:
 1. Derrite la mantequilla con el aceite y mezcla la harina de avena sin dejar que tome color.
 2. Vierte la leche tibia poco a poco, batiendo, y cocina 15-20 minutos hasta que espese y no sepa a harina cruda.
 3. Sazona con una pizca de sal y de nuez moscada.
-JUSTIFICACION: La cebolleta cocida a fondo da dulzor, y el pimentón dulce aporta color y aroma sin picor.
-ADVERTENCIAS: Si usas pimentón ahumado, que sea suave y en pizca.
+JUSTIFICACION: Mantiene el color rosado y el dulzor del pimentón, aunque sin el picor si el original lo tenía. Para el Perfil1 va con cebolleta cocida a fondo, sin irritantes.
+ADVERTENCIAS: Si usas pimentón ahumado, que sea suave y en pizca.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~145 kcal (por porción)
 Proteínas: ~6 g
@@ -1161,8 +1161,8 @@ PREPARACION_BECHAMEL_BASE:
 1. Derrite la mantequilla con el aceite y mezcla la harina de avena sin dejar que tome color.
 2. Vierte la leche tibia poco a poco, batiendo, y cocina 15-20 minutos hasta que espese y no sepa a harina cruda.
 3. Sazona con una pizca de sal y de nuez moscada.
-JUSTIFICACION: La cúrcuma pone el color, el ajonjolí tostado aporta un amargor ligero y la ralladura el aroma.
-ADVERTENCIAS: Es una evocación de la original: no tiene el picor de la mostaza.
+JUSTIFICACION: Evoca el color y el contraste de la salsa con mostaza, sin el picor: la cúrcuma pone el dorado y el ajonjolí el toque amargo. Para el Perfil1 se evita la mostaza picante.
+ADVERTENCIAS: Es una evocación de la original: no tiene el picor de la mostaza.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~3 g
@@ -1206,8 +1206,8 @@ PREPARACION_BECHAMEL_BASE:
 1. Derrite la mantequilla con el aceite y mezcla la harina de avena sin dejar que tome color.
 2. Vierte la leche tibia poco a poco, batiendo, y cocina 15-20 minutos hasta que espese y no sepa a harina cruda.
 3. Sazona con una pizca de sal y de nuez moscada.
-JUSTIFICACION: Salsa fresca y cremosa; el yogur y la ralladura dan frescor sin el ácido del zumo.
-ADVERTENCIAS: Sírvela tibia, no hirviendo.
+JUSTIFICACION: Es fresca y ligera, con eneldo y cúrcuma en lugar de la mostaza; menos ácida que la original. Para el Perfil1 es suave y baja en grasa.
+ADVERTENCIAS: Sírvela tibia, no hirviendo.|Sírvelo tibio, ni muy caliente ni frío.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~9 g
@@ -1253,8 +1253,8 @@ PREPARACION_BECHAMEL_BASE:
 1. Derrite la mantequilla con el aceite y mezcla la harina de avena sin dejar que tome color.
 2. Vierte la leche tibia poco a poco, batiendo, y cocina 15-20 minutos hasta que espese y no sepa a harina cruda.
 3. Sazona con una pizca de sal y de nuez moscada.
-JUSTIFICACION: La yema da brillo y untuosidad; el calor suave la cocina por completo.
-ADVERTENCIAS: No dejes que hierva: la yema se corta.|La yema debe quedar bien cocida.
+JUSTIFICACION: Es más ligera que la clásica, con un queso menos graso y una yema que da brillo y untuosidad. Para el Perfil1 la yema va completamente cocida y el queso fresco reduce la grasa.
+ADVERTENCIAS: No dejes que hierva: la yema se corta.|La yema debe quedar bien cocida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~12 g
@@ -1300,8 +1300,8 @@ PREPARACION_BECHAMEL_BASE:
 1. Derrite la mantequilla con el aceite y mezcla la harina de avena sin dejar que tome color.
 2. Vierte la leche tibia poco a poco, batiendo, y cocina 15-20 minutos hasta que espese y no sepa a harina cruda.
 3. Sazona con una pizca de sal y de nuez moscada.
-JUSTIFICACION: La cebolla cocida lentamente se vuelve dulce y suave; su sabor completo sustituye a la nata.
-ADVERTENCIAS: Cocina la cebolla tapada y a fuego bajo: no debe dorar.
+JUSTIFICACION: La cebolla cocida una hora queda dulce y sedosa, igual que en el original, con una crema más ligera por el yogur. Para el Perfil1 es mucho menos grasa y la cebolla va cocida a fondo, sin irritar.
+ADVERTENCIAS: Cocina la cebolla tapada y a fuego bajo: no debe dorar.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~145 kcal (por porción)
 Proteínas: ~7 g
@@ -1343,8 +1343,8 @@ PREPARACION:
 2. Añade la carne y dórala, deshaciéndola con la cuchara.
 3. Añade la leche y deja que se evapore; incorpora el concentrado y el tomate triturados con la sal.
 4. Tapa y cocina 1 hora y media a fuego muy suave, añadiendo agua caliente si se seca.
-JUSTIFICACION: La leche suaviza la acidez del tomate y la cocción larga da textura de ragù.
-ADVERTENCIAS: Cocina siempre a fuego muy suave y tapado.|Rinde bien para congelar en porciones.
+JUSTIFICACION: Conserva el sabor profundo y la cocción larga del ragú, con la leche suavizando el tomate; es algo menos untuosa sin mantequilla. Para el Perfil1 la carne magra y el tomate muy cocido hacen una salsa suave y sin picante.
+ADVERTENCIAS: Cocina siempre a fuego muy suave y tapado.|Rinde bien para congelar en porciones.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.|Come despacio y mastica bien.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~215 kcal (por porción)
 Proteínas: ~19 g
@@ -1386,8 +1386,8 @@ PREPARACION:
 2. Sube el fuego, añade las carnes y dóralas removiendo.
 3. Baja el fuego y añade el caldo; cocina tapada 1 hora y media.
 4. Al final, fuera del fuego, incorpora el yogur.
-JUSTIFICACION: Sin tomate y sin vino, el sabor viene de las verduras bien rehogadas y la carne dorada lentamente.
-ADVERTENCIAS: Añade el yogur fuera del fuego y sin hervir.
+JUSTIFICACION: Sin panceta ni vino queda más delicada, con el sabor de las verduras rehogadas y la carne magra. Para el Perfil1 se evitan embutidos y alcohol, y el yogur sustituye la nata.
+ADVERTENCIAS: Añade el yogur fuera del fuego y sin hervir.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~245 kcal (por porción)
 Proteínas: ~28 g
@@ -1428,8 +1428,8 @@ PREPARACION:
 2. Añade el pollo y los champiñones y dóralos 8 minutos, removiendo, hasta que el agua se evapore.
 3. Vierte el caldo con el tomillo y reduce 5 minutos a fuego suave.
 4. Retira del fuego, añade la mantequilla y el yogur y mezcla.
-JUSTIFICACION: Los champiñones bien dorados dan el sabor profundo y terroso, y el pollo picado la textura densa de la salsa original.
-ADVERTENCIAS: Cocina bien el pollo hasta que no quede rosado.|Añade el yogur fuera del fuego.
+JUSTIFICACION: El champiñón sustituye el sabor terroso de los higadillos y queda sin la nota metálica de la víscera. Para el Perfil1 se evita la víscera y la grasa, con pollo bien cocido.
+ADVERTENCIAS: Cocina bien el pollo hasta que no quede rosado.|Añade el yogur fuera del fuego.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~14 g
@@ -1468,8 +1468,8 @@ PREPARACION:
 1. Lava las espinacas y cuécelas 5 minutos en su propia agua; escúrrelas muy bien y tritúralas.
 2. Derrite la mantequilla con el aceite, añade la harina de avena y la leche y cocina 10 minutos hasta espesar.
 3. Incorpora el puré de espinacas y sazona con sal y nuez moscada.
-JUSTIFICACION: La avena espesa con suavidad y el puré de espinacas aporta color, hierro y fibra.
-ADVERTENCIAS: Escurre bien las espinacas para que la salsa no quede aguada.
+JUSTIFICACION: Es más rústica por la avena, de un verde profundo con un sabor suave a hierro y leche. Para el Perfil1 es poco grasa y aporta hojas verdes.
+ADVERTENCIAS: Escurre bien las espinacas para que la salsa no quede aguada.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~7 g
@@ -1509,8 +1509,8 @@ PREPARACION:
 1. Cocina el puerro en la mantequilla y el aceite 8 minutos, hasta que esté muy tierno sin dorarse.
 2. Espolvorea la harina, cocina 1 minuto y vierte el caldo poco a poco.
 3. Cuece 10 minutos; retira del fuego y añade la ralladura, el yogur y el perejil.
-JUSTIFICACION: El puerro bien cocido es dulce y delicado; la ralladura reemplaza el brillo del limón.
-ADVERTENCIAS: No hiervas la salsa después de añadir el yogur.
+JUSTIFICACION: El puerro cocido da dulzor delicado y la ralladura sustituye el brillo del limón. Para el Perfil1 es una salsa suave y baja en grasa.
+ADVERTENCIAS: No hiervas la salsa después de añadir el yogur.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~4 g
@@ -1548,8 +1548,8 @@ PREPARACION:
 1. Cuece la cebolla con el caldo hasta que quede reducido a un tercio, muy blanda.
 2. Tritura, devuelve al cazo a fuego muy bajo y monta con la mantequilla trozo a trozo; termina con el aceite.
 3. Añade la ralladura y el perejil.
-JUSTIFICACION: Sin vinagre, la cebolla dulce reducida en caldo da el cuerpo y la ralladura el brillo.
-ADVERTENCIAS: Es más suave y menos ácida que la original.|No dejes que hierva al montar: se corta.
+JUSTIFICACION: Más suave y menos ácida que la clásica con vinagre; mantiene la untuosidad con la cebolla dulce reducida. Para el Perfil1 se evita el vinagre.
+ADVERTENCIAS: Es más suave y menos ácida que la original.|No dejes que hierva al montar: se corta.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~50 kcal (por porción)
 Proteínas: ~1 g
@@ -1589,8 +1589,8 @@ PREPARACION:
 1. Sofríe la cebolla en el aceite y la mantequilla a fuego lento hasta que esté muy tierna.
 2. Añade las especias y la harina y cocina 1 minuto.
 3. Vierte la leche poco a poco y cuece 20 minutos a fuego suave, añadiendo agua si espesa demasiado.
-JUSTIFICACION: Las especias, cocinadas en grasa, dan aroma y color de curry sin necesidad de chile.
-ADVERTENCIAS: Revisa que tus especias no vengan mezcladas con chile o pimienta.|No dejes quemar las especias: 1 minuto basta.
+JUSTIFICACION: Tiene el aroma del curry sin el picante, con cúrcuma, comino y cilantro como base. Para el Perfil1 la mezcla propia evita el chile.
+ADVERTENCIAS: Revisa que tus especias no vengan mezcladas con chile o pimienta.|No dejes quemar las especias: 1 minuto basta.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~3 g
@@ -1626,8 +1626,8 @@ PREPARACION:
 1. Cocina las cebolletas 15 minutos en la mantequilla y el aceite, removiendo, hasta que estén muy blandas.
 2. Tritúralas a puré, devuelve al cazo a fuego muy bajo y mezcla con la yema removiendo 1-2 minutos, hasta que espese.
 3. Añade la albahaca y sazona con una pizca de sal.
-JUSTIFICACION: La cebolleta cocida a fondo es dulce y la yema da cuerpo sedoso.
-ADVERTENCIAS: La yema debe quedar cocida: remueve sin dejar que hierva.
+JUSTIFICACION: Cebolla dulce y sedosa con el cuerpo de la yema, ligeramente más ligera que la original. Para el Perfil1 la yema va completamente cocida.
+ADVERTENCIAS: La yema debe quedar cocida: remueve sin dejar que hierva.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~2 g
@@ -1663,8 +1663,8 @@ PREPARACION:
 1. Cuece la manzana con unas cucharadas de agua hasta que se deshaga.
 2. Tritúrala y mézclala con la mantequilla, la ralladura y la canela.
 3. Fuera del fuego, incorpora el yogur y sirve tibia.
-JUSTIFICACION: La manzana cocida con piel aporta fibra (pectina) y dulzor natural; la canela da calidez en lugar del picante.
-ADVERTENCIAS: Tómala en porción pequeña junto a una proteína, no sola.
+JUSTIFICACION: Queda dulce y especiada, sin el picor del rábano picante, con la canela como contrapunto cálido. Para el Perfil1 la manzana con piel aporta fibra y la salsa no es picante.
+ADVERTENCIAS: Tómala en porción pequeña junto a una proteína, no sola.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~65 kcal (por porción)
 Proteínas: ~2 g
@@ -1700,8 +1700,8 @@ PREPARACION:
 1. Infusiona el azafrán en 5 cucharadas de caldo caliente.
 2. Derrite la mitad de la mantequilla, añade la harina y vierte el resto del caldo; cocina 15 minutos.
 3. Cuela, añade el azafrán y monta con el resto de la mantequilla.
-JUSTIFICACION: El azafrán da aroma y color; el caldo de pescado el fondo de sabor.
-ADVERTENCIAS: Usa azafrán auténtico, no colorante.
+JUSTIFICACION: Mantiene el aroma y el color dorado del azafrán, con un fondo de pescado y una textura algo menos untuosa. Para el Perfil1 baja la mantequilla y no añade sal.
+ADVERTENCIAS: Usa azafrán auténtico, no colorante.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~55 kcal (por porción)
 Proteínas: ~2 g
@@ -1740,8 +1740,8 @@ PREPARACION:
 2. Añade la harina y cocina 1 minuto; vierte el caldo poco a poco y añade la ciruela y el tomillo.
 3. Reduce a la mitad a fuego suave, unos 15 minutos.
 4. Tritura, cuela y termina con la mantequilla.
-JUSTIFICACION: La cebolla dorada y la ciruela dan la nota dulce, oscura y tostada del marsala.
-ADVERTENCIAS: Cuenta la ciruela como la fruta del día; es muy poca.|Es una evocación, sin el aroma del vino.
+JUSTIFICACION: Sin el alcohol pierde el carácter del marsala, pero la cebolla dorada y la ciruela dan un dulzor oscuro y tostado parecido. Para el Perfil1 es una salsa sin alcohol.
+ADVERTENCIAS: Cuenta la ciruela como la fruta del día; es muy poca.|Es una evocación, sin el aroma del vino.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~50 kcal (por porción)
 Proteínas: ~1 g
@@ -1780,8 +1780,8 @@ PREPARACION:
 2. Bate las yemas con una cucharada de agua al baño maría hasta que espesen y estén bien cocidas (cremosas, sin verse líquidas).
 3. Incorpora la reducción y luego la mantequilla en hilo, sin dejar de batir.
 4. Retira del fuego y añade el yogur y la ralladura.
-JUSTIFICACION: El estragón y el chalote dan el sabor típico de la bearnesa; el yogur y la ralladura reemplazan la acidez del vinagre.
-ADVERTENCIAS: Las yemas deben quedar cocidas al baño maría.|Sírvela tibia y en cucharada pequeña.
+JUSTIFICACION: Conserva el aroma de estragón y chalote, con una textura más ligera por el yogur y sin la acidez del vinagre. Para el Perfil1 las yemas van cocidas y no hay vinagre ni cayena.
+ADVERTENCIAS: Las yemas deben quedar cocidas al baño maría.|Sírvela tibia y en cucharada pequeña.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~4 g
@@ -1819,8 +1819,8 @@ PREPARACION:
 1. Mezcla las yemas, el yogur, la ralladura y la sal en un bol sobre agua apenas hirviendo.
 2. Calienta removiendo 3-4 minutos hasta que espese y esté bien cocida; añade la mantequilla poco a poco.
 3. Retira del fuego e incorpora las hierbas.
-JUSTIFICACION: Rápida y cremosa; el baño maría cocina las yemas con suavidad.
-ADVERTENCIAS: No dejes que el agua hierva fuerte: la salsa se corta.|Sírvela enseguida, tibia.
+JUSTIFICACION: Rápida y cremosa, menos intensa que la clásica pero con el mismo perfume de hierbas. Para el Perfil1 no lleva vinagre ni cayena y las yemas se cocinan.
+ADVERTENCIAS: No dejes que el agua hierva fuerte: la salsa se corta.|Sírvela enseguida, tibia.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~85 kcal (por porción)
 Proteínas: ~4 g
@@ -1856,8 +1856,8 @@ PREPARACION:
 2. Hierve y deja cocer 10 minutos a fuego lento.
 3. Disuelve el almidón en 1 cucharada de agua fría, añade y cocina 1 minuto hasta que espese ligeramente.
 4. Sirve caliente.
-JUSTIFICACION: El tomate asado y cocido da dulzor y algo de acidez natural; el limón, en cantidad mínima y cocinado, aporta el contraste.
-ADVERTENCIAS: Es una evocación: sin vinagre no tiene el pico ácido de la original.
+JUSTIFICACION: Sin vinagre no tiene el pico ácido de la agridulce clásica, pero el tomate asado y la stevia dan un dulzor redondo. Para el Perfil1 es una versión suave y sin vinagre.
+ADVERTENCIAS: Es una evocación: sin vinagre no tiene el pico ácido de la original.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~25 kcal (por porción)
 Proteínas: ~1 g
@@ -1893,8 +1893,8 @@ PREPARACION:
 2. Calienta el aceite con el ajo a fuego bajo 3 minutos, hasta que esté suave y sin dorar.
 3. Añade las anchoas y deshazlas con un tenedor a fuego muy bajo.
 4. Incorpora el calabacín y mezcla bien.
-JUSTIFICACION: El calabacín alarga la salsa y baja la sal por porción sin perder el sabor a anchoa.
-ADVERTENCIAS: No añadas sal.|Sirve en cucharadas pequeñas: es una salsa intensa.
+JUSTIFICACION: Es menos salada y menos intensa que la original; el calabacín alarga el sabor a mar y le da cuerpo. Para el Perfil1 baja el sodio de unos 1.250 a 250 mg.
+ADVERTENCIAS: No añadas sal.|Sirve en cucharadas pequeñas: es una salsa intensa.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~4 g
@@ -1933,8 +1933,8 @@ PREPARACION:
 2. Añade el concentrado de tomate y cocina 1 minuto; vierte el caldo con el laurel y el tomillo.
 3. Reduce a la mitad, cuela y vuelve al fuego muy bajo.
 4. Añade la mantequilla trozo a trozo, removiendo, hasta que la salsa quede brillante.
-JUSTIFICACION: La cebolla bien dorada y el tomate concentrado dan profundidad y un toque agridulce parecido al del vino.
-ADVERTENCIAS: Usa caldo casero sin sal.
+JUSTIFICACION: Es más ligera que la salsa con vino, con la cebolla dorada y el tomate concentrado dando profundidad. Para el Perfil1 es una salsa sin vino ni limón.
+ADVERTENCIAS: Usa caldo casero sin sal.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~45 kcal (por porción)
 Proteínas: ~1 g
@@ -1974,8 +1974,8 @@ PREPARACION:
 2. Incorpora el aceite poco a poco y afloja con el agua del cocido hasta lograr una salsa fluida.
 3. Añade la cebolla, el perejil, las alcaparras picadas y la ralladura; mezcla.
 4. Pica la otra clara y úsala para decorar.
-JUSTIFICACION: Yema y queso fresco dan la cremosidad que daban los sesos, y la ralladura sustituye al limón.
-ADVERTENCIAS: Sirve a temperatura ambiente y en cucharada pequeña.
+JUSTIFICACION: Evoca la textura cremosa de la salsa de sesos con yema y queso fresco, sin la víscera. Para el Perfil1 se evita la víscera y la yema va cocida.
+ADVERTENCIAS: Sirve a temperatura ambiente y en cucharada pequeña.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~7 g
@@ -2012,8 +2012,8 @@ PREPARACION:
 1. Cubre las nueces con agua hirviendo 3 minutos y pélalas (así pierden el amargor).
 2. Tritúralas con el aceite, el yogur y el agua hasta que quede una salsa homogénea.
 3. Sazona con sal y sirve tibia.
-JUSTIFICACION: Las nueces dan grasa buena, y el yogur la frescura de la nata con menos grasa saturada.
-ADVERTENCIAS: Pela bien las nueces para evitar amargor.|Porción pequeña por su densidad calórica.
+JUSTIFICACION: Las nueces dan una grasa buena y un sabor tostado, y el yogur reemplaza la nata con más frescor. Para el Perfil1 es una salsa con grasa saludable en poca cantidad.
+ADVERTENCIAS: Pela bien las nueces para evitar amargor.|Porción pequeña por su densidad calórica.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~4 g
@@ -2050,8 +2050,8 @@ PREPARACION:
 2. Déjalos reposar tapados 10 minutos, pélalos y quita semillas y membranas.
 3. Tritúralos con el ajo pelado y el aceite.
 4. Añade la ralladura y la sal y tritura hasta que quede homogénea.
-JUSTIFICACION: Asados, los pimentones son dulces y sedosos; sin vinagre, la ralladura da el aroma fresco.
-ADVERTENCIAS: Pela bien los pimentones para que la salsa sea más digerible.
+JUSTIFICACION: Asados, los pimentones son más dulces y sedosos que cocidos, y la ralladura sustituye el vinagre. Para el Perfil1 es suave y sin ácido.
+ADVERTENCIAS: Pela bien los pimentones para que la salsa sea más digerible.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~1 g
@@ -2088,8 +2088,8 @@ PREPARACION:
 1. Cocina el tomate con su jugo, el ajo, la stevia y la sal, tapado, durante 30 minutos a fuego muy bajo.
 2. Chafa los tomates con una cuchara y cuece 15 minutos más, hasta que pierda la acidez.
 3. Retira el ajo, deja enfriar un poco e incorpora el aceite y la albahaca.
-JUSTIFICACION: La cocción larga convierte el tomate en una salsa dulce y suave.
-ADVERTENCIAS: Es una base: rinde para congelar en porciones.
+JUSTIFICACION: La cocción larga y la stevia en pizca dan una salsa dulce y suave, con menos acidez que una salsa rápida. Para el Perfil1 es la base de muchas otras recetas.
+ADVERTENCIAS: Es una base: rinde para congelar en porciones.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~60 kcal (por porción)
 Proteínas: ~1 g
@@ -2124,8 +2124,8 @@ PREPARACION:
 1. Pela los tomates tras sumergirlos unos segundos en agua hirviendo y córtalos en dados.
 2. Calienta el aceite con el ajo y el perejil a fuego bajo 2 minutos; añade el tomate y cocina 20 minutos a fuego medio-bajo.
 3. Retira ajo y perejil y rectifica de sal.
-JUSTIFICACION: Con 20 minutos de cocción, el tomate queda bien cocido y dulce, sin acidez cruda.
-ADVERTENCIAS: Si queda ácida, añade una zanahoria rallada en la cocción.
+JUSTIFICACION: Frente a la salsa rápida clásica, que sabe a tomate fresco y algo ácido, esta cocina el doble de tiempo y queda más dulce, más espesa y más redonda. Para el Perfil1 la cocción completa y el aceite reducido suavizan la acidez y la hacen más fácil de digerir.
+ADVERTENCIAS: Si queda ácida, añade una zanahoria rallada en la cocción.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.|Si te sigue pareciendo ácida, añade zanahoria rallada en vez de azúcar.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~2 g
@@ -2161,8 +2161,8 @@ PREPARACION:
 1. Dora ligeramente la harina en la mantequilla derretida.
 2. Vierte el caldo y cuece 10 minutos removiendo.
 3. Añade el nabo rallado y la nuez moscada y cocina 3 minutos más.
-JUSTIFICACION: El nabo cocido aporta ese sabor ligeramente terroso y fresco, sin el ardor.
-ADVERTENCIAS: Es una evocación, no un sustituto exacto: el picor desaparece.
+JUSTIFICACION: El nabo cocido y rallado da un toque terroso, picante apenas insinuado, de lejos parecido al rábano picante pero sin su ardor; la textura es cremosa y más espesa. Para el Perfil1 se elimina el picante y el azúcar, y baja la grasa.
+ADVERTENCIAS: Es una evocación, no un sustituto exacto: el picor desaparece.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Es una evocación: no esperes el picor del original.
 VALOR_NUTRICIONAL:
 Calorías: ~40 kcal (por porción)
 Proteínas: ~1 g
@@ -2200,8 +2200,8 @@ PREPARACION:
 1. Cocina la harina en la mantequilla 1 minuto; añade el caldo y la leche.
 2. Cuece a fuego suave hasta que espese.
 3. Retira del fuego e incorpora el yogur, la ralladura y la nuez moscada.
-JUSTIFICACION: El caldo reemplaza al vino y el yogur a la nata, manteniendo la cremosidad.
-ADVERTENCIAS: No hiervas la salsa después de añadir el yogur.
+JUSTIFICACION: Con caldo en lugar de vino pierde la nota ácida del fondo, pero conserva la cremosidad de la nata gracias al yogur y un fondo de pescado o pollo bien redondo. Para el Perfil1 se evita el alcohol y se reduce mucho la grasa.
+ADVERTENCIAS: No hiervas la salsa después de añadir el yogur.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~55 kcal (por porción)
 Proteínas: ~3 g
@@ -2238,8 +2238,8 @@ PREPARACION:
 1. Bate las yemas con el agua en un bol sobre agua casi hirviendo.
 2. Añade la mantequilla trozo a trozo sin dejar de batir 8-10 minutos, hasta que quede espesa y espumosa y las yemas estén bien cocidas.
 3. Retira del fuego e incorpora el yogur y la ralladura.
-JUSTIFICACION: La ralladura aporta el perfume del limón sin su acidez; el yogur da frescura y volumen.
-ADVERTENCIAS: Las yemas deben quedar bien cocidas.|Sírvela enseguida, tibia.|Porción de 1 cucharada generosa.
+JUSTIFICACION: Más aireada y ligera que la holandesa de mantequilla, con la misma untuosidad cítrica por la yema y la ralladura, aunque menos rica y sin el brillo graso. Para el Perfil1 baja la grasa de unos 200 g de mantequilla a 30 g y la yema va bien cocida.
+ADVERTENCIAS: Las yemas deben quedar bien cocidas.|Sírvela enseguida, tibia.|Porción de 1 cucharada generosa.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~95 kcal (por porción)
 Proteínas: ~4 g
@@ -2279,8 +2279,8 @@ PREPARACION:
 2. Machaca las yemas duras con el tomate cocido, la cúrcuma y la sal.
 3. Calienta la mezcla a fuego bajo y añade la yema fresca batiendo 2 minutos, hasta que espese y esté cocida.
 4. Retira, incorpora la mantequilla, el aceite y la ralladura removiendo.
-JUSTIFICACION: El tomate bien cocido y la yema dan cuerpo y dulzor; la ralladura reemplaza el vinagre.
-ADVERTENCIAS: La yema debe cocerse del todo: remueve sin hervir.
+JUSTIFICACION: Sin la mostaza y el vinagre pierde el punto picante, pero el tomate muy cocido y la cúrcuma dan color y un fondo dulce y sabroso. Para el Perfil1 se evita el picante y el huevo crudo.
+ADVERTENCIAS: La yema debe cocerse del todo: remueve sin hervir.|Cocina bien los huevos: yema y clara completamente cuajadas.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~85 kcal (por porción)
 Proteínas: ~3 g
@@ -2321,8 +2321,8 @@ PREPARACION:
 1. Remoja el pan en la leche caliente.
 2. Sofríe la cebolleta, la zanahoria y el perejil en el aceite y la mantequilla 8 minutos; añade la harina.
 3. Vierte el caldo, cuece 30 minutos y tritura con el pan escurrido hasta obtener una salsa fina; calienta antes de servir.
-JUSTIFICACION: El pan integral espesa y aporta fibra; la zanahoria y la cebolleta dan dulzor natural.
-ADVERTENCIAS: Espesa al reposar: añade caldo si hace falta.
+JUSTIFICACION: Más rústica y espesa por el pan integral y la avena, sin el fondo de vino blanco, pero con la misma elegancia lechosa y de caldo. Para el Perfil1 queda sin alcohol y con menos grasa.
+ADVERTENCIAS: Espesa al reposar: añade caldo si hace falta.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~4 g
@@ -2364,8 +2364,8 @@ PREPARACION:
 1. Sofríe los champiñones, la zanahoria, la cebolla, el perejil y el clavo en el aceite y la mantequilla 10 minutos, hasta que estén bien dorados.
 2. Añade el concentrado de tomate y la harina, cocina 1 minuto; vierte el caldo y cuece 45 minutos.
 3. Tamiza o cuela y, si hace falta, recalienta al baño maría.
-JUSTIFICACION: Los champiñones dorados y el tomate concentrado reemplazan el fondo salado del jamón.
-ADVERTENCIAS: Retira el clavo al colar.
+JUSTIFICACION: Pierde el sabor curado del jamón, pero los champiñones dorados y el tomate concentrado aportan un fondo de umami oscuro y profundo; la textura es algo más ligera. Para el Perfil1 se elimina el embutido y la pimienta.
+ADVERTENCIAS: Retira el clavo al colar.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Retira bien el clavo al colar: es muy fuerte.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~2 g
@@ -2402,8 +2402,8 @@ PREPARACION:
 1. Dora la cebolla en el aceite a fuego bajo 8 minutos.
 2. Añade el jugo o el caldo y cocina hasta que esté muy blanda; deja reducir a la mitad.
 3. Tritura, retira del fuego y mezcla con el yogur; sazona con sal y nuez moscada.
-JUSTIFICACION: La cebolla dorada aporta el dulzor y la profundidad que daba el brandy.
-ADVERTENCIAS: Desengrasa muy bien el jugo del asado.|No hiervas tras añadir el yogur.
+JUSTIFICACION: Sin el brandy no tiene el aroma flameado, pero la cebolla dorada y el jugo reducido mantienen un fondo profundo; la nata se cambia por yogur y se nota más fresca. Para el Perfil1 se evita el alcohol y la grasa.
+ADVERTENCIAS: Desengrasa muy bien el jugo del asado.|No hiervas tras añadir el yogur.|Usa lácteos bajos en grasa.|Desengrasa muy bien el jugo del asado antes de usarlo.
 VALOR_NUTRICIONAL:
 Calorías: ~45 kcal (por porción)
 Proteínas: ~2 g
@@ -2443,8 +2443,8 @@ PREPARACION:
 2. Añade el ají dulce y el pimentón asado y cocina 3 minutos.
 3. Incorpora el tomate y el caldo y cocina 15 minutos a fuego bajo hasta que espese.
 4. Termina con el perejil.
-JUSTIFICACION: El ají dulce y el pimentón asado dan carácter y aroma; la cebolla dorada y el tomate cocido, profundidad.
-ADVERTENCIAS: Es una evocación: sin cayena ni Worcestershire, el calor y el toque fermentado se pierden.
+JUSTIFICACION: Sin cayena ni Worcestershire pierde el picor y la nota fermentada, pero el ají dulce y el pimentón asado dan aroma y un rojo intenso. Para el Perfil1 es la versión sin picante y sin alcohol.
+ADVERTENCIAS: Es una evocación: sin cayena ni Worcestershire, el calor y el toque fermentado se pierden.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~1 g
@@ -2481,8 +2481,8 @@ PREPARACION:
 1. Funde la mantequilla con el aceite, añade la harina de avena y cocina a fuego suave 1 minuto.
 2. Vierte el caldo poco a poco y lleva a ebullición removiendo.
 3. Cuece 15 minutos a fuego bajo y sazona.
-JUSTIFICACION: Roux de avena: espesa con suavidad y con fibra soluble.
-ADVERTENCIAS: Usa caldo casero sin sal.
+JUSTIFICACION: Algo menos sedosa que la clásica de harina de trigo, con el mismo fondo de caldo claro y delicado. Para el Perfil1 se usa avena, poca grasa y caldo sin sal.
+ADVERTENCIAS: Usa caldo casero sin sal.|Es una salsa base: sirve para otras recetas.
 VALOR_NUTRICIONAL:
 Calorías: ~55 kcal (por porción)
 Proteínas: ~2 g
@@ -2522,8 +2522,8 @@ INGREDIENTES_VELOUTE_BASE:
 PREPARACION_VELOUTE_BASE:
 1. Prepara un roux rubio con la mantequilla, el aceite y la harina de avena.
 2. Añade el caldo poco a poco y cocina 15 minutos.
-JUSTIFICACION: El tomate muy cocido da color anaranjado y dulzor, sin acidez cruda.
-ADVERTENCIAS: Cocina el tomate el tiempo indicado para que quede dulce.
+JUSTIFICACION: Tiene el color rosado y el dulzor de tomate de la aurora clásica, con una textura algo más ligera. Para el Perfil1 el tomate va muy cocido para eliminar la acidez.
+ADVERTENCIAS: Cocina el tomate el tiempo indicado para que quede dulce.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~3 g
@@ -2563,8 +2563,8 @@ PREPARACION:
 2. Añade la passata y cocina 15 minutos a fuego bajo.
 3. Aparte, saltea las vieiras 1 minuto y los langostinos 2-3 minutos a fuego medio-bajo en el aceite restante; añade el caldo y reduce 2 minutos.
 4. Une ambas preparaciones con el perejil y cocina 3 minutos más a fuego suave.
-JUSTIFICACION: Los mariscos se cocinan poco y a fuego suave para quedar tiernos; el tomate bien cocido sustituye la acidez del vino.
-ADVERTENCIAS: No sobrecocines los mariscos: se vuelven gomosos.|Sin sal añadida: la anchoa ya sala.
+JUSTIFICACION: Sin brandy ni vino pierde el fondo aromático alcohólico, pero el caldo de pescado y el tomate cocido dan un sabor de mar profundo; los mariscos quedan tiernos si no se pasan de cocción. Para el Perfil1 se evita el alcohol, la anchoa en exceso y los mariscos crudos.
+ADVERTENCIAS: No sobrecocines los mariscos: se vuelven gomosos.|Sin sal añadida: la anchoa ya sala.|Mariscos siempre bien cocidos, sin partes crudas. Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~19 g
@@ -2601,8 +2601,8 @@ PREPARACION:
 1. Cocina el tomate con el ajo 20 minutos a fuego bajo, chafándolo con una cuchara; retira el ajo.
 2. Desmenuza el atún y añádelo al tomate.
 3. Incorpora el aceite y la anchoa, mezcla y sirve sobre los espaguetis.
-JUSTIFICACION: El atún al natural sale más ligero, y la anchoa le devuelve el sabor profundo.
-ADVERTENCIAS: Sin sal añadida: el atún y la anchoa ya salan.
+JUSTIFICACION: El atún al natural es menos graso y más seco que el de aceite, pero el aceite de oliva fresco final devuelve jugosidad. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida: el atún y la anchoa ya salan.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~95 kcal (por porción)
 Proteínas: ~12 g
@@ -2639,8 +2639,8 @@ PREPARACION:
 2. Machácalos en un mortero hasta obtener pasta.
 3. Añade el yogur, la sal y el aceite en hilo, mezclando con movimiento constante.
 4. Termina con la ralladura de limón.
-JUSTIFICACION: El ajo asado se vuelve dulce y suave; el yogur y el aceite aportan la cremosidad del alioli clásico.
-ADVERTENCIAS: Sírvelo en cucharada pequeña.|Se conserva 3 días en la nevera.
+JUSTIFICACION: Sin ajo crudo ni yema cruda no tiene el picor intenso del alioli, pero el ajo asado es dulce y cremoso y el yogur aporta untuosidad. Para el Perfil1 es la versión sin ajo crudo, sin huevo crudo y con mucho menos aceite.
+ADVERTENCIAS: Sírvelo en cucharada pequeña.|Se conserva 3 días en la nevera.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Una cucharada es suficiente.
 VALOR_NUTRICIONAL:
 Calorías: ~45 kcal (por porción)
 Proteínas: ~2 g
@@ -2679,8 +2679,8 @@ PREPARACION:
 1. Remoja las pasas 15 minutos en agua caliente y escúrrelas.
 2. Cuece todos los ingredientes en una olla a fuego suave 35 minutos, hasta que espese como una mermelada.
 3. Retira clavos y canela y deja enfriar. Se conserva en frasco 5 días en nevera.
-JUSTIFICACION: La manzana y los frutos rojos aportan pectina y acidez natural, y la cocción larga las vuelve dulces.
-ADVERTENCIAS: Porción de 2 cucharadas, junto a una proteína.|Las grosellas rojas no son comunes aquí: fresas, frambuesas o moras funcionan igual.
+JUSTIFICACION: Sin vinagre ni azúcar pierde el contraste agridulce intenso, pero la fruta cocida con stevia da una acidez natural más amable; textura de compota espesa. Para el Perfil1 se reducen las pasas y las nueces, y se sustituyen los frutos ácidos por fresas y frambuesas.
+ADVERTENCIAS: Porción de 2 cucharadas, junto a una proteína.|Las grosellas rojas no son comunes aquí: fresas, frambuesas o moras funcionan igual.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Dos cucharadas por porción, junto a una proteína.
 VALOR_NUTRICIONAL:
 Calorías: ~65 kcal (por porción)
 Proteínas: ~1 g
@@ -2721,8 +2721,8 @@ PREPARACION:
 2. Pon todo en una cazuela grande con el agua, tapa y cuece 30 minutos.
 3. Destapa y sigue cocinando 1 hora a fuego bajo, removiendo, hasta que espese y quede oscuro.
 4. Retira laurel, canela y clavo; deja enfriar.
-JUSTIFICACION: La cocción larga caramelizar la cebolla en su propio azúcar, y el tomate concentrado aporta la acidez.
-ADVERTENCIAS: Porción de 2 cucharadas, junto a una proteína.|Se conserva 5 días en nevera.
+JUSTIFICACION: Sin vinagre ni azúcar no tiene el punch agridulce, pero la cebolla cocida largo tiempo y el tomate concentrado dan un dulzor profundo y textura de mermelada salada. Para el Perfil1 se quita el picante y el azúcar.
+ADVERTENCIAS: Porción de 2 cucharadas, junto a una proteína.|Se conserva 5 días en nevera.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Dos cucharadas por porción.
 VALOR_NUTRICIONAL:
 Calorías: ~45 kcal (por porción)
 Proteínas: ~1 g
@@ -2760,8 +2760,8 @@ PREPARACION:
 2. Añade el yogur y mezcla hasta que quede liso.
 3. Agrega el aceite en hilo, batiendo, hasta que espese; termina con la ralladura.
 4. Refrigera 30 minutos antes de servir.
-JUSTIFICACION: La yema cocida da el cuerpo y el color de la mayonesa, y el yogur la frescura y la cremosidad con mucha menos grasa.
-ADVERTENCIAS: Se conserva 3 días en nevera.|Porción de 2 cucharadas: es una salsa para acompañar, no para untar en cantidad.
+JUSTIFICACION: Más fresca y menos untuosa que la mayonesa clásica, con la yema de huevo duro dando cuerpo en lugar de la emulsión. Para el Perfil1 baja de unas 420 a unas 95 kcal por porción y evita el huevo crudo.
+ADVERTENCIAS: Se conserva 3 días en nevera.|Porción de 2 cucharadas: es una salsa para acompañar, no para untar en cantidad.|Cocina bien los huevos: yema y clara completamente cuajadas.|Se conserva 3 días en la nevera; descártala si cambia de olor.
 VALOR_NUTRICIONAL:
 Calorías: ~95 kcal (por porción)
 Proteínas: ~5 g
@@ -2806,8 +2806,8 @@ PREPARACION_MAYONESA_BASE:
 1. Machaca las yemas con la sal hasta obtener una pasta fina.
 2. Añade el yogur y mezcla hasta que quede liso.
 3. Agrega el aceite en hilo, batiendo, y termina con la ralladura. Refrigera.
-JUSTIFICACION: Las especias, tostadas un momento, dan el aroma de curry sin chile.
-ADVERTENCIAS: Revisa que tus especias no vengan mezcladas con chile.
+JUSTIFICACION: Mantiene la cremosidad y el color dorado del curry, con un aroma más suave. Para el Perfil1 es sin picante y con mucha menos grasa.
+ADVERTENCIAS: Revisa que tus especias no vengan mezcladas con chile.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~105 kcal (por porción)
 Proteínas: ~6 g
@@ -2850,8 +2850,8 @@ PREPARACION_MAYONESA_BASE:
 1. Machaca las yemas con la sal hasta obtener una pasta fina.
 2. Añade el yogur y mezcla hasta que quede liso.
 3. Agrega el aceite en hilo, batiendo. Refrigera.
-JUSTIFICACION: Queso fresco y parmesano dan la untuosidad y el punto salado del queso azul sin su moho ni su sodio.
-ADVERTENCIAS: Es una evocación: sin el carácter picante y fermentado del gorgonzola.|Sin sal añadida.
+JUSTIFICACION: Es una evocación del gorgonzola sin su sabor fermentado y picante, pero el queso fresco y el parmesano dan salinidad cremosa. Para el Perfil1 se baja el sodio y no hay mostaza ni vinagre.
+ADVERTENCIAS: Es una evocación: sin el carácter picante y fermentado del gorgonzola.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~9 g
@@ -2895,8 +2895,8 @@ PREPARACION_MAYONESA_BASE:
 1. Machaca las yemas con la sal hasta obtener una pasta fina.
 2. Añade el yogur y mezcla hasta que quede liso.
 3. Agrega el aceite en hilo, batiendo, y termina con la ralladura. Refrigera.
-JUSTIFICACION: El yogur batido da volumen y ligereza; el eneldo reemplaza el punto de la mostaza.
-ADVERTENCIAS: Mezcla con suavidad para no perder el aire.
+JUSTIFICACION: Más ligera y mousse que la mayonesa densa, con el yogur batido frío aportando el aire y el eneldo el frescor. Para el Perfil1 es una salsa baja en grasa.
+ADVERTENCIAS: Mezcla con suavidad para no perder el aire.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~105 kcal (por porción)
 Proteínas: ~6 g
@@ -2942,8 +2942,8 @@ PREPARACION_MAYONESA_BASE:
 1. Machaca las yemas con la sal hasta obtener una pasta fina.
 2. Añade el yogur y mezcla hasta que quede liso.
 3. Agrega el aceite en hilo, batiendo. Refrigera.
-JUSTIFICACION: El aguacate aporta grasa buena y cremosidad; el tomate asado reemplaza el ketchup sin azúcar.
-ADVERTENCIAS: Consúmela el mismo día: el aguacate se oxida.
+JUSTIFICACION: Más verde, cremosa y fresca que la original, con lima y cilantro en lugar de ketchup y tabasco. Para el Perfil1 el aguacate aporta grasa buena y no lleva picante.
+ADVERTENCIAS: Consúmela el mismo día: el aguacate se oxida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~115 kcal (por porción)
 Proteínas: ~5 g
@@ -2988,8 +2988,8 @@ PREPARACION_MAYONESA_BASE:
 1. Machaca las yemas con la sal hasta obtener una pasta fina.
 2. Añade el yogur y mezcla hasta que quede liso.
 3. Agrega el aceite en hilo, batiendo, y termina con la ralladura. Refrigera.
-JUSTIFICACION: Verduras escaldadas: el verde queda intenso y suave, sin crudos.
-ADVERTENCIAS: Escurre muy bien las espinacas para que no suelten agua.
+JUSTIFICACION: Un verde herbáceo más suave que el original con berros, con el perejil escaldado dando frescor. Para el Perfil1 la yema va cocida y la grasa es mínima.
+ADVERTENCIAS: Escurre muy bien las espinacas para que no suelten agua.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~105 kcal (por porción)
 Proteínas: ~7 g
@@ -3030,8 +3030,8 @@ PREPARACION_MAYONESA_BASE:
 1. Machaca las yemas con la sal hasta obtener una pasta fina.
 2. Añade el yogur y mezcla hasta que quede liso.
 3. Agrega el aceite en hilo, batiendo, y termina con la ralladura. Refrigera.
-JUSTIFICACION: El nabo aporta frescura y un toque terroso parecido, sin el ardor del rábano picante.
-ADVERTENCIAS: Es una evocación: no tiene picor.
+JUSTIFICACION: El nabo da un sabor terroso y dulce, sin el picor del rábano; la textura es cremosa y espesa. Para el Perfil1 se evita el picante.
+ADVERTENCIAS: Es una evocación: no tiene picor.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~5 g
@@ -3074,8 +3074,8 @@ PREPARACION_MAYONESA_BASE:
 1. Machaca las yemas con la sal hasta obtener una pasta fina.
 2. Añade el yogur y mezcla hasta que quede liso.
 3. Agrega el aceite en hilo, batiendo, y termina con la ralladura. Refrigera.
-JUSTIFICACION: Las verduras asadas son dulces y suaves, y el ají dulce da aroma y carácter sin picante.
-ADVERTENCIAS: Sírvela con verduras cocidas o asadas, no crudas.
+JUSTIFICACION: Tiene el color y el sabor a tomate y pimentón, con el ají dulce en lugar de la guindilla; más ligera que la clásica. Para el Perfil1 el tomate y el pimentón van asados y pelados.
+ADVERTENCIAS: Sírvela con verduras cocidas o asadas, no crudas.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~5 g
@@ -3117,8 +3117,8 @@ PREPARACION_MAYONESA_BASE:
 1. Machaca las yemas con la sal hasta obtener una pasta fina.
 2. Añade el yogur y mezcla hasta que quede liso.
 3. Agrega el aceite en hilo, batiendo. Refrigera.
-JUSTIFICACION: El zumo, reducido, concentra el dulzor de la naranja y pierde acidez; la ralladura aporta el aroma.
-ADVERTENCIAS: Usa la parte coloreada de la cáscara: la blanca amarga.
+JUSTIFICACION: Conserva el perfume de naranja y la cremosidad de la mayonesa, con la naranja reducida para que quede menos ácida. Para el Perfil1 el zumo va cocinado y la yema cocida.
+ADVERTENCIAS: Usa la parte coloreada de la cáscara: la blanca amarga.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~5 g
@@ -3157,8 +3157,8 @@ PREPARACION:
 1. Pon la albahaca con el aceite, las almendras, el agua y la sal en un mortero o procesador.
 2. Tritura brevemente a potencia media.
 3. Añade los quesos y mezcla hasta obtener una crema; no tritures más: se calienta y pierde aroma.
-JUSTIFICACION: Las almendras tostadas dan la textura cremosa y el dulzor de los piñones, y el queso fresco redondea sin añadir tanta sal.
-ADVERTENCIAS: Sírvelo tibio sobre pasta; no lo calientes al fuego.|Porción de 1-2 cucharadas.
+JUSTIFICACION: Con almendras en lugar de piñones queda algo menos mantecoso, y con menos aceite más espeso, pero el aroma a albahaca fresca se mantiene intacto. Para el Perfil1 baja el aceite y el sodio, con proteína de almendras.
+ADVERTENCIAS: Sírvelo tibio sobre pasta; no lo calientes al fuego.|Porción de 1-2 cucharadas.|Come despacio y mastica bien.|Si lo mezclas con pasta, hazlo fuera del fuego.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~5 g
@@ -3197,8 +3197,8 @@ PREPARACION:
 1. Machaca el ajo asado con la yema y la sal hasta obtener una pasta fina.
 2. Añade el yogur y mezcla; vierte el aceite en hilo, removiendo.
 3. Termina con el perejil y la ralladura y rectifica de sal.
-JUSTIFICACION: El ajo asado y la yema dan la untuosidad sin huevo crudo ni vinagre.
-ADVERTENCIAS: Se conserva 3 días en nevera.
+JUSTIFICACION: Más suave y menos picante que la rémoulade clásica; el ajo asado da dulzor y la yema cocida cremosidad. Para el Perfil1 baja de unas 315 a unas 60 kcal.
+ADVERTENCIAS: Se conserva 3 días en nevera.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~60 kcal (por porción)
 Proteínas: ~3 g
@@ -3239,8 +3239,8 @@ PREPARACION:
 1. Seca la anchoa y pica la yema del huevo duro con ella.
 2. Tritura en el procesador con las almendras, las alcaparras, las aceitunas, el pan, el perejil y el ajo.
 3. Pasa a un bol y rocía con aceite, removiendo hasta lograr una salsa espesa.
-JUSTIFICACION: Las almendras tostadas y el pan integral dan la espesura y la grasa buena de los piñones.
-ADVERTENCIAS: No añadas sal.|Porción pequeña: es una salsa densa.
+JUSTIFICACION: Las almendras reemplazan a los piñones con un sabor tostado algo más marcado, y las alcaparras (pocas, enjuagadas) dan el toque salino. Para el Perfil1 se baja el sodio y la grasa.
+ADVERTENCIAS: No añadas sal.|Porción pequeña: es una salsa densa.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~5 g
@@ -3276,8 +3276,8 @@ INGREDIENTES:
 PREPARACION:
 1. Machaca el queso fresco con el parmesano en un bol y mézclalo con el yogur y la leche hasta lograr una crema.
 2. Añade el cebollino y sirve.
-JUSTIFICACION: El parmesano aporta el sabor intenso y salado del queso curado, y el queso fresco, la cremosidad.
-ADVERTENCIAS: Es una evocación: sin el carácter fermentado del gorgonzola.|No añadas sal.
+JUSTIFICACION: Evoca el gorgonzola sin su sabor fermentado y picante: es más suave y lechosa, con un toque salino del parmesano. Para el Perfil1 se evita el queso azul y se baja la grasa.
+ADVERTENCIAS: Es una evocación: sin el carácter fermentado del gorgonzola.|No añadas sal.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~8 g
@@ -3313,8 +3313,8 @@ INGREDIENTES:
 PREPARACION:
 1. Tritura las alcaparras, el perejil, la batata, la ciruela y la sal.
 2. Pasa a un bol y añade el aceite poco a poco, removiendo, y afloja con el agua hasta obtener una salsa espesa.
-JUSTIFICACION: La batata espesa, y la ciruela aporta el dulzor oscuro y ligeramente ácido que daba el balsámico.
-ADVERTENCIAS: Es una evocación: sin vinagre no tiene su punto ácido.
+JUSTIFICACION: La ciruela pasa da el dulzor oscuro del balsámico sin su acidez, y la batata espesa con suavidad. Para el Perfil1 es sin vinagre, con índice glucémico más bajo.
+ADVERTENCIAS: Es una evocación: sin vinagre no tiene su punto ácido.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~105 kcal (por porción)
 Proteínas: ~1 g
@@ -3351,8 +3351,8 @@ PREPARACION:
 1. Machaca las yemas cocidas con la sal hasta formar pasta fina.
 2. Añade el pimentón y mezcla.
 3. Incorpora el yogur y la ralladura y mezcla hasta que quede cremosa.
-JUSTIFICACION: Yema y yogur dan cuerpo cremoso; el pimentón aporta color y aroma.
-ADVERTENCIAS: Sin mostaza ni pimienta: es suave y dulce.
+JUSTIFICACION: Es dulce y suave, con el color del pimentón y una cremosidad ligera. Para el Perfil1 se evitan la mostaza y la pimienta.
+ADVERTENCIAS: Sin mostaza ni pimienta: es suave y dulce.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~5 g
@@ -3389,8 +3389,8 @@ PREPARACION:
 1. Mezcla la ricota con la leche hasta que quede suave.
 2. Añade el yogur, la yema machacada y las nueces.
 3. Prueba, sazona con una pizca de sal y espolvorea el cebollino.
-JUSTIFICACION: Ricota y yogur dan la cremosidad del mascarpone con mucha menos grasa.
-ADVERTENCIAS: Si usas queso fresco, escúrrelo bien.|Sirve en cucharadas pequeñas.
+JUSTIFICACION: Más ligera que la versión con mascarpone, con un frescor lácteo y una textura untuosa gracias al yogur. Para el Perfil1 la yema va cocida y la ricota es baja en grasa.
+ADVERTENCIAS: Si usas queso fresco, escúrrelo bien.|Sirve en cucharadas pequeñas.|Cocina bien los huevos: yema y clara completamente cuajadas.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~105 kcal (por porción)
 Proteínas: ~12 g
@@ -3426,8 +3426,8 @@ INGREDIENTES:
 PREPARACION:
 1. Mezcla el pepino y la menta con el yogur.
 2. Sazona con una pizca de sal y la ralladura y, si quieres, añade el aceite.
-JUSTIFICACION: Fresca y ligera: el pepino fresco reemplaza el punto ácido de los pepinillos.
-ADVERTENCIAS: Consúmela el mismo día.
+JUSTIFICACION: El pepino fresco reemplaza al pepinillo en salmuera: más crujiente y fresco, menos ácido. Para el Perfil1 se elimina el vinagre y el sodio baja de unos 200 a 40 mg.
+ADVERTENCIAS: Consúmela el mismo día.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~45 kcal (por porción)
 Proteínas: ~4 g
@@ -3464,8 +3464,8 @@ PREPARACION:
 2. Bate el queso fresco con el yogur hasta suavizarlo.
 3. Añade el zumo reducido y la ralladura mientras remueves.
 4. Termina con el perejil y una pizca de sal.
-JUSTIFICACION: El zumo reducido concentra el dulzor y pierde acidez; el queso y el yogur dan la cremosidad del mascarpone.
-ADVERTENCIAS: Es una evocación: el pomelo es más amargo y ácido.
+JUSTIFICACION: La naranja reducida da una acidez más dulce que el pomelo, con una textura cremosa por el queso fresco. Para el Perfil1 baja de unas 225 a 70 kcal y la acidez es menor.
+ADVERTENCIAS: Es una evocación: el pomelo es más amargo y ácido.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~8 g
@@ -3504,8 +3504,8 @@ PREPARACION:
 1. Asa los champiñones con el tomillo 20 minutos a 200 °C hasta que estén dorados; deja entibiar.
 2. Tritúralos con la anchoa, el ajo asado y el aceite, aflojando con el agua.
 3. Termina con la ralladura y sirve a temperatura ambiente.
-JUSTIFICACION: Los hongos asados dan sabor profundo y terroso, y la anchoa el matiz de umami que acompañaba a la trufa.
-ADVERTENCIAS: Si dispones de trufa, ralla 5 g encima al servir.|No añadas sal.
+JUSTIFICACION: Evoca la trufa con un sabor terroso de champiñón asado y tomillo, sin el aroma intenso y raro de la trufa. Para el Perfil1 se baja el aceite y se evita la anchoa en exceso.
+ADVERTENCIAS: Si dispones de trufa, ralla 5 g encima al servir.|No añadas sal.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~65 kcal (por porción)
 Proteínas: ~2 g
@@ -3545,8 +3545,8 @@ PREPARACION:
 1. Mezcla el tomate, la cebolla, el concentrado de tomate, el pimentón y la stevia.
 2. Añade el aceite en hilo y el yogur, removiendo.
 3. Termina con el perejil, sazona con una pizca de sal y sirve en salsera.
-JUSTIFICACION: El pimentón ahumado y la cebolla asada dan la nota de brasa; el yogur redondea la salsa.
-ADVERTENCIAS: Pimentón ahumado solo en pizca; debe ser dulce, no picante.
+JUSTIFICACION: El tomate y la cebolla asados dan un dulzor ahumado suave, sin el picor ni la acidez de la barbacoa clásica. Para el Perfil1 no lleva mostaza ni encurtidos.
+ADVERTENCIAS: Pimentón ahumado solo en pizca; debe ser dulce, no picante.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~65 kcal (por porción)
 Proteínas: ~2 g
@@ -3582,8 +3582,8 @@ PREPARACION:
 1. Mezcla el tomate asado, el concentrado y la stevia.
 2. Incorpora el yogur con cuidado hasta lograr un color rosado uniforme.
 3. Añade la ralladura, una pizca de sal y sirve sobre el marisco en copas forradas de lechuga.
-JUSTIFICACION: El tomate asado da el dulzor y el color del ketchup, sin azúcar ni vinagre.
-ADVERTENCIAS: Es más suave que la clásica: sin Worcestershire ni alcohol.
+JUSTIFICACION: Es rosada y cremosa, más suave y dulce que la clásica, sin el punch del Worcestershire. Para el Perfil1 baja de unas 125 a 40 kcal y no lleva alcohol.
+ADVERTENCIAS: Es más suave que la clásica: sin Worcestershire ni alcohol.|Usa lácteos bajos en grasa.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~40 kcal (por porción)
 Proteínas: ~3 g
@@ -3618,8 +3618,8 @@ INGREDIENTES:
 PREPARACION:
 1. Cubre las alcaparras con agua fría 15 minutos, escúrrelas y pícalas fino.
 2. Pásalas a una salsera, agrega el aceite, el agua, el perejil y la ralladura; mezcla.
-JUSTIFICACION: La ralladura aporta el perfume cítrico sin acidez; las alcaparras, el contrapunto salado.
-ADVERTENCIAS: Cantidad pequeña de alcaparras: son muy saladas.|Sin sal añadida.
+JUSTIFICACION: Pierde parte del brillo ácido, pero conserva el toque salino con unas pocas alcaparras enjuagadas. Para el Perfil1 el pollo empanizado va al horno.
+ADVERTENCIAS: Cantidad pequeña de alcaparras: son muy saladas.|Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~45 kcal (por porción)
 Proteínas: ~0 g
@@ -3656,8 +3656,8 @@ PREPARACION:
 1. Cubre la menta con el agua hirviendo y deja infusionar hasta que enfríe.
 2. Añade la stevia y mezcla con el yogur.
 3. Termina con la ralladura y deja reposar al menos 30 minutos en nevera antes de servir.
-JUSTIFICACION: La infusión extrae el aroma de la menta sin amargor, y el yogur le da cuerpo y frescura.
-ADVERTENCIAS: Es una evocación: sin vinagre pierde el punto ácido de la inglesa.
+JUSTIFICACION: Más suave y cremosa que la salsa de menta con vinagre, con un frescor de yogur y ralladura. Para el Perfil1 se evita el vinagre.
+ADVERTENCIAS: Es una evocación: sin vinagre pierde el punto ácido de la inglesa.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~30 kcal (por porción)
 Proteínas: ~3 g
@@ -3692,8 +3692,8 @@ PREPARACION:
 1. Sumerge el apio 20 minutos en agua fría para que quede crujiente; escúrrelo bien.
 2. Pásalo a un bol y sazona con el cebollino, la ralladura y una pizca de sal.
 3. Incorpora el yogur batido con cuidado, a cucharadas.
-JUSTIFICACION: El apio aporta el crujiente y la frescura de los rabanitos con una fibra más suave.
-ADVERTENCIAS: Es una evocación: sin el picor del rabanito.|Consúmela el mismo día.
+JUSTIFICACION: El apio da el crujido de los rabanitos sin su picor, con un yogur fresco. Para el Perfil1 baja de unas 225 a 45 kcal.
+ADVERTENCIAS: Es una evocación: sin el picor del rabanito.|Consúmela el mismo día.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~45 kcal (por porción)
 Proteínas: ~5 g
@@ -3730,8 +3730,8 @@ PREPARACION:
 1. Separa yemas y claras; pasa las yemas por tamiz y mézclalas con el yogur.
 2. Añade el aceite en hilo, removiendo, como una mayonesa.
 3. Pica las claras e incorpóralas con las alcaparras, las hierbas y la ralladura justo antes de servir.
-JUSTIFICACION: Yemas duras y yogur dan la cremosidad; claras y alcaparras, el contraste de texturas.
-ADVERTENCIAS: Sin sal añadida: las alcaparras ya salan.
+JUSTIFICACION: Cremosa y de textura rústica con el huevo duro, sin el pico ácido de la mostaza y el vinagre. Para el Perfil1 baja de unas 360 a 100 kcal.
+ADVERTENCIAS: Sin sal añadida: las alcaparras ya salan.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~9 g
@@ -3769,8 +3769,8 @@ PREPARACION:
 1. Mezcla el yogur con el aceite en hilo hasta que quede cremoso.
 2. Incorpora el tomate asado y el concentrado hasta obtener un color rosado uniforme.
 3. Termina con la ralladura, rectifica de sal y sirve.
-JUSTIFICACION: El tomate asado da dulzor y color sin acidez fuerte.
-ADVERTENCIAS: Consúmela en 3 días.
+JUSTIFICACION: Más suave y dulce que la original, con tomate asado en lugar de limón y mostaza. Para el Perfil1 baja la grasa y no lleva irritantes.
+ADVERTENCIAS: Consúmela en 3 días.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~55 kcal (por porción)
 Proteínas: ~3 g
@@ -3804,8 +3804,8 @@ PREPARACION:
 2. Machácalos con la sal en un mortero hasta reducirlos a pasta.
 3. Vierte el caldo templado y remueve.
 4. Deja reposar unos minutos y sirve.
-JUSTIFICACION: El ajo asado pierde el picor y se vuelve dulce y suave.
-ADVERTENCIAS: Porción de 1-2 cucharadas.
+JUSTIFICACION: El ajo asado da un sabor dulce y cremoso, sin el picor del ajo crudo. Para el Perfil1 va con caldo sin sal.
+ADVERTENCIAS: Porción de 1-2 cucharadas.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~15 kcal (por porción)
 Proteínas: ~1 g
@@ -3843,8 +3843,8 @@ PREPARACION:
 1. Escalda la cebolleta 3 minutos en agua hirviendo y escúrrela.
 2. Pela los huevos duros y machaca las yemas con el yogur hasta obtener una crema; añade el aceite en hilo.
 3. Incorpora la cebolleta, el perejil, la ralladura y las claras picadas; el estragón si te gusta intenso.
-JUSTIFICACION: La cebolleta escaldada pierde el picor y queda suave; yema y yogur dan el cuerpo.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Cremosa y fresca, sin la acidez del vinagre ni el picor de los encurtidos; la cebolleta escaldada es más suave. Para el Perfil1 baja de unas 370 a 95 kcal y la yema va cocida.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~95 kcal (por porción)
 Proteínas: ~8 g
@@ -3883,8 +3883,8 @@ PREPARACION:
 1. Pica el atún, las alcaparras y la anchoa y pásalos al procesador con la yema.
 2. Tritura mientras añades el yogur y el aceite poco a poco hasta lograr una crema ligera.
 3. Pasa a una salsera, añade la ralladura y deja reposar 10 minutos.
-JUSTIFICACION: El atún al natural y el yogur dan la cremosidad con mucha menos grasa.
-ADVERTENCIAS: No añadas sal.|Porción pequeña por su sodio.
+JUSTIFICACION: El atún al natural es más seco y la salsa algo menos grasa, con un sabor marino intenso. Para el Perfil1 baja de unas 120 ml de aceite a 2 cucharadas.
+ADVERTENCIAS: No añadas sal.|Porción pequeña por su sodio.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~12 g
@@ -3923,8 +3923,8 @@ PREPARACION:
 1. Pasa la batata caliente por el pasapuré.
 2. Mezcla las yemas con la anchoa y la batata; pica claras, perejil, ajo y pepino y añádelos.
 3. Añade el aceite en hilo y termina con la ralladura; sazona con una pizca de sal.
-JUSTIFICACION: La batata espesa con dulzor suave; el perejil da el sabor fresco y verde.
-ADVERTENCIAS: Sin vinagre: es más suave y menos ácida.
+JUSTIFICACION: Más suave y menos ácida que la clásica, con el perejil fresco intacto. Para el Perfil1 se evitan el vinagre y los pepinillos, y baja de unas 305 a 115 kcal.
+ADVERTENCIAS: Sin vinagre: es más suave y menos ácida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~115 kcal (por porción)
 Proteínas: ~6 g
@@ -3964,8 +3964,8 @@ PREPARACION:
 1. Tritura aceitunas, alcaparras, anchoa y atún en el procesador.
 2. Añade el ajo asado, el tomillo y la ralladura.
 3. Incorpora el aceite poco a poco para que se ligue y refrigera.
-JUSTIFICACION: Aceitunas y alcaparras enjuagadas conservan el sabor intenso con menos sal.
-ADVERTENCIAS: Sin sal añadida.|Porción de 1-2 cucharadas: es una pasta intensa y salada.
+JUSTIFICACION: Menos intensa y salada que la tapenade clásica, con la aceituna como protagonista. Para el Perfil1 el sodio baja de unos 750 a 220 mg por porción.
+ADVERTENCIAS: Sin sal añadida.|Porción de 1-2 cucharadas: es una pasta intensa y salada.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~8 g
@@ -4004,8 +4004,8 @@ PREPARACION:
 2. Añade el yogur, la ralladura y el orégano, y bate.
 3. Incorpora el aceite en hilo y bate hasta emulsionar.
 4. Para un aliño más sabroso, agrega un poco de pasta de anchoa o más yogur.
-JUSTIFICACION: El yogur emulsiona el aceite y reemplaza el punto ácido del vinagre con un tono lácteo y fresco.
-ADVERTENCIAS: Sin vinagre: es más suave y cremoso.|Se conserva 3 días en nevera.
+JUSTIFICACION: Más cremoso y suave, con la ralladura y el yogur dando frescor sin acidez. Para el Perfil1 baja de unas 135 a 55 kcal.
+ADVERTENCIAS: Sin vinagre: es más suave y cremoso.|Se conserva 3 días en nevera.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~55 kcal (por porción)
 Proteínas: ~1 g
@@ -4042,8 +4042,8 @@ PREPARACION:
 1. Derrite la mantequilla con el aceite en un cazo; cuando esté caliente, añade la harina de golpe.
 2. Cocina removiendo hasta el punto deseado: blanco (poco) o rubio (un poco más); evita el oscuro, que se amarga.
 3. Vierte el caldo poco a poco, removiendo para evitar grumos; cuece 20 minutos y sazona.
-JUSTIFICACION: La avena espesa con suavidad y con fibra soluble.
-ADVERTENCIAS: Cocina siempre a fuego suave.
+JUSTIFICACION: Un poco más rústico y menos sedoso, con la avena sustituyendo al trigo. Para el Perfil1 se evita el roux oscuro tostado y se usa poca mantequilla.
+ADVERTENCIAS: Cocina siempre a fuego suave.|Cocínalo siempre a fuego suave.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~3 g
@@ -4082,8 +4082,8 @@ PREPARACION:
 2. Cubre con agua fría, añade el laurel y el tomillo y lleva a ebullición suave; cocina 3-4 horas, espumando de vez en cuando.
 3. Cuela y deja enfriar en la nevera; retira la capa de grasa solidificada de la superficie.
 4. Reduce si quieres un caldo más concentrado.
-JUSTIFICACION: Desgrasar el caldo frío es la forma más sencilla de dejarlo limpio y ligero.
-ADVERTENCIAS: El caldo se cuela: lo que se consume es líquido, por eso no lleva valor nutricional por porción.|Sin sal añadida: sazona cada preparación al final.|Congela en porciones pequeñas.
+JUSTIFICACION: Más ligero y limpio que un caldo graso, con sabor profundo por los huesos magros dorados. Para el Perfil1 es sin sal y desgrasado en frío.
+ADVERTENCIAS: El caldo se cuela: lo que se consume es líquido, por eso no lleva valor nutricional por porción.|Sin sal añadida: sazona cada preparación al final.|Congela en porciones pequeñas.|Sazona cada preparación al final, no el caldo.
 ADAPTACIÓN:
 • Mantequilla → fuera; huesos magros y carcasa de pollo sin piel.
 • Se desgrasa en frío; sin sal.
@@ -4111,7 +4111,8 @@ INGREDIENTES:
 PREPARACION:
 1. Mezcla todo en un bol.
 2. Cubre la carne y déjala varias horas en la nevera.
-ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.
+JUSTIFICACION: Sin brandy pierde el aroma de licor y la carne queda algo menos tierna que con alcohol, pero el caldo y la ralladura perfuman bien y no resecan. Para el Perfil1 es una marinada sin alcohol y con poco aceite.
+ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.|Marina siempre en la nevera y desecha la marinada que tocó carne cruda.
 ADAPTACIÓN:
 • Brandy (alcohol) → caldo de pollo y ralladura de limón.
 • Aceite 4 → 2 cucharadas; sal y pimienta fuera (se sazona al cocinar).
@@ -4138,7 +4139,8 @@ INGREDIENTES:
 PREPARACION:
 1. Vierte el caldo en un bol grande y añade la cebolla, el enebro y el tomillo.
 2. Sumerge la carne y déjala entre 5 y 12 horas en la nevera, dándole la vuelta de vez en cuando.
-ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.|Si no consigues enebro, usa laurel y clavo.
+JUSTIFICACION: Mantiene el aroma resinoso del enebro y la cebolla; sin el vino tinto es menos ácida y la carne queda más suave. Para el Perfil1 se cambia el vino por caldo de res.
+ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.|Si no consigues enebro, usa laurel y clavo.|Marina en la nevera y no reutilices la marinada.
 ADAPTACIÓN:
 • Vino tinto → caldo de res casero; el enebro y la cebolla conservan el aroma resinoso.
 • Pimienta fuera.
@@ -4166,7 +4168,8 @@ INGREDIENTES:
 PREPARACION:
 1. Mezcla el aceite con el agua y la ralladura en un bol.
 2. Añade las hierbas; sumerge el pescado un par de horas en la nevera.
-ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.|Sin vinagre no «cocina» el pescado: no la dejes más de 2 horas.
+JUSTIFICACION: Sin vinagre ni zumo la carne no se "cuece" por la acidez, así que queda más jugosa y con aroma fresco de ralladura. Para el Perfil1 se evita la acidez fuerte.
+ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.|Sin vinagre no «cocina» el pescado: no la dejes más de 2 horas.|Marina en la nevera y no reutilices la marinada.
 ADAPTACIÓN:
 • Vinagre y zumo de limón → ralladura de limón y un poco de agua.
 • Aceite 200 → 3 cucharadas.
@@ -4193,7 +4196,8 @@ INGREDIENTES:
 PREPARACION:
 1. Tritura la cebolla, cuélala y pásala a un bol.
 2. Añade el yogur, el comino y la sal; marina la carne entre 3 y 4 horas en la nevera.
-ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.
+JUSTIFICACION: El yogur ablanda con suavidad y deja la carne tierna y ligeramente ácida, con un toque de comino. Para el Perfil1 es la marinada más amable: sin vinagre, sin alcohol y sin picante.
+ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Marina en la nevera y no reutilices la marinada.
 ADAPTACIÓN:
 • Pimienta → una pizca de comino.
 • Yogur natural espeso sin azúcar (más ligero que el escurrido).
@@ -4220,7 +4224,8 @@ INGREDIENTES:
 PREPARACION:
 1. Pon la cebolla en un bol y añade el caldo, el aceite y la ralladura.
 2. Marina el pescado durante 2 horas en la nevera.
-ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.
+JUSTIFICACION: Sin vino ni limón conserva el sabor limpio de mar y el pescado se mantiene firme y delicado. Para el Perfil1 se cambia el vino por caldo y se baja el aceite.
+ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.|Marina el pescado en la nevera, máximo 30 minutos.
 ADAPTACIÓN:
 • Vino blanco y zumo de limón → caldo de pescado y ralladura de limón.
 • Aceite 250 ml → 2 cucharadas.
@@ -4252,7 +4257,8 @@ PREPARACION:
 1. Reparte la mitad de las verduras y hierbas en el fondo de un cuenco grande y coloca la carne encima.
 2. Cúbrela con el resto de verduras.
 3. Mezcla el caldo con el aceite, vierte sobre la carne y marina como mínimo 12 horas en la nevera.
-ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.|Sin vino ni vinagre no ablanda tanto la carne: elige cortes tiernos.
+JUSTIFICACION: Sin el vino y el vinagre pierde el fondo ácido de la marinada de carne guisada, pero el caldo concentrado y el clavo dan profundidad. Para el Perfil1 queda sin alcohol y con mucho menos aceite.
+ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.|Sin vino ni vinagre no ablanda tanto la carne: elige cortes tiernos.|Marina en la nevera y no reutilices la marinada.
 ADAPTACIÓN:
 • Vino tinto, vinagre (1,6 litros) y pimienta → caldo de res concentrado y clavo.
 • Aceite 400 ml → 3 cucharadas.
@@ -4283,7 +4289,8 @@ PREPARACION:
 1. Cubre la carne con la cebolla, el perejil, el tomillo, el laurel y el ajo.
 2. Mezcla el aceite con la ralladura y vierte por encima.
 3. Déjala en la nevera unas 2 horas.
-ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.
+JUSTIFICACION: Es una marinada ligera y herbácea, con la ralladura en lugar del zumo para no acidificar la carne. Para el Perfil1 baja el aceite y no tiene pimienta.
+ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.|Marina siempre en la nevera.
 ADAPTACIÓN:
 • Zumo de limón → ralladura; aceite 5 → 3 cucharadas; pimienta fuera.
 • Se marina en nevera, no a temperatura ambiente.
@@ -4314,7 +4321,8 @@ PREPARACION:
 1. Calienta el aceite y rehoga zanahoria, cebolla y apio a fuego lento 10 minutos.
 2. Añade el caldo, el tomillo y el laurel; cuece unos 30 minutos.
 3. Deja enfriar por completo y reposar 24 horas en la nevera antes de usar.
-ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.
+JUSTIFICACION: Más suave y menos ácida que la clásica, con el caldo de res aportando cuerpo a las verduras y a la carne. Para el Perfil1 se evitan el vino y el vinagre.
+ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.|Marina en la nevera y hierve el líquido si lo vas a reutilizar.
 ADAPTACIÓN:
 • Vino tinto y vinagre (1,4 litros) → caldo de res casero.
 • Aceite 5 → 2 cucharadas; pimienta fuera.
@@ -4343,7 +4351,8 @@ INGREDIENTES:
 PREPARACION:
 1. Vierte el aceite en un cuenco y añade el pimentón, el ajo, el orégano, la ralladura y el agua.
 2. Remueve y marina la carne durante 2 horas en la nevera.
-ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.
+JUSTIFICACION: El pimentón dulce y el ajo asado dan color y aroma, sin el ardor del tabasco. Para el Perfil1 es una marinada sin picante.
+ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 ADAPTACIÓN:
 • Worcestershire y tabasco → pimentón dulce y ajo asado (sin picante).
 • Aceite 400 ml → 3 cucharadas.
@@ -4372,7 +4381,8 @@ INGREDIENTES:
 PREPARACION:
 1. Mezcla todo en un bol.
 2. Cubre la carne o el pescado y déjalo 30 minutos en la nevera.
-ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.
+JUSTIFICACION: La ralladura aporta todo el aroma cítrico sin acidificar la carne, que queda más jugosa. Para el Perfil1 se evita el zumo de limón.
+ADVERTENCIAS: La marinada que tocó carne o pescado crudos se descarta, o se hierve 5 minutos si se va a usar para una salsa.|No lleva valor nutricional por porción: la pieza absorbe solo una parte.|Marina en la nevera, de 30 minutos a 2 horas.
 ADAPTACIÓN:
 • Zumo de limón → ralladura (todo el aroma, sin acidez).
 • Aceite 400 ml → 3 cucharadas.
@@ -4399,7 +4409,8 @@ PREPARACION:
 1. Lava las espinacas y hiérvelas 5 minutos hasta que estén tiernas; escúrrelas muy bien (exprímelas) y píquelas fino.
 2. Mezcla la mantequilla con el queso fresco batido y las espinacas; sazona.
 3. Refrigera 30 minutos antes de usar.
-ADVERTENCIAS: Se conserva en la nevera hasta 3 días.|Usa una cucharadita por pieza de carne.
+JUSTIFICACION: Más ligera y fresca que la mantequilla clásica de espinacas, de un verde suave y textura de pomada. Para el Perfil1 baja de unas 185 a 95 kcal.
+ADVERTENCIAS: Se conserva en la nevera hasta 3 días.|Usa una cucharadita por pieza de carne.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Úsala en cucharadita sobre carne o pescado caliente.
 VALOR_NUTRICIONAL:
 Calorías: ~95 kcal (por porción)
 Proteínas: ~4 g
@@ -4435,7 +4446,8 @@ PREPARACION:
 1. Saltea los champiñones en el aceite con la sal 6 minutos, hasta que estén tiernos y sin agua; tritúralos con el perejil.
 2. Deja enfriar por completo.
 3. Mezcla con la mantequilla y el queso fresco.
-ADVERTENCIAS: Se conserva en la nevera hasta 3 días.|Sácala 15 minutos antes de usarla para que se unte bien.
+JUSTIFICACION: El champiñón salteado en aceite da un sabor terroso y la mezcla es algo menos rica y más cremosa. Para el Perfil1 baja de unas 240 a 100 kcal y no lleva pimienta.
+ADVERTENCIAS: Se conserva en la nevera hasta 3 días.|Sácala 15 minutos antes de usarla para que se unte bien.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~4 g
@@ -4471,7 +4483,8 @@ PREPARACION:
 1. Pica las gambas muy fino.
 2. Mézclalas con la mantequilla, el queso fresco y la ralladura; sazona.
 3. Refrigera 30 minutos antes de usar.
-ADVERTENCIAS: Se conserva en la nevera hasta 2 días.|Usa una cucharadita por canapé.
+JUSTIFICACION: Conserva el sabor a marisco y es más ligera y lechosa que la original. Para el Perfil1 baja de unas 200 a 110 kcal.
+ADVERTENCIAS: Se conserva en la nevera hasta 2 días.|Usa una cucharadita por canapé.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Mariscos siempre bien cocidos. Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~11 g
@@ -4507,7 +4520,8 @@ PREPARACION:
 1. Ablanda la mantequilla en un bol sobre agua caliente, sin que llegue a derretirse del todo.
 2. Añade el queso fresco, la albahaca finamente picada y la ralladura; remueve y sazona.
 3. Refrigera hasta que recupere firmeza.
-ADVERTENCIAS: Se conserva en la nevera hasta 3 días.
+JUSTIFICACION: Frescura de albahaca en una mantequilla más ligera y lechosa. Para el Perfil1 se cambian el limón y la pimienta por ralladura.
+ADVERTENCIAS: Se conserva en la nevera hasta 3 días.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~95 kcal (por porción)
 Proteínas: ~4 g
@@ -4541,7 +4555,8 @@ PREPARACION:
 1. Mezcla la mantequilla con el queso fresco hasta que quede lisa.
 2. Pasa el caviar a un bol y mézclalo con cuidado hasta que quede uniforme.
 3. Refrigera y sirve en canapés.
-ADVERTENCIAS: El caviar es salado: no añadas sal y úsalo solo en ocasiones especiales.|Una cucharadita por canapé.
+JUSTIFICACION: Mantiene el toque marino y salino del caviar en una base más ligera. Para el Perfil1 se baja el caviar de 25 a 10 g y el sodio.
+ADVERTENCIAS: El caviar es salado: no añadas sal y úsalo solo en ocasiones especiales.|Una cucharadita por canapé.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|No añadas sal.
 VALOR_NUTRICIONAL:
 Calorías: ~95 kcal (por porción)
 Proteínas: ~4 g
@@ -4575,7 +4590,8 @@ INGREDIENTES:
 PREPARACION:
 1. Calienta las especias en seco 30 segundos para que suelten aroma; deja enfriar.
 2. Mezcla la mantequilla con el queso fresco y las especias hasta obtener un color homogéneo.
-ADVERTENCIAS: Se conserva en la nevera hasta 3 días.|Revisa que tus especias no vengan mezcladas con chile.
+JUSTIFICACION: Es más suave y menos picante que el original, con un aroma de curry dorado. Para el Perfil1 es una mezcla sin chile.
+ADVERTENCIAS: Se conserva en la nevera hasta 3 días.|Revisa que tus especias no vengan mezcladas con chile.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~95 kcal (por porción)
 Proteínas: ~4 g
@@ -4611,7 +4627,8 @@ PREPARACION:
 1. Escalda el ajo 3 minutos, pélalo y májalo hasta una pasta.
 2. Muele las semillas de hinojo en un mortero o molinillo.
 3. Mezcla ajo e hinojo con la mantequilla, el queso fresco y la ralladura.
-ADVERTENCIAS: Se conserva en la nevera hasta 3 días.
+JUSTIFICACION: El hinojo aporta un perfume anisado fresco, más delicado por el ajo escaldado. Para el Perfil1 se evitan el limón y la pimienta.
+ADVERTENCIAS: Se conserva en la nevera hasta 3 días.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~95 kcal (por porción)
 Proteínas: ~4 g
@@ -4645,7 +4662,8 @@ INGREDIENTES:
 PREPARACION:
 1. Machaca el queso en un bol hasta hacerlo crema, sin dejar de remover.
 2. Agrega las almendras y luego la mantequilla; mezcla hasta unir.
-ADVERTENCIAS: Se conserva en la nevera hasta 3 días.
+JUSTIFICACION: Más ligera que la clásica, con la almendra dando textura y el queso fresco cremosidad. Para el Perfil1 baja de unas 275 a 110 kcal.
+ADVERTENCIAS: Se conserva en la nevera hasta 3 días.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~7 g
@@ -4679,7 +4697,8 @@ INGREDIENTES:
 PREPARACION:
 1. Bate la mantequilla con el queso fresco y el parmesano hasta obtener una pasta suave.
 2. Incorpora el perejil.
-ADVERTENCIAS: Es una evocación: sin el carácter fermentado del gorgonzola.|Sin sal añadida.
+JUSTIFICACION: Evoca el gorgonzola sin su sabor fermentado y picante: más lechosa y suave. Para el Perfil1 baja de unas 240 a 90 kcal.
+ADVERTENCIAS: Es una evocación: sin el carácter fermentado del gorgonzola.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~6 g
@@ -4713,7 +4732,8 @@ INGREDIENTES:
 PREPARACION:
 1. Pica las anchoas muy finas y májalas hasta formar pasta.
 2. Mézclalas con la mantequilla, el queso fresco, el ajonjolí y la ralladura.
-ADVERTENCIAS: Sin sal añadida.|La botarga no es fácil de conseguir: esta versión evoca su sabor.
+JUSTIFICACION: Evoca la botarga con anchoa y ajonjolí tostado: menos intensa pero con la misma nota salina y tostada. Para el Perfil1 se evitan las huevas curadas, el vino y la mostaza.
+ADVERTENCIAS: Sin sal añadida.|La botarga no es fácil de conseguir: esta versión evoca su sabor.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|No añadas sal.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~5 g
@@ -4750,7 +4770,8 @@ PREPARACION:
 1. Escalda el chalote 2 minutos y escúrrelo bien.
 2. Mezcla la mantequilla con el queso fresco, el chalote, el ajo asado y el perejil.
 3. Sazona y refrigera.
-ADVERTENCIAS: Se conserva en la nevera hasta 3 días.
+JUSTIFICACION: Menos picante y más dulce que la original, con ajo asado y chalote escaldado. Para el Perfil1 se evitan los crudos y la pimienta.
+ADVERTENCIAS: Se conserva en la nevera hasta 3 días.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~95 kcal (por porción)
 Proteínas: ~4 g
@@ -4783,7 +4804,8 @@ INGREDIENTES:
 PREPARACION:
 1. Trabaja la mantequilla con el queso fresco en un bol.
 2. Añade las anchoas picadas; mezcla bien.
-ADVERTENCIAS: Sin sal añadida.|Una cucharadita por pieza de carne.
+JUSTIFICACION: Menos salada y más suave que la clásica de anchoas, aunque conserva el sabor a mar. Para el Perfil1 baja el sodio, usando menos anchoas y sin pasta.
+ADVERTENCIAS: Sin sal añadida.|Una cucharadita por pieza de carne.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|No añadas sal.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~6 g
@@ -4817,7 +4839,8 @@ INGREDIENTES:
 PREPARACION:
 1. Asa los dientes de ajo con su piel 25 minutos a 180 °C, hasta que estén muy blandos; pélalos y májalos.
 2. Mézclalos con la mantequilla y el queso fresco; sala.
-ADVERTENCIAS: Se conserva en la nevera hasta 3 días.
+JUSTIFICACION: El ajo asado es dulce y suave, mucho menos agresivo que el ajo escaldado de la receta original. Para el Perfil1 baja de 20 dientes a 6.
+ADVERTENCIAS: Se conserva en la nevera hasta 3 días.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~4 g
@@ -4853,7 +4876,8 @@ PREPARACION:
 1. Mezcla la mantequilla con el queso fresco, el perejil, la ralladura y la sal.
 2. Forma un rulo y envuélvelo en film transparente.
 3. Refrigera hasta que esté firme y sirve en rodajas.
-ADVERTENCIAS: Se conserva en la nevera hasta 3 días.
+JUSTIFICACION: Mantiene el verdor del perejil con la ralladura aportando aroma cítrico sin la acidez del zumo. Para el Perfil1 baja de unas 180 a 90 kcal.
+ADVERTENCIAS: Se conserva en la nevera hasta 3 días.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~4 g
@@ -4888,7 +4912,8 @@ PREPARACION:
 1. Derrite la mantequilla con el aceite a fuego lento hasta que empiece a tomar color avellana.
 2. Retira del fuego, añade la ralladura y la sal.
 3. Sirve enseguida, tibia.
-ADVERTENCIAS: No dejes que se queme: si humea, empieza de nuevo.
+JUSTIFICACION: Tiene el aroma tostado de avellana de la mantequilla dorada, con menos grasa de mantequilla. Para el Perfil1 se evitan el zumo y la pimienta.
+ADVERTENCIAS: No dejes que se queme: si humea, empieza de nuevo.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Si la mantequilla humea, empieza de nuevo: quemada irrita.
 VALOR_NUTRICIONAL:
 Calorías: ~65 kcal (por porción)
 Proteínas: ~0 g
@@ -4923,7 +4948,8 @@ PREPARACION:
 1. Retira la cabeza, corta el caparazón por el vientre y extrae la carne entera; quita el hilo intestinal.
 2. Pica la carne de las pinzas y del cuerpo muy fina.
 3. Mezcla con la mantequilla y el queso fresco; sazona ligeramente.
-ADVERTENCIAS: Se conserva en la nevera hasta 2 días.
+JUSTIFICACION: Conserva el sabor a marisco en una base más ligera y lechosa. Para el Perfil1 baja de unas 205 a 115 kcal.
+ADVERTENCIAS: Se conserva en la nevera hasta 2 días.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Mariscos siempre bien cocidos. Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~115 kcal (por porción)
 Proteínas: ~13 g
@@ -4957,7 +4983,8 @@ PREPARACION:
 1. Tuesta las hojas de salvia 5 minutos a 160 °C en el horno hasta que estén secas y crujientes.
 2. Derrite la mantequilla con el aceite a fuego lento hasta que empiece a tomar color.
 3. Retira del fuego, añade la salvia desmenuzada y sirve enseguida.
-ADVERTENCIAS: Cocina a fuego lento: la mantequilla no debe humear.
+JUSTIFICACION: La salvia tostada al horno queda crujiente sin fritura, con el aroma intacto, y la mantequilla se reduce con aceite de oliva. Para el Perfil1 baja la grasa y evita la fritura.
+ADVERTENCIAS: Cocina a fuego lento: la mantequilla no debe humear.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~65 kcal (por porción)
 Proteínas: ~0 g
@@ -4991,7 +5018,8 @@ INGREDIENTES:
 • Sal — 1 pizca
 PREPARACION:
 1. Trabaja la mantequilla con el queso fresco, la cúrcuma, el ajonjolí y la sal hasta que tenga color uniforme.
-ADVERTENCIAS: Es una evocación: no tiene el picor de la mostaza.
+JUSTIFICACION: Evoca la mantequilla con mostaza: color dorado por la cúrcuma y un toque tostado por el ajonjolí, sin el picor. Para el Perfil1 se evita la mostaza.
+ADVERTENCIAS: Es una evocación: no tiene el picor de la mostaza.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~95 kcal (por porción)
 Proteínas: ~4 g
@@ -5025,7 +5053,8 @@ INGREDIENTES:
 PREPARACION:
 1. Retira piel y espinas de las sardinas y aplástalas o pásalas por un tamiz.
 2. Mezcla con la mantequilla, el queso fresco y la ralladura.
-ADVERTENCIAS: Se conserva en la nevera hasta 2 días.
+JUSTIFICACION: Sabor a mar intenso en una base ligera, con la sardina al natural en vez de en aceite. Para el Perfil1 baja de unas 210 a 110 kcal.
+ADVERTENCIAS: Se conserva en la nevera hasta 2 días.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Revisa que no queden espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~9 g
@@ -5059,7 +5088,8 @@ INGREDIENTES:
 PREPARACION:
 1. Trabaja la mantequilla con el queso fresco en un bol.
 2. Añade el nabo rallado y sazona.
-ADVERTENCIAS: Es una evocación: sin el ardor del rábano picante.|Consúmela en 2 días.
+JUSTIFICACION: El nabo cocido da un toque terroso y dulce sin el ardor del rábano. Para el Perfil1 se evita el picante.
+ADVERTENCIAS: Es una evocación: sin el ardor del rábano picante.|Consúmela en 2 días.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~95 kcal (por porción)
 Proteínas: ~4 g
@@ -5095,7 +5125,8 @@ PREPARACION:
 1. Hornea el salmón 12 minutos a 180 °C envuelto en papel; deja enfriar y desmenúzalo fino.
 2. Trabaja la mantequilla con el queso fresco en un bol.
 3. Incorpora el salmón, el eneldo y la sal.
-ADVERTENCIAS: Se conserva en la nevera hasta 2 días.
+JUSTIFICACION: El salmón fresco al horno es más suave y menos salado que el ahumado, con textura de pomada. Para el Perfil1 se evitan los ahumados y se baja la sal.
+ADVERTENCIAS: Se conserva en la nevera hasta 2 días.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~115 kcal (por porción)
 Proteínas: ~8 g
@@ -5129,7 +5160,8 @@ INGREDIENTES:
 PREPARACION:
 1. Trabaja la mantequilla con el queso fresco en un bol.
 2. Incorpora el atún poco a poco y la ralladura.
-ADVERTENCIAS: Se conserva en la nevera hasta 2 días.
+JUSTIFICACION: Más ligera que la versión con atún en aceite, con un sabor marino suave. Para el Perfil1 baja de unas 205 a 105 kcal.
+ADVERTENCIAS: Se conserva en la nevera hasta 2 días.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~105 kcal (por porción)
 Proteínas: ~8 g
@@ -5162,7 +5194,8 @@ PREPARACION:
 2. El agua se evapora y la caseína se asienta en el fondo en forma de capa blanquecina.
 3. Cuela con un colador forrado con muselina, vierte la grasa a un tarro hermético y guarda en la nevera.
 4. Si la usas en lugar de mantequilla normal, emplea la mitad de la cantidad.
-ADVERTENCIAS: Una porción es 1 cucharadita (5 g): úsala solo para dorar al horno o saltear suavemente.|No es para freír.
+JUSTIFICACION: Sin sedimentos ni agua, se dora a fuego suave sin quemarse y mantiene el sabor de la mantequilla. Para el Perfil1 se usa solo en cucharaditas.
+ADVERTENCIAS: Una porción es 1 cucharadita (5 g): úsala solo para dorar al horno o saltear suavemente.|No es para freír.|Una cucharadita por porción; nada de fritura.
 VALOR_NUTRICIONAL:
 Calorías: ~45 kcal (por porción)
 Proteínas: ~0 g
@@ -5197,6 +5230,8 @@ PREPARACION:
 1. Derrite la mantequilla con el aceite al baño maría hasta que tome consistencia espumosa.
 2. Sazona con la sal y la ralladura.
 3. Sirve enseguida.
+JUSTIFICACION: Mantiene la untuosidad de la mantequilla derretida, con aceite de oliva que la hace más ligera. Para el Perfil1 se evitan el limón y la pimienta.
+ADVERTENCIAS: Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~65 kcal (por porción)
 Proteínas: ~0 g
@@ -5229,6 +5264,8 @@ PREPARACION:
 1. Mezcla la mantequilla con la harina a mano hasta formar una pasta.
 2. Añade pequeñas bolitas al jugo de cocción caliente y remueve hasta que espese.
 3. Retira del fuego antes de que el líquido llegue a hervir.
+JUSTIFICACION: Con avena espesa igual de bien pero con textura algo más rústica. Para el Perfil1 se baja la mantequilla de 25 a 10 g.
+ADVERTENCIAS: Incorpora de a poco, sin hervir fuerte.
 VALOR_NUTRICIONAL:
 Calorías: ~40 kcal (por porción)
 Proteínas: ~1 g
@@ -5262,8 +5299,8 @@ PREPARACION:
 1. Asa la pechuga con el aceite y el tomillo 20 minutos a 190 °C; deja enfriar y lamínala muy fina.
 2. Pela los higos y córtalos en cuatro sin separar la base, para que se abran como una estrella.
 3. Sírvelos con las lonchas de pollo enrolladas o dobladas.
-JUSTIFICACION: El pollo asado y laminado da la textura del jamón sin el curado; el higo aporta el dulzor.
-ADVERTENCIAS: Higo en porción moderada: es una fruta dulce; el pollo equilibra.
+JUSTIFICACION: Frente al jamón crudo, el pollo asado es menos salado y curado pero conserva el contraste dulce y salado con el higo. Para el Perfil1 se evita el embutido y se reduce el higo a la mitad.
+ADVERTENCIAS: Higo en porción moderada: es una fruta dulce; el pollo equilibra.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.|El higo cuenta como la fruta de la comida.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~13 g
@@ -5298,8 +5335,8 @@ PREPARACION:
 1. Asa la pechuga con el aceite y el tomillo 20 minutos a 190 °C; deja enfriar y lamínala muy fina.
 2. Corta la piña en rodajas finas o en cuñas.
 3. Dispón las lonchas de pollo sobre la fruta o enrolladas a su lado.
-JUSTIFICACION: La piña aporta frescura y bromelina, y el pollo la proteína que equilibra el azúcar de la fruta.
-ADVERTENCIAS: Elige piña bien madura: la verde es muy ácida.
+JUSTIFICACION: El pollo asado y laminado sustituye al jamón, con la piña dulce y jugosa aportando el contraste. Para el Perfil1 baja la piña y se elige madura.
+ADVERTENCIAS: Elige piña bien madura: la verde es muy ácida.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~13 g
@@ -5334,8 +5371,8 @@ PREPARACION:
 1. Asa la pechuga con el aceite y el tomillo 20 minutos a 190 °C; deja enfriar y lamínala muy fina.
 2. Corta el melón en gajos, quita las semillas y, si quieres, la piel.
 3. Sirve cada gajo con una loncha de pollo.
-JUSTIFICACION: La fruta fresca y el pollo asado forman un plato ligero y equilibrado.
-ADVERTENCIAS: Consumir el melón en la porción indicada junto con la proteína.
+JUSTIFICACION: El melón fresco con pollo asado mantiene el contraste dulce y salado, aunque más suave que con el jamón crudo. Para el Perfil1 se baja el melón a la mitad.
+ADVERTENCIAS: Consumir el melón en la porción indicada junto con la proteína.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~85 kcal (por porción)
 Proteínas: ~13 g
@@ -5369,8 +5406,8 @@ PREPARACION:
 1. Asa la pechuga con el aceite y el tomillo 20 minutos a 190 °C; deja enfriar y lamínala muy fina.
 2. Pela los kiwis y córtalos en rodajas finas.
 3. Intercala las rodajas con las lonchas de pollo enrolladas.
-JUSTIFICACION: El pollo asado reemplaza al jamón cocido sin conservantes, y el kiwi aporta frescura y fibra.
-ADVERTENCIAS: Usa kiwis bien maduros: los verdes son ácidos.
+JUSTIFICACION: El pollo asado da un fondo neutro y el kiwi maduro un contraste ácido y dulce. Para el Perfil1 se baja el kiwi y se elige maduro.
+ADVERTENCIAS: Usa kiwis bien maduros: los verdes son ácidos.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~12 g
@@ -5406,8 +5443,8 @@ PREPARACION:
 1. Asa el lomo 25 minutos a 180 °C, hasta que esté bien cocido; deja enfriar por completo y lamínalo muy fino con un cuchillo afilado.
 2. Una hora antes de servir, dispón las láminas en un plato en capas finas.
 3. Aliña con el aceite, la ralladura y la sal; sirve sobre rúcula.
-JUSTIFICACION: La res asada, fría y laminada fina imita la textura de la bresaola sin el curado ni el exceso de sodio.
-ADVERTENCIAS: Es una evocación: no tiene el sabor curado de la bresaola.
+JUSTIFICACION: Es una evocación de la bresaola: carne asada y laminada, menos curada pero igual de fina y tierna. Para el Perfil1 se evita el curado y el limón.
+ADVERTENCIAS: Es una evocación: no tiene el sabor curado de la bresaola.|Sirve en láminas finas y frías, no calientes.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~12 g
@@ -5440,8 +5477,8 @@ PREPARACION:
 1. Asa el lomo 25 minutos a 180 °C, hasta que esté bien cocido; deja enfriar y lamínalo en tiras finísimas.
 2. Envuelve cada grano de uva con una tira de res.
 3. Fija con un palillo de cóctel y sirve frío.
-JUSTIFICACION: Dulzor de la uva y proteína de la res en un bocado; la uva pelada es más suave.
-ADVERTENCIAS: Porción de uvas pequeña: las uvas son dulces.
+JUSTIFICACION: El lomo asado laminado da un fondo salado y las uvas un dulzor jugoso. Para el Perfil1 baja la fruta de 150 a 100 g.
+ADVERTENCIAS: Porción de uvas pequeña: las uvas son dulces.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~12 g
@@ -5479,8 +5516,8 @@ PREPARACION:
 2. Tuesta el pan por ambos lados.
 3. Unta los ajos asados machacados sobre el pan caliente y reparte el tomate encima.
 4. Aliña con el aceite, la albahaca y la sal.
-JUSTIFICACION: Tomate y ajo asados son dulces y suaves, y el pan integral aporta fibra.
-ADVERTENCIAS: Sírvela como entrada o junto a una proteína.
+JUSTIFICACION: El tomate asado queda dulce y concentrado frente al tomate crudo, y el pan integral es más blando que el campesino. Para el Perfil1 es suave para la digestión.
+ADVERTENCIAS: Sírvela como entrada o junto a una proteína.|Come despacio y mastica bien.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~4 g
@@ -5520,8 +5557,8 @@ PREPARACION:
 2. Saltea los champiñones 6 minutos, hasta que suelten el agua y se doren; deja enfriar.
 3. Mezcla la res con el aceite, la ralladura, la cúrcuma y la sal; deja reposar 1 hora en frío.
 4. Forma una cúpula con la carne en el centro del plato, acompáñala con los champiñones y el perejil.
-JUSTIFICACION: La carne bien cocida mantiene la textura picada del tartar sin riesgo, y los champiñones dan el toque terroso.
-ADVERTENCIAS: Cocina siempre la carne por completo.
+JUSTIFICACION: Sin la carne cruda cambia la textura jugosa del tartar, pero la carne cocida y enfriada se desmenuza fina y conserva el sabor. Para el Perfil1 se evita la carne cruda y la mostaza.
+ADVERTENCIAS: Cocina siempre la carne por completo.|Cocina siempre la carne por completo y consume el mismo día.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~19 g
@@ -5573,8 +5610,8 @@ PREPARACION_RELLENO_DE_POLLO_Y_CHAMPINONES:
 1. Sofríe la cebolla con la salvia a fuego lento hasta que esté dulce.
 2. Añade el pollo y los champiñones y cocínalos 6-8 minutos.
 3. Agrega la harina, el tomate y el caldo y cuece hasta que espese; sazona y rellena los cestillos.
-JUSTIFICACION: La harina de maíz precocida es más accesible que la sémola y da una textura firme y dorada.
-ADVERTENCIAS: Sirve tibios. No los rellenes hasta el momento de servir.
+JUSTIFICACION: La harina de maíz precocida da una textura más suave y rústica que la sémola, y el relleno de pollo y champiñones sustituye a los higadillos. Para el Perfil1 se evita la víscera y el alcohol.
+ADVERTENCIAS: Sirve tibios. No los rellenes hasta el momento de servir.|No rellenes hasta el momento de servir.
 VALOR_NUTRICIONAL:
 Calorías: ~205 kcal (por porción)
 Proteínas: ~15 g
@@ -5617,7 +5654,7 @@ PREPARACION:
 3. Hidrata la gelatina, disuélvela en una cucharada de caldo caliente y mezcla con el pollo triturado y la salsa.
 4. Incorpora el yogur; rellena los moldes y refrigera hasta que cuajen.
 5. Desmolda sobre hojas de lechuga.
-JUSTIFICACION: Pollo y yogur dan una mousse ligera y proteica, sin embutidos ni nata.
+JUSTIFICACION: El pollo cocido sustituye al jamón en un molde fresco y firme. Para el Perfil1 se evitan el embutido, el alcohol y el pepinillo.
 ADVERTENCIAS: Necesita al menos 4 horas de nevera.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
@@ -5660,8 +5697,8 @@ PREPARACION:
 2. Remoja el pan en la leche; sofríe las cebollas con la carne hasta que estén cocidas y mézclalos con el pan, el huevo y nuez moscada.
 3. Pon una cucharada en cada hoja y enróllala formando un hatillo.
 4. Cuece los hatillos en el caldo con la ralladura, tapados, 40 minutos a fuego bajo.
-JUSTIFICACION: Cocidos en caldo quedan tiernos y jugosos, sin vino ni limón concentrado.
-ADVERTENCIAS: Si usas hojas de parra en salmuera, enjuágalas muy bien para quitar la sal.
+JUSTIFICACION: Más ligeros que los originales con jamón y mantequilla; el relleno de res magra va jugoso dentro de la hoja. Para el Perfil1 se evitan el embutido y el vino.
+ADVERTENCIAS: Si usas hojas de parra en salmuera, enjuágalas muy bien para quitar la sal.|Si usas hojas en salmuera, enjuágalas muy bien.
 VALOR_NUTRICIONAL:
 Calorías: ~135 kcal (por porción)
 Proteínas: ~13 g
@@ -5697,8 +5734,8 @@ PREPARACION:
 1. Bate la ricota con una pizca de sal; añade el pimentón y las nueces.
 2. Pon un poco en la punta de cada loncha de pollo y enrolla.
 3. Refrigera hasta el momento de servir.
-JUSTIFICACION: El pollo reemplaza a la mortadela, un embutido muy procesado, y el pimentón asado aporta dulzor.
-ADVERTENCIAS: Si no encuentras ricota, usa queso fresco batido.
+JUSTIFICACION: El pollo asado sustituye a la mortadela con un sabor más suave. Para el Perfil1 se evita el embutido y la ricota es baja en grasa.
+ADVERTENCIAS: Si no encuentras ricota, usa queso fresco batido.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~13 g
@@ -5744,8 +5781,8 @@ PREPARACION:
 1. Extiende las lonchas de pollo y pon en cada una una cucharada colmada de ensaladilla.
 2. Enróllalas y coloca en el extremo un tallo de cebollín.
 3. Sirve sobre un lecho de lechuga cortada en forma de abanico.
-JUSTIFICACION: Ensaladilla ligera con yogur en vez de mayonesa, y verduras cocidas.
-ADVERTENCIAS: Sirve el mismo día.
+JUSTIFICACION: La ensaladilla de yogur con batata es más ligera que la mayonesa original. Para el Perfil1 se evitan el embutido y el vinagre.
+ADVERTENCIAS: Sirve el mismo día.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~13 g
@@ -5785,8 +5822,8 @@ PREPARACION:
 2. Sofríe la cebolla con la salvia y el romero en el aceite hasta que doren y estén dulces.
 3. Añade el caldo y hierve 5 minutos; incorpora la ralladura y vierte la mezcla sobre la carne.
 4. Deja marinar en la nevera 4 horas o más.
-JUSTIFICACION: La cebolla dorada y las hierbas dan sabor profundo; el caldo mantiene la carne jugosa.
-ADVERTENCIAS: Sin vinagre se conserva menos: consúmela en 3 días.
+JUSTIFICACION: La carne marinada en caldo queda tierna y suave, más ligera que con vino y vinagre. Para el Perfil1 se evitan el alcohol y el vinagre.
+ADVERTENCIAS: Sin vinagre se conserva menos: consúmela en 3 días.|Consúmela en 3 días: sin vinagre se conserva menos.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~26 g
@@ -5822,8 +5859,8 @@ PREPARACION:
 1. Engrasa un molde refractario o de cristal.
 2. Mezcla la carne con los huevos batidos, la cebolla y la ralladura; sazona.
 3. Hornea al baño maría 35 minutos a 180 °C, hasta que cuaje; sirve tibio o frío.
-JUSTIFICACION: Huevos y res se unen en un pastel firme y proteico.
-ADVERTENCIAS: Deja reposar 10 minutos antes de cortar.
+JUSTIFICACION: El pastel al baño maría es húmedo y tierno, con la cebolla dulce dando un sabor redondo. Para el Perfil1 se evitan el limón y el exceso de grasa.
+ADVERTENCIAS: Deja reposar 10 minutos antes de cortar.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~210 kcal (por porción)
 Proteínas: ~30 g
@@ -5864,8 +5901,8 @@ PREPARACION:
 2. Disuelve el cacao, la harina y la stevia en el caldo caliente y cocina 5 minutos removiendo.
 3. Añade pasas, ciruela y almendras.
 4. Dispón la res en una fuente, vierte la salsa por encima, tapa con papel de aluminio y hornea 20 minutos a 170 °C.
-JUSTIFICACION: Cacao y fruta dan el dulzor oscuro de la receta clásica; la res magra horneada reemplaza a la lengua grasa.
-ADVERTENCIAS: Es una evocación: sin vinagre no tiene el pico ácido original.|Cuenta las pasas como la fruta del día.
+JUSTIFICACION: Sin vinagre pierde el contraste ácido y la lengua cambia por res magra, menos untuosa pero más limpia de sabor; el cacao y la ciruela dan el dulzor oscuro del agridulce. Para el Perfil1 se baja la grasa y el azúcar.
+ADVERTENCIAS: Es una evocación: sin vinagre no tiene el pico ácido original.|Cuenta las pasas como la fruta del día.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.|Es una evocación: no esperes el pico ácido del original.
 VALOR_NUTRICIONAL:
 Calorías: ~215 kcal (por porción)
 Proteínas: ~29 g
@@ -5906,8 +5943,8 @@ PREPARACION:
 2. Corta la carne en tiras finas mientras está tibia y las verduras cocidas en cubitos.
 3. Escalda la otra cebolla en rodajas finas 2 minutos y escúrrela.
 4. Mezcla todo con el aceite, el perejil y la ralladura y deja macerar 30 minutos.
-JUSTIFICACION: Carne bien cocida con verduras: ligera, de textura suave y bien aliñada.
-ADVERTENCIAS: Quita toda la grasa visible de la carne.
+JUSTIFICACION: La res cocida y desmenuzada sustituye la gelatina de los pies de ternera: menos untuosa, igual de sabrosa tibia con la cebolla escaldada. Para el Perfil1 se quita la grasa y el crudo.
+ADVERTENCIAS: Quita toda la grasa visible de la carne.|Come despacio y mastica bien.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Retira toda la grasa visible de la carne.
 VALOR_NUTRICIONAL:
 Calorías: ~180 kcal (por porción)
 Proteínas: ~27 g
@@ -5945,8 +5982,8 @@ PREPARACION:
 2. Hierve el zumo de naranja 3 minutos hasta reducirlo a 2 cucharadas; deja enfriar.
 3. Machaca la yema con el yogur, añade el zumo y la ralladura y una pizca de sal.
 4. Corta la lechuga en juliana, forma un lecho, coloca los huevos y sirve el aliño aparte.
-JUSTIFICACION: Yema y yogur dan la cremosidad de la mayonesa, mucho más ligera.
-ADVERTENCIAS: Los huevos de codorniz son pequeños: 3 por persona.
+JUSTIFICACION: Más ligera que la versión con mayonesa y nata: el yogur y la yema dura dan cremosidad fresca y la naranja reducida un toque dulce. Para el Perfil1 los huevos están bien cocidos y no hay grasa de más.
+ADVERTENCIAS: Los huevos de codorniz son pequeños: 3 por persona.|Cocina bien los huevos: yema y clara completamente cuajadas.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~9 g
@@ -5992,8 +6029,8 @@ INGREDIENTES_RELLENO_DE_QUESO:
 • Yogur natural espeso — 3 cdas (45 g)
 PREPARACION_RELLENO_DE_QUESO:
 1. Machaca el queso con el parmesano y mezcla con el yogur hasta lograr una crema.
-JUSTIFICACION: La harina integral aporta fibra y los quesos frescos la untuosidad del provolone con la mitad de grasa.
-ADVERTENCIAS: Sin sal añadida en el relleno.
+JUSTIFICACION: Algo más densos y rústicos que los de harina blanca, con el aroma del romero intacto; el relleno de queso fresco es más suave que el provolone con panceta. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida en el relleno.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Come despacio y mastica bien.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~200 kcal (por porción)
 Proteínas: ~10 g
@@ -6037,8 +6074,8 @@ PREPARACION:
 3. Pásalas por la harina de avena, el huevo batido con sal y el pan rallado.
 4. Colócalas en una bandeja, píntalas con el aceite y hornea 25 minutos a 200 °C, dándoles la vuelta a mitad, hasta que doren y el pollo esté cocido.
 5. Sírvelas sobre berros.
-JUSTIFICACION: El horno da el dorado de la fritura con mucha menos grasa.
-ADVERTENCIAS: Comprueba que el pollo esté bien cocido por dentro.
+JUSTIFICACION: Horneadas quedan menos crujientes y doradas que fritas, pero el queso fundido y la piña caramelizada dan el mismo contraste dulce y salado. Para el Perfil1 se evitan el embutido y la fritura.
+ADVERTENCIAS: Comprueba que el pollo esté bien cocido por dentro.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.|Elige piña bien madura.
 VALOR_NUTRICIONAL:
 Calorías: ~215 kcal (por porción)
 Proteínas: ~22 g
@@ -6076,8 +6113,8 @@ PREPARACION:
 2. Escúrrelas y rebózalas en el pan rallado.
 3. Colócalas en una bandeja con el aceite pincelado y hornea 8-10 minutos a 200 °C, hasta que estén crujientes.
 4. Sirve con el queso.
-JUSTIFICACION: Crujientes sin fritura: el horno hace el trabajo.
-ADVERTENCIAS: Vigila el horno: la salvia se quema rápido.
+JUSTIFICACION: Salen dorados, aunque menos burbujeantes que los fritos; la salvia mantiene todo su aroma y el queso fresco firme se funde bien. Para el Perfil1 se evita la fritura.
+ADVERTENCIAS: Vigila el horno: la salvia se quema rápido.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~6 g
@@ -6115,8 +6152,8 @@ PREPARACION:
 1. Desmenuza las sardinas y mézclalas con la manzana, el pepino, el chalote y el cebollino; añade el aceite.
 2. Tuesta el pan por ambos lados.
 3. Cubre cada rebanada con la mezcla de sardina.
-JUSTIFICACION: Sardina (omega-3), fruta y pan integral dan equilibrio y frescura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La sardina cocida al natural es más suave que el arenque crudo, y el pepino fresco da frescor sin el vinagre. Para el Perfil1 se evitan el pescado crudo, el encurtido y la mantequilla.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Revisa que no queden espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~135 kcal (por porción)
 Proteínas: ~10 g
@@ -6155,8 +6192,8 @@ PREPARACION:
 2. Calienta una cucharada de aceite en una sartén antiadherente y cocina el pollo 12-15 minutos a fuego medio, dándole la vuelta, hasta que esté bien cocido.
 3. Haz el aliño: machaca la anchoa con el aceite restante hasta obtener una pasta; añade la ralladura.
 4. Dispón la rúcula en una fuente, aliña, pon el pollo encima y reparte los champiñones.
-JUSTIFICACION: Los champiñones asados dan la nota terrosa de la trufa; la anchoa el fondo salado del aliño.
-ADVERTENCIAS: Si dispones de trufa negra, ralla 5 g encima.
+JUSTIFICACION: Evoca la trufa con el champiñón asado; la rúcula da un amargor fresco y el pollo un fondo neutro. Para el Perfil1 se evitan la trufa, el limón y el exceso de aceite.
+ADVERTENCIAS: Si dispones de trufa negra, ralla 5 g encima.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~29 g
@@ -6194,8 +6231,8 @@ PREPARACION:
 2. Hornea 6-8 minutos a 200 °C hasta que estén cocidos; deja enfriar.
 3. Dispón en una fuente con el perejil y la cebolleta; aliña con el aceite y la ralladura.
 4. Deja reposar 30 minutos antes de servir.
-JUSTIFICACION: Horneados, mantienen su sabor sin marinar crudos en limón.
-ADVERTENCIAS: Consúmelos en el día.
+JUSTIFICACION: Frente a los boquerones marinados en limón, estos quedan más cocidos y firmes pero igual de limpios de sabor, con aroma cítrico por la ralladura. Para el Perfil1 se evitan el pescado crudo y el ácido.
+ADVERTENCIAS: Consúmelos en el día.|Revisa que no queden espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~22 g
@@ -6234,8 +6271,8 @@ PREPARACION:
 2. Añade la harina, la leche y el huevo; sazona con una pizca de sal y mezcla hasta obtener una masa ligada.
 3. Forma 12 bolitas, colócalas en una bandeja y píntalas con el aceite.
 4. Hornea 18-20 minutos a 200 °C, dándoles la vuelta a mitad; sirve calientes o frías.
-JUSTIFICACION: Al horno quedan doradas y jugosas, sin fritura.
-ADVERTENCIAS: Cocina bien las gambas.
+JUSTIFICACION: Al horno son menos crujientes que fritos, pero el rebozado de avena queda dorado y las gambas jugosas. Para el Perfil1 se evita la fritura.
+ADVERTENCIAS: Cocina bien las gambas.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.|Cocina bien las gambas. Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~19 g
@@ -6272,8 +6309,8 @@ PREPARACION:
 1. Corta la parte superior de los tomates, saca un poco de pulpa y asa los tomatitos huecos 8 minutos a 190 °C; déjalos escurrir boca abajo y enfriar.
 2. Machaca la yema con el yogur y la ralladura; mezcla con el cangrejo y sazona con una pizca de sal.
 3. Rellena los tomates y decora cada uno con media aceituna.
-JUSTIFICACION: El tomate asado es más dulce y suave; el yogur reemplaza la mayonesa.
-ADVERTENCIAS: Rellena justo antes de servir.
+JUSTIFICACION: El tomate asado es más dulce y blando que el crudo, y el yogur sustituye a la mayonesa con un relleno más fresco. Para el Perfil1 el tomate va cocido y el huevo duro.
+ADVERTENCIAS: Rellena justo antes de servir.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.|Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~85 kcal (por porción)
 Proteínas: ~15 g
@@ -6313,8 +6350,8 @@ PREPARACION:
 1. Pela los huevos y tritúralos con el atún y la ricota.
 2. Añade las alcaparras, la albahaca, la ralladura y la mantequilla.
 3. Forma bolitas, refrigéralas 30 minutos y sírvelas sobre un lecho de rúcula.
-JUSTIFICACION: Muy proteico y ligero.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El atún al natural da un relleno más seco, que la ricota y un poco de mantequilla equilibran. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~21 g
@@ -6356,8 +6393,8 @@ PREPARACION:
 2. Sofríe el ajo en 1 cucharadita del aceite durante 1 minuto, sin que dore, y déjalo enfriar.
 3. Pica las gambas y mézclalas con el pimentón asado, las aceitunas, el ajo, el perejil y la mitad de la ralladura.
 4. Rellena los calamares sin apretar, aliña con el aceite restante y el resto de la ralladura, y sirve a temperatura ambiente.
-JUSTIFICACION: La ralladura de limón aporta todo el aroma cítrico sin su acidez, y el pimentón asado da el punto dulce que antes daban el vino y las alcaparras.
-ADVERTENCIAS: Cocina los calamares a fuego muy bajo: si hierven fuerte se ponen gomosos.|No los rellenes hasta que estén fríos.
+JUSTIFICACION: La cocción lenta con caldo y laurel los deja tiernos, sin el ácido del vino y el limón. Para el Perfil1 se evitan el alcohol y las alcaparras en salmuera.
+ADVERTENCIAS: Cocina los calamares a fuego muy bajo: si hierven fuerte se ponen gomosos.|No los rellenes hasta que estén fríos.|No dejes que hiervan fuerte: se ponen gomosos. Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~280 kcal (por porción)
 Proteínas: ~30 g
@@ -6398,7 +6435,7 @@ PREPARACION:
 2. Córtalos en láminas finas.
 3. Tritura el aceite con el ajo asado, el perejil, el tomillo y la ralladura; sazona con una pizca de sal.
 4. Dispón las láminas en platos y rocíalas con el aliño justo antes de servir.
-JUSTIFICACION: El pescado bien cocido, frío y laminado conserva la presentación del carpaccio sin los riesgos del crudo.
+JUSTIFICACION: Cocido y enfriado, el pescado pierde la textura sedosa del crudo pero queda firme y jugoso, con ajo asado y ralladura. Para el Perfil1 se evitan el pescado crudo y el alcohol.
 ADVERTENCIAS: Es una evocación: la textura es más firme que la del crudo.
 VALOR_NUTRICIONAL:
 Calorías: ~200 kcal (por porción)
@@ -6451,8 +6488,8 @@ INGREDIENTES_MASA_INTEGRAL:
 PREPARACION_MASA_INTEGRAL:
 1. Mezcla la harina, la avena y la sal; añade el aceite y el agua y amasa hasta formar una masa.
 2. Reposa 20 minutos en la nevera y extiende para forrar los moldes.
-JUSTIFICACION: La masa integral reemplaza al hojaldre (mantequilla); el yogur aligera la crema.
-ADVERTENCIAS: Cocina bien los mariscos, pero poco, para que no se endurezcan.
+JUSTIFICACION: La masa integral de avena es más rústica que el hojaldre, pero la crema de mariscos con yogur es suave y sabrosa. Para el Perfil1 baja la grasa y se evita el alcohol.
+ADVERTENCIAS: Cocina bien los mariscos, pero poco, para que no se endurezcan.|Cocina poco los mariscos para que no se endurezcan. Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~265 kcal (por porción)
 Proteínas: ~17 g
@@ -6494,8 +6531,8 @@ PREPARACION:
 2. Forra copas con hojas de lechuga, reparte los langostinos y cubre con la salsa; refrigera hasta servir.
 PREPARACION_SALSA_ROSA_LIGERA:
 1. Machaca la yema con el yogur; mezcla con el tomate asado, el concentrado y la ralladura; sazona con una pizca de sal.
-JUSTIFICACION: Rosada y cremosa como la clásica, pero sin mayonesa ni alcohol.
-ADVERTENCIAS: Las cigalas son difíciles de conseguir: langostinos o camarones grandes funcionan igual.
+JUSTIFICACION: La salsa rosa de yogur y tomate asado es más fresca y menos grasa que la clásica; los langostinos sustituyen a las cigalas. Para el Perfil1 se evitan el alcohol y el exceso de salsa.
+ADVERTENCIAS: Las cigalas son difíciles de conseguir: langostinos o camarones grandes funcionan igual.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~22 g
@@ -6537,8 +6574,8 @@ PREPARACION:
 3. Reparte en cuatro moldes y refrigera 4 horas hasta que cuajen.
 4. Sofríe la cebolla en el aceite 8 minutos hasta que esté dulce; añade el pimentón asado y el concentrado y cuece 15 minutos; tritura con el yogur.
 5. Desmolda la mousse en el centro de cada plato y rodea con la salsa.
-JUSTIFICACION: Trucha fresca horneada: más ligera que la ahumada y sin sodio añadido.
-ADVERTENCIAS: Necesita 4 horas de nevera.
+JUSTIFICACION: La trucha fresca horneada es menos intensa que la ahumada, con una mousse ligera y fresca. Para el Perfil1 se evitan los ahumados y el alcohol.
+ADVERTENCIAS: Necesita 4 horas de nevera.|Revisa que no queden espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~215 kcal (por porción)
 Proteínas: ~28 g
@@ -6579,8 +6616,8 @@ PREPARACION:
 2. Cubre con el parmesano y gratina 15-20 minutos a 180 °C.
 PREPARACION_BECHAMEL_LIGERA:
 1. Derrite la mantequilla con el aceite, añade la harina y cocina 1 minuto; vierte la leche tibia batiendo y cocina 10 minutos hasta espesar. Sazona con nuez moscada.
-JUSTIFICACION: El gratín de bechamel ligera conserva el sabor y la cremosidad con menos grasa.
-ADVERTENCIAS: Las yemas se cuecen en el horno: deja que se dore bien.
+JUSTIFICACION: El gratinado dorado se mantiene, aunque la bechamel ligera es menos rica; el marisco sigue siendo el protagonista. Para el Perfil1 baja la grasa y se evita el alcohol.
+ADVERTENCIAS: Las yemas se cuecen en el horno: deja que se dore bien.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~28 g
@@ -6619,8 +6656,8 @@ PREPARACION:
 2. Mezcla la zanahoria rallada con la ralladura.
 3. Mezcla la carne de los langostinos con el cangrejo, las aceitunas, los gajos de naranja picados y la zanahoria; sazona con una pizca de sal.
 4. Rellena las copas y refrigera hasta servir.
-JUSTIFICACION: La naranja, más dulce que el pomelo, da frescura sin acidez.
-ADVERTENCIAS: Usa solo la pulpa indicada; el resto, para jugo aparte.
+JUSTIFICACION: La naranja es más dulce y menos amarga que el pomelo, con el marisco dulce y fresco. Para el Perfil1 se evitan los cítricos ácidos y se enjuagan las aceitunas.
+ADVERTENCIAS: Usa solo la pulpa indicada; el resto, para jugo aparte.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~105 kcal (por porción)
 Proteínas: ~13 g
@@ -6660,8 +6697,8 @@ PREPARACION:
 2. Hierve los pulpitos 1 minuto, escúrrelos y córtalos si son grandes.
 3. Machaca el ajo asado con las hierbas, el ají dulce, el aceite y la ralladura hasta obtener un aliño.
 4. Añade pulpitos y atún desmenuzado a las judías, aliña y refrigera 2 horas.
-JUSTIFICACION: Hierbas, ají dulce y ralladura dan frescura y aroma sin vinagre ni picante.
-ADVERTENCIAS: Sin sal añadida en el aliño: el atún ya sala.
+JUSTIFICACION: Sin vinagre ni guindilla es más suave; las hierbas y la ralladura dan aroma y el atún al natural un fondo salino. Para el Perfil1 se evitan el vinagre y el picante.
+ADVERTENCIAS: Sin sal añadida en el aliño: el atún ya sala.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~22 g
@@ -6695,8 +6732,8 @@ INGREDIENTES:
 PREPARACION:
 1. Lava el pescado y dale un hervor en agua con sal; escúrrelo y deja enfriar.
 2. Mezcla el aceite con la ralladura y el perejil; vierte sobre el pescado y reposa 10 minutos.
-JUSTIFICACION: Escaldado rápido y aliño sencillo: ligero y rico en omega-3.
-ADVERTENCIAS: Los chanquetes son difíciles de conseguir: cualquier pescadito pequeño y fresco sirve.
+JUSTIFICACION: Delicada y tierna, con el pescado pequeño escaldado en lugar de frito; la ralladura da un aroma fresco. Para el Perfil1 se evitan el limón y la pimienta.
+ADVERTENCIAS: Los chanquetes son difíciles de conseguir: cualquier pescadito pequeño y fresco sirve.|Revisa que no queden espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~165 kcal (por porción)
 Proteínas: ~25 g
@@ -6735,8 +6772,8 @@ PREPARACION:
 1. Hierve agua con el laurel y la sal; cuece el pulpo 1 hora hasta que se pinche con facilidad; enfríalo en agua fría 20 minutos.
 2. Mezcla la rúcula con las almendras y la manzana.
 3. Quita la piel del pulpo, trocéalo y añádelo a la mezcla; aliña con aceite y ralladura.
-JUSTIFICACION: Pulpo muy tierno, proteico y bajo en grasa.
-ADVERTENCIAS: Cuece el pulpo a fuego suave, sin que hierva con fuerza.
+JUSTIFICACION: El pulpo tierno con rúcula amarga mantiene el contraste, con almendras en lugar de piñones. Para el Perfil1 baja el aceite y se evita el limón.
+ADVERTENCIAS: Cuece el pulpo a fuego suave, sin que hierva con fuerza.|Cuece el pulpo a fuego suave. Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~180 kcal (por porción)
 Proteínas: ~24 g
@@ -6775,8 +6812,8 @@ PREPARACION:
 2. Hierve el zumo de naranja hasta reducirlo a 2 cucharadas; tritúralo con el tomate asado y añade el aceite poco a poco; sazona con una pizca de sal.
 3. Forma bolitas de melón; corta los higos en cuatro.
 4. Sirve los langostinos con la rúcula, los higos y el melón, bañados con la salsa.
-JUSTIFICACION: Dulce y salado: el tomate asado y la naranja redondean sin acidez.
-ADVERTENCIAS: Porción de fruta moderada, junto con la proteína.
+JUSTIFICACION: El dulce del higo y el melón con el langostino mantiene el equilibrio, con la naranja reducida en lugar del limón. Para el Perfil1 baja la fruta.
+ADVERTENCIAS: Porción de fruta moderada, junto con la proteína.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~155 kcal (por porción)
 Proteínas: ~22 g
@@ -6812,8 +6849,8 @@ PREPARACION:
 1. Pela las gambas y quita el hilo intestinal.
 2. Cuécelas al vapor 4 minutos.
 3. Bate la ralladura con el aceite y una pizca de sal; dispón la rúcula en una fuente, las gambas encima y aliña.
-JUSTIFICACION: Cocción al vapor: simple y ligera.
-ADVERTENCIAS: No las pases de punto: se endurecen.
+JUSTIFICACION: Sencilla: las gambas dulces con rúcula amarga, aliñadas con ralladura en lugar de zumo. Para el Perfil1 baja el aceite.
+ADVERTENCIAS: No las pases de punto: se endurecen.|No las pases de punto: se endurecen. Si tienes alergia a los mariscos, evítalas.
 VALOR_NUTRICIONAL:
 Calorías: ~145 kcal (por porción)
 Proteínas: ~21 g
@@ -6847,8 +6884,8 @@ PREPARACION:
 1. Lava las ostras y cuécelas al vapor 3-5 minutos, hasta que se abran; desecha las que no se abran.
 2. Retira la valva superior, corta el músculo y reparte sobre cada ostra un poco de perejil y ralladura.
 3. Sírvelas calientes con las tostaditas.
-JUSTIFICACION: Cocinadas, son más seguras y de sabor más suave.
-ADVERTENCIAS: Es una evocación: sin el frescor del crudo.|Consume las ostras solo si son muy frescas.
+JUSTIFICACION: Al vapor pierden el frescor yodado y la textura sedosa del crudo, pero quedan tiernas y con sabor marino. Para el Perfil1 se evita el marisco crudo.
+ADVERTENCIAS: Es una evocación: sin el frescor del crudo.|Consume las ostras solo si son muy frescas.|Es una evocación: no tienen la frescura del crudo. Si tienes alergia a los mariscos, evítalas.
 VALOR_NUTRICIONAL:
 Calorías: ~45 kcal (por porción)
 Proteínas: ~5 g
@@ -6886,8 +6923,8 @@ PREPARACION:
 1. Hornea los filetes envueltos en papel 6-8 minutos a 180 °C, hasta que estén cocidos; deja enfriar en una fuente.
 2. Mezcla el tomate, la cebolla, el zumo de naranja reducido, la ralladura, el aceite, el pimentón y una pizca de sal; vierte sobre el pescado.
 3. Refrigera 2 horas y saca la fuente 10 minutos antes de servir.
-JUSTIFICACION: Mismo aliño fresco y anaranjado, con el pescado cocido.
-ADVERTENCIAS: Es una evocación: sin guindilla ni crudo.
+JUSTIFICACION: Horneado y enfriado, queda firme y limpio de sabor, con un aliño suave de naranja reducida; sin la acidez y el picor del original. Para el Perfil1 se evitan el pescado crudo y el picante.
+ADVERTENCIAS: Es una evocación: sin guindilla ni crudo.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~23 g
@@ -6933,8 +6970,8 @@ PREPARACION:
 2. Sofríe apio, cebolla y tomate en el aceite restante 15 minutos hasta formar una pasta espesa.
 3. Añade stevia, ciruela, naranja reducida, almendras, aceitunas, alcaparras y pasas y cuece 10 minutos con las berenjenas.
 4. Termina con la ralladura; sirve caliente o fría.
-JUSTIFICACION: La ciruela y la naranja dan el contrapunto agridulce sin vinagre ni azúcar; horneada, no absorbe aceite.
-ADVERTENCIAS: Es una evocación: el pico ácido del vinagre no se replica.
+JUSTIFICACION: Sin vinagre el agridulce lo dan la naranja reducida y la ciruela; la berenjena horneada es más suave y menos grasa. Para el Perfil1 se evitan el vinagre y la fritura.
+ADVERTENCIAS: Es una evocación: el pico ácido del vinagre no se replica.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~3 g
@@ -6977,8 +7014,8 @@ PREPARACION:
 2. Cuece 600 ml de agua con el aceite, la ralladura, el clavo, el laurel, la cebolla y una pizca de sal; añade las alcachofas y cuece a fuego medio hasta que se evapore casi todo el líquido.
 3. Escurre, reserva 2-3 cucharadas del líquido y forra una ensaladera con lechuga; pon las alcachofas encima.
 4. Mezcla el líquido con la pasta de anchoas, aliña y añade aceitunas y huevo duro picado.
-JUSTIFICACION: Verdura muy fibrosa y ligera, con el sabor aromático del original.
-ADVERTENCIAS: Pueden oscurecer sin limón; no afecta al sabor.
+JUSTIFICACION: Sin limón pueden oscurecerse, pero el sabor se mantiene dulce y vegetal; la anchoa y las aceitunas, mucho más discretas. Para el Perfil1 se evitan el ácido y la pimienta.
+ADVERTENCIAS: Pueden oscurecer sin limón; no afecta al sabor.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~7 g
@@ -7018,8 +7055,8 @@ PREPARACION:
 1. Bate el huevo con la ralladura; mezcla con parmesano, pan rallado, alcaparras y anchoa picada.
 2. Prepara las alcachofas: corta el tallo y las hojas duras y recorta la parte superior; hiérvelas en agua con la harina 15 minutos y escúrrelas.
 3. Rellénalas con la mezcla, colócalas en una fuente refractaria rociada con aceite y hornea 20 minutos a 180 °C.
-JUSTIFICACION: Relleno sabroso con poco queso; el horno lo hace crujiente.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con relleno de pan integral y queso quedan más rústicas, con el dulzor de la alcachofa intacto. Para el Perfil1 se evita el ácido y baja la sal.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~8 g
@@ -7061,8 +7098,8 @@ PREPARACION:
 3. Rellena los cestillos, cubre con la bechamel y el resto del parmesano y hornea a 180 °C hasta dorar.
 PREPARACION_BECHAMEL_LIGERA:
 1. Calienta el aceite, añade la harina y cocina 1 minuto; vierte la leche tibia batiendo y cocina 8 minutos hasta espesar; sazona con nuez moscada.
-JUSTIFICACION: Cebolla cocida, dulce y suave; el pollo sustituye al jamón.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La cebolla cocida queda dulce y muy tierna; el gratinado de bechamel ligera es menos rico. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~14 g
@@ -7102,8 +7139,8 @@ PREPARACION:
 2. Rehoga la zanahoria 5 minutos en el aceite restante, espolvorea con la harina y el pimentón y añade el caldo restante; cocina hasta espesar.
 3. Saltea el pollo en una sartén antiadherente hasta que esté cocido e incorpóralo.
 4. Retira del fuego, añade el yogur y mezcla con las cebollitas; sirve caliente.
-JUSTIFICACION: Cebollas dulces y salsa anaranjada con un tercio de las calorías.
-ADVERTENCIAS: Es una evocación: sin mostaza ni vino.
+JUSTIFICACION: Es una evocación: sin mostaza ni vino queda más dulce y suave, con el pollo en lugar del beicon. Para el Perfil1 se evitan el alcohol, la mostaza y el embutido.
+ADVERTENCIAS: Es una evocación: sin mostaza ni vino.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~215 kcal (por porción)
 Proteínas: ~20 g
@@ -7148,8 +7185,8 @@ PREPARACION:
 4. Colócalos en una bandeja, píntalos con el aceite y hornea 20 minutos a 200 °C, dándoles la vuelta.
 PREPARACION_BECHAMEL_ESPESA_LIGERA:
 1. Calienta el aceite, añade la harina y cocina 1 minuto; vierte la leche batiendo y cocina 10 minutos hasta formar una masa espesa.
-JUSTIFICACION: Cremosas por dentro, crujientes por fuera, sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno quedan menos crujientes que fritos, con la espinaca tierna y la bechamel cremosa dentro. Para el Perfil1 se evita la fritura.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~7 g
@@ -7185,8 +7222,8 @@ PREPARACION:
 1. Asa las setas 10 minutos a 200 °C hasta que doren y suelten el agua.
 2. Mézclalas con las gambas en una ensaladera.
 3. Aliña con aceite, ralladura y una pizca de sal; decora con perejil.
-JUSTIFICACION: Setas asadas: más sabor y ninguna acidez.
-ADVERTENCIAS: Sin pimienta añadida.
+JUSTIFICACION: Las setas asadas son más profundas que las crudas marinadas, y las gambas dan dulzor. Para el Perfil1 se evitan los crudos y el limón.
+ADVERTENCIAS: Sin pimienta añadida.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~17 g
@@ -7226,8 +7263,8 @@ PREPARACION:
 2. Hierve las endibias 15 minutos, escúrrelas y engrasa una fuente; envuelve cada una en una loncha de pollo.
 3. Calienta la mezcla de queso en una sartén antiadherente hasta formar una crema; retira, añade la yema y vierte sobre las endibias.
 4. Cubre con parmesano y hornea 10 minutos a 200 °C.
-JUSTIFICACION: Mismo plato suave y gratinado con menos grasa y sin embutido.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La endibia cocida pierde parte de su amargor y el pollo sustituye al jamón curado, con gratinado más ligero. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~23 g
@@ -7265,8 +7302,8 @@ PREPARACION:
 1. Cuece la coliflor al dente, escúrrela y deja enfriar.
 2. Machaca las anchoas con la ralladura y añade aceite y ajo asado; vierte sobre la coliflor.
 3. Añade el atún desmenuzado y mezcla.
-JUSTIFICACION: Verdura muy ligera con proteína; el aliño de anchoa aporta sabor sin sal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El atún al natural y las pocas anchoas dan un sabor marino suave, con la coliflor tierna. Para el Perfil1 se evitan el ácido y el exceso de sal.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~19 g
@@ -7307,8 +7344,8 @@ PREPARACION:
 3. Sirve la salsa aparte.
 PREPARACION_SALSA_DE_YOGUR:
 1. Machaca la yema con el yogur, añade la ralladura y una pizca de sal.
-JUSTIFICACION: La salsa de yogur da la cremosidad de la mayonesa sin huevo crudo.
-ADVERTENCIAS: Es una evocación: sin mostaza ni vinagre.
+JUSTIFICACION: Es una evocación: el yogur con yema dura reemplaza la mayonesa con mostaza, con una salsa más fresca y menos picante. Para el Perfil1 se evitan el vinagre y la mostaza.
+ADVERTENCIAS: Es una evocación: sin mostaza ni vinagre.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~4 g
@@ -7345,8 +7382,8 @@ PREPARACION:
 1. Pon el pepino y las gambas en una ensaladera.
 2. Mezcla el yogur con la ralladura, añade el pimentón y remueve.
 3. Vierte el aderezo, esparce el perejil y mezcla; si prefieres, sustituye el pepino por calabacín cocido.
-JUSTIFICACION: El yogur reemplaza a la nata con la misma cremosidad.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Fresca y ligera, con yogur en vez de nata y ralladura en vez de limón. Para el Perfil1 se evita el ácido.
+ADVERTENCIAS: Sin sal añadida.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~105 kcal (por porción)
 Proteínas: ~17 g
@@ -7393,8 +7430,8 @@ PREPARACION:
 4. Antes de servir, forma una cúpula en el centro de un plato y adórnala.
 PREPARACION_MAYONESA_LIGERA:
 1. Machaca las yemas con el yogur, el aceite y la ralladura hasta obtener una crema lisa; sazona con una pizca de sal.
-JUSTIFICACION: Misma textura cremosa de la clásica sin huevo crudo ni aceite en exceso.
-ADVERTENCIAS: Las papas y la remolacha aportan carbohidratos: cuenta una porción.
+JUSTIFICACION: Con yogur y yema dura queda más fresca y menos untuosa que con mayonesa, igual de reconfortante. Para el Perfil1 se evitan los encurtidos.
+ADVERTENCIAS: Las papas y la remolacha aportan carbohidratos: cuenta una porción.|Acompáñalo con una proteína para que la energía no suba y baje.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~6 g
@@ -7434,8 +7471,8 @@ PREPARACION:
 2. Rehoga cebolla, apio, pimiento y tomate con la pulpa 15 minutos y sazona con una pizca de sal.
 3. Retira del fuego, añade el huevo y rellena las berenjenas; espolvorea el parmesano.
 4. Hornea a 180 °C hasta que burbujee y dore.
-JUSTIFICACION: Cebolla cocida, tomate y pimiento: relleno dulce y suave.
-ADVERTENCIAS: Sin sal añadida en el relleno.
+JUSTIFICACION: Tiernas y jugosas, con menos aceite que las originales. Para el Perfil1 baja la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida en el relleno.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~175 kcal (por porción)
 Proteínas: ~8 g
@@ -7473,8 +7510,8 @@ PREPARACION:
 1. Asa los pimentones hasta que ennegrezcan, introdúcelos en una bolsa, átala y deja que se aflojen; pélalos, quita las semillas y córtalos por la mitad.
 2. Tritura atún, aceitunas, tomate, ají dulce y albahaca; añade la ralladura.
 3. Unta cada mitad con la mezcla, enróllala y refrigera; sirve con un chorrito de aceite.
-JUSTIFICACION: Ligero, proteico y lleno de aroma.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pimentón asado es dulce y sedoso y el atún al natural más seco que el de aceite. Para el Perfil1 se evitan el picante y el ácido.
+ADVERTENCIAS: Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~21 g
@@ -7512,8 +7549,8 @@ PREPARACION:
 1. Corta la parte superior de los tomates, vacíalos sin semillas y déjalos escurrir boca abajo; pela los huevos y corta las yemas sin romper las claras.
 2. Tritura el atún con las aceitunas, 2 yemas, el yogur y la ralladura hasta obtener una pasta; rellena las claras con ella.
 3. Pon rúcula en los tomates, coloca encima las claras rellenas; sirve frío.
-JUSTIFICACION: Relleno proteico y fresco.
-ADVERTENCIAS: Usa solo 2 yemas.
+JUSTIFICACION: Más fresca y ligera con yogur en lugar de mayonesa, con el atún al natural. Para el Perfil1 se evita el huevo crudo.
+ADVERTENCIAS: Usa solo 2 yemas.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~15 g
@@ -7554,8 +7591,8 @@ PREPARACION:
 2. Calienta el aceite y rehoga la cebolla, el perejil, el ajo y la anchoa; añade los tallos y cuece 3-4 minutos.
 3. Escurre el pan y añádelo a la sartén con el huevo.
 4. Rellena los sombreros, espolvorea con pan rallado y hornea 20 minutos a 180 °C.
-JUSTIFICACION: Aromáticas y ligeras: sabor de setas con poco aceite.
-ADVERTENCIAS: Sin pimienta ni sal añadida.
+JUSTIFICACION: El relleno de pan integral es más rústico, con las setas asadas jugosas. Para el Perfil1 se evitan la pimienta y el exceso de sal.
+ADVERTENCIAS: Sin pimienta ni sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~6 g
@@ -7593,8 +7630,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 10 minutos; añade el pimentón y la papa y cocina 15 minutos.
 2. Tritura la anchoa con las hierbas y el huevo; mezcla con las verduras.
 3. Vuelca en un molde engrasado con aceite y hornea 20 minutos a 200 °C; desmolda y sirve templado.
-JUSTIFICACION: Cebolla dulce, pimentón y papa: sabor suave y reconfortante.
-ADVERTENCIAS: La papa aporta carbohidratos.
+JUSTIFICACION: Cremoso y suave, con el pimentón dulce y la papa. Para el Perfil1 se baja la grasa y se evita la mantequilla.
+ADVERTENCIAS: La papa aporta carbohidratos.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~7 g
@@ -7633,8 +7670,8 @@ PREPARACION:
 1. Enharina las rodajas de calabacín, pásalas por 1 huevo con el parmesano, pincela con el aceite y hornea 15 minutos a 200 °C hasta que doren.
 2. Funde los quesos con la leche a fuego lento; retira y mezcla con el pollo y 2 yemas; monta las 2 claras e incorpóralas.
 3. Vierte sobre el calabacín en una fuente y hornea 20 minutos a 180 °C hasta que dore.
-JUSTIFICACION: Mismo plato cremoso de quesos con calabacín horneado en vez de frito.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más ligero que la versión frita con salami: horneado y con pollo cocido. Para el Perfil1 se evitan el embutido, la fritura y la grasa.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~205 kcal (por porción)
 Proteínas: ~19 g
@@ -7673,8 +7710,8 @@ PREPARACION:
 1. Tritura la anchoa, las almendras, el aceite y el tomate hasta formar una salsa; calienta suavemente removiendo y añade las alcachofas hasta que estén tiernas.
 2. Sazona con una pizca de sal.
 3. Pela los huevos duros y pártelos; coloca medio huevo en cada corazón de alcachofa, vierte la salsa por encima y adorna con perejil.
-JUSTIFICACION: Salsa de frutos secos y tomate asado, sin mantequilla.
-ADVERTENCIAS: Mucha fibra: ideal con una proteína ligera.
+JUSTIFICACION: Con almendras en lugar de piñones y tomate asado en lugar de ketchup; el huevo cuajado sobre la alcachofa tierna. Para el Perfil1 se evitan el huevo poco cocido y la salsa picante.
+ADVERTENCIAS: Mucha fibra: ideal con una proteína ligera.|Cocina bien los huevos: yema y clara completamente cuajadas.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~200 kcal (por porción)
 Proteínas: ~11 g
@@ -7714,8 +7751,8 @@ PREPARACION:
 2. Mezcla la pulpa con el atún, los huevos, el parmesano, la mitad del pan rallado y el perejil.
 3. Rellena las «barquitas», colócalas en una fuente con aceite, esparce el resto del pan rallado y rocía con el caldo.
 4. Hornea 30 minutos a 180 °C y sirve calientes o templados.
-JUSTIFICACION: Calabacín suave y atún al natural: poco aceite.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El atún al natural y el caldo dan un relleno jugoso sin alcohol. Para el Perfil1 baja el aceite.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~145 kcal (por porción)
 Proteínas: ~15 g
@@ -7753,8 +7790,8 @@ PREPARACION:
 1. Dora el pollo y los champiñones en el aceite hasta que no queden rosados; añade el caldo y cocina 5 minutos.
 2. Pica los filetes de anchoa, añádelos a la sartén y tritura todo de forma gruesa con el queso fresco.
 3. Tuesta el pan, córtalo por la mitad y úntalo con la pasta; sírvelos fríos o templados.
-JUSTIFICACION: Pasta untuosa y sabrosa, sin vísceras.
-ADVERTENCIAS: Es una evocación: sin el sabor intenso del hígado.
+JUSTIFICACION: Es una evocación: sin el sabor intenso del hígado, el pollo y el champiñón dan una pasta suave y terrosa. Para el Perfil1 se evitan la víscera y el alcohol.
+ADVERTENCIAS: Es una evocación: sin el sabor intenso del hígado.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~21 g
@@ -7790,8 +7827,8 @@ PREPARACION:
 1. Mezcla los quesos con un tenedor hasta formar una crema.
 2. Corta las rebanadas por la mitad y úntalas con el queso.
 3. Espolvorea el cebollino y reserva en lugar fresco hasta servir.
-JUSTIFICACION: Misma cremosidad con mucha menos grasa y sal.
-ADVERTENCIAS: Es una evocación: sin el sabor intenso del gorgonzola.
+JUSTIFICACION: Es una evocación: sin el carácter intenso del gorgonzola, el queso fresco es más suave y lácteo. Para el Perfil1 se evitan el queso azul y la grasa.
+ADVERTENCIAS: Es una evocación: sin el sabor intenso del gorgonzola.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~135 kcal (por porción)
 Proteínas: ~9 g
@@ -7827,8 +7864,8 @@ PREPARACION:
 1. Corta los huevos en rodajas finas y los tomates, sin los extremos, sobre un plato; aliña con aceite.
 2. Corta el pan por la mitad.
 3. Coloca dos rodajas de tomate superpuestas y una de huevo entre ellas; adorna con aros de aceituna.
-JUSTIFICACION: Sencillo y fresco.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Tienen el sabor del mediterráneo con aceitunas y atún, más ligero sin mantequilla. Para el Perfil1 se enjuagan las aceitunas y baja el sodio.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~7 g
@@ -7865,8 +7902,8 @@ PREPARACION:
 1. Machaca la yema con el yogur y el tomate asado; sazona con una pizca de sal.
 2. Corta el pan por la mitad y úntalo con la mezcla.
 3. Pon en el centro una rodaja de langosta y adorna con tomillo.
-JUSTIFICACION: Salsa rosada y cremosa sin mayonesa, ketchup ni brandy.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La salsa de yogur es más fresca que la mayonesa con brandy, con el marisco dulce. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~10 g
@@ -7901,8 +7938,8 @@ PREPARACION:
 1. Precalienta el horno a 220 °C y parte las rebanadas por la mitad.
 2. Pon sobre cada una un trocito de mozzarella y un trocito de anchoa; rodea con tiras de tomate.
 3. Hornea unos minutos hasta que el queso se derrita; esparce el perejil.
-JUSTIFICACION: El sabor de la clásica con menos queso y anchoa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La mozzarella baja en grasa se funde menos elástica que la de búfala y las dos anchoas dan un fondo salado discreto; el pan integral es más rústico. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~6 g
@@ -7940,8 +7977,8 @@ PREPARACION:
 1. Machaca la yema con el yogur y el perejil; unta el pan.
 2. Pela el aguacate, córtalo en rodajas y espolvoréalo con la ralladura; colócalo sobre el pan.
 3. Haz un corte en cruz en cada cherry asado, ábrelo como una flor y colócalo encima.
-JUSTIFICACION: El aguacate aporta grasas buenas; el yogur reemplaza la mayonesa.
-ADVERTENCIAS: Aguacate en porción pequeña.
+JUSTIFICACION: El yogur con yema dura sustituye a la mayonesa: más fresco, y el tomate asado más dulce que el crudo. Para el Perfil1 baja el aguacate a la mitad y se evitan el ácido y la salsa inglesa.
+ADVERTENCIAS: Aguacate en porción pequeña.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~115 kcal (por porción)
 Proteínas: ~4 g
@@ -7980,8 +8017,8 @@ PREPARACION:
 1. Mezcla la zanahoria y la manzana con la ralladura.
 2. Machaca la yema con el yogur; mezcla con el perejil y el pepino y unta el pan partido por la mitad.
 3. Coloca encima un poco de la juliana.
-JUSTIFICACION: Fresco y crujiente, sin encurtidos.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La zanahoria da un crujido dulce y el pepino fresco reemplaza los encurtidos con un frescor más limpio. Para el Perfil1 se evitan el vinagre y el exceso de grasa.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~4 g
@@ -8017,8 +8054,8 @@ PREPARACION:
 1. Bate el queso con la mantequilla hasta que esté cremoso y añade el pollo.
 2. Unta el pan partido por la mitad.
 3. Adorna con medias alcachofas abiertas como una flor.
-JUSTIFICACION: Sin embutidos y con mucha menos grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pollo cocido sustituye a los embutidos y la alcachofa cocida es más suave que la del frasco en aceite. Para el Perfil1 se evitan los embutidos y el exceso de grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~14 g
@@ -8060,8 +8097,8 @@ PREPARACION:
 1. Pica las anchoas con el atún, el pan remojado, el perejil, la cebolla, el ajo, las alcaparras y el ají dulce.
 2. Mezcla con el aceite y la ralladura sin dejar de remover hasta obtener una crema.
 3. Deja reposar una noche en nevera. Tuesta el pan y cúbrelo con la mezcla.
-JUSTIFICACION: Las anchoas dan el carácter; el atún aligera el sabor y la sal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Menos intensa y salada que la crema toscana original, con el atún al natural dando cuerpo. Para el Perfil1 se evitan el picante, el vinagre y el exceso de sal.
+ADVERTENCIAS: Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~12 g
@@ -8103,8 +8140,8 @@ PREPARACION:
 1. Rehoga la zanahoria, la cebolla y el apio en el aceite 10 minutos; añade el pollo y el caldo y cuece hasta que casi no quede líquido; tritura de forma gruesa.
 2. Devuélvelos a la sartén, retira del fuego y liga con las yemas batidas y la ralladura; cocina 2 minutos a fuego muy bajo hasta que cuajen.
 3. Unta el pan y adorna con alcaparras.
-JUSTIFICACION: Textura de paté con pollo magro y verduras dulces.
-ADVERTENCIAS: Es una evocación: sin el sabor intenso del hígado.
+JUSTIFICACION: Sin el sabor ferroso del hígado la pasta es más suave y dulce, con la zanahoria aportando color. Para el Perfil1 se evitan la víscera, el alcohol y el vinagre.
+ADVERTENCIAS: Es una evocación: sin el sabor intenso del hígado.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~135 kcal (por porción)
 Proteínas: ~15 g
@@ -8143,8 +8180,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 30 minutos a fuego muy bajo, añadiendo caldo para que no se seque.
 2. Agrega el pollo y la salvia; cuece 5 minutos y tritura con el queso fresco.
 3. Unta sobre el pan tostado y adorna con romero.
-JUSTIFICACION: Cebolla lenta y salvia dan el sabor toscano.
-ADVERTENCIAS: Es una evocación: sin el sabor de hígado ni jamón curado.
+JUSTIFICACION: Es una evocación: el pollo aromatizado con salvia y romero da una pasta suave y herbal, sin la nota de hígado ni jamón. Para el Perfil1 se evitan la víscera y el embutido.
+ADVERTENCIAS: Es una evocación: sin el sabor de hígado ni jamón curado.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~13 g
@@ -8183,8 +8220,8 @@ PREPARACION:
 1. Saltea las setas en el aceite a fuego medio con el ajo y la mejorana 15 minutos.
 2. Vierte el caldo poco a poco; añade las alcaparras y el perejil y reduce hasta que espese.
 3. Unta sobre el pan tostado.
-JUSTIFICACION: Sabor terroso con poco aceite.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Las setas salteadas con poco aceite quedan jugosas, con las alcaparras enjuagadas dando un toque salino. Para el Perfil1 se evitan la fritura y el exceso de sal.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~85 kcal (por porción)
 Proteínas: ~4 g
@@ -8224,8 +8261,8 @@ PREPARACION:
 1. Sofríe el pollo con el perejil en el aceite; añade el ajo asado y 100 ml de caldo y deja reducir.
 2. Incorpora las setas y el tomate y cuece con el caldo restante hasta que estén tiernas.
 3. Tuesta el pan, úntalo con la preparación y adorna con menta.
-JUSTIFICACION: El pollo reemplaza a la salchicha; el caldo, al vino.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pollo sustituye a las salchichas con un sabor más limpio, y el caldo reemplaza el vino. Para el Perfil1 se evitan el embutido, el alcohol y el ajo crudo.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~11 g
@@ -8262,8 +8299,8 @@ PREPARACION:
 1. Hierve el zumo de naranja hasta reducirlo a 4 cucharadas; añade los quesos y el yogur y funde a fuego lento 10 minutos.
 2. Retira, añade la yema y devuelve al fuego sin hervir hasta que quede homogénea.
 3. Unta el pan, colócalo en la bandeja y hornea a 180 °C hasta dorar ligeramente.
-JUSTIFICACION: La naranja reducida da el dulzor ácido del pomelo.
-ADVERTENCIAS: Es una evocación: el pomelo es más amargo.
+JUSTIFICACION: La naranja reducida es más dulce y menos amarga que el pomelo, con el queso fundido cremoso. Para el Perfil1 baja la grasa y el ácido.
+ADVERTENCIAS: Es una evocación: el pomelo es más amargo.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~7 g
@@ -8298,8 +8335,8 @@ PREPARACION:
 1. Mezcla el pollo con el queso y el hinojo.
 2. Unta el pan y colócalo en la bandeja.
 3. Hornea 15 minutos a 180 °C y sirve muy caliente.
-JUSTIFICACION: El hinojo evoca el sabor de la salchicha italiana.
-ADVERTENCIAS: Es una evocación: sin la grasa y el sabor del embutido.
+JUSTIFICACION: Es una evocación: el pollo con semillas de hinojo recuerda el sabor de la salchicha, con menos grasa. Para el Perfil1 se evita el embutido.
+ADVERTENCIAS: Es una evocación: sin la grasa y el sabor del embutido.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~14 g
@@ -8339,8 +8376,8 @@ PREPARACION:
 1. Pica las pasas y mezcla con las alcaparras, las almendras y el pollo.
 2. Calienta el aceite con la stevia y la harina; añade el zumo de naranja y cuece unos minutos hasta reducir a la mitad.
 3. Incorpora el pollo y cocina hasta que espese; unta el pan tostado y sirve templado.
-JUSTIFICACION: La naranja reducida da el agridulce sin vinagre ni azúcar.
-ADVERTENCIAS: Es una evocación: sin el pico ácido del vinagre.
+JUSTIFICACION: Es una evocación: sin el pico ácido del vinagre, la naranja reducida y la stevia dan un agridulce más suave, con almendras crujientes. Para el Perfil1 se evitan el vinagre y el azúcar.
+ADVERTENCIAS: Es una evocación: sin el pico ácido del vinagre.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~8 g
@@ -8379,8 +8416,8 @@ PREPARACION:
 1. Precalienta el horno a 180 °C. Trocea los chipirones y las gambas y mézclalos con el huevo, el ajo, el perejil y el pan rallado.
 2. Aliña con aceite; unta el pan con la mezcla.
 3. Hornea 15 minutos y sirve enseguida.
-JUSTIFICACION: Marisco cocido y gratinado, sin fritura.
-ADVERTENCIAS: Cocina bien los chipirones para que no queden duros.
+JUSTIFICACION: El marisco cocido sobre pan integral mantiene el sabor mediterráneo, con ajo asado más dulce. Para el Perfil1 se evitan el ajo crudo y el exceso de aceite.
+ADVERTENCIAS: Cocina bien los chipirones para que no queden duros.|Cocina bien los chipirones; si no, quedan gomosos. Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~19 g
@@ -8416,8 +8453,8 @@ PREPARACION:
 1. Mezcla el jengibre con la manzana y la ralladura.
 2. Añade el yogur y sazona con una pizca de sal.
 3. Unta el pan tostado con la crema y cubre con el pollo.
-JUSTIFICACION: El jengibre aporta el toque picante suave del rábano sin ser agresivo.
-ADVERTENCIAS: Es una evocación: sin speck ni rábano picante.
+JUSTIFICACION: Es una evocación: el pollo asado sustituye al speck y el jengibre da un picor suave en lugar del rábano. Para el Perfil1 se evitan los ahumados curados y el picante.
+ADVERTENCIAS: Es una evocación: sin speck ni rábano picante.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~15 g
@@ -8455,8 +8492,8 @@ PREPARACION:
 1. Reserva seis gambas; pica el resto y mézclalo con la mantequilla, el queso y las hierbas.
 2. Unta los cuadraditos de pan con la mezcla.
 3. Adorna cada uno con una gamba entera, una hoja de rúcula y unas alcaparras.
-JUSTIFICACION: Cremosa con muy poca mantequilla gracias al queso fresco.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La mantequilla de gambas con queso fresco es más ligera y lechosa, sobre pan integral. Para el Perfil1 baja la grasa de 200 a 30 g.
+ADVERTENCIAS: Sin sal añadida.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~14 g
@@ -8493,8 +8530,8 @@ PREPARACION:
 1. Mezcla el queso con la mantequilla, el pimentón y la ralladura.
 2. Corta círculos de pan y úntalos.
 3. Coloca una cucharadita de caviar encima.
-JUSTIFICACION: Capricho elegante con cantidad mínima de caviar (rico en sal).
-ADVERTENCIAS: El caviar es salado: usa la cantidad indicada.
+JUSTIFICACION: Se pierde el limón macerado en vodka, pero la ralladura da el aroma cítrico; el caviar sigue siendo salino. Para el Perfil1 se evita el alcohol y baja el sodio.
+ADVERTENCIAS: El caviar es salado: usa la cantidad indicada.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Usa solo la cantidad indicada de caviar: es muy salado.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~6 g
@@ -8531,8 +8568,8 @@ PREPARACION:
 1. Corta uno de los pepinos en rodajas finas y deja escurrir; pica el otro y mézclalo con el queso, la ralladura y el perejil.
 2. Corta el pan en cuadrados y úntalo con la mezcla.
 3. Coloca las rodajas superpuestas encima y sirve fríos.
-JUSTIFICACION: Muy fresco y bajo en calorías.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Fresca y ligera, con queso fresco en lugar de queso cremoso. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~95 kcal (por porción)
 Proteínas: ~5 g
@@ -8568,8 +8605,8 @@ PREPARACION:
 1. Pica los huevos y mézclalos con el yogur y la ralladura.
 2. Añade los berros, sazona con una pizca de sal y unta las rebanadas partidas por la mitad.
 3. Refrigera hasta servir.
-JUSTIFICACION: Cremoso y fresco, sin mayonesa.
-ADVERTENCIAS: Los berros se marchitan: añádelos al final.
+JUSTIFICACION: Los berros aportan un picor suave y fresco, con yogur en lugar de mayonesa. Para el Perfil1 se baja la grasa.
+ADVERTENCIAS: Los berros se marchitan: añádelos al final.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~9 g
@@ -8606,8 +8643,8 @@ PREPARACION:
 1. Hierve el zumo de naranja hasta reducirlo a 2 cucharadas y deja enfriar.
 2. Mezcla los quesos con el zumo hasta hacer crema; añade nueces y almendras y unta los círculos de pan.
 3. Adorna cada uno con media nuez.
-JUSTIFICACION: La naranja reducida da la nota dulce del licor sin alcohol.
-ADVERTENCIAS: Es una evocación: sin brandy.
+JUSTIFICACION: Es una evocación: sin brandy, la naranja reducida da el toque dulce, con las nueces y almendras crujientes. Para el Perfil1 se evitan el alcohol y la pimienta.
+ADVERTENCIAS: Es una evocación: sin brandy.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~7 g
@@ -8644,8 +8681,8 @@ PREPARACION:
 1. Bate el queso y añade aceitunas, ají dulce y atún.
 2. Corta círculos de pan y úntalos con la mezcla.
 3. Adorna con las cebollitas.
-JUSTIFICACION: Mismos sabores intensos, sin encurtidos ni picante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin las guindillas encurtidas queda suave, con el ají dulce y el atún al natural. Para el Perfil1 se evitan el picante, los encurtidos y el exceso de aceitunas.
+ADVERTENCIAS: Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~8 g
@@ -8683,8 +8720,8 @@ PREPARACION:
 1. Hierve el zumo de naranja hasta reducirlo a 1 cucharada; mézclalo con los quesos.
 2. Pela la pera, córtala en cuartos y espolvoréala con la ralladura.
 3. Unta el pan con la crema y coloca un trozo de pera y un triángulo de fontina.
-JUSTIFICACION: La pera aporta el dulzor, el queso fresco la cremosidad.
-ADVERTENCIAS: Es una evocación: sin grapa.
+JUSTIFICACION: Es una evocación: sin grapa, la naranja reducida da el toque aromático, con la pera dulce y el queso cremoso. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Es una evocación: sin grapa.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~9 g
@@ -8724,8 +8761,8 @@ PREPARACION:
 1. Mezcla los tomates asados con la cebolleta, las aceitunas y el perejil y aliña con el aceite.
 2. Tuesta los círculos de pan y cúbrelos con la mezcla.
 3. Coloca encima una loncha de mozzarella, hornea 4 minutos a 200 °C hasta que funda y esparce orégano.
-JUSTIFICACION: Todo el sabor de la pizza con tomate asado, sin mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Recuerda la pizza con tomate asado y queso fundido, más ligero sin mantequilla. Para el Perfil1 se evitan los crudos y la grasa.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~6 g
@@ -8764,8 +8801,8 @@ PREPARACION:
 1. Pela el aguacate y tritura la pulpa con el queso, la ralladura y el cebollino hasta obtener una crema homogénea.
 2. Unta el pan cortado en cuadrados con la crema y coloca medio cherry encima.
 3. Adorna con albahaca.
-JUSTIFICACION: Cremosa y con grasas buenas; el queso fresco reemplaza al cremoso graso.
-ADVERTENCIAS: Aguacate en porción pequeña.
+JUSTIFICACION: Más fresca que la original, con queso fresco y tomate asado. Para el Perfil1 baja el aguacate a la mitad.
+ADVERTENCIAS: Aguacate en porción pequeña.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~6 g
@@ -8801,8 +8838,8 @@ PREPARACION:
 1. Mezcla los quesos con un tenedor, añade el yogur y bate hasta que quede suave.
 2. Unta el pan cortado por la mitad.
 3. Adorna con una uva.
-JUSTIFICACION: Un poco de queso azul da todo el carácter; el queso fresco pone la cremosidad.
-ADVERTENCIAS: Es una evocación: el sabor del azul es más suave.
+JUSTIFICACION: Es una evocación: el queso azul es mucho más suave y poco, equilibrado con la uva dulce. Para el Perfil1 se reduce la grasa y el sodio.
+ADVERTENCIAS: Es una evocación: el sabor del azul es más suave.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~105 kcal (por porción)
 Proteínas: ~7 g
@@ -8843,8 +8880,8 @@ PREPARACION:
 1. Tritura el huevo, el atún, las alcaparras y las cebollitas con el queso, la ralladura y el aceite hasta que se integren.
 2. Corta las rebanadas en cuadrados y úntalas con la pasta con un cuchillo húmedo.
 3. Adorna con aros de aceituna y tiras de pepino.
-JUSTIFICACION: Misma pasta sabrosa sin mantequilla ni encurtidos.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El atún al natural y el queso fresco dan una pasta más ligera, con pepino fresco en lugar de encurtidos. Para el Perfil1 se evitan el vinagre y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~11 g
@@ -8881,8 +8918,8 @@ PREPARACION:
 1. Bate los huevos con el cebollino y el perejil.
 2. Haz una tortilla fina en una sartén antiadherente con el aceite, deja enfriar y córtala en tiras de 5 mm.
 3. Unta el pan con la pasta de aceituna y coloca las tiras de tortilla en diagonal.
-JUSTIFICACION: Sencillo y proteico.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sencilla y colorida, con aceite reducido; la tortilla bien cuajada. Para el Perfil1 se baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~105 kcal (por porción)
 Proteínas: ~7 g
@@ -8920,8 +8957,8 @@ PREPARACION:
 1. Pela el huevo, pasa la yema a un bol y machácala; añade aceite, ralladura y perejil.
 2. Corta el pan en triángulos y tuéstalo ligeramente por ambos lados.
 3. Úntalos con la crema, coloca encima un trozo de anchoa y media cebollita.
-JUSTIFICACION: Sabor intenso con muy poca anchoa.
-ADVERTENCIAS: Es una evocación: sin vinagre.
+JUSTIFICACION: Es una evocación: sin vinagre, la ralladura da el aroma; las anchoas desaladas son menos intensas. Para el Perfil1 se evitan el vinagre y el exceso de sal.
+ADVERTENCIAS: Es una evocación: sin vinagre.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~6 g
@@ -8959,8 +8996,8 @@ PREPARACION:
 1. Desmenuza el cangrejo y mézclalo con el yogur y la yema machacada.
 2. Pela la manzana, córtala en dados y espolvoréala con la ralladura; mézclala con el cangrejo.
 3. Unta el pan y espolvorea el perejil; reserva en frío.
-JUSTIFICACION: La manzana da frescura; el yogur sustituye la mayonesa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El yogur sustituye a la mayonesa y la manzana da un crujido fresco. Para el Perfil1 se baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~10 g
@@ -8996,8 +9033,8 @@ PREPARACION:
 1. Prepara la gelatina con caldo de pollo casero desgrasado según el sobre y déjala enfriar.
 2. Unta el pan con el queso fresco y coloca un dado de pollo encima; decora con un trozo de pepino.
 3. Pinta con gelatina varias veces para cubrir bien y refrigera 2 horas.
-JUSTIFICACION: Mismo aspecto de bocadito brillante y sabor limpio.
-ADVERTENCIAS: Es una evocación: sin foie ni lengua.
+JUSTIFICACION: Es una evocación: el pollo con queso fresco reemplaza el foie y la lengua, con una textura más ligera. Para el Perfil1 se evitan la víscera y los encurtidos.
+ADVERTENCIAS: Es una evocación: sin foie ni lengua.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~95 kcal (por porción)
 Proteínas: ~10 g
@@ -9035,8 +9072,8 @@ PREPARACION:
 2. Corta el pan en rectángulos; mezcla el queso con el pimentón y unta el pan.
 3. Coloca una rodaja de huevo y un trozo de anchoa en forma decorativa y pinta con gelatina varias veces.
 4. Refrigera 2 horas.
-JUSTIFICACION: Sin mantequilla ni mostaza, con el mismo aspecto.
-ADVERTENCIAS: Es una evocación: sin mostaza.
+JUSTIFICACION: Es una evocación: el queso fresco con pimentón dulce reemplaza la mantequilla con mostaza. Para el Perfil1 se evitan la mostaza y el exceso de grasa.
+ADVERTENCIAS: Es una evocación: sin mostaza.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~115 kcal (por porción)
 Proteínas: ~9 g
@@ -9073,8 +9110,8 @@ PREPARACION:
 2. Unta el pan con la ensaladilla rusa ligera.
 3. Coloca una rodaja de huevo y una gamba en el centro y pinta con gelatina varias veces.
 4. Refrigera 2 horas.
-JUSTIFICACION: La ensaladilla ligera sustituye a la mantequilla y la mayonesa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La ensaladilla de yogur es más fresca que la de mayonesa, con la gelatina dándole firmeza. Para el Perfil1 se evita el exceso de grasa.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~8 g
@@ -9114,7 +9151,7 @@ PREPARACION:
 2. Haz un hueco, vierte el huevo y el agua y trabaja la masa con las manos (deben estar frías).
 3. Envuélvela en film, aplánala y refrigera 1 hora.
 4. Para forrar: estira, forra los moldes, cubre con papel y legumbres secas y hornea 15-20 minutos a 180 °C.
-JUSTIFICACION: Menos grasa saturada y más fibra; queda quebradiza igual.
+JUSTIFICACION: Más rústica y un poco más densa que la masa de mantequilla, con un sabor a trigo integral. Para el Perfil1 baja la grasa de 175 a 30 g.
 ADVERTENCIAS: Es una receta base: úsala solo donde se indique.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
@@ -9151,8 +9188,8 @@ PREPARACION:
 2. Forra moldes de tartaleta (pequeños para aperitivo, grandes para entrada) engrasados con el aceite y pincha el fondo con un tenedor.
 3. Cubre con papel y legumbres secas y hornea 15 minutos a 180 °C; retira el papel y hornea 5 minutos más hasta dorar.
 4. Desmolda y deja enfriar antes de rellenar.
-JUSTIFICACION: Cestillos horneados, sin fritura ni hojaldre.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Horneados en lugar de fritos o de hojaldre, quedan más rústicos pero firmes. Para el Perfil1 se evita la fritura.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por cestillo pequeño)
 Proteínas: ~2 g
@@ -9189,8 +9226,8 @@ PREPARACION:
 2. Incorpora el aceite y la sal y deja reposar al menos 1 hora.
 3. Calienta una sartén antiadherente apenas untada, vierte 2 cucharadas, inclina para cubrir el fondo y cuece 3-4 minutos; dale la vuelta y cuece 2 minutos más.
 4. Repite con el resto. Para crepes dulces, sustituye la sal por stevia.
-JUSTIFICACION: Más fibra y menos grasa; quedan finas y flexibles.
-ADVERTENCIAS: Reposo mínimo de 1 hora.
+JUSTIFICACION: Las crepes quedan algo más rústicas y gruesas que las de harina blanca, con un sabor a avena. Para el Perfil1 baja la grasa y se evita el azúcar.
+ADVERTENCIAS: Reposo mínimo de 1 hora.|Deja reposar la masa al menos 1 hora.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~6 g
@@ -9232,8 +9269,8 @@ PREPARACION:
 2. Cuece la papa en ese caldo 10-15 minutos, escúrrela y tritúrala con la mantequilla y la leche hasta obtener un puré.
 3. Pela las gambas y quita el hilo.
 4. Reparte el puré en las barquitas, coloca encima gambas y tomate asado y caliéntalas a 200 °C unos 10 minutos.
-JUSTIFICACION: Puré suave y gambas cocidas: un bocado clásico más ligero.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La masa integral es más rústica y el relleno de gambas con tomate asado es más dulce. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Si tienes alergia a los mariscos, evítalas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~9 g
@@ -9272,8 +9309,8 @@ PREPARACION:
 1. Cuece la pasta al dente 8-10 minutos, escúrrela y mézclala con el aceite y todos los quesos.
 2. Rellena las barquitas con un poco de pasta y cúbrelas con 1 cucharada de bechamel ligera.
 3. Hornea a 200 °C hasta que la bechamel burbujee y las barquitas queden doradas.
-JUSTIFICACION: Cuatro quesos con menos grasa por la combinación de frescos y bajos en grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con quesos frescos y emmental ligero el relleno es menos filante y graso, con la bechamel ligera de avena. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~9 g
@@ -9312,8 +9349,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos hasta que esté muy blanda; añade el ajo asado.
 2. Añade el tomate asado, cuece unos minutos e incorpora las alcaparras y las anchoas.
 3. Rellena las barquitas con la mezcla y decora con aceitunas.
-JUSTIFICACION: Tomate asado y cebolla bien cocida dan dulzor; la anchoa, el fondo salado.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Menos intensas y saladas que las originales, con el tomate asado dando dulzor. Para el Perfil1 se evitan el ajo crudo y el exceso de sal.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~4 g
@@ -9353,8 +9390,8 @@ PREPARACION:
 1. Rehoga el pollo y la cebolla en el aceite hasta que la cebolla esté tierna.
 2. Bate huevos, parmesano y yogur; añade el cangrejo, el pollo y la cebolla y mezcla.
 3. Rellena las barquitas y hornea a 200 °C unos 10 minutos.
-JUSTIFICACION: El pollo sustituye a la panceta; el yogur, a la nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pollo sustituye a la panceta y el yogur a la nata, para un relleno más ligero. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Si tienes alergia a los mariscos, evítalas.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~8 g
@@ -9394,8 +9431,8 @@ PREPARACION:
 2. Bate los huevos con la leche, la nuez moscada y una pizca de sal.
 3. Rellena las tartaletas con el puerro, cúbrelas con una cucharada de la mezcla de huevo y esparce el queso por encima.
 4. Hornea a 200 °C unos 10 minutos.
-JUSTIFICACION: Verduras dulces y tiernas con poco queso: sabor y menos sal.
-ADVERTENCIAS: Es una evocación: roquefort en poca cantidad.
+JUSTIFICACION: Es una evocación: el queso azul es mucho más suave y poco, con el puerro dulce y los guisantes tiernos. Para el Perfil1 se baja la grasa y el sodio.
+ADVERTENCIAS: Es una evocación: roquefort en poca cantidad.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~6 g
@@ -9431,8 +9468,8 @@ PREPARACION:
 1. Mezcla el queso fresco con el gorgonzola y el perejil.
 2. Pasa la mezcla a una manga pastelera con boquilla de estrella.
 3. Rellena las tartaletas y adórnalas con media nuez o un pistacho.
-JUSTIFICACION: Cremosa con mucha menos grasa y sal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más ligeras que las de mascarpone, con un toque de gorgonzola. Para el Perfil1 baja la grasa y se evita el exceso de sal.
+ADVERTENCIAS: Sin sal añadida.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~5 g
@@ -9470,8 +9507,8 @@ PREPARACION:
 1. Vacía los tomates asados y déjalos escurrir boca abajo sobre papel.
 2. Pela el aguacate y tritura la pulpa con la ralladura; mezcla con el queso fresco y el yogur.
 3. Rellena las tartaletas, coloca medio tomate y una hoja de albahaca encima.
-JUSTIFICACION: Cremosa y con grasas buenas.
-ADVERTENCIAS: Aguacate en porción pequeña.
+JUSTIFICACION: Más frescas y ligeras con yogur en lugar de nata, con tomate asado. Para el Perfil1 baja el aguacate a la mitad.
+ADVERTENCIAS: Aguacate en porción pequeña.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~105 kcal (por porción)
 Proteínas: ~4 g
@@ -9507,8 +9544,8 @@ PREPARACION:
 1. Cuece la pechuga 20 minutos en agua; deja enfriar, trocea y tritura.
 2. Pela los huevos, aparta las claras y mezcla las yemas con el pollo; incorpora el yogur y una pizca de sal.
 3. Rellena las tartaletas y decora con pepino.
-JUSTIFICACION: Muy proteica; el yogur sustituye la mayonesa y la nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El yogur sustituye a la mayonesa y la nata, con pepino fresco en lugar de pepinillos. Para el Perfil1 se evitan el vinagre y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~12 g
@@ -9544,8 +9581,8 @@ PREPARACION:
 1. Asa los champiñones con el aceite 15 minutos a 200 °C hasta que doren.
 2. Mézclalos con el yogur y el queso, sazona con una pizca de sal y retira del fuego.
 3. Corta la parte superior de las lionesas, rellénalas con la mezcla y hornéalas a 200 °C unos minutos.
-JUSTIFICACION: Champiñones asados con mucho sabor y poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno son livianas y huecas, con un relleno terroso de champiñones asados. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~5 g
@@ -9585,8 +9622,8 @@ PREPARACION:
 1. Reparte la leche en tres cazos; en cada uno funde un queso con una parte del queso fresco a fuego lento sin dejar de remover.
 2. Añade el apio al azul y la nuez moscada al provolone; incorpora a cada uno un poco de yogur.
 3. Haz un corte en las lionesas y rellénalas con los tres quesos; sírvelas apiladas en pirámide.
-JUSTIFICACION: Tres sabores distintos con menos de la mitad de grasa.
-ADVERTENCIAS: Es una evocación: sin nata ni los quesos en cantidad.
+JUSTIFICACION: Es una evocación: sin nata ni los quesos fuertes, el relleno es más suave y lechoso. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Es una evocación: sin nata ni los quesos en cantidad.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~7 g
@@ -9625,8 +9662,8 @@ PREPARACION:
 1. Sazona la bechamel con nuez moscada; mezcla la ricota con el yogur, el salmón y el perejil.
 2. Rellena las lionesas con la ricota.
 3. Colócalas en una fuente, esparce el parmesano, cubre con bechamel y hornea 10 minutos a 200 °C.
-JUSTIFICACION: Salmón fresco cocido: más suave y con menos sodio que el ahumado.
-ADVERTENCIAS: Es una evocación: sin el sabor ahumado.
+JUSTIFICACION: Es una evocación: el salmón fresco al horno es menos salado que el ahumado y más suave. Para el Perfil1 se evitan los ahumados y la grasa.
+ADVERTENCIAS: Es una evocación: sin el sabor ahumado.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~175 kcal (por porción)
 Proteínas: ~12 g
@@ -9663,8 +9700,8 @@ PREPARACION:
 1. Saltea el pollo en el aceite hasta que esté dorado.
 2. Mezcla el pollo con el perejil, el pimentón y la masa de lionesas.
 3. Coloca cucharadas de masa en una bandeja con papel y hornea 20-25 minutos a 200 °C hasta que suban y doren.
-JUSTIFICACION: El pimentón ahumado evoca el beicon; el horno evita la fritura.
-ADVERTENCIAS: Es una evocación: sin el beicon ni la mostaza.
+JUSTIFICACION: Es una evocación: sin beicon ni mostaza, el pollo asado con pimentón suave da un sabor ahumado ligero. Para el Perfil1 se evitan el embutido, la fritura y la mostaza.
+ADVERTENCIAS: Es una evocación: sin el beicon ni la mostaza.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~6 g
@@ -9700,8 +9737,8 @@ PREPARACION:
 1. Corta la parte superior de los tomates, vacíalos de semillas y sécalos boca abajo.
 2. Mezcla la mozzarella, la albahaca y la anchoa y rellena los tomates.
 3. Envuélvelos con una capa fina de pasta de lionesas, colócalos en una bandeja con papel y hornea 20-25 minutos a 200 °C hasta que doren.
-JUSTIFICACION: Mismo bocado jugoso y filante sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno quedan livianos, con el tomate dulce y el queso fundido dentro. Para el Perfil1 se evita la fritura.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~7 g
@@ -9739,8 +9776,8 @@ PREPARACION:
 2. Trabaja el resto de la ricota con el aceite, la harina y la sal; reposa la masa 1 hora.
 3. Estira fina, corta círculos con un cortapastas, pon un poco de relleno, dobla en media luna y sella.
 4. Pinta con yema y hornea 20 minutos a 180 °C; sirve templados o fríos.
-JUSTIFICACION: Pollo magro en vez de jamón; aceite en vez de mantequilla.
-ADVERTENCIAS: Sin sal añadida en el relleno.
+JUSTIFICACION: El pollo sustituye al jamón cocido con un sabor más limpio, con ricota cremosa. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida en el relleno.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~12 g
@@ -9781,8 +9818,8 @@ PREPARACION:
 1. Rehoga el pollo con salvia y mejorana en el aceite; espolvorea con harina, añade el caldo y cuece 10 minutos; incorpora el yogur, tritura grueso y deja enfriar.
 2. Extiende la masa y corta 12 cuadrados; pon un poco de relleno y media ciruela pasa en cada uno.
 3. Dobla los lados, sella con yema y hornea 20 minutos a 200 °C.
-JUSTIFICACION: La ciruela pasa aporta el dulzor del marsala.
-ADVERTENCIAS: Es una evocación: sin vísceras ni vino.
+JUSTIFICACION: Es una evocación: el pollo con ciruela da un dulzor suave, sin las vísceras ni el vino. Para el Perfil1 se evitan la víscera, el alcohol y la grasa.
+ADVERTENCIAS: Es una evocación: sin vísceras ni vino.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~220 kcal (por porción)
 Proteínas: ~15 g
@@ -9820,8 +9857,8 @@ PREPARACION:
 1. Saltea los champiñones en el aceite 5 minutos; añade el pollo y el queso y mezcla.
 2. Añade el caldo y cuece hasta espesar; retira y mezcla con el yogur.
 3. Corta los panecillos horizontalmente, sácales un poco de miga y rellénalos; tapa y hornea 10 minutos a 180 °C.
-JUSTIFICACION: El relleno cremoso y sabroso con una fracción de las calorías.
-ADVERTENCIAS: Es una evocación: sin panceta, salchicha ni mortadela.
+JUSTIFICACION: Es una evocación: los panecillos integrales son más rústicos que los brioches, con relleno de pollo y champiñones. Para el Perfil1 se evitan los embutidos y el alcohol.
+ADVERTENCIAS: Es una evocación: sin panceta, salchicha ni mortadela.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~215 kcal (por porción)
 Proteínas: ~19 g
@@ -9863,8 +9900,8 @@ PREPARACION:
 1. Empapa el pan en la leche; dora la carne en el aceite, mézclala con el pollo, el pan escurrido, el perejil y el parmesano y liga con el huevo.
 2. Forma 24 bolitas, corta cuadrados de masa y pon una bola en el centro de cada uno.
 3. Dobla los extremos como un caramelo, píntalos con yema y hornea 20 minutos a 200 °C.
-JUSTIFICACION: Carne magra y pollo en lugar de mortadela; masa integral en lugar de hojaldre.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La masa integral es más rústica y menos hojaldrada que el original, y el relleno de pollo y res magra es más limpio que el de mortadela. Para el Perfil1 se evitan los embutidos y baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~245 kcal (por porción)
 Proteínas: ~20 g
@@ -9901,8 +9938,8 @@ PREPARACION:
 1. Rehoga la achicoria en el aceite hasta que esté tierna.
 2. Corta círculos de masa, pon achicoria, una loncha de queso y champiñón; pliega los extremos formando hatillos.
 3. Píntalos con yema y hornea 15 minutos a 200 °C.
-JUSTIFICACION: Mismo bocado de horno con masa integral y menos queso.
-ADVERTENCIAS: Es una evocación: sin el aroma de la trufa blanca.
+JUSTIFICACION: Es una evocación: sin trufa, el champiñón asado da un fondo terroso; la achicoria aporta un amargor suave. Para el Perfil1 se evitan la trufa y la grasa del hojaldre.
+ADVERTENCIAS: Es una evocación: sin el aroma de la trufa blanca.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~7 g
@@ -9941,8 +9978,8 @@ PREPARACION:
 1. Hornea la batata con piel hasta que esté blanda; pélala, aplástala y mezcla con la harina y 1 cucharada de aceite.
 2. Extiende la masa de 5 mm y corta triángulos; mezcla los quesos, el aceite restante y las nueces y úsalo para rellenar.
 3. Cubre con la loncha, cierra, pinta con yema y hornea 15 minutos a 180 °C.
-JUSTIFICACION: La batata aporta dulzor y fibra; menos grasa que la papa con mantequilla.
-ADVERTENCIAS: Es una evocación: textura más húmeda que la masa de papa.
+JUSTIFICACION: Más húmedas y tiernas que las de papa y harina blanca, con un dulzor suave de batata y un toque salino del queso. Para el Perfil1 la batata y la harina integral dan más fibra y energía estable.
+ADVERTENCIAS: Es una evocación: textura más húmeda que la masa de papa.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~210 kcal (por porción)
 Proteínas: ~7 g
@@ -9983,8 +10020,8 @@ PREPARACION:
 2. Mezcla el relleno: huevo, pollo, mozzarella, salvia y parmesano.
 3. Estira fino, corta círculos, rellena, dobla en media luna y sella con clara.
 4. Colócalas en bandeja y hornea 20 minutos a 200 °C hasta dorar.
-JUSTIFICACION: Mismo relleno sabroso, horneado y con pollo en vez de jamón.
-ADVERTENCIAS: Sin sal añadida en el relleno.
+JUSTIFICACION: Al horno quedan menos crujientes y doradas que fritas, pero el relleno de pollo y queso fundido se mantiene jugoso. Para el Perfil1 se evitan la fritura y el embutido.
+ADVERTENCIAS: Sin sal añadida en el relleno.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~265 kcal (por porción)
 Proteínas: ~15 g
@@ -10023,8 +10060,8 @@ PREPARACION:
 2. Mezcla los huevos con el parmesano y el queso fresco para el relleno.
 3. Estira, corta círculos de 5 cm, rellena, dobla y sella; píntalos con leche.
 4. Hornea unos 20 minutos a 180 °C.
-JUSTIFICACION: Mismo sabor a parmesano con una cuarta parte del queso.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más rústicos y menos mantecosos que los originales, con el queso en menor cantidad. Para el Perfil1 baja la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~215 kcal (por porción)
 Proteínas: ~10 g
@@ -10060,8 +10097,8 @@ PREPARACION:
 1. Corta 12 círculos de masa y hornéalos 15 minutos a 180 °C hasta dorar; enfríalos.
 2. Mezcla el pollo con el curry, la bechamel y las yemas.
 3. Rellena los bocaditos y caliéntalos 10 minutos a 180 °C.
-JUSTIFICACION: Curry suave (dulce, no picante) y bechamel ligera.
-ADVERTENCIAS: Usa curry sin picante.
+JUSTIFICACION: La masa integral es más rústica que el hojaldre y el curry suave aporta aroma sin picor. Para el Perfil1 se evitan el picante y la grasa.
+ADVERTENCIAS: Usa curry sin picante.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~15 g
@@ -10100,8 +10137,8 @@ PREPARACION:
 1. Rehoga los champiñones en el aceite 7 minutos hasta reducir el líquido; añade la ralladura.
 2. Corta círculos de masa de 10 cm, cúbrelos con pollo, champiñones, almendras y queso; dobla y sella.
 3. Pinta con yema y hornea 15 minutos a 200 °C.
-JUSTIFICACION: Pollo en vez de jamón, almendras en vez de piñones, menos queso.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pollo sustituye al jamón y las almendras a los piñones, con el champiñón dando un fondo terroso. Para el Perfil1 se evitan el embutido, el limón y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~12 g
@@ -10137,8 +10174,8 @@ PREPARACION:
 1. Pica el pollo muy fino y mézclalo con el queso, el jengibre y el perejil.
 2. Corta 12 círculos de masa, hornéalos 15 minutos a 180 °C y deja enfriar.
 3. Sirve la mezcla sobre los círculos.
-JUSTIFICACION: El jengibre evoca el picor del rábano de manera suave.
-ADVERTENCIAS: Es una evocación: sin salchicha ni rábano picante.
+JUSTIFICACION: Es una evocación: el jengibre suave sustituye al rábano picante y el pollo a la salchicha. Para el Perfil1 se evitan el picante y el embutido.
+ADVERTENCIAS: Es una evocación: sin salchicha ni rábano picante.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Usa el jengibre en poca cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~13 g
@@ -10176,8 +10213,8 @@ PREPARACION:
 1. Hierve los langostinos con la cebolla 3-4 minutos; reserva el caldo y pélalos.
 2. Mezcla aceite, harina y curry, añade el caldo y cuece 10 minutos; liga con la yema.
 3. Hornea 12 círculos de masa 15 minutos a 180 °C; coloca encima los langostinos con la salsa y caliéntalos 5 minutos.
-JUSTIFICACION: Salsa ligera de caldo y curry suave.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El langostino dulce con curry suave y masa integral, algo más rústica que el hojaldre. Para el Perfil1 se evitan el picante y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~9 g
@@ -10214,8 +10251,8 @@ PREPARACION:
 2. Rehoga la mitad con el aceite 5 minutos y úntalas sobre las crepes con la mitad del yogur.
 3. Enróllalas y colócalas en una fuente con el resto del yogur y el parmesano.
 4. Hornea 10 minutos a 200 °C hasta que burbujee.
-JUSTIFICACION: Verdura tierna con crema ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Las crepes integrales son más rústicas y el yogur aligera la salsa, con los espárragos tiernos. Para el Perfil1 baja la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~9 g
@@ -10253,8 +10290,8 @@ PREPARACION:
 1. Rehoga los champiñones y el perejil en el aceite 5 minutos; añade el caldo y reduce.
 2. Unta cada crepe con bechamel, pon encima champiñones y enróllalas.
 3. Colócalas en una fuente con el resto de la bechamel y el parmesano y hornea 10-15 minutos a 200 °C.
-JUSTIFICACION: El caldo reemplaza al brandy; sabor terroso intacto.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con más champiñón y sin brandy, el relleno es más terroso y menos cremoso. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~8 g
@@ -10289,8 +10326,8 @@ PREPARACION:
 1. Pica 2 filetes de anchoa y mézclalos con el queso y la mantequilla.
 2. Unta las crepes tibias con la mezcla y pon un trocito de anchoa en el centro.
 3. Enróllalas y sírvelas enseguida.
-JUSTIFICACION: El sabor intenso de la anchoa con mucha menos grasa y sal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Menos intensas y salinas que las originales, con la crema suavizada con queso fresco. Para el Perfil1 baja el sodio y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~7 g
@@ -10328,8 +10365,8 @@ PREPARACION:
 1. Calienta el horno a 200 °C y engrasa una fuente.
 2. Reparte pollo y queso sobre las crepes y enróllalas; colócalas en la fuente en una sola capa.
 3. Cubre con bechamel, esparce parmesano y nuez moscada y hornea 10 minutos hasta dorar.
-JUSTIFICACION: Pollo en vez de jamón; el gratinado se mantiene.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pollo sustituye al jamón cocido con un sabor más suave. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~17 g
@@ -10368,8 +10405,8 @@ PREPARACION:
 2. Tritura la piña con la ralladura; calienta la leche con la gelatina hasta disolver y añádela a la piña.
 3. Deja enfriar, incorpora el yogur con la stevia y vierte en un molde; refrigera 6-7 horas.
 4. Desmolda y sirve con el pollo.
-JUSTIFICACION: Cremoso y fresco; el yogur reemplaza la nata montada.
-ADVERTENCIAS: La piña es fruta: cuenta como tu porción de fruta.
+JUSTIFICACION: El yogur espeso reemplaza la nata montada para una textura más fresca y menos untuosa, con la piña dulce y el pollo asado. Para el Perfil1 baja la grasa y se evita el embutido.
+ADVERTENCIAS: La piña es fruta: cuenta como tu porción de fruta.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~12 g
@@ -10408,8 +10445,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite; añade la carne, dórala bien; deja enfriar y tritura con el queso fresco.
 2. Cuece el pollo en agua 15 minutos, píquelo y mézclalo con el caldo; cuece zanahoria y guisantes.
 3. Monta el molde en capas, refrigera 4-5 horas y desmolda sobre un plato.
-JUSTIFICACION: Misma terrina fría con carne magra y queso fresco en lugar de 200 g de mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más ligero que el molde clásico: queso fresco en lugar de mantequilla y caldo en lugar de licor. Para el Perfil1 se evitan el alcohol, el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~20 g
@@ -10446,8 +10483,8 @@ PREPARACION:
 1. Tritura los quesos con el yogur hasta obtener una crema suave.
 2. Forra un molde con film, vierte la mezcla y alisa; cubre con film y refrigera 3 horas.
 3. Desmolda en una fuente y decora con nueces; sirve con zanahoria.
-JUSTIFICACION: Mismo efecto cremoso sin mantequilla.
-ADVERTENCIAS: Es una evocación: el sabor del azul es más suave.
+JUSTIFICACION: Es una evocación: el queso azul es mucho más suave y la mousse más fresca y ligera. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Es una evocación: el sabor del azul es más suave.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~11 g
@@ -10490,8 +10527,8 @@ PREPARACION:
 2. Hidrata la gelatina, disuélvela en 2 cucharadas de agua caliente e incorpórala con el yogur; refrigera 6 horas en un molde.
 3. Mezcla chalote, perejil, naranja reducida, aceite y ralladura para la vinagreta.
 4. Forma bolas de mousse y sírvelas con la vinagreta y galletitas.
-JUSTIFICACION: Textura de mousse con proteína magra y sin vísceras.
-ADVERTENCIAS: Es una evocación: sin pichón ni trufa.
+JUSTIFICACION: Es una evocación: el pollo y el champiñón asado sustituyen a las carnes de caza y la trufa, con un aliño de naranja reducida en lugar de vinagreta. Para el Perfil1 se evitan las vísceras, el alcohol y el vinagre.
+ADVERTENCIAS: Es una evocación: sin pichón ni trufa.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~17 g
@@ -10527,7 +10564,7 @@ PREPARACION:
 1. Lava las flores, sécalas y reserva ocho para decorar; pica el resto.
 2. Mezcla el queso con la leche y la ralladura, añade las flores picadas.
 3. Forma una cúpula en una fuente y decora con las flores reservadas; sirve con pan tostado.
-JUSTIFICACION: Muy fresco y bajo en calorías.
+JUSTIFICACION: Fresca y delicada con queso fresco, con los pétalos aportando aroma. Para el Perfil1 baja la grasa y se evita el limón.
 ADVERTENCIAS: Usa solo flores comestibles sin pesticidas.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
@@ -10562,8 +10599,8 @@ PREPARACION:
 1. Tritura el pollo con el queso y la mantequilla hasta lograr una mezcla homogénea.
 2. Forra un molde con film, vierte la mousse y alisa; refrigera 3 horas.
 3. Desmolda y decora con rodajas de kiwi.
-JUSTIFICACION: El kiwi aporta frescura y vitamina C.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pollo cocido sustituye al jamón, con el kiwi aportando frescor. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~115 kcal (por porción)
 Proteínas: ~16 g
@@ -10608,8 +10645,8 @@ PREPARACION_CREMA_DE_GAMBAS:
 1. Pela las gambas y cuece las cáscaras en agua; cuela el caldo.
 2. Tritura las gambas con el aceite y la harina, añade el caldo hasta obtener una crema algo líquida y cuela.
 3. Incorpora el yogur sin hervir.
-JUSTIFICACION: Salmón rico en omega-3; yogur en vez de nata, sin brandy.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El yogur aligera la nata y la mousse queda más fresca, con el salmón suave. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~205 kcal (por porción)
 Proteínas: ~24 g
@@ -10648,8 +10685,8 @@ PREPARACION:
 2. Hidrata la gelatina, disuélvela en 2 cucharadas de agua caliente e incorpórala al puré.
 3. Mezcla con el yogur y las yemas machacadas; sazona con una pizca de sal.
 4. Reparte en platos individuales, refrigera 3 horas y adorna con albahaca.
-JUSTIFICACION: Mousse dulce y fresca; el tomate asado suaviza la acidez.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El tomate asado es más dulce y menos ácido que el crudo, con yogur en lugar de mayonesa. Para el Perfil1 se evitan los crudos y la grasa.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~6 g
@@ -10687,8 +10724,8 @@ PREPARACION:
 1. Rehoga la cebolla y el tomillo en el aceite; añade el pollo y los champiñones 5 minutos y el caldo y cuece 5 minutos más.
 2. Tritura con el queso y la mantequilla fundida.
 3. Refrigera unas 6 horas.
-JUSTIFICACION: Untuoso sin la grasa del paté clásico.
-ADVERTENCIAS: Es una evocación: sin el sabor ferroso del hígado.
+JUSTIFICACION: Es una evocación: sin el sabor ferroso del hígado, el paté es más suave y terroso, con un toque del queso fresco. Para el Perfil1 se evitan las vísceras y el alcohol.
+ADVERTENCIAS: Es una evocación: sin el sabor ferroso del hígado.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~18 g
@@ -10728,8 +10765,8 @@ PREPARACION:
 2. Cuece la batata, hazla puré y mézclala con el pollo, el queso, la bechamel y la mantequilla.
 3. Prepara la gelatina con caldo casero; forra el molde con ella y decora con huevo y perejil.
 4. Añade el paté al molde y refrigera 5 horas; desmolda.
-JUSTIFICACION: Muy proteico y suave.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El queso fresco da la untuosidad de la nata, con la batata dulce. Para el Perfil1 se evitan el embutido y el alcohol.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~20 g
@@ -10768,8 +10805,8 @@ PREPARACION:
 1. Cocina la res con el aceite 5 minutos; añade el caldo y cuece 7 minutos hasta que evapore.
 2. Tritura con los champiñones, el queso y la yema.
 3. Forra un molde con film, vierte el paté y refrigera 5 horas; desmolda y adorna con salvia.
-JUSTIFICACION: Menos grasa y sin vísceras.
-ADVERTENCIAS: Es una evocación: sin el hígado ni el jamón curado.
+JUSTIFICACION: Es una evocación: sin el hígado, la res magra con champiñón da un sabor terroso y suave. Para el Perfil1 se evitan las vísceras y el embutido.
+ADVERTENCIAS: Es una evocación: sin el hígado ni el jamón curado.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~18 g
@@ -10806,8 +10843,8 @@ PREPARACION:
 1. Cuece las batatas 15 minutos, pélalas y hazlas puré.
 2. Tritura salmón, aceitunas, aceite y anchoa; mezcla con el puré.
 3. Vierte en un molde engrasado, alisa y refrigera 6 horas; desmolda y adorna con pepino.
-JUSTIFICACION: Salmón fresco sin el sodio del ahumado.
-ADVERTENCIAS: Es una evocación: sin el sabor ahumado.
+JUSTIFICACION: Es una evocación: el salmón fresco es más suave que el ahumado, con la batata dando cremosidad. Para el Perfil1 se evitan los ahumados y los encurtidos.
+ADVERTENCIAS: Es una evocación: sin el sabor ahumado.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~11 g
@@ -10844,8 +10881,8 @@ PREPARACION:
 1. Tritura las anchoas con el atún.
 2. Añade el queso, la mantequilla y la ralladura.
 3. Engrasa un molde, vierte el paté y refrigera 3 horas; desmolda y decora.
-JUSTIFICACION: Mismo sabor con mucha menos grasa y anchoa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más ligero que el original: queso fresco y atún al natural dan cremosidad sin tanta grasa. Para el Perfil1 baja el sodio y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~21 g
@@ -10884,8 +10921,8 @@ PREPARACION:
 2. Mezcla con la res picada, la cebolla, las hierbas y los huevos; sazona con una pizca de sal.
 3. Forra un molde con papel, rellena, cubre y cuece al baño maría en el horno a 160 °C durante 2 horas.
 4. Prensa con un peso y refrigera 24 horas antes de servir.
-JUSTIFICACION: Terrina fría con proteínas magras.
-ADVERTENCIAS: Es una evocación: sin la grasa del pato.
+JUSTIFICACION: Es una evocación: sin la grasa del pato, la terrina es más magra y firme. Para el Perfil1 se evitan los embutidos y el alcohol.
+ADVERTENCIAS: Es una evocación: sin la grasa del pato.|Sirve en láminas finas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~25 g
@@ -10926,8 +10963,8 @@ INGREDIENTES_SALSA_DE_PUERROS:
 PREPARACION_SALSA_DE_PUERROS:
 1. Rehoga los puerros en el aceite 20 minutos con un chorrito de agua.
 2. Tritura con el yogur y sazona con una pizca de sal.
-JUSTIFICACION: Salsa dulce de puerro, sin mantequilla ni nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El atún al natural queda más seco, que el puerro dulce compensa. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~20 g
@@ -10964,8 +11001,8 @@ PREPARACION:
 1. Prepara la bechamel y deja enfriar; engrasa seis flaneras.
 2. Cuece los puerros 10 minutos, escúrrelos, tritúralos con la bechamel y añade parmesano, almendras y yemas.
 3. Monta las claras e incorpóralas; llena las flaneras y hornea al baño maría unos 30 minutos a 180 °C; deja reposar y desmolda.
-JUSTIFICACION: Puerro suave, poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Frente al flan clásico, de miga más densa y mantecosa, este queda temblón y ligero: el puerro cocido aporta dulzor cremoso y las almendras sustituyen a los piñones con un crocante parecido. Para el Perfil1 la bechamel ligera y el menor queso bajan la grasa, y el puerro es suave para la digestión.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Desmolda tibio, no caliente, para que no se rompa.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~7 g
@@ -11002,8 +11039,8 @@ PREPARACION:
 1. Cuece el calabacín 10 minutos en agua, escúrrelo y chafa.
 2. Rehoga el chalote en el aceite, añade el calabacín y deja evaporar el líquido.
 3. Mezcla con la bechamel, el huevo y el parmesano; llena cuatro flaneras y hornea al baño maría 30-35 minutos a 180 °C; reposa 5 minutos y desmolda.
-JUSTIFICACION: Muy ligero y suave.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más húmedos y delicados que el flan con mantequilla, con el calabacín dando una humedad verde y un sabor casi neutro que deja brillar al queso. Para el Perfil1 la bechamel ligera y el aceite reducen la grasa y es una verdura fácil de digerir.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Escurre bien el calabacín para que el flan no quede aguado.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~7 g
@@ -11043,8 +11080,8 @@ PREPARACION:
 1. Cuece las espinacas 5 minutos, escúrrelas bien, pícalas y pásalas por el pasapuré; haz lo mismo con las zanahorias cocidas 10 minutos.
 2. Prepara una bechamel con aceite, harina y leche; divídela en dos y añade a una las espinacas con emmental y fécula, y a la otra la zanahoria con parmesano; liga cada una con yemas y claras montadas.
 3. Rellena el molde en capas y hornea al baño maría 1 hora a 180 °C; reposa 5 minutos y desmolda.
-JUSTIFICACION: Colorido y rico en fibra, con poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Dos capas de color y sabor: la espinaca terrosa y la zanahoria dulce; con avena queda algo más rústico que con harina blanca, pero igual de tierno. Para el Perfil1 aporta hojas verdes y betacarotenos con menos queso y menos grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.|Corta en porciones pequeñas cuando esté tibio, no caliente.
 VALOR_NUTRICIONAL:
 Calorías: ~160 kcal (por porción)
 Proteínas: ~10 g
@@ -11082,8 +11119,8 @@ PREPARACION:
 1. Engrasa el molde y espolvorea con pan rallado.
 2. Cuece las alcachofas en agua 15 minutos, pícalas y déjalas enfriar.
 3. Bate huevos con parmesano y la ralladura, añade las alcachofas y la bechamel; vierte en el molde y hornea 45 minutos a 180 °C; reposa antes de desmoldar.
-JUSTIFICACION: Muy rico en fibra y con poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Conserva el sabor dulce y ligeramente amargo de la alcachofa; sin limón el color es más oscuro, y la bechamel ligera hace la textura más firme y menos cremosa. Para el Perfil1 la alcachofa va bien cocida, que la hace más suave y fácil de digerir.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Cocina las alcachofas hasta que estén bien tiernas.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~8 g
@@ -11122,8 +11159,8 @@ PREPARACION:
 2. Corta algunas en tiras y colócalas en la base del molde; parte el resto en rodajas para el borde.
 3. Mezcla el puré con la bechamel, los quesos, los huevos y la nuez moscada; rellena el molde.
 4. Hornea al baño maría 45-50 minutos a 180 °C; reposa 5 minutos y desmolda.
-JUSTIFICACION: Dulce, colorido y ligero.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Dulce y tierno, de textura sedosa; con menos queso es menos salado y deja el protagonismo a la zanahoria. Para el Perfil1 la zanahoria cocida es suave y aporta betacarotenos y fibra.
+ADVERTENCIAS: Sin sal añadida.|Mejor tibio que caliente.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~7 g
@@ -11161,8 +11198,8 @@ PREPARACION:
 1. Cuece las zanahorias 10 minutos y el hinojo 10-15 minutos; escurre.
 2. Rehoga cada puré con aceite y leche; añade parmesano, bechamel y una yema a cada uno y las claras montadas.
 3. Alterna capas en el molde engrasado y hornea al baño maría 40-50 minutos a 180 °C; reposa y desmolda.
-JUSTIFICACION: El hinojo aporta frescura anisada.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El hinojo aporta un perfume anisado fresco que contrasta con la dulzura de la zanahoria; la textura es cremosa pero más ligera que con mantequilla. Para el Perfil1 es un plato suave para la digestión y con poca grasa.
+ADVERTENCIAS: Sin sal añadida.|El hinojo debe quedar bien tierno.
 VALOR_NUTRICIONAL:
 Calorías: ~105 kcal (por porción)
 Proteínas: ~6 g
@@ -11198,8 +11235,8 @@ PREPARACION:
 1. Cuece la coliflor 8-10 minutos, escúrrela bien y tritúrala con el aceite y la leche.
 2. Mezcla con bechamel, huevos batidos y gruyère.
 3. Vierte en el molde engrasado y hornea al baño maría 1 hora a 180 °C; reposa unos minutos y desmolda.
-JUSTIFICACION: Coliflor suave y baja en calorías.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La coliflor cocida es suave y algo dulce, con una textura cremosa y menos quesuda que el original. Para el Perfil1 es una verdura de fibra y poca grasa, pero puede dar gases en algunas personas.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~9 g
@@ -11233,8 +11270,8 @@ PREPARACION:
 1. Cuece las endibias 10 minutos, exprímelas y trocéalas; rehógalas en el aceite 5 minutos.
 2. Bate los huevos con una pizca de sal, añádelos a las endibias y mezcla con la bechamel.
 3. Hornea en un molde engrasado, al baño maría, 45-50 minutos a 180 °C; reposa 5 minutos y desmolda.
-JUSTIFICACION: El amargor de la endibia se suaviza al cocerla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Cocida, la endibia pierde casi todo su amargor y queda tierna y dulce, con un gratinado más ligero. Para el Perfil1 es un plato de verdura suave y baja en grasa.
+ADVERTENCIAS: Sin sal añadida.|Escurre bien las endibias para que el pastel no suelte agua.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~6 g
@@ -11270,8 +11307,8 @@ PREPARACION:
 1. Rehoga el hinojo en el aceite 5 minutos, añade la leche y cuece hasta que se absorba; tritúralo.
 2. Mezcla con los huevos, el parmesano y la bechamel.
 3. Vierte en el molde y hornea al baño maría 45 minutos a 180 °C; reposa y desmolda.
-JUSTIFICACION: Muy aromático y ligero.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Anisado, dulce y tierno, con la bechamel ligera dando una textura delicada. Para el Perfil1 baja la grasa y el queso, y el hinojo es suave para la digestión.
+ADVERTENCIAS: Sin sal añadida.|Corta en porciones pequeñas.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~8 g
@@ -11310,8 +11347,8 @@ PREPARACION:
 1. Engrasa el molde y espolvorea con pan rallado; cuece los guisantes 5 minutos con el caldo y la canela y tritúralos.
 2. Rehoga la harina en el aceite, añade el puré, las almendras y el yogur; retira del fuego e incorpora las yemas.
 3. Monta las claras y agrégalas; hornea 45 minutos a 180 °C.
-JUSTIFICACION: Las almendras evocan el amaretti.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con almendras molidas en lugar de amaretti queda menos dulce y más rústico, con los guisantes dulces y verdes. Para el Perfil1 se evitan el azúcar y la grasa, y los guisantes aportan fibra y proteína vegetal.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~9 g
@@ -11348,8 +11385,8 @@ PREPARACION:
 1. Cuece el apio 15 minutos y escúrrelo; rehógalo en el aceite.
 2. Mezcla con la bechamel, el parmesano y el pollo; liga con las yemas y las claras montadas.
 3. Hornea al baño maría 45-50 minutos a 180 °C; reposa 5 minutos y desmolda.
-JUSTIFICACION: Pollo en lugar de jamón.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El apio aporta un frescor crujiente que se vuelve tierno al hornear y el pollo da un fondo más limpio que el jamón. Para el Perfil1 es un plato magro sin embutido y con poca grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~14 g
@@ -11386,8 +11423,8 @@ PREPARACION:
 1. Lava las espinacas y cuécelas 5 minutos; escúrrelas y pícalas.
 2. Mezcla con pollo, queso y bechamel; añade las yemas y las claras montadas.
 3. Rellena el molde engrasado con pan rallado y hornea al baño maría 45-50 minutos a 180 °C; reposa y desmolda.
-JUSTIFICACION: Rica en hierro vegetal y fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La espinaca tierna con pollo en lugar de salami queda más limpia y menos salada, con la miga cremosa. Para el Perfil1 se evitan el embutido y la grasa, y aporta hierro y fibra.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~12 g
@@ -11435,8 +11472,8 @@ INGREDIENTES_VERDURAS_Y_SALSA:
 PREPARACION_VERDURAS_Y_SALSA:
 1. Rehoga las verduras 5 minutos con el aceite.
 2. Para la salsa, disuelve la fécula en caldo de pescado frío, añade azafrán y hierve a fuego lento hasta espesar.
-JUSTIFICACION: Pescado fresco con verduras: ligero.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La trucha fresca da un flan delicado y suave, más ligero que con nata y vino; las verduras en juliana dan color y textura. Para el Perfil1 se evitan el alcohol y la grasa, con proteína magra.
+ADVERTENCIAS: Sin sal añadida.|Revisa que no queden espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~24 g
@@ -11473,8 +11510,8 @@ PREPARACION:
 1. Abre los moluscos al fuego con 250 ml de agua hasta que se abran; cuela y reserva el líquido; retira las valvas y trocea.
 2. Prepara el velouté ligero: sofríe 1 cucharada de harina de avena en 1 cucharada de aceite y añade el líquido reservado hasta espesar.
 3. Mezcla con yemas, moluscos y pescado; incorpora las claras montadas y hornea 40 minutos a 180 °C en el molde.
-JUSTIFICACION: Sabor a mar sin mantequilla.
-ADVERTENCIAS: Sin sal añadida: el caldo de moluscos ya sala.
+JUSTIFICACION: Más ligero y menos cremoso que el original, con un sabor marino intenso del caldo de los moluscos. Para el Perfil1 baja la grasa con un velouté de avena.
+ADVERTENCIAS: Sin sal añadida: el caldo de moluscos ya sala.|Descarta los moluscos que no se abran al cocinar. Si tienes alergia a los mariscos, evítalo.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~18 g
@@ -11511,8 +11548,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade la calabaza con 150 ml de agua y cuece unos 30 minutos hasta que esté muy tierna.
 2. Tritura y mezcla con la bechamel, el parmesano, las yemas y las almendras.
 3. Vierte en un molde y hornea a 160 °C 1 hora; reposa y desmolda.
-JUSTIFICACION: Dulzor natural de la calabaza.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La calabaza da un dulzor suave y una textura sedosa; con almendras en lugar de piñones queda un crocante tostado. Para el Perfil1 la calabaza es suave y de bajo índice glucémico, con menos queso y grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~115 kcal (por porción)
 Proteínas: ~5 g
@@ -11547,8 +11584,8 @@ PREPARACION:
 1. Precalienta el horno a 200 °C y engrasa un molde alto.
 2. Mezcla el puré de castañas y batata con el caldo y cuece hasta formar una pasta suave.
 3. Monta las claras a punto de nieve y agrégalas; hornea 20 minutos, baja a 180 °C y cuece 5 minutos más.
-JUSTIFICACION: La batata reemplaza gran parte de las castañas (mucho más calóricas).
-ADVERTENCIAS: Es una evocación: menos sabor a castaña.|Sirve enseguida.
+JUSTIFICACION: Es una evocación: con menos castañas el sabor es más a batata, dulce y suave, y la textura es aireada. Para el Perfil1 se evita la grasa de la mantequilla y se modera el almidón.
+ADVERTENCIAS: Es una evocación: menos sabor a castaña.|Sirve enseguida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo recién salido del horno, antes de que baje.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~5 g
@@ -11586,8 +11623,8 @@ PREPARACION:
 1. Cuece la cebolla en el aceite 10 minutos con el caldo hasta que evapore.
 2. Incorpora la bechamel, el emmental, la nuez moscada y las yemas.
 3. Monta las claras e incorpóralas; hornea a 200 °C 20 minutos, baja a 180 °C y sigue 5 minutos.
-JUSTIFICACION: Cebolla cocida muy dulce y suave.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La cebolla cocida da un dulzor profundo y el soufflé sube igual de aireado; el caldo reemplaza al brandy. Para el Perfil1 se evitan el alcohol, el exceso de queso y el azúcar (se usa stevia).
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo recién salido del horno.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~7 g
@@ -11625,8 +11662,8 @@ PREPARACION:
 1. Cuece las judías al dente 5 minutos, escúrrelas y pásalas por el pasapuré; prepara una bechamel con aceite, harina y leche.
 2. Mezcla las judías con la bechamel, el parmesano y las yemas; incorpora las claras montadas.
 3. Hornea a 200 °C 20 minutos, baja a 180 °C y cuece 5 minutos más.
-JUSTIFICACION: Verdura ligera y esponjosa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más rústico por la avena, con las judías tiernas dando un sabor fresco y vegetal. Para el Perfil1 baja la grasa y aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo recién salido del horno.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~9 g
@@ -11662,8 +11699,8 @@ PREPARACION:
 1. Precalienta el horno a 200 °C y engrasa un molde alto con pan rallado.
 2. Calienta la bechamel, funde el queso, añade las yemas una a una.
 3. Incorpora las claras montadas; hornea 20 minutos, baja a 180 °C y sigue 5 minutos; sirve enseguida.
-JUSTIFICACION: Clásico con la mitad del queso.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más ligero y menos intenso que el clásico, con menos queso y una miga aireada. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo recién salido del horno.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~11 g
@@ -11705,8 +11742,8 @@ PREPARACION:
 1. Rehoga cebolla, ajo y anchoa en el aceite; añade las setas y cuece 25 minutos con el caldo hasta que esté seca.
 2. Mezcla las yemas con la bechamel, parte del queso en dados y el resto en láminas; incorpora las claras montadas.
 3. Rellena el molde en capas con las setas y la mezcla y hornea 20 minutos a 200 °C; baja a 180 °C y sigue 5 minutos.
-JUSTIFICACION: Sabor profundo de setas con poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Terroso y aromático, con las setas dando un fondo profundo; el ajo asado es más dulce que el crudo. Para el Perfil1 se evitan el ajo crudo y el exceso de grasa.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Cocina bien las setas antes de mezclar.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~10 g
@@ -11743,8 +11780,8 @@ PREPARACION:
 1. Tritura el pimentón asado con el cangrejo y el caldo.
 2. Mezcla con las yemas y el velouté ligero; incorpora las claras montadas.
 3. Hornea 20 minutos a 200 °C, baja a 180 °C y sigue 5 minutos.
-JUSTIFICACION: Esponjoso y proteico.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Delicado, con el dulzor del cangrejo; el caldo de pescado reemplaza al vermú sin perder aroma. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Si tienes alergia a los mariscos, evítalo.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~14 g
@@ -11783,8 +11820,8 @@ PREPARACION:
 1. Calienta el aceite, añade la harina y la leche y cuece hasta que espese; añade el queso.
 2. Incorpora yemas, maíz, pimentón, ají dulce y pimentón dulce.
 3. Monta las claras e incorpóralas; hornea 20 minutos a 200 °C, baja a 180 °C y sigue 5 minutos.
-JUSTIFICACION: Aroma de ají sin picor.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El ají dulce da aroma y un toque frutal sin el picor de la guindilla; el maíz fresco mantiene un dulzor y un crujido que no tiene el de conserva. Para el Perfil1 se evitan el picante y las conservas.
+ADVERTENCIAS: Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~8 g
@@ -11823,8 +11860,8 @@ PREPARACION:
 1. Cuece las papas, pásalas por el pasapuré y rehógalas en una cazuela con aceite y yogur 5 minutos.
 2. Añade nuez moscada, yemas, pollo y parmesano; incorpora las claras montadas.
 3. Hornea en un molde alto con pan rallado 20 minutos a 200 °C, baja a 180 °C y sigue 5 minutos.
-JUSTIFICACION: Mismo soufflé reconfortante con mucha menos grasa.
-ADVERTENCIAS: La papa aporta carbohidratos.
+JUSTIFICACION: La papa da un soufflé más denso y reconfortante que el de queso, y el pollo cocido sustituye al jamón con un sabor más limpio; la textura es aireada pero con más cuerpo. Para el Perfil1 se evitan el embutido y la grasa, con menos papa y menos queso.
+ADVERTENCIAS: La papa aporta carbohidratos.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Sírvelo recién salido del horno.
 VALOR_NUTRICIONAL:
 Calorías: ~180 kcal (por porción)
 Proteínas: ~12 g
@@ -11863,8 +11900,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade el tomate y la albahaca y cuece 10 minutos hasta espesar.
 2. Mezcla con la bechamel, los quesos y las yemas.
 3. Incorpora las claras montadas y hornea 20 minutos a 200 °C; baja a 180 °C y sigue 5 minutos.
-JUSTIFICACION: Dulce y aromático, poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El tomate asado es más dulce y menos ácido que el crudo y da un soufflé de color rosado, aireado y de sabor concentrado. Para el Perfil1 el tomate va cocido y baja el queso.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.|Sírvelo recién salido del horno.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~7 g
@@ -11901,8 +11938,8 @@ PREPARACION:
 1. Calienta el aceite, añade la harina y cocina 1 minuto; incorpora la leche y cuece hasta espesar.
 2. Añade yemas, parmesano y pollo.
 3. Incorpora las claras montadas; hornea en un molde con pan rallado 20 minutos a 200 °C, baja a 180 °C y sigue 5 minutos.
-JUSTIFICACION: Esponjoso con proteína magra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pollo da un soufflé más delicado y magro que el de jamón, con el queso aportando el toque salino y dorado. Para el Perfil1 se evitan el embutido y la grasa de la mantequilla.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo recién salido del horno.
 VALOR_NUTRICIONAL:
 Calorías: ~160 kcal (por porción)
 Proteínas: ~13 g
@@ -11941,8 +11978,8 @@ PREPARACION:
 2. Estira la masa sobre una superficie enharinada, forra un molde y hornea 10 minutos a 180 °C.
 3. Reparte los espárragos y el queso; bate los huevos con el yogur, la leche y la nuez moscada y vierte.
 4. Hornea 30 minutos a 180 °C hasta que cuaje.
-JUSTIFICACION: Yogur en vez de nata; menos queso.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La masa integral es más rústica y menos quebradiza que la de mantequilla, y el yogur hace el relleno más fresco y menos untuoso que con nata. Para el Perfil1 baja la grasa y el queso, con espárragos tiernos y poco almidón.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.|Déjala reposar 10 minutos antes de cortar.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~10 g
@@ -11980,8 +12017,8 @@ PREPARACION:
 1. Estira la masa, forra un molde y hornea 10 minutos a 180 °C.
 2. Reparte el salmón y el queso; bate los huevos con el yogur, la leche y el eneldo y vierte.
 3. Hornea 30 minutos a 180 °C hasta que cuaje.
-JUSTIFICACION: Salmón fresco: sin el sodio del ahumado.
-ADVERTENCIAS: Es una evocación: sin ahumado.
+JUSTIFICACION: Es una evocación: el salmón fresco al horno es más suave y menos salado que el ahumado y da un relleno más jugoso y menos intenso. Para el Perfil1 se evitan los ahumados y la nata.
+ADVERTENCIAS: Es una evocación: sin ahumado.|Come despacio y mastica bien.|Revisa que no queden espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~17 g
@@ -12020,8 +12057,8 @@ PREPARACION:
 1. Estira la masa, forra un molde y hornea 10 minutos a 180 °C.
 2. Reparte el pollo y la cebolla; bate los huevos con yogur, leche, pimentón y nuez moscada y vierte.
 3. Hornea 30 minutos a 180 °C hasta que cuaje.
-JUSTIFICACION: El pimentón ahumado evoca el beicon.
-ADVERTENCIAS: Es una evocación: sin beicon.
+JUSTIFICACION: Es una evocación: el pollo con pimentón ahumado suave recuerda el beicon sin su grasa ni su sal, y la masa integral es más rústica que el hojaldre. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: sin beicon.|Come despacio y mastica bien.|Deja reposar antes de cortar.
 VALOR_NUTRICIONAL:
 Calorías: ~210 kcal (por porción)
 Proteínas: ~14 g
@@ -12067,8 +12104,8 @@ PREPARACION:
 3. Sirve en rodajas con la salsa.
 PREPARACION_SALSA_DE_NUECES:
 1. Remoja el pan en la leche; tritura con el chalote, el huevo, el pollo y las nueces; incorpora el yogur sin hervir.
-JUSTIFICACION: Setas asadas con salsa untuosa, menos nueces y sin nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El champiñón aporta un sabor profundo y terroso y la salsa de nueces una nota tostada; la masa integral es más rústica. Para el Perfil1 se evitan el embutido y la grasa, con nueces en menor cantidad.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~12 g
@@ -12107,8 +12144,8 @@ PREPARACION:
 1. Cuece el brócoli al vapor 6 minutos y saltéalo en el aceite 2 minutos.
 2. Estira la masa, forra un molde y cubre con el brócoli y el queso.
 3. Cubre con la bechamel con nuez moscada, pinta los bordes con yema y hornea 30 minutos a 180 °C.
-JUSTIFICACION: Brócoli al vapor y menos queso.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El brócoli cocido es dulce y suave y el relleno cremoso con la bechamel ligera; la masa integral queda más densa que el hojaldre. Para el Perfil1 baja la grasa y el queso, y aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Cuece bien el brócoli.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~11 g
@@ -12150,8 +12187,8 @@ PREPARACION:
 2. Saltea las almejas con el aceite, el ajo y el perejil 3 minutos.
 3. Mezcla la ricota con los huevos y el yogur; añade las almejas y las gambas.
 4. Rellena y hornea 30 minutos a 180 °C.
-JUSTIFICACION: Ricota baja en grasa; yogur en vez de nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El relleno de marisco con ricota baja en grasa es más ligero y menos untuoso que con nata, con ajo asado más dulce. Para el Perfil1 se evitan los mariscos crudos y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los mariscos. Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~21 g
@@ -12192,8 +12229,8 @@ PREPARACION:
 2. Forra un molde con 2/3 de la masa y espolvorea con pan rallado.
 3. Mezcla la rúcula con los quesos y los huevos y rellena; cubre con el resto de la masa.
 4. Hornea 35 minutos a 180 °C.
-JUSTIFICACION: Menos grasa saturada y más fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La rúcula aporta un amargor fresco que se atenúa al hornear, y el queso fresco con taleggio en menor cantidad hace una crema más ligera. Para el Perfil1 baja la grasa y se usa harina integral y avena.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~13 g
@@ -12237,8 +12274,8 @@ PREPARACION:
 2. Asa los champiñones con el aceite 15 minutos a 200 °C.
 3. Mezcla bechamel, queso, yogur, huevos, hierbas, pescado y champiñones.
 4. Forra un molde con la mitad de la masa, rellena, cubre con el resto y hornea 40 minutos a 180 °C.
-JUSTIFICACION: Pescado fresco, sin la sal del bacalao curado.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pescado blanco da un relleno delicado y los champiñones un fondo terroso; el caldo de pescado sustituye al vino sin perder sabor. Para el Perfil1 se evitan el alcohol y la grasa, con proteína magra.
+ADVERTENCIAS: Sin sal añadida.|Revisa que no queden espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~20 g
@@ -12277,8 +12314,8 @@ PREPARACION:
 2. Cuece las verduras por separado, al dente, y escúrrelas.
 3. Forra un molde con la mitad de la masa, rellena en capas de verduras, huevo y queso y cubre con el resto.
 4. Hornea 40 minutos a 180 °C.
-JUSTIFICACION: Muy rica en fibra.
-ADVERTENCIAS: Sin sal añadida en el relleno.
+JUSTIFICACION: La col cocida es dulce y tierna y el relleno de verduras tiene el sabor reconfortante del original, con una masa algo más rústica. Para el Perfil1 baja la grasa y se cocina bien la col.
+ADVERTENCIAS: Sin sal añadida en el relleno.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~10 g
@@ -12314,8 +12351,8 @@ PREPARACION:
 1. Remoja las pasas en agua tibia.
 2. Cuece la cebolla con el aceite y el caldo a fuego lento 40 minutos hasta que esté muy tierna y dulce; añade las pasas y la stevia.
 3. Forra un molde con la masa, hornea 10 minutos a 180 °C, rellena y hornea 20 minutos más.
-JUSTIFICACION: La cebolla muy cocida es suave y dulce.
-ADVERTENCIAS: Es una evocación: sin vino ni tuétano.
+JUSTIFICACION: Es una evocación: sin vino ni tuétano, la cebolla cocida largo tiempo da el dulzor profundo, con aceite de oliva en lugar de la grasa. Para el Perfil1 se evitan el alcohol, la grasa y el azúcar (se usa stevia).
+ADVERTENCIAS: Es una evocación: sin vino ni tuétano.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~4 g
@@ -12358,8 +12395,8 @@ PREPARACION:
 2. Remoja el pan en la leche; cuece las verduras de hoja y escúrrelas; cuece las alcachofas con la ralladura.
 3. Rehoga la cebolla en el aceite restante; mezcla con todas las verduras, el pan, los quesos y la mejorana.
 4. Forra un molde con la mitad de la masa, rellena, cubre y hornea 40 minutos a 180 °C.
-JUSTIFICACION: Muy rica en fibra y con quesos reducidos.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La masa de aceite y harina integral es más rústica y menos crujiente, y las alcachofas dan un relleno vegetal y dulce, con ralladura en lugar de limón. Para el Perfil1 baja el queso y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~280 kcal (por porción)
 Proteínas: ~11 g
@@ -12400,8 +12437,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite; añade el pollo y el caldo y cuece 10 minutos; añade el perifollo.
 2. Prepara la salsa: tuesta la harina 1 minuto, añade la leche y cuece hasta espesar; incorpora el queso y el yogur.
 3. Mezcla el pollo con la salsa; forra un molde con la masa, hornea 10 minutos, rellena y hornea 25 minutos a 180 °C.
-JUSTIFICACION: Salsa ligera de leche descremada.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pollo con perifollo da un relleno aromático y delicado; el yogur lo hace más fresco y menos graso que con nata. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~270 kcal (por porción)
 Proteínas: ~28 g
@@ -12440,8 +12477,8 @@ PREPARACION:
 1. Rehoga los puerros en el aceite 15 minutos hasta que estén blandos.
 2. Forra un molde con la masa y hornea 10 minutos a 180 °C.
 3. Mezcla puerros, parmesano, leche, yogur, huevos y emmental y vierte; hornea 30 minutos a 180 °C.
-JUSTIFICACION: Puerro dulce y suave.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El puerro cocido es dulce y sedoso, y el relleno con yogur es más ligero que el de nata; la masa integral es más rústica. Para el Perfil1 baja la grasa y el queso.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~9 g
@@ -12480,8 +12517,8 @@ PREPARACION:
 1. Calienta el aceite, añade la harina y cocina 1 minuto; vierte la leche y cuece hasta espesar; añade estragón.
 2. Mezcla con el pollo, el queso y el yogur.
 3. Forra un molde con la masa, hornea 10 minutos a 180 °C, rellena y hornea 25 minutos.
-JUSTIFICACION: Pollo en vez de jamón; salsa ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El estragón da un toque anisado al pollo y el relleno es menos denso que el original; la masa integral es más rústica. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~17 g
@@ -12522,8 +12559,8 @@ PREPARACION:
 2. Cuece las espinacas 3 minutos, escúrrelas y píclalas.
 3. Prepara una salsa con aceite, harina y leche; añade nuez moscada, tomillo, queso y yogur.
 4. Forra un molde con la masa, hornea 10 minutos, rellena con el salmón, las espinacas y la salsa y hornea 25 minutos a 180 °C.
-JUSTIFICACION: Salmón rico en omega-3 y espinacas ricas en hierro.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El salmón fresco y la espinaca dan un relleno suave y jugoso, con yogur en lugar de nata. Para el Perfil1 baja la grasa y aporta hierro y proteína magra.
+ADVERTENCIAS: Sin sal añadida.|Revisa que no queden espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~270 kcal (por porción)
 Proteínas: ~22 g
@@ -12561,8 +12598,8 @@ PREPARACION:
 1. Mezcla la harina con 3 cucharadas de aceite y agua; amasa y reposa 30 minutos.
 2. Cuece las verduras de hoja, escúrrelas y pícalas; rehoga calabacín y puerro con el aceite restante.
 3. Mezcla todo con huevos y queso; forra un molde con la mitad de la masa, rellena, cubre y hornea 40 minutos a 180 °C.
-JUSTIFICACION: Muy rica en verduras y fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con menos aceite la masa es más seca y rústica, y las verduras dan un relleno colorido y fresco. Para el Perfil1 baja la grasa y el queso, y la harina integral aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~9 g
@@ -12601,8 +12638,8 @@ PREPARACION:
 1. Hidrata las setas secas 20 minutos y pícalas; cuece la calabaza al vapor 15 minutos y chafa.
 2. Rehoga la cebolla en el aceite 10 minutos; mezcla con la calabaza, las setas, el parmesano y el huevo.
 3. Forra un molde con la masa, rellena, cubre con el queso y pinta con la yema; hornea 35 minutos a 180 °C.
-JUSTIFICACION: Dulce y reconfortante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La calabaza da un relleno sedoso y dulce, y la masa integral lo contrasta con un sabor más rústico. Para el Perfil1 la calabaza es de bajo índice glucémico y se baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~210 kcal (por porción)
 Proteínas: ~8 g
@@ -12641,8 +12678,8 @@ PREPARACION:
 2. Mezcla con la ricota, el parmesano, el pan, el yogur, la mejorana y los 2 huevos batidos.
 3. Forra un molde con la mitad de la masa, extiende el relleno y haz 4 huecos con una cuchara; casca un huevo en cada uno.
 4. Cubre con el resto de masa y hornea 45 minutos a 180 °C.
-JUSTIFICACION: Menos huevos y nata sustituida por yogur.
-ADVERTENCIAS: Come un trozo con un solo huevo.
+JUSTIFICACION: Con menos huevos y ricota baja en grasa queda más ligera y menos densa que la tradicional, con las acelgas dando un verde tierno y ligeramente terroso. Para el Perfil1 se baja la grasa y el huevo, con las yemas bien cocidas.
+ADVERTENCIAS: Come un trozo con un solo huevo.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~10 g
@@ -12684,8 +12721,8 @@ PREPARACION:
 2. Cuece las espinacas, escúrrelas y rehógalas con el aceite restante y el tomillo.
 3. Forra un molde con la mitad de la masa; haz capas de espinacas con parmesano, pimentones, pollo y queso; cubre con el resto, pinta con yema.
 4. Hornea 40 minutos a 180 °C.
-JUSTIFICACION: Colorida, con pollo en vez de jamón.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El relleno de verduras de varios colores con mozzarella baja en grasa es más ligero y con menos sabor curado que el original con jamón. Para el Perfil1 se evitan el alcohol, el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~15 g
@@ -12725,8 +12762,8 @@ PREPARACION:
 1. Mezcla la harina con 1 huevo, el aceite, la stevia y la leche; amasa y reposa 30 minutos.
 2. Forra un molde con la mitad de la masa; mezcla el relleno: 2 huevos, parmesano, mozzarella, pollo y bechamel.
 3. Rellena, cubre con el resto de masa y hornea 40 minutos a 180 °C.
-JUSTIFICACION: Pollo en vez de jamón y mortadela.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pollo sustituye a los embutidos, con un relleno de queso fundido; la stevia endulza la masa sin azúcar. Para el Perfil1 se evitan el embutido, el azúcar y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~260 kcal (por porción)
 Proteínas: ~19 g
@@ -12762,8 +12799,8 @@ PREPARACION:
 1. Pon el queso en un bol, cúbrelo con la leche y déjalo reposar 1 hora.
 2. Calienta a fuego muy bajo removiendo hasta fundir; añade el queso fresco y retira.
 3. Añade las yemas, rellena los cestillos horneados y caliéntalos 5 minutos a 180 °C.
-JUSTIFICACION: Misma salsa cremosa con la mitad del queso.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Los cestillos de masa integral son más rústicos que el hojaldre y la crema de queso es más ligera, con menos fontina. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~8 g
@@ -12803,8 +12840,8 @@ PREPARACION:
 1. Rehoga la cebolla y el puerro en el aceite 8 minutos; añade el pollo en dados y cocina 5 minutos.
 2. Espolvorea con la harina, añade las almendras y el caldo y cuece 10 minutos hasta espesar; añade el perejil.
 3. Rellena los cestillos y caliéntalos 5 minutos a 180 °C.
-JUSTIFICACION: El caldo reemplaza al vino; el relleno queda jugoso.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pollo con almendras en una crema ligera de caldo, sin vino; los cestillos son más rústicos que el hojaldre. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~15 g
@@ -12842,8 +12879,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade los guisantes y el caldo y cuece 8 minutos.
 2. Añade el pollo, retira del fuego, incorpora el yogur y la yema.
 3. Rellena los cestillos y caliéntalos 5 minutos a 180 °C.
-JUSTIFICACION: Pollo en vez de jamón y yogur en vez de nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pollo sustituye al jamón en una crema de yogur más fresca que la de nata, con los guisantes dulces. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~14 g
@@ -12883,8 +12920,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite; añade el curry y la harina, vierte la leche y cuece 8 minutos.
 2. Añade el tomate, retira del fuego y liga con el huevo y la ralladura.
 3. Incorpora los langostinos, rellena los cestillos y caliéntalos 5 minutos a 180 °C.
-JUSTIFICACION: Salsa ligera con sabor a curry suave.
-ADVERTENCIAS: Usa curry sin picante.
+JUSTIFICACION: El langostino dulce con curry suave y tomate asado; la masa integral es más rústica. Para el Perfil1 se evitan el picante, el limón y la grasa.
+ADVERTENCIAS: Usa curry sin picante.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~8 g
@@ -12921,8 +12958,8 @@ PREPARACION:
 2. Amasa 10 minutos hasta que quede suave y elástica; forma una bola.
 3. Déjala reposar tapada 1 hora hasta que doble su volumen.
 4. Extiende sobre una bandeja engrasada con el aceite.
-JUSTIFICACION: La harina integral aporta fibra y baja el índice glucémico.
-ADVERTENCIAS: La masa integral absorbe más agua: añade 1-2 cucharadas si queda seca.
+JUSTIFICACION: Más densa y rústica que la masa de harina 00, con un sabor a trigo integral y una miga algo más compacta; con más agua queda tierna. Para el Perfil1 aporta más fibra y menos picos de energía.
+ADVERTENCIAS: La masa integral absorbe más agua: añade 1-2 cucharadas si queda seca.|Es una receta base. La masa integral absorbe más agua: añade 1-2 cucharadas si hace falta.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~7 g
@@ -12961,8 +12998,8 @@ PREPARACION:
 2. Divide la masa en 2, estira círculos sobre la superficie enharinada.
 3. Mezcla mozzarella, pollo, huevo, ricota y tomate; reparte sobre la mitad de cada círculo.
 4. Dobla, sella los bordes, pinta con aceite y hornea 20 minutos hasta dorar.
-JUSTIFICACION: Pollo en vez de salami y jamón; relleno más ligero.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pollo sustituye a los embutidos y la ricota con mozzarella baja en grasa da un relleno cremoso; la masa integral es más rústica. Para el Perfil1 se evitan el embutido, la pimienta y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~380 kcal (por porción)
 Proteínas: ~27 g
@@ -12999,8 +13036,8 @@ PREPARACION:
 1. Precalienta el horno a 220 °C. Asa los champiñones con una cucharada de aceite 12 minutos.
 2. Estira la masa sobre una bandeja engrasada y píntala con el ajo machacado y el resto del aceite.
 3. Reparte los champiñones y hornea 15 minutos hasta dorar; espolvorea con perejil.
-JUSTIFICACION: Muy sabrosa con poco aceite.
-ADVERTENCIAS: Sin sal ni pimienta añadidas.
+JUSTIFICACION: Los champiñones asados dan un sabor profundo y el ajo asado es más dulce que el crudo; la masa integral es más rústica. Para el Perfil1 se evitan el ajo crudo y la grasa.
+ADVERTENCIAS: Sin sal ni pimienta añadidas.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~205 kcal (por porción)
 Proteínas: ~8 g
@@ -13039,8 +13076,8 @@ PREPARACION:
 2. Estira la masa y cúbrela con el tomate asado.
 3. Reparte la mozzarella, el orégano y las anchoas troceadas; rocía con el aceite.
 4. Hornea 15-20 minutos hasta que el queso burbujee.
-JUSTIFICACION: Tomate asado: dulce y suave; menos queso y anchoa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El tomate asado es más dulce y menos ácido que el de la napolitana tradicional, con menos mozzarella y anchoas; la base integral es más densa. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~245 kcal (por porción)
 Proteínas: ~12 g
@@ -13084,8 +13121,8 @@ PREPARACION:
 2. Rehoga la cebolla en el aceite 8 minutos; añade ajo, ají dulce, gambas, almejas y mejillones, tapa y cuece 5 minutos; retira las valvas.
 3. Estira la masa en una bandeja engrasada y cúbrela con los tomatitos; hornea 10 minutos a 220 °C.
 4. Reparte los mariscos y el perejil y hornea 5 minutos más.
-JUSTIFICACION: Mariscos magros y sin picante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con ají dulce en lugar de guindilla pierde el picor pero mantiene el color y el aroma, y el tomate asado es más dulce; la masa integral es más rústica. Para el Perfil1 se evitan el picante y el ajo crudo.
+ADVERTENCIAS: Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Mariscos bien cocidos. Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~29 g
@@ -13125,8 +13162,8 @@ PREPARACION:
 2. Precalienta el horno a 220 °C; estira la masa en una bandeja engrasada.
 3. Reparte las papas, el pollo, la mozzarella, el parmesano y el romero; rocía con aceite.
 4. Hornea 20 minutos hasta dorar.
-JUSTIFICACION: Pollo en lugar de panceta; menos queso.
-ADVERTENCIAS: La papa suma carbohidratos: una porción moderada.
+JUSTIFICACION: La papa en láminas finas queda tierna y dorada con romero, y el pollo sustituye a la panceta; la mozzarella baja en grasa funde menos. Para el Perfil1 se evitan el embutido y la grasa, con menos papa.
+ADVERTENCIAS: La papa suma carbohidratos: una porción moderada.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~295 kcal (por porción)
 Proteínas: ~16 g
@@ -13164,8 +13201,8 @@ PREPARACION:
 1. Precalienta el horno a 220 °C y engrasa una bandeja.
 2. Estira la masa y reparte los quesos.
 3. Espolvorea con orégano, rocía con el aceite y hornea 15-20 minutos.
-JUSTIFICACION: Tres quesos con mucha menos grasa.
-ADVERTENCIAS: Sin sal ni pimienta añadidas.
+JUSTIFICACION: Sin tomate es más cremosa y láctea; con menos queso y de tipo fresco queda más ligera. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal ni pimienta añadidas.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~240 kcal (por porción)
 Proteínas: ~13 g
@@ -13206,8 +13243,8 @@ PREPARACION:
 2. Precalienta el horno a 220 °C; estira la masa en una bandeja engrasada y cúbrela con el tomate asado.
 3. Reparte el pollo, el pecorino, el romero y rocía con aceite.
 4. Hornea 15-20 minutos; añade la albahaca al servir.
-JUSTIFICACION: El hinojo recuerda a la salchicha italiana.
-ADVERTENCIAS: Es una evocación: sin el sabor del embutido.
+JUSTIFICACION: Es una evocación: el pollo con semillas de hinojo recuerda el sabor de la salchicha, con tomate asado dulce. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: sin el sabor del embutido.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~290 kcal (por porción)
 Proteínas: ~19 g
@@ -13247,8 +13284,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade ajo, tomate y endibias y cuece 10 minutos; incorpora el yogur fuera del fuego.
 2. Precalienta el horno a 220 °C; estira la masa en una bandeja engrasada, cúbrela con la mezcla y hornea 15 minutos.
 3. Reparte el pollo al servir.
-JUSTIFICACION: Pollo en vez de jamón curado; yogur en vez de nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La endibia cocida tiene un amargor suave que contrasta con el pollo asado; el yogur sustituye a la nata. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~265 kcal (por porción)
 Proteínas: ~15 g
@@ -13285,8 +13322,8 @@ PREPARACION:
 1. Precalienta el horno a 220 °C y engrasa una bandeja.
 2. Estira la masa, cúbrela con el tomate y la mozzarella.
 3. Hornea 15-20 minutos; espolvorea con albahaca al servir.
-JUSTIFICACION: Sencilla, dulce y suave.
-ADVERTENCIAS: Sin sal ni pimienta añadidas.
+JUSTIFICACION: La clásica con tomate asado más dulce y mozzarella baja en grasa, algo menos filante; la masa integral es más rústica. Para el Perfil1 baja la grasa y la acidez.
+ADVERTENCIAS: Sin sal ni pimienta añadidas.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~11 g
@@ -13327,8 +13364,8 @@ PREPARACION:
 1. Precalienta el horno a 220 °C; estira la masa en una bandeja engrasada y cúbrela con el tomate asado.
 2. Divide en cuatro: anchoas y aceitunas verdes; mejillones; pollo y mozzarella; alcachofas y aceitunas negras.
 3. Rocía con aceite y hornea 15-20 minutos.
-JUSTIFICACION: Cuatro sabores con menos sal y grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pollo sustituye al jamón, las alcachofas cocidas son más suaves que las de lata y las aceitunas van enjuagadas. Para el Perfil1 se evitan el embutido, los conservados en aceite y el exceso de sal.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~285 kcal (por porción)
 Proteínas: ~17 g
@@ -13365,8 +13402,8 @@ PREPARACION:
 1. Mezcla la ricota con el huevo, la harina y la nuez moscada; forma bolitas y pásalas por harina.
 2. Hornéalas en una bandeja con papel 15 minutos a 200 °C, dándoles la vuelta.
 3. Caliente el caldo, sirve con las bolitas y el parmesano.
-JUSTIFICACION: Mismo bocado tierno sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno quedan más firmes y menos crujientes que fritas, con la ricota cremosa dentro; el caldo sin sal las reblandece. Para el Perfil1 se evitan la fritura y el exceso de grasa.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~11 g
@@ -13402,8 +13439,8 @@ PREPARACION:
 1. Calienta el caldo con el apio y el perejil 10 minutos.
 2. Añade casi todos los berros y cuece 3 minutos; cuela.
 3. Sirve con unas hojas de berros crudas y las tostadas.
-JUSTIFICACION: Muy ligero y aromático.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El berro da un sabor fresco y ligeramente picante que se suaviza al cocer, con tostadas integrales en lugar de pan blanco. Para el Perfil1 es un caldo ligero y sin sal añadida.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~35 kcal (por porción)
 Proteínas: ~4 g
@@ -13439,8 +13476,8 @@ PREPARACION:
 1. Calienta el caldo con los clavos 10 minutos; retira los clavos.
 2. Bate las yemas con 4 cucharadas de caldo templado, canela, nuez moscada y el zumo.
 3. Incorpora al caldo fuera del fuego, removiendo, y sirve enseguida.
-JUSTIFICACION: Naranja reducida da la nota dulce del vino.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja reducida en lugar de vino, el caldo es más dulce y suave, con las yemas aportando cuerpo. Para el Perfil1 se evitan el alcohol y el huevo poco cocido.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~50 kcal (por porción)
 Proteínas: ~4 g
@@ -13476,8 +13513,8 @@ PREPARACION:
 1. Bate el queso con la mantequilla y la yema; añade el parmesano y la harina y mezcla.
 2. Monta la clara e incorpórala; forma bolitas pequeñas.
 3. Cuécelas 3 minutos en el caldo hirviendo y sirve.
-JUSTIFICACION: Mismos ñoquis delicados, con casi nada de grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más ligeros que los de mantequilla, con una textura suave y tierna, en un caldo claro. Para el Perfil1 baja la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~60 kcal (por porción)
 Proteínas: ~6 g
@@ -13515,8 +13552,8 @@ PREPARACION:
 1. Cuece las verduras 25 minutos en 1,5 litros de agua; cuela y reserva el caldo.
 2. Mezcla el pan con el parmesano, los huevos y el cebollino; deja reposar 15 minutos.
 3. Forma bolitas y cuécelas 5 minutos en el caldo caliente.
-JUSTIFICACION: Caldo casero sin sal y pan integral.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Los ñoquis de pan integral son más rústicos y firmes, flotando en un caldo de verduras claro. Para el Perfil1 baja el queso y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~8 g
@@ -13550,8 +13587,8 @@ PREPARACION:
 1. Bate los huevos con la crema de verduras; sazona con una pizca de sal y cuela.
 2. Vierte en un molde engrasado y cuece al baño maría en el horno 25 minutos a 160 °C hasta cuajar.
 3. Corta en dados y sirve en el caldo caliente.
-JUSTIFICACION: Ligera y reconfortante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El royale es un flan salado de huevo que se corta en dados: suave y delicado, con el caldo sin sal. Para el Perfil1 se evitan la mantequilla y el exceso de sal.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~5 g
@@ -13587,8 +13624,8 @@ PREPARACION:
 1. Bate los huevos con la harina, el parmesano y la leche; cuela.
 2. Reparte en moldes pequeños engrasados y cuece al baño maría 20-25 minutos a 160 °C.
 3. Desmolda, corta en dados y sirve en el caldo caliente.
-JUSTIFICACION: Menos huevo y leche descremada.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más ligero que el original, con leche descremada en el royale y menos huevo. Para el Perfil1 baja la grasa y se evita la sal.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~6 g
@@ -13625,8 +13662,8 @@ PREPARACION:
 1. Bate las harinas con el huevo, la yema, la leche y el aceite; reposa 1 hora.
 2. Cuece las crepes finas en una sartén antiadherente apenas untada.
 3. Corta en tiras y sirve en el caldo caliente.
-JUSTIFICACION: Crepes finas y ligeras.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Las tiras de crepe integral son más rústicas y absorben el caldo con mejor textura. Para el Perfil1 baja la grasa y se evita la sal.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~7 g
@@ -13662,8 +13699,8 @@ PREPARACION:
 1. Pon la carne y las verduras en una olla grande con el agua fría.
 2. Lleva a ebullición, retira la espuma y cuece a fuego muy suave 3 horas.
 3. Cuela, enfría en la nevera y retira la grasa solidificada de la superficie.
-JUSTIFICACION: Base sin sal para todas las sopas y salsas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Conserva 4 días en la nevera o congela.
+JUSTIFICACION: Más ligero y limpio que el caldo graso, con sabor profundo de la carne magra bien cocida. Para el Perfil1 es sin sal y con poca grasa.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Conserva 4 días en la nevera o congela.|Desgrasa el caldo en frío antes de usarlo.
 VALOR_NUTRICIONAL:
 Calorías: ~20 kcal (por porción)
 Proteínas: ~3 g
@@ -13699,8 +13736,8 @@ PREPARACION:
 1. Pon todos los ingredientes en una olla con el agua fría.
 2. Lleva a ebullición, retira la espuma y cuece 25 minutos a fuego suave.
 3. Cuela con un paño y deja enfriar.
-JUSTIFICACION: Base ligera y sin sal para sopas de pescado.
-ADVERTENCIAS: Es una receta base.|Conserva 2 días en la nevera.
+JUSTIFICACION: Delicado y marino, sin pimienta ni sal, con un sabor limpio. Para el Perfil1 es una base suave que sirve para otras recetas.
+ADVERTENCIAS: Es una receta base.|Conserva 2 días en la nevera.|Cuélalo bien para quitar espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~20 kcal (por porción)
 Proteínas: ~3 g
@@ -13736,8 +13773,8 @@ PREPARACION:
 1. Pon todos los ingredientes en una olla con el agua fría.
 2. Lleva a ebullición, retira la espuma y cuece 30 minutos a fuego suave.
 3. Cuela y deja enfriar.
-JUSTIFICACION: La naranja reducida sustituye al vino blanco.
-ADVERTENCIAS: Es una receta base.
+JUSTIFICACION: La naranja reducida sustituye al vino con un matiz más dulce, y el tomate asado aporta cuerpo. Para el Perfil1 se evitan el alcohol y el exceso de sal.
+ADVERTENCIAS: Es una receta base.|Cuélalo bien para quitar espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~20 kcal (por porción)
 Proteínas: ~3 g
@@ -13771,8 +13808,8 @@ PREPARACION:
 1. Pon el pollo y las verduras en una olla con el agua fría.
 2. Lleva a ebullición, retira la espuma y cuece a fuego muy suave 2 horas.
 3. Cuela, enfría y retira la grasa de la superficie.
-JUSTIFICACION: Base sin sal.
-ADVERTENCIAS: Es una receta base.|Conserva 4 días en la nevera o congela.
+JUSTIFICACION: Dorado y suave, con un sabor limpio de pollo cocinado sin piel ni grasa. Para el Perfil1 es una base ligera, sin sal.
+ADVERTENCIAS: Es una receta base.|Conserva 4 días en la nevera o congela.|Sírvelo tibio, ni muy caliente ni frío.|Desgrasa el caldo en frío antes de usarlo.
 VALOR_NUTRICIONAL:
 Calorías: ~20 kcal (por porción)
 Proteínas: ~3 g
@@ -13809,8 +13846,8 @@ PREPARACION:
 1. Pon todo en una olla con el agua fría.
 2. Lleva a ebullición y cuece 25 minutos a fuego suave.
 3. Cuela y deja enfriar.
-JUSTIFICACION: Base sin sal para todas las sopas.
-ADVERTENCIAS: Es una receta base.
+JUSTIFICACION: Ligero, dulce y claro, con el tomate asado dando un fondo redondo que el caldo de verduras sin él no tiene. Para el Perfil1 es una base sin sal ni grasa, suave para la digestión.
+ADVERTENCIAS: Es una receta base.|Cuélalo bien y úsalo como base de sopas y cremas.
 VALOR_NUTRICIONAL:
 Calorías: ~25 kcal (por porción)
 Proteínas: ~1 g
@@ -13843,8 +13880,8 @@ INGREDIENTES:
 PREPARACION:
 1. Enfría el caldo en la nevera 4 horas y retira la grasa.
 2. Añade las hierbas picadas y sirve en tazones fríos.
-JUSTIFICACION: Refrescante y casi sin calorías.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Fresco y delicado, servido frío en lugar de hirviendo, con las hierbas dando aroma. Para el Perfil1 es un caldo sin sal que hidrata y no pesa.
+ADVERTENCIAS: Sin sal añadida.|Si te cae frío, tómalo a temperatura ambiente.
 VALOR_NUTRICIONAL:
 Calorías: ~20 kcal (por porción)
 Proteínas: ~3 g
@@ -13879,8 +13916,8 @@ PREPARACION:
 1. Mezcla la carne con las verduras y las claras y añade el caldo frío.
 2. Calienta lentamente removiendo hasta que se forme una costra; deja cuajar sin remover.
 3. Cuece a fuego muy suave 1 hora; cuela con un paño sin moverlo.
-JUSTIFICACION: Muy limpio y ligero.
-ADVERTENCIAS: Sin jerez.
+JUSTIFICACION: Sin el jerez pierde la nota aromática de la bodega, pero el consomé limpio y concentrado conserva su claridad y su sabor profundo. Para el Perfil1 se evita el alcohol y se desgrasa por completo.
+ADVERTENCIAS: Sin jerez.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~25 kcal (por porción)
 Proteínas: ~4 g
@@ -13915,8 +13952,8 @@ PREPARACION:
 1. Rehoga las verduras en el aceite 5 minutos.
 2. Añade las raspas y el agua; hierve, retira la espuma y cuece 25 minutos a fuego suave.
 3. Cuela y reduce hasta la mitad.
-JUSTIFICACION: Sabor concentrado sin sal.
-ADVERTENCIAS: Es una receta base.
+JUSTIFICACION: Delicado y marino, con aceite en lugar de mantequilla, de sabor limpio y menos untuoso. Para el Perfil1 es una base sin sal ni pimienta.
+ADVERTENCIAS: Es una receta base.|Cuélalo bien para quitar espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~25 kcal (por porción)
 Proteínas: ~3 g
@@ -13950,8 +13987,8 @@ PREPARACION:
 1. Calienta el caldo con las claras, el puerro y la zanahoria y cuece 20 minutos; cuela con un paño.
 2. Disuelve la gelatina en el caldo caliente y deja enfriar en un molde.
 3. Cuaja 4 horas en la nevera.
-JUSTIFICACION: Se usa para cubrir tartines y moldes fríos.
-ADVERTENCIAS: Es una receta base.
+JUSTIFICACION: Con gelatina en polvo cuaja más firme y clara que la hecha de huesos, y el sabor es limpio. Para el Perfil1 es una base sin sal y sin grasa.
+ADVERTENCIAS: Es una receta base.|Es una receta base: úsala solo donde se indique.
 VALOR_NUTRICIONAL:
 Calorías: ~20 kcal (por porción)
 Proteínas: ~4 g
@@ -13991,8 +14028,8 @@ PREPARACION:
 1. Cuece el pollo con la zanahoria, el apio y la cebolla en el agua 1 hora; cuela y reserva 1 litro de caldo.
 2. Rehoga los puerros y las setas en el aceite 10 minutos; añade la harina y el caldo y cuece 15 minutos.
 3. Tritura, añade el yogur fuera del fuego y sirve.
-JUSTIFICACION: Cremosa con muy poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Las setas dan un sabor profundo y terroso; con yogur en lugar de nata la crema queda más fresca y ligeramente ácida, y sin brandy pierde un fondo aromático. Para el Perfil1 se evitan el alcohol y la grasa saturada.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.|Añade el yogur fuera del fuego.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~6 g
@@ -14028,8 +14065,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade la aguaturma y el caldo y cuece 25 minutos.
 2. Tritura fino, añade el yogur fuera del fuego.
 3. Sirve con perejil.
-JUSTIFICACION: La aguaturma es difícil de conseguir en Venezuela: la yuca da cuerpo similar.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La yuca da una crema más espesa y harinosa y el topinambur una nota dulce de alcachofa; el yogur sustituye a la nata con más frescor. Para el Perfil1 baja la grasa y se modera el almidón.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~4 g
@@ -14069,8 +14106,8 @@ PREPARACION:
 1. Rehoga el puerro en el aceite 8 minutos; añade papas, caldo y leche y cuece 20 minutos.
 2. Tritura, añade el yogur fuera del fuego.
 3. Tuesta el pan con el queso hasta que funda y sirve con la crema y los champiñones.
-JUSTIFICACION: Sabor terroso sin trufa.
-ADVERTENCIAS: Es una evocación: sin trufa.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin trufa el sabor es más sencillo, con el champiñón asado dando un fondo terroso; las tostadas integrales de queso dan el contraste crujiente. Para el Perfil1 se evitan la trufa y la nata.
+ADVERTENCIAS: Es una evocación: sin trufa.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~9 g
@@ -14107,8 +14144,8 @@ PREPARACION:
 1. Reserva unas puntas; trocea los espárragos.
 2. Rehoga la cebolla en el aceite; añade la harina, el caldo y los espárragos y cuece 15 minutos.
 3. Tritura y cuela; añade el yogur fuera del fuego y sirve con las puntas cocidas.
-JUSTIFICACION: Muy ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin vino ni nata es una crema más verde y fresca, con el sabor limpio del espárrago. Para el Perfil1 se evitan el alcohol y la grasa, con caldo sin sal.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~65 kcal (por porción)
 Proteínas: ~4 g
@@ -14147,8 +14184,8 @@ PREPARACION:
 1. Rehoga la cebolla y el apio en el aceite 8 minutos; añade alcachofas, papas, ralladura y caldo y cuece 25 minutos.
 2. Tritura, retira del fuego y liga con la yema batida con un poco de crema.
 3. Sirve con el parmesano.
-JUSTIFICACION: Suave y rica en fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con ralladura en lugar de limón la alcachofa conserva su dulzor vegetal sin acidez, en una crema sedosa. Para el Perfil1 baja la grasa y el almidón.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~5 g
@@ -14185,8 +14222,8 @@ PREPARACION:
 1. Cuece las zanahorias con el ajo, la leche y el caldo 25 minutos; tritura.
 2. Reparte en cuencos aptos para horno, espolvorea con parmesano y nuez moscada.
 3. Gratina 5 minutos.
-JUSTIFICACION: Dulce, suave y sin grasa añadida.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La zanahoria da una crema dulce y sedosa, y el gratinado de parmesano un contraste salino y dorado. Para el Perfil1 se baja el queso y la grasa, con ajo asado más suave.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~6 g
@@ -14224,8 +14261,8 @@ PREPARACION:
 1. Corta 1 zanahoria en dados y saltéala en el aceite; cuece el resto en el caldo 25 minutos con la stevia y tritura.
 2. Abre los mejillones al vapor con el caldo de pescado y el ajo; retira las valvas y reserva el líquido colado.
 3. Mezcla la crema con unas cucharadas del líquido; sirve con mejillones, dados de zanahoria y perejil.
-JUSTIFICACION: Dulce y marina, sin vino.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La zanahoria dulce con el sabor de mar de los mejillones es una mezcla suave; con caldo en lugar de vino queda menos aromática. Para el Perfil1 se evitan el alcohol, el azúcar y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~8 g
@@ -14263,8 +14300,8 @@ PREPARACION:
 1. Cuece la coliflor 15 minutos en agua; tritura con un poco del agua.
 2. Rehoga el chalote en el aceite; añade los mejillones con el perejil y tapa 4 minutos hasta que se abran; retira las valvas.
 3. Mezcla la crema con el yogur fuera del fuego; sirve con los mejillones, la ralladura y las tostadas.
-JUSTIFICACION: Coliflor muy ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La coliflor cocida da una crema suave y los mejillones un toque marino; las tostadas integrales reemplazan los picatostes fritos. Para el Perfil1 se evitan la grasa y el limón.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~14 g
@@ -14303,8 +14340,8 @@ PREPARACION:
 1. Cuece los garbanzos con la cebolla, el ajo y el romero en el agua 1,5 horas hasta que estén muy tiernos.
 2. Retira el romero, tritura con el aceite y vuelve a calentar.
 3. Reparte en cuencos, cubre con pan y queso y gratina 5 minutos.
-JUSTIFICACION: Proteína vegetal y fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más ligera que la clásica, de textura espesa y reconfortante con el gratinado ligero de mozzarella y pan integral. Para el Perfil1 los garbanzos dan fibra y proteína, y el ajo va asado.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~12 g
@@ -14344,8 +14381,8 @@ PREPARACION:
 1. Cuece las habas con la papa, la cebolla y la zanahoria en el agua 30 minutos.
 2. Tritura con la leche y el aceite.
 3. Sirve con albahaca, parmesano y tostadas.
-JUSTIFICACION: Rica en fibra, sin mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Las habas dan una crema verde, dulce y algo terrosa; con leche descremada es más ligera. Para el Perfil1 baja la grasa y se modera la papa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~9 g
@@ -14381,8 +14418,8 @@ PREPARACION:
 1. Rehoga el hinojo en el aceite 8 minutos; añade el caldo y cuece 20 minutos; tritura.
 2. Incorpora el yogur fuera del fuego.
 3. Sirve con el salmón desmenuzado y el eneldo.
-JUSTIFICACION: Salmón fresco: sin el sodio del ahumado.
-ADVERTENCIAS: Es una evocación: sin ahumado.
+JUSTIFICACION: Es una evocación: el salmón fresco es más suave que el ahumado, con el hinojo aportando frescor anisado. Para el Perfil1 se evitan los ahumados y la grasa.
+ADVERTENCIAS: Es una evocación: sin ahumado.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~125 kcal (por porción)
 Proteínas: ~10 g
@@ -14420,8 +14457,8 @@ PREPARACION:
 1. Rehoga el chalote en el aceite; añade los langostinos 2 minutos y reserva algunos.
 2. Añade la harina, el caldo, las alubias y el tomillo; cuece 15 minutos y tritura.
 3. Incorpora el yogur fuera del fuego y sirve con los langostinos reservados.
-JUSTIFICACION: Cremosa y proteica.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Las alubias dan cuerpo cremoso y los langostinos un dulzor marino; sin vino es más suave. Para el Perfil1 se evitan el alcohol y la grasa, con avena en lugar de harina de trigo.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~14 g
@@ -14457,8 +14494,8 @@ PREPARACION:
 1. Pela las gambas; cuece las cáscaras en el caldo 15 minutos y cuela.
 2. Calienta el aceite con la harina y el curry; añade el caldo, el tomate asado y la mitad de las gambas y cuece 10 minutos; tritura.
 3. Sirve con las gambas reservadas.
-JUSTIFICACION: Tomate asado: dulce y sin acidez fuerte.
-ADVERTENCIAS: Usa curry sin picante.
+JUSTIFICACION: El tomate asado da dulzor y color, con las gambas dulces y el curry suave aportando aroma. Para el Perfil1 se evitan el picante y la grasa.
+ADVERTENCIAS: Usa curry sin picante.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~15 g
@@ -14496,8 +14533,8 @@ PREPARACION:
 1. Rehoga las endibias en el aceite 5 minutos; añade el caldo y los guisantes y cuece 15 minutos.
 2. Añade la harina disuelta en la leche y cuece 10 minutos; tritura.
 3. Sirve con perejil y parmesano.
-JUSTIFICACION: Suave y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Los guisantes dulces compensan el amargor de las endibias en una crema verde y suave. Para el Perfil1 baja la grasa y aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~7 g
@@ -14534,8 +14571,8 @@ PREPARACION:
 1. Calienta el aceite con la harina, añade la leche y el caldo y cuece 10 minutos.
 2. Añade la lechuga y cuece 5 minutos; tritura.
 3. Retira del fuego, liga con la yema y sirve con el parmesano.
-JUSTIFICACION: Suave y muy ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La lechuga cocida da una crema delicada y casi neutra, más ligera con leche descremada. Para el Perfil1 es un plato suave y bajo en grasa.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~6 g
@@ -14572,8 +14609,8 @@ PREPARACION:
 1. Cuece las legumbres con las verduras en 1,5 litros de agua 1 hora hasta que estén muy tiernas.
 2. Tritura con un poco del caldo.
 3. Incorpora el yogur fuera del fuego y sirve con parmesano.
-JUSTIFICACION: Muy rica en fibra y proteína vegetal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Espesa y reconfortante, más ligera con yogur que con nata. Para el Perfil1 las legumbres dan fibra y proteína vegetal.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~10 g
@@ -14609,8 +14646,8 @@ PREPARACION:
 1. Rehoga el puerro en el aceite; añade las papas y el caldo y cuece 20 minutos; tritura.
 2. Incorpora el yogur fuera del fuego.
 3. Corta el pan en dados y tuéstalo en el horno 8 minutos a 180 °C; sirve sobre la crema.
-JUSTIFICACION: Cremosa sin nata ni mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más ligera y menos untuosa que la clásica, con el puerro dulce y los picatostes al horno con pan integral. Para el Perfil1 se baja la papa y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~6 g
@@ -14650,8 +14687,8 @@ PREPARACION:
 1. Rehoga el puerro en el aceite; añade guisantes, papas y agua y cuece 20 minutos; tritura con la menta.
 2. Sirve con el yogur.
 3. Acompaña con las tostadas espolvoreadas con la ralladura.
-JUSTIFICACION: Fresca y muy fibrosa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Verde, dulce y espesa, con ralladura en lugar de limón. Para el Perfil1 baja la papa y la grasa, con fibra de los guisantes.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~8 g
@@ -14688,8 +14725,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade los tomates asados, las papas y 500 ml de agua y cuece 20 minutos.
 2. Tritura, incorpora el yogur fuera del fuego.
 3. Sirve con el parmesano y los picatostes.
-JUSTIFICACION: El tomate asado y cocido es más dulce.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El tomate asado da una crema más dulce y menos ácida que la de tomate crudo, con yogur en lugar de nata. Para el Perfil1 se evitan la acidez y la grasa.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~6 g
@@ -14728,8 +14765,8 @@ PREPARACION:
 1. Rehoga el puerro en el aceite 10 minutos; añade el tomate y la harina y cuece 2 minutos.
 2. Añade el caldo y la leche y cuece 20 minutos; tritura.
 3. Retira del fuego, liga con la yema y el yogur y sirve con el parmesano.
-JUSTIFICACION: Dulce y cremosa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Suave y dulce, con tomate asado en lugar de concentrado y menos aceite. Para el Perfil1 se baja la grasa y el queso.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~6 g
@@ -14767,8 +14804,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade el apio, las papas y el caldo y cuece 25 minutos.
 2. Tritura con la leche.
 3. Sirve con el parmesano.
-JUSTIFICACION: Ligera y aromática.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El apio da un sabor fresco y ligeramente herbáceo, con la papa espesando la crema. Para el Perfil1 baja la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~95 kcal (por porción)
 Proteínas: ~4 g
@@ -14806,8 +14843,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade la harina, el caldo y las espinacas y cuece 10 minutos.
 2. Tritura, añade el yogur fuera del fuego y la ralladura.
 3. Sirve con pimentón dulce.
-JUSTIFICACION: Rica en hierro y fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La espinaca da un verde profundo y terroso, con pimentón dulce en lugar de picante. Para el Perfil1 se evitan el picante, el limón y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~5 g
@@ -14845,8 +14882,8 @@ PREPARACION:
 1. Cuece papas, calabaza y salvia en la leche con 200 ml de agua 25 minutos; tritura.
 2. Incorpora el yogur fuera del fuego.
 3. Reparte en cuencos, cubre con pan y parmesano y gratina 5 minutos.
-JUSTIFICACION: Dulce y suave.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La calabaza da una crema dulce y sedosa, con un gratinado de pan integral y parmesano. Para el Perfil1 es de bajo índice glucémico y baja en grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~10 g
@@ -14883,8 +14920,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade el calabacín y el ajo y cuece 5 minutos.
 2. Añade el caldo y la leche y cuece 15 minutos; tritura.
 3. Sirve con perejil.
-JUSTIFICACION: Muy ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Suave y delicada, de sabor casi neutro, con ajo asado en lugar de crudo. Para el Perfil1 es ligera y baja en grasa.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~5 g
@@ -14922,8 +14959,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade las papas y el caldo y cuece 15 minutos.
 2. Añade el pepino y la lechuga y cuece 3 minutos; tritura con la menta; enfría.
 3. Mezcla con el yogur y sirve frío.
-JUSTIFICACION: Refrescante y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Refrescante, con yogur en lugar de nata y menos papa, de textura ligera. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Sírvela fría pero no helada.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~4 g
@@ -14960,8 +14997,8 @@ PREPARACION:
 1. Cuece las lentejas con las cebollas, el ajo y el tomillo en 1,5 litros de agua 40 minutos.
 2. Retira el tomillo y tritura.
 3. Incorpora el yogur fuera del fuego con la nuez moscada.
-JUSTIFICACION: Rica en fibra y proteína vegetal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Aterciopelada y terrosa, con yogur en lugar de nata y ajo asado. Para el Perfil1 las lentejas dan fibra y proteína vegetal.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~12 g
@@ -14999,8 +15036,8 @@ PREPARACION:
 1. Rehoga el puerro en el aceite; añade papas y caldo y cuece 20 minutos.
 2. Añade los berros y cuece 3 minutos; tritura con la nuez moscada.
 3. Incorpora el yogur fuera del fuego y sirve con los picatostes.
-JUSTIFICACION: Verde y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Verde, fresca y ligera, con el yogur en lugar de nata. Para el Perfil1 baja la grasa y la papa.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~6 g
@@ -15036,8 +15073,8 @@ PREPARACION:
 1. Cuece apio, puerro y papas en el caldo 25 minutos; tritura y cuela.
 2. Enfría en la nevera 3 horas; mezcla con el yogur.
 3. Sirve frío con el perejil.
-JUSTIFICACION: Cremosa sin nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más ligera que la clásica de nata, con el yogur dándole un frescor lácteo. Para el Perfil1 baja la grasa y se evita la sal.
+ADVERTENCIAS: Sin sal añadida.|Sírvela fría pero no helada.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~5 g
@@ -15076,8 +15113,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade zanahorias, papas y agua y cuece 20 minutos.
 2. Añade las judías y la pasta y cuece 8 minutos.
 3. Sirve con el pesto y el parmesano.
-JUSTIFICACION: Menos pesto y menos pasta.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La pasta integral es más firme y rústica, con un pesto más ligero. Para el Perfil1 se baja la pasta y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~7 g
@@ -15116,8 +15153,8 @@ PREPARACION:
 1. Remoja el pan 10 minutos en agua y escúrrelo.
 2. Tritura todos los ingredientes con el pan y el aceite hasta obtener una crema; añade la ralladura.
 3. Enfría 3 horas y sirve con hielo.
-JUSTIFICACION: Tomate y pimentón asados: dulce y suave, sin acidez.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con el tomate asado es más dulce y cocido que el gazpacho crudo, menos fresco pero más suave. Para el Perfil1 se evitan los crudos y el limón.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~4 g
@@ -15155,8 +15192,8 @@ PREPARACION:
 1. Tritura el tomate asado con el pepino y las cebolletas.
 2. Añade el aceite, la ralladura, la albahaca y el perejil.
 3. Enfría 2 horas y sirve con hielo.
-JUSTIFICACION: Sencillo, dulce y refrescante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más suave y dulce que el crudo, con tomate asado y cebolleta escaldada. Para el Perfil1 se evitan los crudos y el ácido.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~2 g
@@ -15192,8 +15229,8 @@ PREPARACION:
 1. Cuece las lentejas en el agua 35 minutos.
 2. Añade los calamarcitos y las verduras y cuece 15 minutos más.
 3. Sirve con el pimentón y el aceite.
-JUSTIFICACION: Proteica y rica en fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Las lentejas dan cuerpo terroso y los calamarcitos un toque marino, con pimentón dulce en lugar de guindilla. Para el Perfil1 se evitan el picante y el exceso de sal.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~18 g
@@ -15227,8 +15264,8 @@ PREPARACION:
 1. Cuece alubias y garbanzos en el agua 1 hora.
 2. Añade la espelta y cuece 40 minutos más.
 3. Sirve con el aceite por encima.
-JUSTIFICACION: Muy rica en fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La sopa rústica de legumbres y cereales, con menos aceite y menos sal. Para el Perfil1 aporta fibra y proteína vegetal.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~220 kcal (por porción)
 Proteínas: ~12 g
@@ -15267,8 +15304,8 @@ PREPARACION:
 1. Rehoga cebolla, zanahoria y apio en el aceite 8 minutos.
 2. Añade el calabacín y el caldo y cuece 10 minutos.
 3. Agrega las flores y la pasta y cuece 8 minutos; sirve con parmesano.
-JUSTIFICACION: Ligera y fresca.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Delicada y ligera, con la flor dando un perfume suave. Para el Perfil1 baja la pasta y se evita la mantequilla.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~6 g
@@ -15307,8 +15344,8 @@ PREPARACION:
 1. Rehoga cebolla y apio en el aceite 8 minutos; añade el tomate asado.
 2. Agrega caldo, agua, germen y alubias y cuece 30 minutos.
 3. Sirve con la albahaca.
-JUSTIFICACION: Nutritiva y suave.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Reconfortante y con sabor a grano, con tomate asado. Para el Perfil1 baja el aceite y la sal.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~9 g
@@ -15344,8 +15381,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos.
 2. Añade papas, orégano y caldo y cuece 20 minutos.
 3. Sirve con la albahaca y el perejil.
-JUSTIFICACION: Reconfortante y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Espesa y suave, con aceite en lugar de mantequilla. Para el Perfil1 se baja la papa y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~4 g
@@ -15381,8 +15418,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos.
 2. Añade maíz, calabacín, setas y caldo y cuece 15 minutos.
 3. Agrega las flores y cuece 3 minutos.
-JUSTIFICACION: Dulce y ligera; el maíz fresco aporta el mismo sabor sin conserva.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El maíz tierno es más dulce y fresco que el de conserva, sin guindilla. Para el Perfil1 se evitan las conservas y el picante.
+ADVERTENCIAS: Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~5 g
@@ -15419,8 +15456,8 @@ PREPARACION:
 1. Rehoga las verduras en el aceite 8 minutos.
 2. Añade agua y arroz y cuece 35 minutos.
 3. Sirve con parmesano.
-JUSTIFICACION: Suave y con fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Ligera y dulce, con arroz integral aportando cuerpo. Para el Perfil1 baja el arroz y el aceite.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~4 g
@@ -15456,8 +15493,8 @@ PREPARACION:
 1. Remoja el pan en un poco de caldo y escúrrelo; mézclalo con la carne, la yema, el parmesano y el perejil.
 2. Forma albóndigas pequeñas.
 3. Cuécelas 10 minutos en el caldo hirviendo.
-JUSTIFICACION: Sabor casero sin embutido.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Las albóndigas de carne magra con pan integral son más ligeras que las originales con jamón, en un caldo limpio. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~12 g
@@ -15495,8 +15532,8 @@ PREPARACION:
 1. Rehoga cebolla y ajo en el aceite 8 minutos.
 2. Añade caldo y legumbres y cuece 1 hora.
 3. Agrega la cebada y cuece 30 minutos más.
-JUSTIFICACION: Muy completa y con fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Rústica y espesa, con aceite reducido. Para el Perfil1 aporta fibra y proteína vegetal.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~200 kcal (por porción)
 Proteínas: ~12 g
@@ -15530,8 +15567,8 @@ PREPARACION:
 1. Calienta el caldo y cuece los fideos 3 minutos.
 2. Añade el pescado desmenuzado y el aceite.
 3. Sirve enseguida.
-JUSTIFICACION: Muy ligera.
-ADVERTENCIAS: Es una evocación: sin chanquetes.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pescado blanco desmenuzado sustituye a los chanquetes. Para el Perfil1 baja los fideos y la sal.
+ADVERTENCIAS: Es una evocación: sin chanquetes.|Sin sal añadida.|Revisa que no queden espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~9 g
@@ -15569,8 +15606,8 @@ PREPARACION:
 1. Rehoga el sofrito de hortalizas en el aceite 8 minutos.
 2. Añade caldo y garbanzos y cuece 15 minutos.
 3. Agrega espinacas y pasta y cuece 8 minutos.
-JUSTIFICACION: Proteína vegetal y hierro.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Reconfortante, con el garbanzo cremoso y la espinaca tierna. Para el Perfil1 baja la pasta y el aceite.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~8 g
@@ -15611,8 +15648,8 @@ PREPARACION:
 1. Rehoga cebolla, apio y zanahoria en el aceite 8 minutos.
 2. Añade caldo, lentejas y tomate y cuece 25 minutos.
 3. Agrega acelgas y arroz y cuece 25 minutos; sirve con parmesano.
-JUSTIFICACION: Muy rica en fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Terrosa y suave, con tomate asado en lugar de concentrado. Para el Perfil1 baja el arroz y el aceite.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~11 g
@@ -15647,8 +15684,8 @@ PREPARACION:
 1. Rehoga el puerro en el aceite 8 minutos.
 2. Añade espelta y caldo y cuece a fuego suave 45 minutos.
 3. Sirve con parmesano.
-JUSTIFICACION: Grano entero y saciante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La espelta da una textura masticable y un sabor a nuez, con el puerro dulce. Para el Perfil1 baja el aceite y el queso.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~7 g
@@ -15684,8 +15721,8 @@ PREPARACION:
 1. Cuece las verduras en el agua 20 minutos.
 2. Añade la harina de mijo disuelta en un poco de agua fría y cuece 15 minutos removiendo.
 3. Sirve con el aceite y el perejil.
-JUSTIFICACION: Ligera y sin gluten.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El mijo da una textura suave y granulosa, con un sabor neutro y dulce. Para el Perfil1 baja el aceite y el cereal.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~3 g
@@ -15720,8 +15757,8 @@ PREPARACION:
 1. Rehoga el ajo y el tomate en el aceite 5 minutos.
 2. Añade caldo y arroz y cuece 30 minutos.
 3. Agrega las hojas y cuece 5 minutos; tritura una parte para espesar.
-JUSTIFICACION: Las ortigas son difíciles de encontrar; espinacas y berros dan un sabor verde similar.
-ADVERTENCIAS: Es una evocación: sin ortigas ni panceta.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: las espinacas y los berros recuerdan el sabor terroso y un poco mineral de las ortigas, y sin panceta la sopa es más limpia y ligera. Para el Perfil1 se evita el embutido y baja la grasa; el arroz integral aporta fibra.
+ADVERTENCIAS: Es una evocación: sin ortigas ni panceta.|Sin sal añadida.|Come despacio y mastica bien.|Las hojas se cocinan bien, hasta quedar muy tiernas.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~6 g
@@ -15758,8 +15795,8 @@ PREPARACION:
 1. Cuece el pollo con las verduras en 2 litros de agua 45 minutos; retira el pollo, deshuésalo y desmenúzalo.
 2. Añade la cebada, el aceite, el comino y la naranja reducida y cuece 35 minutos.
 3. Devuelve el pollo y sirve.
-JUSTIFICACION: Reconfortante y saciante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La cebada da una textura masticable y espesa y el pollo un caldo limpio; la naranja reducida sustituye al vino con un matiz dulce. Para el Perfil1 se evitan el alcohol y la grasa, con la cebada aportando fibra que sacia.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~180 kcal (por porción)
 Proteínas: ~16 g
@@ -15794,8 +15831,8 @@ PREPARACION:
 1. Rehoga las setas en el aceite 8 minutos; añade el caldo y cuece 15 minutos; tritura.
 2. Retira del fuego y liga con el huevo batido con el parmesano, removiendo.
 3. Sirve enseguida.
-JUSTIFICACION: Ligera y sabrosa.
-ADVERTENCIAS: Sin sal añadida.|El huevo debe quedar bien cocido.
+JUSTIFICACION: Las setas dan un caldo terroso y profundo, y el huevo cuajado en el caldo aporta cuerpo; con menos mantequilla y queso es más ligera pero conserva el carácter de la original. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|El huevo debe quedar bien cocido.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~6 g
@@ -15832,8 +15869,8 @@ PREPARACION:
 1. Cuece puerros, papas y cebolla en 750 ml de agua 25 minutos; tritura la mitad.
 2. Añade el resto del agua y calienta.
 3. Sirve con el aceite, el perejil y el parmesano.
-JUSTIFICACION: Muy ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Clásica y reconfortante: el puerro cocido da dulzor y la papa espesa; con aceite medido es menos untuosa que con mantequilla. Para el Perfil1 baja la papa y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~3 g
@@ -15873,8 +15910,8 @@ PREPARACION:
 1. Cuece el pollo con las verduras en el agua 25 minutos.
 2. Retira del fuego y bate la yema con el yogur y unas cucharadas de caldo.
 3. Incorpora a la sopa sin dejar hervir y sirve.
-JUSTIFICACION: Completa y cremosa sin nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El yogur sustituye a la nata y da un caldo más fresco y ligeramente ácido, menos untuoso, con el pollo sin piel. Para el Perfil1 baja la grasa saturada y el huevo va bien cocido.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~14 g
@@ -15910,8 +15947,8 @@ PREPARACION:
 1. Bate los huevos con el parmesano y haz una tortilla fina en una sartén antiadherente apenas untada; córtala en tiras.
 2. Cuece los guisantes en el caldo 8 minutos.
 3. Sirve con las tiras de tortilla y el pollo.
-JUSTIFICACION: Colorida y ligera.
-ADVERTENCIAS: Es una evocación: pollo en lugar de lengua encurtida.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la lengua encurtida con un sabor más suave y limpio; los tres colores de la sopa se mantienen. Para el Perfil1 se evitan el encurtido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de lengua encurtida.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~11 g
@@ -15945,8 +15982,8 @@ PREPARACION:
 1. Cuece las acelgas en el caldo 15 minutos.
 2. Mezcla los huevos con el parmesano y viértelos en hilo removiendo.
 3. Cuece 3 minutos hasta que cuaje y sirve.
-JUSTIFICACION: Ligera y proteica.
-ADVERTENCIAS: Sin sal añadida.|Huevo bien cocido.
+JUSTIFICACION: Las acelgas dan un verde terroso y suave y el huevo cuajado en el caldo una textura sedosa; con menos huevo y queso es más ligera. Para el Perfil1 el huevo queda bien cocido y baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Huevo bien cocido.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~8 g
@@ -15982,8 +16019,8 @@ PREPARACION:
 1. Calienta el tomate y el ajo con el agua 10 minutos.
 2. Añade el pan y cuece 15 minutos removiendo hasta formar una sopa espesa.
 3. Sirve con el aceite y el parmesano.
-JUSTIFICACION: Rústica y reconfortante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con pan integral queda más rústica y menos pastosa que con pan blanco, y el tomate y el ajo asados le dan dulzor en lugar de acidez. Para el Perfil1 baja el aceite y el pan, y es una sopa suave para la digestión.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~7 g
@@ -16021,8 +16058,8 @@ PREPARACION:
 1. Rehoga el apio en el aceite 5 minutos; añade tomate, ajo y agua y cuece 15 minutos.
 2. Agrega el pan y cuece 10 minutos removiendo.
 3. Sirve con albahaca y parmesano.
-JUSTIFICACION: Dulce y espesa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El tomate asado da una sopa más dulce y menos ácida que la de tomate crudo, con el pan integral espesando. Para el Perfil1 se evitan la acidez y el ajo crudo.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~5 g
@@ -16058,8 +16095,8 @@ PREPARACION:
 1. Mezcla pan, parmesano, aceite, nuez moscada y huevos hasta formar una masa; deja reposar 15 minutos.
 2. Pasa la masa por un pasapurés sobre el caldo hirviendo.
 3. Cuece 3 minutos y sirve.
-JUSTIFICACION: Mismo carácter, con menos queso y grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con pan integral y menos parmesano son más rústicos y menos salados que los originales, pero conservan la textura granulosa y tierna al cocer en caldo. Para el Perfil1 baja el queso y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~9 g
@@ -16097,8 +16134,8 @@ PREPARACION:
 1. Cuece los garbanzos en el agua 1 hora.
 2. Añade ajo, romero y tomate y cuece 15 minutos.
 3. Agrega la pasta y cuece 8 minutos; sirve con aceite y parmesano.
-JUSTIFICACION: Plato único con proteína vegetal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con menos pasta y pasta integral queda más legumbre que cereal, con el garbanzo cremoso y el tomate asado dulce. Para el Perfil1 aporta fibra y proteína vegetal con menos almidón.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~11 g
@@ -16135,8 +16172,8 @@ PREPARACION:
 1. Cuece las alubias en el agua con la salvia 1 hora; tritura un tercio.
 2. Añade el ajo, el tomate y la pasta y cuece 8 minutos.
 3. Sirve con el aceite.
-JUSTIFICACION: Rica en fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más alubia y menos pasta, de textura cremosa y espesa; la pasta integral es más firme. Para el Perfil1 la legumbre aporta fibra y saciedad con energía estable.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~220 kcal (por porción)
 Proteínas: ~12 g
@@ -16174,8 +16211,8 @@ PREPARACION:
 1. Rehoga zanahoria y apio en el aceite 8 minutos; añade el tomate.
 2. Agrega papas y agua y cuece 15 minutos.
 3. Añade la pasta y cuece 8 minutos; sirve con parmesano.
-JUSTIFICACION: Reconfortante y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin panceta pierde el fondo ahumado y graso, pero el apio y la papa dan un caldo reconfortante y limpio. Para el Perfil1 se evitan el embutido y el exceso de almidón.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~6 g
@@ -16209,8 +16246,8 @@ PREPARACION:
 1. Cuece la avena en el agua 5 minutos removiendo.
 2. Endulza con stevia.
 3. Sirve con la leche fría.
-JUSTIFICACION: Desayuno sencillo con fibra soluble.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin azúcar y con leche descremada es menos dulce y menos untuoso, con el sabor tostado de la avena en primer plano. Para el Perfil1 la avena es fibra soluble y sacia, con stevia en lugar de azúcar.
+ADVERTENCIAS: Sin sal añadida.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.|Tómalo tibio, no muy caliente.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~8 g
@@ -16248,8 +16285,8 @@ PREPARACION:
 1. Cubre la carne con agua fría y cuece a fuego suave 2 horas retirando la espuma.
 2. Añade el pollo y las verduras y cuece 40 minutos más.
 3. Desgrasa el caldo; sirve el caldo aparte y la carne con las verduras.
-JUSTIFICACION: Mismo cocido, sin tuétano ni cortes grasos.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin tuétano y con carnes magras es un caldo más limpio y menos untuoso, con las verduras tiernas y la carne sabrosa. Para el Perfil1 se evitan la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.|Desgrasa el caldo en frío antes de servir.
 VALOR_NUTRICIONAL:
 Calorías: ~280 kcal (por porción)
 Proteínas: ~34 g
@@ -16287,8 +16324,8 @@ PREPARACION:
 1. Rehoga cebolla, zanahoria y apio en el aceite 8 minutos.
 2. Añade caldo, papas y nabos y cuece 15 minutos.
 3. Agrega la pasta y cuece 6 minutos.
-JUSTIFICACION: Ligera y con fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Los cuadraditos de pasta integral dan una textura más rústica y firme, con más verdura en el caldo. Para el Perfil1 baja la pasta y el aceite.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~6 g
@@ -16326,8 +16363,8 @@ PREPARACION:
 1. Rehoga cebolla, ajo y apio en el aceite 8 minutos.
 2. Añade caldo, guisantes y arroz y cuece 35 minutos.
 3. Sirve con parmesano.
-JUSTIFICACION: Espesa y reconfortante, con fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más ligero y menos cremoso que el risi e bisi con mantequilla; el arroz integral es más firme y el guisante dulce. Para el Perfil1 baja el arroz y la grasa, con fibra de los guisantes.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~200 kcal (por porción)
 Proteínas: ~9 g
@@ -16362,8 +16399,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos.
 2. Añade arroz, papas y caldo y cuece 35 minutos.
 3. Sirve con perejil.
-JUSTIFICACION: Sencilla y saciante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin jamón curado es más suave y menos salado, con la papa cremosa y el arroz tierno. Para el Perfil1 se evitan el embutido y el exceso de almidón.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~5 g
@@ -16398,8 +16435,8 @@ PREPARACION:
 1. Lleva el caldo a ebullición y añade la sémola en lluvia removiendo; cuece 10 minutos.
 2. Fuera del fuego, añade el aceite y las yemas batidas con un poco de caldo.
 3. Sirve con el parmesano.
-JUSTIFICACION: Suave y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Suave y espesa, con sémola en menos cantidad y aceite en lugar de mantequilla. Para el Perfil1 es una sopa ligera y fácil de digerir.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~6 g
@@ -16434,8 +16471,8 @@ PREPARACION:
 1. Mezcla huevos, pan y parmesano.
 2. Vierte sobre el caldo hirviendo removiendo con un tenedor para formar hilachas; cuece 3 minutos.
 3. Sirve con perejil.
-JUSTIFICACION: Muy ligera.
-ADVERTENCIAS: Sin sal añadida.|Huevo bien cocido.
+JUSTIFICACION: Los hilos de huevo con queso en el caldo quedan más ligeros con menos huevo y queso, de sabor delicado. Para el Perfil1 el huevo va bien cocido y baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Huevo bien cocido.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~8 g
@@ -16470,8 +16507,8 @@ PREPARACION:
 1. Calienta el caldo y añade la tapioca en lluvia; cuece 10 minutos.
 2. Agrega la lechuga 2 minutos.
 3. Sirve con yogur y parmesano.
-JUSTIFICACION: Ligera y fácil de digerir.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Delicada y de textura sedosa, con yogur en lugar de nata. Para el Perfil1 se baja la grasa y es suave para la digestión.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~50 kcal (por porción)
 Proteínas: ~4 g
@@ -16512,8 +16549,8 @@ PREPARACION:
 1. Cuece todas las verduras en 1,5 litros de agua 30 minutos con el aceite.
 2. Añade el arroz y cuece 30 minutos más.
 3. Sirve con el pesto y el parmesano.
-JUSTIFICACION: Verduras abundantes con poco pesto.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pesto ligero perfuma la sopa con albahaca y las setas frescas dan un fondo más delicado que las secas; el arroz integral es más rústico. Para el Perfil1 baja el aceite y la sal.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~7 g
@@ -16559,8 +16596,8 @@ PREPARACION:
 1. Rehoga cebolla, ajo y apio en el aceite 5 minutos.
 2. Añade el resto de las verduras y 2 litros de agua; cuece 40 minutos.
 3. Agrega las alubias y el arroz y cuece 30 minutos; sirve con las hierbas y el parmesano.
-JUSTIFICACION: Espeso, sabroso y con mucha fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin chicharrones pierde el fondo graso, pero queda más limpia, con arroz integral y verduras. Para el Perfil1 se evitan los embutidos y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~8 g
@@ -16606,8 +16643,8 @@ PREPARACION:
 1. Rehoga cebolla, zanahoria, ajo y pimentón en el aceite 8 minutos.
 2. Añade el resto de las verduras y 2 litros de agua; cuece 40 minutos.
 3. Agrega la pasta y cuece 8 minutos; sirve con albahaca y queso.
-JUSTIFICACION: Colorido y abundante.
-ADVERTENCIAS: Es una evocación: mozzarella en lugar de provolone.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: la mozzarella en lugar del provolone da una nota láctea suave, y sin panceta el caldo es más limpio. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: mozzarella en lugar de provolone.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~8 g
@@ -16643,8 +16680,8 @@ PREPARACION:
 1. Cuece las hojas en 1,5 litros de agua 15 minutos.
 2. Rehoga la cebolla en el aceite 8 minutos y añádela a la sopa con el pimentón.
 3. Agrega la pasta y cuece 10 minutos; sirve con queso.
-JUSTIFICACION: Verde y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin guindilla pierde el picor típico pero el pimentón dulce da color y aroma; con menos pasta es más de verdura. Para el Perfil1 se evitan el picante y el exceso de almidón.
+ADVERTENCIAS: Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~7 g
@@ -16688,8 +16725,8 @@ PREPARACION:
 1. Rehoga cebolla y ajo en el aceite 8 minutos; añade remolacha, apio, tomate, stevia y la naranja.
 2. Agrega caldo y papas y cuece 25 minutos.
 3. Añade repollo y carne y cuece 15 minutos; sirve con yogur y perejil.
-JUSTIFICACION: El punto ácido llega de la naranja reducida, no del vinagre.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin vinagre y con yogur en lugar de nata agria, la sopa de remolacha es más dulce y menos ácida, con el rosado intenso intacto. Para el Perfil1 se evitan el vinagre y la grasa.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~19 g
@@ -16732,8 +16769,8 @@ PREPARACION:
 1. Cuece las alubias con el romero y el laurel en 2 litros de agua 1 hora.
 2. Añade las verduras rehogadas en el aceite y cuece 25 minutos.
 3. Agrega el arroz y cuece 30 minutos; sirve con parmesano.
-JUSTIFICACION: Clásico, rico en fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con el tomate asado el caldo es más dulce, y menos aceite y arroz integral la hacen más ligera. Para el Perfil1 se baja el aceite y el cereal.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~7 g
@@ -16773,8 +16810,8 @@ PREPARACION:
 1. Rehoga las verduras en el aceite 8 minutos; añade la naranja reducida y el tomate.
 2. Agrega alubias, salvia y 2 litros de agua; cuece 1 hora.
 3. Añade la espelta y cuece 40 minutos.
-JUSTIFICACION: Muy saciante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La espelta da una textura masticable y un sabor a nuez y las alubias cremosidad; la naranja reducida sustituye al vino. Para el Perfil1 se evitan el alcohol y la grasa, con mucha fibra.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~200 kcal (por porción)
 Proteínas: ~10 g
@@ -16812,8 +16849,8 @@ PREPARACION:
 1. Cuece todas las verduras en 2 litros de agua 40 minutos.
 2. Tritura una parte para espesar.
 3. Sirve con el aceite y el perejil.
-JUSTIFICACION: Depurativa y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Espesa y reconfortante, con las verduras de invierno bien cocidas. Para el Perfil1 es una sopa de fibra, sin sal y con aceite medido.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~4 g
@@ -16852,8 +16889,8 @@ PREPARACION:
 1. Cuece papas, judías y alubias en 1,5 litros de agua 20 minutos.
 2. Añade calabacines, setas, ajo, tomate y aceite y cuece 10 minutos.
 3. Agrega la pasta y cuece 8 minutos.
-JUSTIFICACION: Verdura abundante y poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con tomate asado en lugar de concentrado es más dulce y menos intensa, y con menos pasta es más ligera. Para el Perfil1 baja el aceite y la pasta.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~8 g
@@ -16890,8 +16927,8 @@ PREPARACION:
 1. Rehoga el puerro con el romero en el aceite 8 minutos; añade el tomate.
 2. Agrega la col y 1,5 litros de agua y cuece 25 minutos.
 3. Añade el arroz y cuece 30 minutos; sirve con parmesano.
-JUSTIFICACION: Rica en fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin jamón queda más limpia y vegetal, con la col rizada tierna y el arroz integral dándole cuerpo. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~6 g
@@ -16931,8 +16968,8 @@ PREPARACION:
 1. Rehoga zanahoria, cebolla y apio en el aceite 8 minutos; añade tomate y tomillo.
 2. Agrega papas, col, alubias y 1,5 litros de agua; cuece 45 minutos.
 3. Sirve sobre el pan tostado.
-JUSTIFICACION: Espesa, saciante y con fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con pan integral queda más rústica y espesa, y el tomate asado le da dulzor. Para el Perfil1 baja el aceite y aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~210 kcal (por porción)
 Proteínas: ~9 g
@@ -16966,8 +17003,8 @@ PREPARACION:
 1. Tuesta el pan en el horno 8 minutos a 180 °C y reparte en 4 cuencos.
 2. Casca un huevo sobre cada uno, cubre con caldo caliente y parmesano.
 3. Hornea 8 minutos a 200 °C hasta que el huevo cuaje completamente.
-JUSTIFICACION: Huevo bien cocido, sin mantequilla.
-ADVERTENCIAS: Sin sal añadida.|El huevo debe quedar totalmente cuajado.
+JUSTIFICACION: El huevo cuajado en caldo sobre pan al horno es más ligero que con mantequilla frita. Para el Perfil1 se evitan la fritura y el huevo poco cocido.
+ADVERTENCIAS: Sin sal añadida.|El huevo debe quedar totalmente cuajado.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~180 kcal (por porción)
 Proteínas: ~12 g
@@ -17006,8 +17043,8 @@ PREPARACION:
 1. Rehoga la cebolla con la salvia en el aceite 8 minutos.
 2. Añade caldo, col y cebada y cuece 35 minutos.
 3. Agrega las espinacas y cuece 5 minutos; sirve con parmesano y picatostes.
-JUSTIFICACION: Verde y con fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La cebada da una textura masticable y las verduras verdes un sabor fresco; los picatostes integrales van al horno. Para el Perfil1 baja el aceite y el queso.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~7 g
@@ -17042,8 +17079,8 @@ PREPARACION:
 1. Cuece la cebada en el agua 40 minutos.
 2. Añade los guisantes y la leche y cuece 10 minutos.
 3. Sirve con el pimentón.
-JUSTIFICACION: Suave y cremosa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más suave sin guindilla, con pimentón dulce y leche descremada; la cebada espesa y los guisantes endulzan. Para el Perfil1 se evitan el picante y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~8 g
@@ -17082,8 +17119,8 @@ PREPARACION:
 1. Rehoga las verduras en el aceite 8 minutos; añade el agua y cuece 30 minutos.
 2. Tuesta el pan y colócalo en cuencos; vierte la sopa.
 3. Espolvorea con parmesano y gratina 5 minutos.
-JUSTIFICACION: Saciante y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La col cocida es dulce y tierna, con pan integral espesando. Para el Perfil1 baja el aceite y el queso, y la col va bien cocida.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~8 g
@@ -17119,8 +17156,8 @@ PREPARACION:
 1. Rehoga la achicoria en el aceite 5 minutos; añade el caldo y cuece 15 minutos.
 2. Bate los huevos con el parmesano e incorpóralos fuera del fuego, removiendo.
 3. Sirve sobre el pan tostado.
-JUSTIFICACION: Amarguita suave y proteica.
-ADVERTENCIAS: Sin sal añadida.|Huevo bien cocido.
+JUSTIFICACION: La achicoria cocida pierde amargor y da un sabor profundo, con el huevo cuajado. Para el Perfil1 se evitan la mantequilla y el huevo poco cocido.
+ADVERTENCIAS: Sin sal añadida.|Huevo bien cocido.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~9 g
@@ -17155,8 +17192,8 @@ PREPARACION:
 1. Cuece la cebolla en el aceite a fuego muy suave con un poco de agua 25 minutos hasta que esté muy tierna.
 2. Añade la leche y calienta 10 minutos sin hervir.
 3. Sirve con parmesano y picatostes.
-JUSTIFICACION: Dulce y suave.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Dulce y suave, más ligera con leche descremada y aceite. Para el Perfil1 baja la grasa y la cebolla va bien cocida.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~8 g
@@ -17192,8 +17229,8 @@ PREPARACION:
 1. Cuece la cebolla en el aceite a fuego suave 25 minutos; espolvorea la harina.
 2. Añade el caldo y cuece 15 minutos.
 3. Reparte en cuencos, cubre con tostadas y queso y gratina 5 minutos.
-JUSTIFICACION: Sabor clásico con menos grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con mozzarella baja en grasa el gratinado es menos filante y graso, y con menos pan es más caldo. Para el Perfil1 baja la grasa y la cebolla va bien cocida.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~8 g
@@ -17232,8 +17269,8 @@ PREPARACION:
 1. Abre los mejillones al vapor y retira las valvas; cuela el líquido.
 2. Rehoga la cebolla en el aceite; añade azafrán, tomate, caldo y el líquido de los mejillones y cuece 15 minutos.
 3. Sirve sobre el pan tostado frotado con ajo, con los mejillones y el perejil.
-JUSTIFICACION: Muy aromática y proteica.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El tomate y el ajo asados dan un fondo dulce al caldo marino; el pan integral espesa. Para el Perfil1 se evitan el ajo crudo y el exceso de aceite.
+ADVERTENCIAS: Sin sal añadida.|Descarta los mejillones que no se abran. Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~15 g
@@ -17271,8 +17308,8 @@ PREPARACION:
 1. Cuece las alubias en el agua 1 hora.
 2. Añade cebolla, ajo, cebada, papas y tomate y cuece 35 minutos.
 3. Sirve con el aceite.
-JUSTIFICACION: Espesa y rica en fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin panceta es más limpia, con las alubias cremosas y la cebada espesando. Para el Perfil1 se evitan el embutido y la grasa, con mucha fibra.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~11 g
@@ -17309,8 +17346,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos.
 2. Añade papas y agua y cuece 20 minutos; agrega la avena y cuece 10 minutos.
 3. Sirve con parmesano y picatostes.
-JUSTIFICACION: Reconfortante y con fibra soluble.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La avena espesa y da un sabor tostado reconfortante; con menos papa es más ligera. Para el Perfil1 la avena es fibra soluble y se evitan el embutido y la fritura.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~5 g
@@ -17346,8 +17383,8 @@ PREPARACION:
 1. Rehoga el puerro en el aceite 10 minutos; añade nuez moscada y caldo y cuece 15 minutos.
 2. Reparte en cuencos con el pan tostado.
 3. Cubre con el queso y gratina 5 minutos.
-JUSTIFICACION: Cremosa y reconfortante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin brandy ni mantequilla es más suave y menos rica, con un gratinado ligero. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~12 g
@@ -17384,8 +17421,8 @@ PREPARACION:
 1. Cuece las alubias en 1,5 litros de agua 1 hora.
 2. Rehoga cebolla y setas en el aceite 10 minutos y añádelas con el perejil; cuece 15 minutos.
 3. Sirve sobre el pan tostado frotado con ajo asado.
-JUSTIFICACION: Terrosa y rica en fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Las setas dan un fondo terroso y las alubias cuerpo cremoso, con ajo asado más suave. Para el Perfil1 se evitan el ajo crudo y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~210 kcal (por porción)
 Proteínas: ~11 g
@@ -17425,8 +17462,8 @@ PREPARACION:
 1. Cuece los caparazones con la cebolla, el tomillo, el clavo, el tomate y 1,5 litros de agua 30 minutos; cuela.
 2. Añade el azafrán, la naranja reducida y la carne; espesa con la fécula disuelta.
 3. Fuera del fuego liga con la yema; sirve sobre el pan tostado.
-JUSTIFICACION: Sabor marino intenso.
-ADVERTENCIAS: Es una evocación: jaibas en lugar de necoras.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: la jaiba sustituye a la necora con un sabor dulce de mar, y la naranja reducida reemplaza el vino. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Es una evocación: jaibas en lugar de necoras.|Sin sal añadida.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~20 g
@@ -17463,8 +17500,8 @@ PREPARACION:
 1. Rehoga la lechuga en el aceite 3 minutos; añade la harina y el caldo y cuece 10 minutos.
 2. Reparte en cuencos con el pan tostado.
 3. Cubre con el queso y gratina 5 minutos; sirve con perejil.
-JUSTIFICACION: Suave y gratinada.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La lechuga cocida es delicada y el gratinado con mozzarella baja en grasa es más suave. Para el Perfil1 baja la grasa y la harina es de avena.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~10 g
@@ -17505,8 +17542,8 @@ PREPARACION:
 1. Cuece las alubias en 2 litros de agua 1 hora.
 2. Rehoga cebolla, ajo, zanahoria y apio en el aceite; añade a las alubias con col, acelgas, papas y tomate; cuece 35 minutos.
 3. Monta capas de pan y sopa en una cazuela y hornea 15 minutos a 180 °C.
-JUSTIFICACION: Contundente y con mucha fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con pan integral y sin jamón es más rústica y limpia, con tomate asado en lugar de concentrado. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~240 kcal (por porción)
 Proteínas: ~11 g
@@ -17544,8 +17581,8 @@ PREPARACION:
 1. Cuece las lentejas con ajo, puerro, tomillo y caldo 35 minutos.
 2. Bate los huevos, pasa el pan por ellos y hornéalo en bandeja con el aceite 10 minutos a 200 °C, dándole la vuelta.
 3. Sirve la sopa con el pan.
-JUSTIFICACION: Mismo pan dorado sin fritura.
-ADVERTENCIAS: Sin sal añadida.|Huevo bien cocido.
+JUSTIFICACION: El pan horneado en lugar de frito es más seco y menos graso, con las lentejas terrosas. Para el Perfil1 se evitan la fritura y el huevo poco cocido.
+ADVERTENCIAS: Sin sal añadida.|Huevo bien cocido.|Cocina bien los huevos: yema y clara completamente cuajadas.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~15 g
@@ -17580,8 +17617,8 @@ PREPARACION:
 1. Rehoga cebolla y zanahoria en el aceite 8 minutos.
 2. Añade papas y agua y cuece 25 minutos; tritura una parte.
 3. Sirve con perejil.
-JUSTIFICACION: Sencilla y suave.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin panceta es más ligera y limpia, con papas tiernas y un caldo suave. Para el Perfil1 se evitan el embutido y el exceso de almidón.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~3 g
@@ -17623,8 +17660,8 @@ PREPARACION:
 1. Abre las almejas al vapor con la naranja reducida; retira las valvas y cuela el líquido.
 2. Rehoga las verduras en el aceite; añade tomate, papas, romero, agua y el líquido; cuece 20 minutos.
 3. Agrega las almejas; sirve sobre pan tostado con perifollo.
-JUSTIFICACION: Marina y reconfortante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El tomate asado y la naranja reducida dan un fondo dulce al caldo de almejas, más suave que con vino. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Descarta las almejas que no se abran. Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~14 g
@@ -17660,8 +17697,8 @@ PREPARACION:
 1. Rehoga el puerro en el aceite 8 minutos; añade las lentejas y el agua y cuece 15 minutos.
 2. Tritura hasta obtener una crema espesa con la nuez moscada.
 3. Sirve con el pan tostado al horno.
-JUSTIFICACION: Cremosa y con fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin panceta el caldo es más limpio y menos graso, con las lentejas terrosas y el puerro dulce; el pan integral al horno reemplaza al pan de leche frito, con un crocante más seco. Para el Perfil1 se evitan el embutido y la fritura, con fibra y proteína vegetal.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~14 g
@@ -17698,8 +17735,8 @@ PREPARACION:
 1. Rehoga el puerro y la achicoria en el aceite 8 minutos; añade la harina y el caldo y cuece 15 minutos.
 2. Reparte en cuencos con el pan tostado.
 3. Cubre con parmesano y gratina 5 minutos.
-JUSTIFICACION: Sabor amargo suave y gratinado.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La achicoria cocida pierde amargor y da un sabor profundo y ligeramente dulce; con avena y poco queso la sopa es más ligera. Para el Perfil1 baja la grasa y es suave para la digestión.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~160 kcal (por porción)
 Proteínas: ~8 g
@@ -17739,8 +17776,8 @@ PREPARACION:
 1. Rehoga las verduras en el aceite; añade tomate, caldo y pollo y cuece 30 minutos.
 2. Deshuesa y desmenuza el pollo; tritura las verduras con el caldo.
 3. Devuelve el pollo; sirve con perejil y tostadas.
-JUSTIFICACION: La carne blanca y suave de la rana se evoca con pollo.
-ADVERTENCIAS: Es una evocación: pollo en lugar de ancas de rana.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sin piel sustituye a las ancas de rana, con una carne igual de blanca y delicada, en un caldo con tomate y ajo asados. Para el Perfil1 es una proteína magra y suave, sin grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de ancas de rana.|Sin sal añadida.|Retira bien los huesos pequeños del pollo.
 VALOR_NUTRICIONAL:
 Calorías: ~200 kcal (por porción)
 Proteínas: ~20 g
@@ -17779,8 +17816,8 @@ PREPARACION:
 1. Cuece la calabaza al vapor 15 minutos.
 2. Rehoga cebolla, papas y ajo en el aceite; añade caldo y calabaza y cuece 20 minutos; tritura.
 3. Sirve con el pan tostado al horno, el queso y el yogur.
-JUSTIFICACION: Dulce y cremosa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La calabaza da dulzor y una textura sedosa; con yogur y queso fresco en lugar de nata y gruyère es más fresca y menos untuosa, y el pan integral va al horno. Para el Perfil1 la calabaza es de bajo índice glucémico y baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~9 g
@@ -17818,8 +17855,8 @@ PREPARACION:
 1. Rehoga cebolla y calabacín en el aceite 10 minutos; añade tomate y caldo y cuece 15 minutos.
 2. Bate el huevo con el parmesano e incorpóralo removiendo fuera del fuego.
 3. Sirve sobre el pan tostado.
-JUSTIFICACION: Ligera y fresca.
-ADVERTENCIAS: Sin sal añadida.|Huevo bien cocido.
+JUSTIFICACION: Muy suave y casi neutra, con el huevo cuajado en el caldo y el tomate asado aportando dulzor. Para el Perfil1 es ligera y de digestión fácil; el huevo va bien cocido.
+ADVERTENCIAS: Sin sal añadida.|Huevo bien cocido.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~8 g
@@ -17855,8 +17892,8 @@ PREPARACION:
 1. Hierve la leche con el aceite, añade la harina de golpe y cuece removiendo 3 minutos hasta formar una masa; deja entibiar.
 2. Incorpora los huevos uno a uno y forma bolitas con una cuchara; cuécelas en agua hirviendo 5 minutos y escúrrelas.
 3. Colócalas en una fuente con la bechamel y el parmesano y gratina 10 minutos a 200 °C.
-JUSTIFICACION: Mismo gratinado cremoso con menos grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Es la masa choux de sémola que sale esponjosa; con menos mantequilla es algo más seca, pero igual de tierna y gratinada. Para el Perfil1 baja la grasa y el queso, con leche descremada.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~250 kcal (por porción)
 Proteínas: ~14 g
@@ -17891,8 +17928,8 @@ PREPARACION:
 1. Calienta la leche, añade la sémola en lluvia y cuece 10 minutos removiendo; fuera del fuego, añade las yemas y la mitad del queso.
 2. Extiende en una bandeja engrasada, deja enfriar y corta círculos.
 3. Colócalos solapados en una fuente, espolvorea con el resto del queso y gratina 15 minutos a 200 °C.
-JUSTIFICACION: Muy clásica, con mucha menos grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Los discos de sémola quedan cremosos por dentro y dorados por fuera, aunque con menos mantequilla y queso son más secos y suaves. Para el Perfil1 se baja la grasa saturada y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~13 g
@@ -17931,8 +17968,8 @@ PREPARACION:
 1. Remoja el pan en la leche 20 minutos; mezcla con huevos, harina y nuez moscada.
 2. Forma bolitas y cuécelas en agua hirviendo 6 minutos.
 3. Saltéalas con el aceite, el ajo y la salvia y sirve con parmesano.
-JUSTIFICACION: Rústicos y sabrosos.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con pan integral son más rústicos y firmes que los de pan blanco, con un sabor a trigo; el queso en menor cantidad los hace menos salados. Para el Perfil1 aportan fibra y bajan la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~280 kcal (por porción)
 Proteínas: ~15 g
@@ -17969,8 +18006,8 @@ PREPARACION:
 1. Remoja el pan en la leche; saltea las espinacas con la mitad del aceite 3 minutos y pícalas.
 2. Mezcla pan, espinacas, parmesano, huevo y harina; forma bolitas enharinadas.
 3. Cuécelas 5 minutos en agua hirviendo y sirve con el resto del aceite.
-JUSTIFICACION: Verdes y ligeros.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La espinaca da color y un sabor terroso, y el pan integral una textura más rústica; con menos queso y mantequilla son más ligeros. Para el Perfil1 aportan hojas verdes y bajan la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~260 kcal (por porción)
 Proteínas: ~14 g
@@ -18006,8 +18043,8 @@ PREPARACION:
 1. Hierve la leche con el aceite; añade la harina de golpe y cuece 3 minutos removiendo.
 2. Fuera del fuego, incorpora los huevos, la mitad del parmesano y la nuez moscada; extiende y enfría.
 3. Corta círculos, colócalos en una fuente, espolvorea con el resto del parmesano y gratina 15 minutos a 200 °C.
-JUSTIFICACION: Dorados y suaves con poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más ligeros y menos intensos que los originales con tanto queso, pero conservan el sabor lácteo y salino. Para el Perfil1 baja el queso y la grasa a una fracción.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~240 kcal (por porción)
 Proteínas: ~13 g
@@ -18040,8 +18077,8 @@ PREPARACION:
 1. Cuece las papas con piel, pélalas y haz un puré fino; deja entibiar.
 2. Mezcla con la harina y el huevo hasta obtener una masa suave; forma cilindros y corta trozos.
 3. Cuécelos en agua hirviendo hasta que suban a la superficie, 2 minutos.
-JUSTIFICACION: Base de todos los ñoquis de papa.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: La masa base con harina integral es algo más rústica y oscura, pero ligera y tierna si se amasa poco. Para el Perfil1 aporta más fibra y no lleva sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base. Amasa lo mínimo para que no queden duros.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~8 g
@@ -18075,8 +18112,8 @@ PREPARACION:
 1. Cuece los ñoquis y escúrrelos.
 2. Calienta el aceite con un poco del agua de cocción; añade los ñoquis y la mozzarella y remueve hasta que el queso funda.
 3. Sirve con el parmesano.
-JUSTIFICACION: Cremosa y con menos grasa.
-ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de fontina.
+JUSTIFICACION: Es una evocación: la mozzarella baja en grasa da una salsa fundida menos untuosa y menos intensa que la fontina. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de fontina.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Usa lácteos bajos en grasa.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~16 g
@@ -18112,8 +18149,8 @@ PREPARACION:
 1. Cuece las papas, hazlas puré y deja entibiar.
 2. Mezcla con el parmesano, las nueces, los huevos y la sémola; forma ñoquis.
 3. Cuécelos 3 minutos en agua hirviendo y sírvelos con el aceite.
-JUSTIFICACION: Menos queso y nueces, mismo carácter.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Las nueces dan un toque tostado y ligeramente amargo; con menos queso y nueces la salsa es más suave. Para el Perfil1 las nueces aportan grasa buena en poca cantidad.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~290 kcal (por porción)
 Proteínas: ~14 g
@@ -18151,8 +18188,8 @@ PREPARACION:
 1. Cuece las papas, hazlas puré; mezcla con espinacas, harina y huevo; forma ñoquis.
 2. Cuécelos 3 minutos en agua hirviendo.
 3. Saltéalos con el aceite, el ajo y la salvia; sirve con parmesano.
-JUSTIFICACION: Las ortigas son difíciles de conseguir; las espinacas dan el mismo carácter verde.
-ADVERTENCIAS: Es una evocación: espinacas en lugar de ortigas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: la espinaca sustituye a la ortiga con un sabor terroso y suave, y la salvia da aroma tostado. Para el Perfil1 baja la grasa y se evita la mantequilla.
+ADVERTENCIAS: Es una evocación: espinacas en lugar de ortigas.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~270 kcal (por porción)
 Proteínas: ~11 g
@@ -18192,8 +18229,8 @@ PREPARACION:
 1. Prepara los ñoquis con papa, harina, huevo y parmesano; cuécelos 3 minutos y reserva.
 2. Saltea los langostinos en el aceite 2 minutos; añade tomate asado triturado y naranja reducida y cuece 8 minutos.
 3. Fuera del fuego incorpora el yogur; mezcla con los ñoquis y sirve con perejil.
-JUSTIFICACION: Sabor marino con salsa ligera.
-ADVERTENCIAS: Es una evocación: langostinos en lugar de cigalas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el langostino es más dulce y fino que la cigala, y la salsa de yogur con naranja reducida es más fresca que la de vino y nata. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Es una evocación: langostinos en lugar de cigalas.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~24 g
@@ -18237,8 +18274,8 @@ PREPARACION_FONDUE:
 1. Remoja el queso en la leche 2 horas.
 2. Cuece a fuego muy suave removiendo hasta que funda.
 3. Añade las yemas fuera del fuego y enfría en la nevera.
-JUSTIFICACION: Mismo relleno cremoso, mucho más ligero.
-ADVERTENCIAS: Sin sal añadida.|Yemas bien cocidas.
+JUSTIFICACION: Con mozzarella baja en grasa el relleno es menos elástico y filante, pero sigue siendo suave y fundido. Para el Perfil1 baja la grasa y las yemas van bien cocidas.
+ADVERTENCIAS: Sin sal añadida.|Yemas bien cocidas.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~19 g
@@ -18276,8 +18313,8 @@ PREPARACION:
 1. Prepara la masa de papa, harina y huevo; rellena trozos con una ciruela con un toque de stevia.
 2. Cuece los ñoquis 8 minutos en agua hirviendo.
 3. Tuesta el pan rallado con el aceite y la canela y reboza los ñoquis.
-JUSTIFICACION: Dulzor natural de la ciruela.
-ADVERTENCIAS: Sin sal añadida.|Las ciruelas aportan azúcar natural: porción moderada.
+JUSTIFICACION: Con stevia y menos ciruelas la dulzura es más suave y la fruta más natural; la masa de papa queda tierna y la capa de pan integral crujiente. Para el Perfil1 se evita el azúcar.
+ADVERTENCIAS: Sin sal añadida.|Las ciruelas aportan azúcar natural: porción moderada.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.|Las ciruelas aportan azúcar natural: cuenta esta ración como tu postre.
 VALOR_NUTRICIONAL:
 Calorías: ~300 kcal (por porción)
 Proteínas: ~8 g
@@ -18313,8 +18350,8 @@ PREPARACION:
 1. Cuece las espinacas, escúrrelas bien y pícalas; cuece las papas y haz un puré.
 2. Mezcla con la harina y las yemas; forma ñoquis.
 3. Cuécelos 3 minutos y saltéalos con el aceite; sirve con parmesano.
-JUSTIFICACION: Verdes y suaves.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Verdes y tiernos, con un sabor terroso de la espinaca en la masa de papa. Para el Perfil1 baja la grasa y el queso, y aportan hojas verdes.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~270 kcal (por porción)
 Proteínas: ~11 g
@@ -18350,8 +18387,8 @@ PREPARACION:
 1. Cuece las espinacas, escúrrelas muy bien y pícalas.
 2. Mezcla con la ricota, el parmesano y las yemas; forma bolitas enharinadas.
 3. Cuécelas 3 minutos en agua hirviendo; sirve con el aceite.
-JUSTIFICACION: Muy tiernos y ligeros.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con ricota baja en grasa son más ligeros y menos cremosos que los originales, pero conservan la delicadeza. Para el Perfil1 baja la grasa y aportan proteína y hojas verdes.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~16 g
@@ -18387,8 +18424,8 @@ PREPARACION:
 1. Tritura ligeramente el arroz; mézclalo con huevos, pan rallado y la mitad del queso.
 2. Forma bolitas y cuécelas 6 minutos en el caldo.
 3. Sirve con el aceite y el resto del parmesano.
-JUSTIFICACION: Suaves y sin mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El arroz integral da una textura más rústica y granulosa que el arroz blanco; sin gruyère son más suaves. Para el Perfil1 aportan fibra y bajan el queso y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~280 kcal (por porción)
 Proteínas: ~12 g
@@ -18424,8 +18461,8 @@ PREPARACION:
 1. Calienta la leche, añade la sémola y cuece 10 minutos removiendo; fuera del fuego, incorpora yemas, pollo y la mitad del queso.
 2. Extiende en bandeja engrasada, enfría y corta círculos.
 3. Colócalos en una fuente, espolvorea con el resto del queso y gratina 15 minutos a 200 °C.
-JUSTIFICACION: Gratinado sabroso sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo cocido sustituye al jamón con un sabor más suave y menos curado. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~280 kcal (por porción)
 Proteínas: ~22 g
@@ -18462,8 +18499,8 @@ PREPARACION:
 1. Cuece la calabaza al vapor y haz un puré; escúrrelo bien.
 2. Mezcla con huevos, amaretti y harina; forma ñoquis.
 3. Cuécelos 3 minutos; saltea con aceite y salvia y sirve con parmesano.
-JUSTIFICACION: Dulzor suave y aroma de almendra.
-ADVERTENCIAS: Sin sal añadida.|Los amaretti aportan azúcar: cantidad reducida.
+JUSTIFICACION: Dulces y tiernos, con la calabaza dando color y los amaretti en menor cantidad un toque de almendra. Para el Perfil1 se baja el azúcar y la masa lleva harina integral.
+ADVERTENCIAS: Sin sal añadida.|Los amaretti aportan azúcar: cantidad reducida.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~250 kcal (por porción)
 Proteínas: ~10 g
@@ -18501,8 +18538,8 @@ PREPARACION:
 1. Calienta la leche y remoja en ella los copos 10 minutos.
 2. Mezcla con las harinas, el perejil y el huevo; forma ñoquis enharinados.
 3. Cuécelos 4 minutos y saltéalos con el aceite.
-JUSTIFICACION: Muy ricos en fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más rústicos y menos esponjosos que los de harina blanca, con un sabor a avena. Para el Perfil1 aportan fibra y bajan la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~270 kcal (por porción)
 Proteínas: ~11 g
@@ -18541,8 +18578,8 @@ PREPARACION:
 1. Abre las almejas al vapor con la naranja reducida; retira las valvas y cuela el líquido.
 2. Rehoga chalote y calabacín en el aceite 5 minutos; añade tomate, ajo y el líquido y cuece 8 minutos.
 3. Mezcla con la pasta cocida, las almejas y el perejil.
-JUSTIFICACION: Marina y fresca.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin vino ni guindilla es más dulce y suave, con la naranja reducida dando un matiz; la pasta integral es más firme. Para el Perfil1 se evitan el alcohol y el picante, con menos pasta.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Descarta las almejas que no se abran. Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~22 g
@@ -18578,8 +18615,8 @@ PREPARACION:
 1. Cuece los tomates verdes con el ajo y el aceite 15 minutos hasta formar una salsa.
 2. Añade el atún y el perejil.
 3. Mezcla con la pasta cocida.
-JUSTIFICACION: Ácida y sabrosa, sin embutido.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin panceta pierde el fondo graso, pero el atún al natural y el tomate dan un plato limpio y sabroso. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~330 kcal (por porción)
 Proteínas: ~18 g
@@ -18615,8 +18652,8 @@ PREPARACION:
 1. Saltea la mitad de las setas con aceite y ajo 8 minutos; tritura con el tomate para la salsa.
 2. Mezcla la ricota con un poco del agua de cocción.
 3. Sirve la pasta con la salsa, la ricota y el resto de las setas salteadas.
-JUSTIFICACION: Terrosa y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Las setas frescas dan un sabor menos intenso que las secas, y el tomate asado es dulce. Para el Perfil1 baja el aceite y la pasta integral aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~15 g
@@ -18653,8 +18690,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade ajo y pimentón asado y cuece 5 minutos.
 2. Tritura la mitad y mezcla con el yogur fuera del fuego.
 3. Sirve con la pasta y la mejorana.
-JUSTIFICACION: Dulce y cremosa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pimentón asado da una salsa dulce y sedosa; con yogur es más fresca que con nata. Para el Perfil1 baja la grasa y se evita el picante.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~13 g
@@ -18691,8 +18728,8 @@ PREPARACION:
 1. Calienta el aceite con el pollo y el pimentón 3 minutos; añade el tomate y cuece 10 minutos.
 2. Fuera del fuego incorpora el yogur.
 3. Mezcla con la pasta cocida y sirve con parmesano.
-JUSTIFICACION: Sabor sustancioso sin ahumado ni nata.
-ADVERTENCIAS: Es una evocación: pollo en lugar de panceta ahumada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la panceta ahumada y el pimentón dulce a la guindilla, con una salsa más suave y menos grasa. Para el Perfil1 se evitan el embutido, el picante y la nata.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta ahumada.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~370 kcal (por porción)
 Proteínas: ~25 g
@@ -18729,8 +18766,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade las setas y cuece 10 minutos.
 2. Agrega el tomate asado triturado y el perejil y cuece 8 minutos.
 3. Mezcla con la pasta y sirve con parmesano.
-JUSTIFICACION: Aromática y baja en grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Las setas con tomate asado dan un plato terroso y dulce; la pasta integral es más firme. Para el Perfil1 baja la grasa y aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~310 kcal (por porción)
 Proteínas: ~14 g
@@ -18767,8 +18804,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade la sepia troceada y la naranja y cuece 20 minutos.
 2. Agrega el tomate y la tinta disuelta en un poco de agua; cuece 15 minutos.
 3. Mezcla con la pasta y el perejil.
-JUSTIFICACION: Intensa y marina.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin vino la salsa es más dulce y menos aromática, con la naranja reducida; la sepia mantiene su sabor marino. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Si tienes alergia a los mariscos, evítalo.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~25 g
@@ -18806,8 +18843,8 @@ PREPARACION:
 1. Mezcla el tomate asado con la albahaca, el ajo y el aceite; deja reposar 30 minutos.
 2. Cuece la pasta y enfríala.
 3. Mezcla todo con el atún, las aceitunas y la mozzarella y sirve frío.
-JUSTIFICACION: Fresca y completa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con atún al natural y mozzarella baja en grasa es más ligera, y el tomate asado reemplaza al crudo. Para el Perfil1 baja la grasa y se evitan los crudos.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~350 kcal (por porción)
 Proteínas: ~21 g
@@ -18844,8 +18881,8 @@ PREPARACION:
 1. Tritura la albahaca con el ajo, el aceite, el parmesano y unas cucharadas del agua de cocción.
 2. Cuece la pasta con las papas y las judías.
 3. Escurre, mezcla con el pesto y sirve.
-JUSTIFICACION: Pesto con la mitad del aceite y sin pecorino.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con menos aceite el pesto es más espeso y con el ajo asado más dulce; el parmesano reemplaza al pecorino con un toque menos fuerte. Para el Perfil1 baja la grasa y se evita el ajo crudo.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~390 kcal (por porción)
 Proteínas: ~14 g
@@ -18881,8 +18918,8 @@ PREPARACION:
 1. Saltea las setas con el aceite 8 minutos.
 2. Añade ajo, tomate y perejil y cuece 8 minutos.
 3. Mezcla con los macarrones cocidos.
-JUSTIFICACION: Simple y rica en fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin mantequilla es más limpio, con el tomate asado dando dulzor y las setas un fondo terroso. Para el Perfil1 baja la grasa y la pasta integral aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~310 kcal (por porción)
 Proteínas: ~12 g
@@ -18921,8 +18958,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite; añade la sepia troceada y cuece 15 minutos.
 2. Agrega tomate, ajo, papa y 300 ml de agua y cuece 20 minutos; añade los guisantes 5 minutos.
 3. Mezcla con la pasta y el perejil.
-JUSTIFICACION: Sustanciosa y baja en grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El tomate y el ajo asados dan un fondo dulce al sabor marino de la sepia. Para el Perfil1 baja el aceite y se evitan los crudos.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~360 kcal (por porción)
 Proteínas: ~26 g
@@ -18957,8 +18994,8 @@ PREPARACION:
 1. Cuece los macarrones y escúrrelos.
 2. Mezcla la bechamel con las yemas y la mitad del queso; combina con la pasta en una fuente engrasada.
 3. Espolvorea el resto del queso y gratina 15 minutos a 200 °C.
-JUSTIFICACION: Clásico gratinado más ligero.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El gratinado es más ligero con bechamel de avena y menos queso, algo menos cremoso. Para el Perfil1 baja la grasa y la pasta integral aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~380 kcal (por porción)
 Proteínas: ~18 g
@@ -18997,8 +19034,8 @@ PREPARACION:
 1. Cuece el hinojo en agua 10 minutos; usa esa agua para cocer la pasta.
 2. Rehoga la cebolla en un poco del aceite; añade hinojo picado, pasas, piñones y azafrán y cuece 8 minutos.
 3. Hornea las sardinas con el pan rallado y el resto del aceite 12 minutos a 200 °C; mezcla todo con la pasta y gratina 5 minutos.
-JUSTIFICACION: Mismo carácter siciliano sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Horneadas en lugar de fritas las sardinas son más tiernas y menos crujientes, con las pasas y los piñones dando el toque agridulce. Para el Perfil1 se evitan la fritura y las anchoas.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Revisa que no queden espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~420 kcal (por porción)
 Proteínas: ~25 g
@@ -19032,8 +19069,8 @@ PREPARACION:
 1. Rehoga la lechuga en el aceite 5 minutos.
 2. Mezcla con la pasta cocida en una fuente engrasada y cubre con el queso.
 3. Gratina 12 minutos a 200 °C.
-JUSTIFICACION: Ligera y gratinada.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La lechuga cocida da un sabor delicado y dulce; con aceite en lugar de mantequilla y menos queso es más ligero. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~330 kcal (por porción)
 Proteínas: ~15 g
@@ -19069,8 +19106,8 @@ PREPARACION:
 1. Tritura el tomate asado con el ajo.
 2. Cuécelo con el aceite y el pimentón 15 minutos.
 3. Mezcla con la pasta cocida y el perejil.
-JUSTIFICACION: Salsa intensa sin picante.
-ADVERTENCIAS: Es una evocación: sin guindilla.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin guindilla pierde el picor, pero el tomate y el ajo asados dan una salsa dulce y aromática. Para el Perfil1 se evitan el picante y el ajo crudo.
+ADVERTENCIAS: Es una evocación: sin guindilla.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~11 g
@@ -19104,8 +19141,8 @@ PREPARACION:
 1. Mezcla las aceitunas con el yogur y un poco del agua de cocción.
 2. Combina con la pasta cocida.
 3. Sirve con parmesano.
-JUSTIFICACION: Sabor intenso con pocas aceitunas.
-ADVERTENCIAS: Sodio moderado por las aceitunas; sin sal añadida.
+JUSTIFICACION: Con aceitunas enjuagadas y en menor cantidad la salsa es menos salada e intensa, y el yogur la hace más ligera que la nata. Para el Perfil1 baja el sodio.
+ADVERTENCIAS: Sodio moderado por las aceitunas; sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~300 kcal (por porción)
 Proteínas: ~12 g
@@ -19140,8 +19177,8 @@ PREPARACION:
 1. Cuece las hojas 5 minutos en agua y escúrrelas picadas.
 2. Saltéalas con el aceite, el ajo y el orégano.
 3. Mezcla con la pasta cocida.
-JUSTIFICACION: Verde, ligera y con hierro.
-ADVERTENCIAS: Es una evocación: sin anchoas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin anchoas pierde el fondo salino, pero las hojas verdes dan sabor terroso y fresco. Para el Perfil1 baja la sal y la grasa.
+ADVERTENCIAS: Es una evocación: sin anchoas.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~290 kcal (por porción)
 Proteínas: ~12 g
@@ -19177,8 +19214,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade la pasta cruda y mezcla 1 minuto.
 2. Agrega el caldo caliente con el azafrán poco a poco, removiendo, hasta que se absorba (15 minutos).
 3. Sirve con el parmesano.
-JUSTIFICACION: Cremosa por el almidón de la pasta.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El azafrán da aroma y color dorado, con aceite en lugar de mantequilla y menos queso. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~12 g
@@ -19216,8 +19253,8 @@ PREPARACION:
 1. Rehoga la cebolleta en el aceite; añade el curry y la harina y luego el caldo; cuece 5 minutos y enfría.
 2. Mezcla con el yogur.
 3. Combina con la pasta fría y el pepino.
-JUSTIFICACION: Fresca y aromática.
-ADVERTENCIAS: Usa curry sin picante.|Sin sal añadida.
+JUSTIFICACION: Con yogur y curry suave es más fresca y ligera que con nata, con el aroma de las especias. Para el Perfil1 se evitan el picante y la grasa.
+ADVERTENCIAS: Usa curry sin picante.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~12 g
@@ -19251,8 +19288,8 @@ PREPARACION:
 1. Cuece la cebolla con el aceite a fuego suave 10 minutos.
 2. Añade los penne cocidos y dóralos 5 minutos removiendo.
 3. Sirve con el parmesano.
-JUSTIFICACION: Dorados con poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con menos mantequilla y queso son más ligeros, pero conservan el sabor lácteo. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~12 g
@@ -19288,8 +19325,8 @@ PREPARACION:
 1. Cuece los corazones de alcachofa 15 minutos al vapor y córtalos en láminas.
 2. Saltéalos con el aceite, el ajo y el perejil 5 minutos.
 3. Mezcla con la pasta cocida y la ralladura.
-JUSTIFICACION: Ligera y aromática.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La alcachofa da un sabor vegetal dulce y la ralladura sustituye al limón. Para el Perfil1 se evitan el ácido y el ajo crudo.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~300 kcal (por porción)
 Proteínas: ~11 g
@@ -19326,8 +19363,8 @@ PREPARACION:
 1. Calienta el aceite con el pollo; añade tomate asado y naranja reducida y cuece 8 minutos.
 2. Fuera del fuego incorpora el yogur.
 3. Mezcla con la pasta cocida y el perejil.
-JUSTIFICACION: Cremosa, sin alcohol ni embutido.
-ADVERTENCIAS: Es una evocación: sin vodka, pollo en lugar de jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin vodka pierde un punto de picor, y con pollo en lugar de jamón y yogur en lugar de nata la crema es más ligera. Para el Perfil1 se evitan el alcohol, el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: sin vodka, pollo en lugar de jamón.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~19 g
@@ -19370,8 +19407,8 @@ PREPARACION:
 1. Mezcla la carne con perejil, ajo y huevo; forma albóndigas, pásalas por harina y hornéalas 15 minutos a 200 °C.
 2. Rehoga cebolla, apio, zanahoria y romero en el aceite; añade el tomate y cuece 15 minutos; incorpora las albóndigas 5 minutos.
 3. Sirve sobre los rigatoni con el parmesano.
-JUSTIFICACION: Albóndigas horneadas, sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno las albóndigas son menos doradas y crujientes, pero más tiernas y menos grasas. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~440 kcal (por porción)
 Proteínas: ~30 g
@@ -19406,8 +19443,8 @@ PREPARACION:
 1. Cuece los rigatoni y escúrrelos.
 2. Mezcla con la bechamel y el queso en una fuente engrasada.
 3. Espolvorea con el parmesano y gratina 15 minutos a 200 °C.
-JUSTIFICACION: Gratinado más ligero.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con queso bajo en grasa el gratinado es más ligero y menos filante, y la pasta integral es más firme. Para el Perfil1 baja la grasa y aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~400 kcal (por porción)
 Proteínas: ~21 g
@@ -19442,8 +19479,8 @@ PREPARACION:
 1. Calienta el tomate asado con el pesto 5 minutos.
 2. Fuera del fuego incorpora el yogur.
 3. Mezcla con los rigatoni cocidos y sirve con parmesano.
-JUSTIFICACION: Cremosa y fresca.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur en lugar de nata es más fresco y menos untuoso, con el pesto ligero y el tomate asado. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~14 g
@@ -19478,8 +19515,8 @@ PREPARACION:
 1. Cuece los espaguetis.
 2. Mezcla el aceite con el ajo, el perejil y el pimentón y un poco del agua de cocción.
 3. Combina con la pasta caliente.
-JUSTIFICACION: Sencillo y aromático.
-ADVERTENCIAS: Es una evocación: sin guindilla.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin guindilla pierde el picor, pero el ajo asado es dulce y el aceite aromático. Para el Perfil1 se evitan el picante y el ajo crudo.
+ADVERTENCIAS: Es una evocación: sin guindilla.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~11 g
@@ -19515,8 +19552,8 @@ PREPARACION:
 1. Cuece el brócoli 5 minutos al vapor y pícalo.
 2. Rehoga la cebolla en el aceite 8 minutos; añade el brócoli y cuece 5 minutos; incorpora el yogur fuera del fuego.
 3. Mezcla con la pasta cocida y sirve con parmesano.
-JUSTIFICACION: Verde y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El brócoli fresco da un sabor vegetal y con yogur en lugar de nata queda más ligero. Para el Perfil1 baja la grasa y aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~330 kcal (por porción)
 Proteínas: ~15 g
@@ -19551,8 +19588,8 @@ PREPARACION:
 1. Cuece los espaguetis.
 2. Mezcla el aceite con el ajo, las aceitunas, el perejil y un poco del agua de cocción.
 3. Combina con la pasta caliente.
-JUSTIFICACION: Salino y aromático sin anchoas ni alcaparras.
-ADVERTENCIAS: Es una evocación: sin anchoa ni alcaparras (sodio).|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin anchoas ni alcaparras pierde el golpe salino del original, pero las aceitunas enjuagadas y las hierbas dan un fondo sabroso y fresco. Para el Perfil1 se evitan el exceso de sal y el ajo crudo, con la pasta integral aportando fibra.
+ADVERTENCIAS: Es una evocación: sin anchoa ni alcaparras (sodio).|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~11 g
@@ -19589,8 +19626,8 @@ PREPARACION:
 1. Dora el pollo con el aceite y el ajo 3 minutos.
 2. Bate los huevos con el parmesano y la nuez moscada.
 3. Mezcla la pasta caliente con el pollo y la mezcla de huevo a fuego muy bajo, removiendo 2 minutos hasta que el huevo cuaje por completo; añade agua de cocción para cremar.
-JUSTIFICACION: Mantiene la untuosidad con el huevo totalmente cocido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de panceta; sin pecorino.|Huevo siempre bien cocido.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin panceta ni huevo crudo la salsa es menos grasa y más suave, con el huevo cocido formando una crema ligera y el pollo dando el toque salado. Para el Perfil1 se evitan el embutido y el huevo crudo.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta; sin pecorino.|Huevo siempre bien cocido.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~430 kcal (por porción)
 Proteínas: ~27 g
@@ -19626,8 +19663,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade el pollo y el pimentón.
 2. Agrega el tomate asado y cuece 15 minutos.
 3. Mezcla con la pasta cocida.
-JUSTIFICACION: Dulce, intensa y sin picante.
-ADVERTENCIAS: Es una evocación: sin panceta ni guindilla.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin panceta ni guindilla pierde el fondo graso y picante, pero el tomate asado con pollo y pimentón dulce da una salsa dulce y redonda. Para el Perfil1 se evitan el embutido y el picante.
+ADVERTENCIAS: Es una evocación: sin panceta ni guindilla.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~370 kcal (por porción)
 Proteínas: ~19 g
@@ -19662,8 +19699,8 @@ PREPARACION:
 1. Mezcla el tomate asado con el aceite, la albahaca y el ajo; deja reposar 30 minutos.
 2. Cuece la pasta y escúrrela.
 3. Mezcla con la salsa tibia.
-JUSTIFICACION: Fresca y aromática, sin crudos.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El tomate asado es más dulce y concentrado que el crudo, y la albahaca fresca da el aroma final; la pasta integral es más rústica. Para el Perfil1 se evitan los crudos y la acidez.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~360 kcal (por porción)
 Proteínas: ~12 g
@@ -19702,8 +19739,8 @@ PREPARACION:
 1. Calienta el aceite con el romero, el ajo y el pimentón 2 minutos.
 2. Añade el tomate asado y la harina disuelta en la leche y cuece 10 minutos.
 3. Mezcla con la pasta y sirve con el parmesano.
-JUSTIFICACION: Aromática y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El romero perfuma la salsa con aroma resinoso, y sin guindilla ni mantequilla es más suave y ligera. Para el Perfil1 se evitan el picante y el exceso de grasa.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~360 kcal (por porción)
 Proteínas: ~14 g
@@ -19739,8 +19776,8 @@ PREPARACION:
 1. Mezcla atún, perejil, ajo, aceitunas y aceite.
 2. Cuece la pasta y escúrrela.
 3. Combina y sirve templado.
-JUSTIFICACION: Salino y rápido, sin anchoas en sal.
-ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún al natural sustituye a las anchoas, con un sabor marino más suave y menos salado. Para el Perfil1 baja el sodio y la grasa.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~370 kcal (por porción)
 Proteínas: ~22 g
@@ -19776,8 +19813,8 @@ PREPARACION:
 1. Calienta el aceite con el ajo; añade el tomate y cuece 8 minutos.
 2. Agrega el atún y el perejil.
 3. Mezcla con la pasta cocida.
-JUSTIFICACION: Sencilla y proteica.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El atún al natural con tomate asado da una salsa más ligera y menos grasa que la del atún en aceite. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~360 kcal (por porción)
 Proteínas: ~20 g
@@ -19813,8 +19850,8 @@ PREPARACION:
 1. Tuesta el pan rallado con la mitad del aceite en el horno 8 minutos a 180 °C.
 2. Mezcla la pasta cocida con el resto del aceite, el ajo y las aceitunas.
 3. Sirve con el pan crujiente y el perejil.
-JUSTIFICACION: El crujiente sustituye a la fritura.
-ADVERTENCIAS: Es una evocación: sin anchoas ni alcaparras.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin anchoas ni alcaparras el sabor es menos intenso, pero el pan tostado al horno da el crujiente y las aceitunas el toque salino. Para el Perfil1 baja el aceite y el sodio.
+ADVERTENCIAS: Es una evocación: sin anchoas ni alcaparras.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~380 kcal (por porción)
 Proteínas: ~12 g
@@ -19854,8 +19891,8 @@ PREPARACION:
 1. Rehoga cebolla, apio y salvia en el aceite 5 minutos; añade tomate y ajo y cuece 10 minutos.
 2. Agrega el calabacín 8 minutos; retira la cebolla entera.
 3. Mezcla con la pasta y la mozzarella; sirve con parmesano.
-JUSTIFICACION: Verdura abundante y poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El calabacín cocido es dulce y delicado y la mozzarella baja en grasa funde con suavidad; el tomate asado aporta color. Para el Perfil1 baja la grasa y es un plato ligero y suave.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~390 kcal (por porción)
 Proteínas: ~18 g
@@ -19890,8 +19927,8 @@ PREPARACION:
 1. Mezcla el atún con el aceite, la ralladura y el perejil.
 2. Cuece la pasta y escúrrela.
 3. Combina con un poco del agua de cocción.
-JUSTIFICACION: Sabor marino sin embuchado salado.
-ADVERTENCIAS: Es una evocación: sin botarga (muy salada).|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún al natural con ralladura sustituye a la botarga, con una nota cítrica y marina más suave y menos salada. Para el Perfil1 se evitan las huevas curadas y el exceso de sal.
+ADVERTENCIAS: Es una evocación: sin botarga (muy salada).|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~350 kcal (por porción)
 Proteínas: ~19 g
@@ -19929,8 +19966,8 @@ PREPARACION:
 1. Rehoga la cebolla y las setas en el aceite 8 minutos; añade el ajo y la berenjena asada.
 2. Fuera del fuego incorpora el yogur.
 3. Mezcla con la pasta y sirve con parmesano.
-JUSTIFICACION: Cremosa con poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La berenjena asada es más suave que frita y las setas dan profundidad; el yogur sustituye a la nata. Para el Perfil1 baja la grasa y la pasta integral aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~370 kcal (por porción)
 Proteínas: ~16 g
@@ -19965,8 +20002,8 @@ PREPARACION:
 1. Abre las almejas al vapor con un chorrito de agua; retira las valvas y cuela el líquido.
 2. Calienta el aceite con el ajo y el líquido 3 minutos.
 3. Mezcla con la pasta cocida, las almejas y el perejil.
-JUSTIFICACION: Ligera y marina.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con mucho menos aceite es más ligero y brilla el sabor de las almejas; el ajo asado es más dulce. Para el Perfil1 baja la grasa y se evita el ajo crudo.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Descarta las almejas que no se abran. Si tienes alergia a los mariscos, evítalas.
 VALOR_NUTRICIONAL:
 Calorías: ~350 kcal (por porción)
 Proteínas: ~22 g
@@ -19997,8 +20034,8 @@ PREPARACION:
 1. Hierve el agua y añade la sémola en lluvia removiendo.
 2. Cuece a fuego muy suave 40 minutos removiendo a menudo (blanda: más agua; dura: menos).
 3. Sirve blanda, o extiende y enfría para cortarla.
-JUSTIFICACION: Base sin sal.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.
+JUSTIFICACION: Más ligera y suave que la polenta con mantequilla, con una textura cremosa y un sabor dulce de maíz. Para el Perfil1 es una base sin sal ni grasa, de energía más sostenida si se come con proteína y verdura.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Es una receta base. Remueve para evitar grumos.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~4 g
@@ -20031,8 +20068,8 @@ PREPARACION:
 1. Extiende la polenta caliente en una bandeja y deja enfriar.
 2. Corta círculos y colócalos solapados en una fuente engrasada.
 3. Rocía con el aceite, espolvorea con parmesano y gratina 15 minutos a 200 °C.
-JUSTIFICACION: Dorados sin mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Más ligeros y menos mantecosos que los originales, con una textura firme por fuera y tierna por dentro. Para el Perfil1 baja la grasa y el queso.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~210 kcal (por porción)
 Proteínas: ~7 g
@@ -20068,8 +20105,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade la leche y 500 ml de agua y hierve.
 2. Añade la sémola en lluvia y cuece 30 minutos removiendo.
 3. Fuera del fuego incorpora el yogur y el parmesano.
-JUSTIFICACION: Reconfortante y cremosa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Espesa y reconfortante, con el yogur dando un toque fresco en lugar de nata. Para el Perfil1 baja la sémola, la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~12 g
@@ -20105,8 +20142,8 @@ PREPARACION:
 1. Prepara la polenta con la sémola y el agua, 40 minutos; reparte en platos aptos para horno.
 2. Cubre con el aceite, el queso fresco y el queso azul desmenuzado.
 3. Gratina 5 minutos y sirve con parmesano.
-JUSTIFICACION: Aroma de gorgonzola con muy poca cantidad.
-ADVERTENCIAS: Es una evocación: queso azul mínimo (sodio) con queso fresco.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el queso azul está en cantidad mínima y el queso fresco aporta cremosidad, así que es más suave y menos salada. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Es una evocación: queso azul mínimo (sodio) con queso fresco.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~270 kcal (por porción)
 Proteínas: ~12 g
@@ -20142,8 +20179,8 @@ PREPARACION:
 1. Saltea la achicoria con la mitad del aceite 4 minutos.
 2. Saltea los langostinos con el resto del aceite y el ajo 3 minutos.
 3. Sirve sobre la polenta con la achicoria y la ralladura.
-JUSTIFICACION: Dulce, marina y ligera.
-ADVERTENCIAS: Es una evocación: langostinos en lugar de cigalas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el langostino sustituye a la cigala con un dulzor marino similar; la achicoria cocida aporta un amargor suave. Para el Perfil1 baja la grasa y se evita el limón.
+ADVERTENCIAS: Es una evocación: langostinos en lugar de cigalas.|Sin sal añadida.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~260 kcal (por porción)
 Proteínas: ~24 g
@@ -20183,8 +20220,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade ajo, nueces, tomate, romero y las papas con 200 ml de agua y cuece 15 minutos.
 2. Agrega el pescado y cuece 8 minutos.
 3. Sirve sobre la polenta con el perejil.
-JUSTIFICACION: Bacalao salado → pescado fresco, sin el sodio.
-ADVERTENCIAS: Es una evocación: pescado fresco en lugar de bacalao salado; sin anchoas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pescado fresco sustituye al bacalao salado, con una carne más delicada y menos salada. Para el Perfil1 se evitan los salados y las anchoas.
+ADVERTENCIAS: Es una evocación: pescado fresco en lugar de bacalao salado; sin anchoas.|Sin sal añadida.|Revisa que no queden espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~30 g
@@ -20222,8 +20259,8 @@ PREPARACION:
 1. Rehoga las verduras en el aceite 8 minutos; añade la carne y dórala 5 minutos.
 2. Agrega la salsa de tomate y 150 ml de agua y cuece 25 minutos.
 3. Sirve sobre la polenta con parmesano.
-JUSTIFICACION: Reconfortante y baja en grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con carne magra y sin mantequilla es más limpia, con el ragú reducido. Para el Perfil1 baja la grasa y aporta proteína.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~22 g
@@ -20259,8 +20296,8 @@ PREPARACION:
 1. Prepara la polenta dura con 1 litro de agua y enfríala en moldes.
 2. Funde el queso con la leche a fuego suave y liga con las yemas; enfría.
 3. Rellena el centro de la polenta, hornea 10 minutos a 190 °C y sirve con champiñones asados.
-JUSTIFICACION: Corazón cremoso con menos grasa.
-ADVERTENCIAS: Es una evocación: champiñón asado en lugar de trufa.|Sin sal añadida.|Yemas bien cocidas.
+JUSTIFICACION: Es una evocación: la mozzarella baja en grasa da el corazón fundido y el champiñón asado el aroma terroso que daba la trufa. Para el Perfil1 se evitan la trufa y la grasa.
+ADVERTENCIAS: Es una evocación: champiñón asado en lugar de trufa.|Sin sal añadida.|Yemas bien cocidas.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~16 g
@@ -20296,8 +20333,8 @@ PREPARACION:
 1. Prepara la polenta dura con 1 litro de agua, enfría y corta en lonchas.
 2. Rehoga la cebolla en el aceite y cuece con el tomate 15 minutos.
 3. Monta capas de polenta, ricota, salsa y parmesano; hornea 20 minutos a 200 °C.
-JUSTIFICACION: Gratinada y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con ricota baja en grasa y sin panceta es más suave y cremosa y menos salada. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~19 g
@@ -20335,8 +20372,8 @@ PREPARACION:
 1. Dora el pollo en el aceite 5 minutos; añade las verduras y cuece 8 minutos.
 2. Agrega el tomate y el orégano y cuece 25 minutos.
 3. Prepara la polenta con 1 litro de agua y sirve con la salsa.
-JUSTIFICACION: Contundente sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de salchicha.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la salchicha con un sabor más limpio, en una salsa de tomate asado dulce. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchicha.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~24 g
@@ -20369,8 +20406,8 @@ PREPARACION:
 1. Prepara la polenta blanda con 1 litro de agua y reparte en platos aptos para horno.
 2. Casca un huevo sobre cada plato.
 3. Hornea 12-15 minutos a 180 °C hasta que clara y yema estén cuajadas; añade el aceite.
-JUSTIFICACION: Sin fritura y con huevo bien cocido.
-ADVERTENCIAS: Sin sal añadida.|Yema totalmente cuajada.
+JUSTIFICACION: Con menos huevos y al horno es más ligera, con las yemas bien cuajadas. Para el Perfil1 se evitan el huevo poco cocido y la mantequilla.
+ADVERTENCIAS: Sin sal añadida.|Yema totalmente cuajada.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~15 g
@@ -20404,8 +20441,8 @@ PREPARACION:
 1. Prepara la polenta dura con 1 litro de agua, enfría y corta en lonchas.
 2. Monta capas en una fuente engrasada con la polenta y los quesos.
 3. Rocía con el aceite y gratina 20 minutos a 200 °C.
-JUSTIFICACION: Mismo gratinado con mucha menos grasa.
-ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de fontina.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: con mozzarella baja en grasa el gratinado es menos filante e intenso que con fontina. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de fontina.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~310 kcal (por porción)
 Proteínas: ~18 g
@@ -20441,8 +20478,8 @@ PREPARACION:
 1. Prepara la polenta dura con 1 litro de agua, enfría y corta en lonchas.
 2. Saltea las setas con el aceite y el ajo 8 minutos.
 3. Monta capas en una fuente engrasada con polenta, setas y bechamel; espolvorea con parmesano y gratina 20 minutos a 200 °C.
-JUSTIFICACION: Terrosa y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Las setas frescas dan un sabor terroso y la bechamel ligera hace el gratinado más suave. Para el Perfil1 baja la grasa y el queso.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~14 g
@@ -20478,8 +20515,8 @@ PREPARACION:
 1. Prepara la polenta dura con 1 litro de agua, enfría y corta en lonchas.
 2. Mezcla el atún con el aceite, el ajo y el yogur.
 3. Monta capas en una fuente engrasada, espolvorea con parmesano y gratina 20 minutos a 200 °C.
-JUSTIFICACION: Sabor marino sin anchoas ni vino.
-ADVERTENCIAS: Es una evocación: atún en lugar de anchoas; sin vino.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún al natural sustituye a las anchoas, y sin vino ni nata la salsa es más suave. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas; sin vino.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~310 kcal (por porción)
 Proteínas: ~20 g
@@ -20514,8 +20551,8 @@ PREPARACION:
 1. Hierve el agua; añade alforfón y sémola mezclados en lluvia y cuece 40 minutos removiendo.
 2. Incorpora el queso fresco a mitad de cocción.
 3. Sirve con un hilo de aceite.
-JUSTIFICACION: Rústica y con fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con queso fresco bajo en grasa es más suave y menos filante que la taragna tradicional con mucho queso y mantequilla. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~270 kcal (por porción)
 Proteínas: ~13 g
@@ -20547,8 +20584,8 @@ PREPARACION:
 1. Hierve el arroz 8 minutos en abundante agua y escúrrelo.
 2. Colócalo en una fuente engrasada con el aceite.
 3. Hornea 15 minutos a 180 °C tapado.
-JUSTIFICACION: Suelto y sin mantequilla ni sal.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Queda más suelto y ligero con aceite en lugar de mantequilla, aunque menos untuoso. Para el Perfil1 baja la grasa y la porción de arroz.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~3 g
@@ -20580,8 +20617,8 @@ PREPARACION:
 1. Hierve el agua con el aceite y añade el arroz.
 2. Tapa y cuece a fuego suave 18 minutos.
 3. Deja reposar 5 minutos y suelta con un tenedor.
-JUSTIFICACION: Sin sal ni mantequilla.
-ADVERTENCIAS: Es una receta base.|Sin sal añadida.
+JUSTIFICACION: Suelto y suave, con aceite en lugar de mantequilla. Para el Perfil1 es una base sin sal ni grasa.
+ADVERTENCIAS: Es una receta base.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~3 g
@@ -20616,7 +20653,7 @@ PREPARACION:
 1. Cuece el arroz en la leche a fuego suave 30 minutos removiendo.
 2. Añade el aceite.
 3. Si lo usas para croquetas, liga con el huevo fuera del fuego y cuece al horno.
-JUSTIFICACION: Cremoso sin mantequilla.
+JUSTIFICACION: Cremoso y suave, con leche descremada que lo hace menos untuoso. Para el Perfil1 baja la grasa y es fácil de digerir.
 ADVERTENCIAS: Es una receta base.|Sin sal añadida.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
@@ -20648,8 +20685,8 @@ PREPARACION:
 1. Hierve el arroz en abundante agua 10 minutos y escúrrelo.
 2. Refresca con agua fría y escurre bien.
 3. Seca en el horno a 120 °C 10 minutos.
-JUSTIFICACION: Suelto y sin sal.
-ADVERTENCIAS: Es una receta base.|Sin sal añadida.
+JUSTIFICACION: Suelto y aromático, con granos separados. Para el Perfil1 baja el arroz y no lleva sal.
+ADVERTENCIAS: Es una receta base.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~3 g
@@ -20683,8 +20720,8 @@ PREPARACION:
 1. Hierve el arroz en abundante agua 12-15 minutos.
 2. Escurre bien.
 3. Aliña con el aceite y el parmesano.
-JUSTIFICACION: Sencillo y sin sal.
-ADVERTENCIAS: Es una receta base.|Sin sal añadida.
+JUSTIFICACION: Más ligero que el arroz con mantequilla y queso, con granos tiernos. Para el Perfil1 baja la grasa y el queso.
+ADVERTENCIAS: Es una receta base.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~160 kcal (por porción)
 Proteínas: ~4 g
@@ -20715,8 +20752,8 @@ PREPARACION:
 1. Pon el arroz con el agua y lleva a ebullición.
 2. Tapa y cuece a fuego suave 30 minutos.
 3. Deja reposar 5 minutos.
-JUSTIFICACION: Más fibra y saciedad.
-ADVERTENCIAS: Es una receta base.|Sin sal añadida.
+JUSTIFICACION: Más firme y masticable que el arroz blanco, con un sabor a nuez. Para el Perfil1 aporta fibra y moderación de la energía.
+ADVERTENCIAS: Es una receta base.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~3 g
@@ -20749,8 +20786,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 5 minutos; añade el arroz y mezcla 1 minuto.
 2. Agrega el caldo hirviendo, tapa y hornea 18 minutos a 180 °C.
 3. Deja reposar 5 minutos y suelta.
-JUSTIFICACION: Aromático sin sal ni mantequilla.
-ADVERTENCIAS: Es una receta base.|Sin sal añadida.
+JUSTIFICACION: Suelto y aromático con caldo, más ligero con aceite que con mantequilla. Para el Perfil1 baja la grasa y no lleva sal.
+ADVERTENCIAS: Es una receta base.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~4 g
@@ -20790,8 +20827,8 @@ PREPARACION:
 1. Dora la carne en la mitad del aceite, añade naranja y tomate y cuece 15 minutos para el ragú.
 2. Mezcla el arroz con el parmesano y 1 huevo; forma bolas con un corazón de ragú y mozzarella.
 3. Pasa por harina, huevo batido y pan rallado, rocía con el aceite y hornea 25 minutos a 200 °C.
-JUSTIFICACION: Crujientes sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno son menos crujientes y doradas que fritas, con el interior de arroz y mozzarella cremoso. Para el Perfil1 se evitan la fritura y el alcohol.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~280 kcal (por porción)
 Proteínas: ~16 g
@@ -20827,8 +20864,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 5 minutos; añade el arroz y el caldo hirviendo.
 2. Hornea tapado 20 minutos a 180 °C.
 3. Cuece las gambas en la salsa de curry 3 minutos y sirve sobre el arroz.
-JUSTIFICACION: Aromático y ligero.
-ADVERTENCIAS: Curry sin picante.|Sin sal añadida.
+JUSTIFICACION: El curry suave aromatiza el arroz sin picor, con las gambas dulces. Para el Perfil1 se evitan el picante y la grasa.
+ADVERTENCIAS: Curry sin picante.|Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Si tienes alergia a los mariscos, evítalo.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~22 g
@@ -20865,8 +20902,8 @@ PREPARACION:
 1. Dora el pollo con el aceite y las cebollas 8 minutos.
 2. Añade el arroz y el caldo hirviendo y cuece tapado 20 minutos.
 3. Sirve con las almendras y un poco de soja.
-JUSTIFICACION: Sabor oriental con poca soja.
-ADVERTENCIAS: Soja mínima (sodio).
+JUSTIFICACION: Con soja mínima es menos salado y menos oscuro, con aceite en lugar de mantequilla. Para el Perfil1 baja la sal y la grasa.
+ADVERTENCIAS: Soja mínima (sodio).|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~420 kcal (por porción)
 Proteínas: ~32 g
@@ -20900,8 +20937,8 @@ PREPARACION:
 1. Cuece el arroz y escúrrelo.
 2. Mezcla menta, puerro cocido, ralladura y aceite.
 3. Aliña el arroz tibio.
-JUSTIFICACION: Fresco y aromático.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Fresco y aromático, con ralladura en lugar de limón y puerro cocido. Para el Perfil1 se evitan el ácido y el exceso de aceite.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~270 kcal (por porción)
 Proteínas: ~5 g
@@ -20936,8 +20973,8 @@ PREPARACION:
 1. Cuece el arroz con el agua 30 minutos.
 2. Tuesta las nueces con el aceite 2 minutos y añade la zanahoria 3 minutos.
 3. Mezcla con el arroz.
-JUSTIFICACION: Crujiente y con fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Dulce y crujiente, con menos nueces y aceite de oliva. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~290 kcal (por porción)
 Proteínas: ~6 g
@@ -20972,8 +21009,8 @@ PREPARACION:
 1. Dora el pollo en el aceite con el curry 5 minutos.
 2. Añade el arroz y el caldo hirviendo y cuece tapado 20 minutos.
 3. Agrega los guisantes los últimos 5 minutos.
-JUSTIFICACION: Completo y sin embutido.
-ADVERTENCIAS: Sin sal añadida.|Curry sin picante.
+JUSTIFICACION: Sin jamón y con pollo, el curry suave aromatiza el arroz sin picor. Para el Perfil1 se evitan el embutido y el picante.
+ADVERTENCIAS: Sin sal añadida.|Curry sin picante.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~410 kcal (por porción)
 Proteínas: ~32 g
@@ -21008,8 +21045,8 @@ PREPARACION:
 1. Cuece el arroz y escúrrelo caliente.
 2. Mezcla con las yemas, el queso, el aceite y el parmesano.
 3. Cocina a fuego suave 2 minutos removiendo hasta que las yemas cuajen del todo.
-JUSTIFICACION: Cremoso con yema bien cocida.
-ADVERTENCIAS: Sin sal añadida.|Yemas totalmente cuajadas.
+JUSTIFICACION: Con yema cocida y mozzarella baja en grasa es más ligero y menos untuoso que el original. Para el Perfil1 se evitan el huevo crudo y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Yemas totalmente cuajadas.|Cocina bien los huevos: yema y clara completamente cuajadas.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~16 g
@@ -21042,8 +21079,8 @@ PREPARACION:
 1. Cuece las lentejas 30 minutos y escúrrelas.
 2. Cuece el arroz aparte.
 3. Mezcla con el curry y el aceite.
-JUSTIFICACION: Proteína vegetal completa.
-ADVERTENCIAS: Sin sal añadida.|Curry sin picante.
+JUSTIFICACION: Terroso y aromático, con el curry suave. Para el Perfil1 las lentejas aportan fibra y proteína vegetal.
+ADVERTENCIAS: Sin sal añadida.|Curry sin picante.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~330 kcal (por porción)
 Proteínas: ~13 g
@@ -21077,8 +21114,8 @@ PREPARACION:
 1. Cuece las espinacas 3 minutos; escúrrelas y pícalas, reservando el agua.
 2. Cuece el arroz en esa agua.
 3. Rehoga las espinacas en el aceite y mezcla con el arroz y el parmesano.
-JUSTIFICACION: Verde y rico en hierro.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Verde y suave, con menos mantequilla y queso. Para el Perfil1 baja la grasa y aporta hojas verdes.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~280 kcal (por porción)
 Proteínas: ~10 g
@@ -21112,8 +21149,8 @@ PREPARACION:
 1. Cuece el arroz y escúrrelo.
 2. Calienta el aceite con la salvia 2 minutos.
 3. Mezcla con el arroz y el parmesano.
-JUSTIFICACION: Sencillo y aromático.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Aromático con salvia, más ligero con aceite que con mantequilla. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~280 kcal (por porción)
 Proteínas: ~8 g
@@ -21151,8 +21188,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite y cuece los guisantes con el caldo 8 minutos.
 2. Cuece el arroz en la leche y 300 ml de agua; mezcla con el queso.
 3. Forra un molde engrasado con el pollo, rellena con arroz y guisantes y hornea 15 minutos a 180 °C; desmolda.
-JUSTIFICACION: Mismo molde vistoso, sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y la mozzarella baja en grasa a los tres quesos, para una textura más ligera. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~380 kcal (por porción)
 Proteínas: ~26 g
@@ -21187,8 +21224,8 @@ PREPARACION:
 1. Rehoga el chalote en el aceite; añade el arroz y 450 ml de agua caliente.
 2. Hornea tapado 20 minutos a 180 °C.
 3. Mezcla con el perejil y sirve con parmesano.
-JUSTIFICACION: Verde y aromático.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con mucho menos aceite es más ligero, con perejil fresco. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~270 kcal (por porción)
 Proteínas: ~6 g
@@ -21227,8 +21264,8 @@ PREPARACION:
 1. Mezcla arroz, queso, pollo, yemas y parmesano; forma bolas.
 2. Pasa por harina, huevo batido y pan rallado.
 3. Rocía con el aceite y hornea 25 minutos a 200 °C.
-JUSTIFICACION: Crujientes sin fritura.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+JUSTIFICACION: Al horno son menos crujientes que fritas, con el corazón de mozzarella fundido. Para el Perfil1 se evitan la fritura y el embutido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~270 kcal (por porción)
 Proteínas: ~18 g
@@ -21268,8 +21305,8 @@ PREPARACION:
 1. Rehoga cebolla, ajo y pimentones en el aceite 8 minutos; añade el arroz y el azafrán.
 2. Agrega el caldo hirviendo y el pescado y cuece 10 minutos.
 3. Coloca los moluscos, hornea tapado 10 minutos a 180 °C y deja reposar.
-JUSTIFICACION: Sabrosa con poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con menos aceite y pimentón asado es más ligera, aunque sin el socarrat graso. Para el Perfil1 baja la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Cocina bien los mariscos. Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~420 kcal (por porción)
 Proteínas: ~34 g
@@ -21305,8 +21342,8 @@ PREPARACION:
 1. Cuece el arroz, escúrrelo y enfríalo.
 2. Mezcla con el aceite, la ralladura, los langostinos y las hierbas.
 3. Rellena un molde engrasado, presiona y desmolda.
-JUSTIFICACION: Fresca y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Fresca y ligera, con ralladura en lugar de limón. Para el Perfil1 se evitan el ácido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~19 g
@@ -21347,8 +21384,8 @@ PREPARACION:
 1. Cuece el arroz y las judías; enfría todo.
 2. Mezcla aceite, yogur y curry para el aliño.
 3. Combina con las verduras y los huevos duros picados.
-JUSTIFICACION: Cremosa y sin acidez fuerte.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur en lugar de mostaza y vinagre es más suave y cremosa. Para el Perfil1 se evitan el vinagre y el picante.
+ADVERTENCIAS: Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~13 g
@@ -21384,8 +21421,8 @@ PREPARACION:
 1. Cuece el arroz y enfríalo.
 2. Mezcla con la manzana, el queso, el apio y las nueces.
 3. Aliña con el aceite.
-JUSTIFICACION: Crujiente y refrescante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con queso fresco bajo en grasa en lugar de emmental la ensalada es más cremosa y menos salada, con nueces en menor cantidad para el crocante. Para el Perfil1 baja la grasa y el arroz aporta energía moderada si se acompaña con proteína.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~12 g
@@ -21422,8 +21459,8 @@ PREPARACION:
 1. Abre almejas y mejillones al vapor y retira las valvas; cuece los calamarcitos 3 minutos.
 2. Cuece el arroz y enfríalo.
 3. Tritura las yemas duras con el aceite, la ralladura y un poco del líquido de los moluscos; mezcla con todo.
-JUSTIFICACION: Aliño cremoso sin huevo crudo.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Los calamarcitos sustituyen a los pulpitos con una textura tierna parecida, y con yema dura y ralladura el aliño es más suave y menos ácido. Para el Perfil1 se evitan el huevo crudo y el limón.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Cocina bien los mariscos. Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~30 g
@@ -21461,8 +21498,8 @@ PREPARACION:
 1. Cuece el arroz y enfríalo.
 2. Mezcla aceite, naranja reducida y yogur.
 3. Combina todo con los huevos picados y la remolacha.
-JUSTIFICACION: Dulce y colorida.
-ADVERTENCIAS: Es una evocación: sin alcaparras, vinagre ni mostaza.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin alcaparras, vinagre ni mostaza pierde el punto ácido y picante, pero la remolacha dulce con naranja reducida y yogur da un contraste fresco y cremoso. Para el Perfil1 se evitan el vinagre y la mostaza.
+ADVERTENCIAS: Es una evocación: sin alcaparras, vinagre ni mostaza.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~330 kcal (por porción)
 Proteínas: ~15 g
@@ -21497,8 +21534,8 @@ PREPARACION:
 1. Cuece el arroz y enfríalo.
 2. Mezcla con el aceite, los pimentones y el pepino.
 3. Moldea y cubre con las virutas.
-JUSTIFICACION: Sin encurtidos (sodio y vinagre).
-ADVERTENCIAS: Es una evocación: pimentones asados y pepino en lugar de encurtidos.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: los pimentones asados dan un dulzor ahumado y el pepino fresco el crujiente que daban los encurtidos. Para el Perfil1 se evitan el vinagre y el exceso de aceite.
+ADVERTENCIAS: Es una evocación: pimentones asados y pepino en lugar de encurtidos.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~290 kcal (por porción)
 Proteínas: ~8 g
@@ -21534,8 +21571,8 @@ PREPARACION:
 1. Cuece el arroz y enfríalo.
 2. Cuece puerros y guisantes, mézclalos con los huevos batidos y haz una tortilla fina en sartén antiadherente apenas untada; córtala en tiras.
 3. Combina con el arroz y el cangrejo.
-JUSTIFICACION: Completa y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El cangrejo aporta dulzor marino delicado y el arroz queda suelto y tierno; con menos aceite es más ligera. Para el Perfil1 baja la grasa y la proteína es magra.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~25 g
@@ -21572,8 +21609,8 @@ PREPARACION:
 1. Cuece el arroz y el maíz; enfría.
 2. Hornea el salmón 12 minutos a 180 °C.
 3. Mezcla todo con el aceite y la ralladura.
-JUSTIFICACION: Muy completa y ligera.
-ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado; sin alcaparras.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el salmón fresco sustituye al ahumado con un sabor más suave y menos salado, con atún al natural y maíz fresco que da dulzor. Para el Perfil1 se evitan los ahumados y las conservas.
+ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado; sin alcaparras.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~28 g
@@ -21611,8 +21648,8 @@ PREPARACION:
 1. Cuece el arroz en el fondo de pescado y enfríalo.
 2. Hornea el pescado 10 minutos a 180 °C.
 3. Mezcla todo con el aceite, las ralladuras y el eneldo.
-JUSTIFICACION: Fresca y aromática.
-ADVERTENCIAS: Es una evocación: pescado fresco en lugar de ahumado; sin rábano picante.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pescado fresco al horno es más jugoso y menos salado que los ahumados, y sin rábano picante el aliño es suave. Para el Perfil1 se evitan los ahumados y el picante.
+ADVERTENCIAS: Es una evocación: pescado fresco en lugar de ahumado; sin rábano picante.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Revisa que no queden espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~20 g
@@ -21650,8 +21687,8 @@ PREPARACION:
 1. Mezcla el arroz frío con el atún, el queso, el tomate, las cebollitas y las alcachofas.
 2. Aliña con el aceite y la ralladura.
 3. Reposa 20 minutos en la nevera.
-JUSTIFICACION: Ligera y sin conservas encurtidas.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Fresca y completa, con atún al natural y mozzarella baja en grasa en lugar de gruyère; pierde el toque ácido de los encurtidos. Para el Perfil1 se evitan los encurtidos y el exceso de sal.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~24 g
@@ -21691,8 +21728,8 @@ PREPARACION:
 1. Rehoga cebolla y ajo en el aceite 5 minutos; añade el arroz 1 minuto y la naranja reducida.
 2. Añade el caldo caliente poco a poco con el tomate, removiendo, 18 minutos; incorpora el marisco los últimos 6 minutos.
 3. Sirve con perejil.
-JUSTIFICACION: Cremoso y marino con poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin vino pierde un poco de aroma pero la naranja reducida y el tomate asado dan un fondo dulce; el arroz queda cremoso con menos aceite. Para el Perfil1 se evitan el alcohol y el exceso de aceite.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Si tienes alergia a los mariscos, evítalo.
 VALOR_NUTRICIONAL:
 Calorías: ~420 kcal (por porción)
 Proteínas: ~30 g
@@ -21730,8 +21767,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 5 minutos; añade el arroz 1 minuto y la naranja reducida.
 2. Añade el caldo caliente poco a poco, removiendo, 18 minutos; incorpora los arándanos los últimos 5.
 3. Fuera del fuego mezcla con el yogur y sirve con parmesano.
-JUSTIFICACION: Dulce-ácido y cremoso sin nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Dulce y ligeramente ácido, con la fruta tiñendo el arroz de morado; con yogur es más fresco que con nata. Para el Perfil1 se evitan el alcohol y la grasa, y la fruta aporta antioxidantes.
+ADVERTENCIAS: Sin sal añadida.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~8 g
@@ -21768,8 +21805,8 @@ PREPARACION:
 1. Rehoga cebolla y aguaturma en el aceite 8 minutos; añade el arroz 1 minuto.
 2. Añade el caldo caliente poco a poco, removiendo, 18 minutos.
 3. Incorpora el yogur y sirve con parmesano.
-JUSTIFICACION: La yuca sustituye a la aguaturma, difícil de hallar.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Cremoso y dulce, con un sabor que recuerda a alcachofa o a tubérculo; con yogur es más ligero. Para el Perfil1 baja la grasa y se modera el almidón.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~350 kcal (por porción)
 Proteínas: ~8 g
@@ -21810,8 +21847,8 @@ PREPARACION:
 1. Rehoga cebolla, setas y hierbas en el aceite 10 minutos; añade el tomate y el arroz 1 minuto.
 2. Agrega la remolacha, la naranja y el caldo poco a poco, removiendo, 18 minutos.
 3. Sirve con parmesano y perejil.
-JUSTIFICACION: Color vinoso sin alcohol.
-ADVERTENCIAS: Es una evocación: sin vino tinto.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: la remolacha con naranja reducida da el color rojizo y el dulzor profundo del vino tinto, y las setas un fondo terroso. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Es una evocación: sin vino tinto.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~370 kcal (por porción)
 Proteínas: ~11 g
@@ -21848,8 +21885,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite; añade el arroz 1 minuto.
 2. Agrega el caldo poco a poco, removiendo, 18 minutos.
 3. Fuera del fuego incorpora el yogur y la ralladura; sirve con cebollino.
-JUSTIFICACION: Lujo sin sal: el caviar se evoca con cebollino y limón.
-ADVERTENCIAS: Es una evocación: sin caviar ni vino.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin caviar ni vino queda más sencillo, pero el yogur y la ralladura le dan un frescor cítrico cremoso. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Es una evocación: sin caviar ni vino.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~330 kcal (por porción)
 Proteínas: ~8 g
@@ -21885,8 +21922,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite; añade el arroz 1 minuto.
 2. Agrega el caldo con el azafrán poco a poco, removiendo, 18 minutos.
 3. Sirve con el parmesano.
-JUSTIFICACION: Clásico y aromático.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin tuétano es más ligero y menos untuoso, pero el azafrán conserva el color y el aroma dorados. Para el Perfil1 baja la grasa y el queso.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~10 g
@@ -21923,8 +21960,8 @@ PREPARACION:
 1. Rehoga el arroz 1 minuto en el aceite con la naranja.
 2. Agrega el caldo poco a poco, removiendo, 18 minutos.
 3. Incorpora el salmón y el yogur y sirve con eneldo.
-JUSTIFICACION: El burbujeo del cava se sustituye por la acidez de la naranja.
-ADVERTENCIAS: Es una evocación: sin cava ni ahumado.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el salmón fresco es más suave que el ahumado y la naranja reducida sustituye al cava. Para el Perfil1 se evitan el alcohol, los ahumados y la grasa.
+ADVERTENCIAS: Es una evocación: sin cava ni ahumado.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~410 kcal (por porción)
 Proteínas: ~20 g
@@ -21962,8 +21999,8 @@ PREPARACION:
 1. Cuece las zanahorias en el caldo 15 minutos y tritura la mitad.
 2. Rehoga cebolla y arroz en el aceite; añade la naranja y el caldo con las zanahorias poco a poco, 18 minutos.
 3. Mezcla con el queso y el yogur.
-JUSTIFICACION: Dulce y colorido.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La zanahoria da dulzor y un color anaranjado, con mozzarella baja en grasa y yogur en lugar de nata. Para el Perfil1 baja la grasa y aporta betacarotenos.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~350 kcal (por porción)
 Proteínas: ~9 g
@@ -22000,8 +22037,8 @@ PREPARACION:
 1. Rehoga cebolla y arroz en el aceite 1 minuto; añade la naranja.
 2. Agrega el caldo poco a poco, removiendo, 15 minutos; añade la mitad de las fresas troceadas.
 3. Fuera del fuego mezcla con el yogur y el resto de fresas.
-JUSTIFICACION: Fresco y ligeramente dulce.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Dulce y rosado, con la fresa aportando frescor; con naranja reducida y yogur es más ligero. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~8 g
@@ -22039,8 +22076,8 @@ PREPARACION:
 1. Rehoga ajo, tomate y orégano en el aceite; añade el arroz 1 minuto.
 2. Agrega el caldo poco a poco, removiendo, 18 minutos; incorpora la berenjena asada troceada.
 3. Mezcla con la mozzarella.
-JUSTIFICACION: Cremoso con poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La berenjena asada es más suave y menos grasa que frita, con la mozzarella baja en grasa fundida. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~370 kcal (por porción)
 Proteínas: ~13 g
@@ -22077,8 +22114,8 @@ PREPARACION:
 1. Rehoga el arroz 1 minuto en el aceite; añade la naranja.
 2. Agrega el caldo poco a poco, removiendo, 15 minutos; incorpora las hojas los últimos 3.
 3. Mezcla con el yogur y el parmesano.
-JUSTIFICACION: Verde y cremoso.
-ADVERTENCIAS: Es una evocación: espinacas y berros en lugar de ortigas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: las espinacas y los berros recuerdan el sabor verde y terroso de las ortigas, en un arroz cremoso con yogur. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Es una evocación: espinacas y berros en lugar de ortigas.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~350 kcal (por porción)
 Proteínas: ~11 g
@@ -22115,8 +22152,8 @@ PREPARACION:
 1. Rehoga cebolla y achicoria en el aceite 5 minutos; añade el arroz y la naranja.
 2. Agrega el caldo poco a poco, removiendo, 18 minutos.
 3. Sirve con el parmesano.
-JUSTIFICACION: Amarguita suave y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La achicoria cocida tiene un amargor suave y la naranja reducida sustituye al vino. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~9 g
@@ -22153,8 +22190,8 @@ PREPARACION:
 1. Pela las gambas; cuece las cáscaras con la mitad de la cebolla, clavos, apio y zanahoria en 1 litro de agua 25 minutos; cuela.
 2. Rehoga el resto de la cebolla en el aceite; añade el arroz 1 minuto.
 3. Agrega el caldo poco a poco, removiendo, 15 minutos; incorpora las gambas 3 minutos.
-JUSTIFICACION: Intenso sabor marino sin sal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con menos mantequilla y arroz es más ligero, con las gambas aportando dulzor marino. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Si tienes alergia a los mariscos, evítalo.
 VALOR_NUTRICIONAL:
 Calorías: ~370 kcal (por porción)
 Proteínas: ~22 g
@@ -22192,8 +22229,8 @@ PREPARACION:
 1. Rehoga la manzana con la cáscara de limón en el aceite 5 minutos; añade el arroz y la naranja.
 2. Agrega el caldo poco a poco, removiendo, 18 minutos; retira la cáscara.
 3. Sirve con parmesano y canela.
-JUSTIFICACION: Dulce y aromático.
-ADVERTENCIAS: Es una evocación: sin Worcestershire (sodio) ni vino.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin Worcestershire pierde la nota salada y fermentada, pero la manzana con canela da un dulzor aromático. Para el Perfil1 se evitan el alcohol y el exceso de sal.
+ADVERTENCIAS: Es una evocación: sin Worcestershire (sodio) ni vino.|Sin sal añadida.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~350 kcal (por porción)
 Proteínas: ~8 g
@@ -22231,8 +22268,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite; añade el arroz y la naranja.
 2. Agrega el caldo poco a poco, removiendo, 18 minutos.
 3. Fuera del fuego mezcla con yogur, parmesano y rúcula.
-JUSTIFICACION: Cremoso con menos grasa saturada.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La rúcula aporta un amargor fresco y el yogur una cremosidad ligera en lugar de nata. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~10 g
@@ -22270,8 +22307,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite; añade tomate, pimentón y romero 5 minutos y luego el arroz.
 2. Agrega el caldo poco a poco, removiendo, 18 minutos.
 3. Sirve con el parmesano.
-JUSTIFICACION: Dulce y aromático.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El pimentón y el tomate asados dan dulzor y color, con menos aceite y queso. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~350 kcal (por porción)
 Proteínas: ~10 g
@@ -22307,8 +22344,8 @@ PREPARACION:
 1. Cuece los tallos en el caldo, tritura la mitad y reserva las puntas.
 2. Rehoga la cebolla en el aceite; añade el arroz y el caldo poco a poco, 18 minutos.
 3. Añade las puntas los últimos 4 minutos; sirve con parmesano.
-JUSTIFICACION: Ligero y sabroso.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con aceite en lugar de mantequilla es más ligero, con el espárrago tierno dando un sabor verde. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~11 g
@@ -22346,8 +22383,8 @@ PREPARACION:
 1. Dora la carne con la cebolla y las especias en el aceite 8 minutos.
 2. Añade el arroz 1 minuto, la remolacha y el caldo poco a poco, 18 minutos.
 3. Sirve con parmesano.
-JUSTIFICACION: Sabroso sin embutido ni alcohol.
-ADVERTENCIAS: Es una evocación: sin salchicha ni vino.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo y la res magra sustituyen a la salchicha, con la remolacha dando el color del vino tinto. Para el Perfil1 se evitan el embutido y el alcohol.
+ADVERTENCIAS: Es una evocación: sin salchicha ni vino.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~420 kcal (por porción)
 Proteínas: ~26 g
@@ -22383,8 +22420,8 @@ PREPARACION:
 1. Rehoga calabaza y alcachofas en el aceite 8 minutos.
 2. Añade el arroz y el caldo poco a poco, removiendo, 18 minutos.
 3. Sirve con parmesano.
-JUSTIFICACION: Dulce y suave.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La calabaza endulza y la alcachofa aporta un sabor vegetal; con aceite en lugar de mantequilla es más ligero. Para el Perfil1 baja la grasa y la calabaza es de bajo índice glucémico.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~9 g
@@ -22422,8 +22459,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite; añade el arroz y el caldo poco a poco, 18 minutos.
 2. Fuera del fuego incorpora los quesos.
 3. Sirve de inmediato.
-JUSTIFICACION: Cuatro quesos con la mitad de grasa y sodio.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con quesos frescos y poco gorgonzola es menos intenso y filante que el original. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~370 kcal (por porción)
 Proteínas: ~15 g
@@ -22460,8 +22497,8 @@ PREPARACION:
 1. Rehoga cebolla y ajo en el aceite; añade la sepia troceada y la naranja y cuece 20 minutos.
 2. Añade el arroz y el caldo con la tinta poco a poco, removiendo, 18 minutos.
 3. Sirve enseguida.
-JUSTIFICACION: Intenso y marino con poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La tinta tiñe el arroz de negro con un sabor marino intenso; sin vino y con menos aceite es más ligero. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Si tienes alergia a los mariscos, evítalo.
 VALOR_NUTRICIONAL:
 Calorías: ~400 kcal (por porción)
 Proteínas: ~34 g
@@ -22497,8 +22534,8 @@ PREPARACION:
 1. Rehoga el puerro en el aceite 8 minutos; añade el arroz.
 2. Agrega el caldo poco a poco, removiendo, 18 minutos.
 3. Fuera del fuego mezcla con el yogur; sirve con parmesano.
-JUSTIFICACION: Suave y cremoso.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El puerro cocido es dulce y el yogur reemplaza a la nata con más frescor. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~9 g
@@ -22536,8 +22573,8 @@ PREPARACION:
 1. Rehoga zanahoria, cebolla y apio en el aceite 8 minutos; añade el arroz.
 2. Agrega el caldo poco a poco, removiendo, 15 minutos; incorpora las espinacas los últimos 3.
 3. Sirve con parmesano.
-JUSTIFICACION: Verde y ligero.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con aceite en lugar de mantequilla es más ligero, con las verduras verdes dando frescor. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~330 kcal (por porción)
 Proteínas: ~9 g
@@ -22577,8 +22614,8 @@ PREPARACION:
 1. Dora el pollo y el cerdo con el ajo y el laurel en el aceite 10 minutos; añade la naranja y cuece 10 minutos; retira el laurel y mezcla con el yogur fuera del fuego.
 2. Forra moldes individuales engrasados con la masa; rellena y tapa con más masa; pinta con la yema.
 3. Hornea 25 minutos a 190 °C.
-JUSTIFICACION: Mismo pastelito, sin hojaldre, vísceras ni alcohol.
-ADVERTENCIAS: Es una evocación: pollo en lugar de faisán; sin higadillos, marsala ni brandy.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al faisán con un sabor más suave; la masa integral es más rústica que el hojaldre. Para el Perfil1 se evitan las vísceras, el alcohol y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de faisán; sin higadillos, marsala ni brandy.|Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~330 kcal (por porción)
 Proteínas: ~27 g
@@ -22616,8 +22653,8 @@ PREPARACION:
 1. Amasa la calabaza con la harina y el huevo; estira láminas finas y cuécelas 2 minutos.
 2. Rehoga chalote, zanahoria y setas en el aceite 10 minutos.
 3. Monta capas en una fuente engrasada con pasta, setas y bechamel; hornea 25 minutos a 190 °C.
-JUSTIFICACION: Dulce y terroso, ligero.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La calabaza endulza la pasta, con setas frescas y bechamel ligera; la harina integral la hace más rústica. Para el Perfil1 baja la grasa y aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~13 g
@@ -22658,8 +22695,8 @@ PREPARACION:
 1. Saltea las setas con el aceite y el ajo 10 minutos; añade el caldo y cuece 5 minutos.
 2. Mezcla con la pasta cocida, el huevo batido con el yogur, el perejil y el parmesano.
 3. Forra un molde engrasado con la masa, rellena y hornea 35 minutos a 190 °C.
-JUSTIFICACION: Pastel sabroso con menos grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Las setas dan un sabor terroso y el yogur sustituye a la nata; la masa integral es más rústica. Para el Perfil1 baja la grasa y el queso.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~380 kcal (por porción)
 Proteínas: ~15 g
@@ -22699,8 +22736,8 @@ PREPARACION:
 1. Estira la masa y forra un molde engrasado; cuece las espinacas y pícalas.
 2. Mezcla tallarines cocidos, espinacas, pollo, huevos batidos con leche y yogur, y parmesano.
 3. Rellena el molde y hornea 35 minutos a 180 °C.
-JUSTIFICACION: Más proteína magra, menos grasa.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón con un sabor más suave. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~380 kcal (por porción)
 Proteínas: ~25 g
@@ -22743,8 +22780,8 @@ PREPARACION:
 1. Remoja el pan en la leche; mezcla con la carne y forma albóndigas pequeñas; hornéalas 12 minutos a 200 °C.
 2. Dora el pollo y las setas con la cebolla y el tomate en 1 cda de aceite 10 minutos.
 3. Cuece el arroz en el caldo, enfría y mezcla con los huevos; forra un molde engrasado y espolvoreado con pan rallado, rellena con albóndigas, pollo y mozzarella, cubre con arroz y hornea 30 minutos a 190 °C.
-JUSTIFICACION: Mismo timbal sin vísceras ni embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de higadillos y salchicha.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a los higadillos y la salchicha, con las albóndigas al horno y la mozzarella baja en grasa. Para el Perfil1 se evitan las vísceras, el embutido y la fritura.
+ADVERTENCIAS: Es una evocación: pollo en lugar de higadillos y salchicha.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~420 kcal (por porción)
 Proteínas: ~26 g
@@ -22782,8 +22819,8 @@ PREPARACION:
 1. Rehoga el puerro con la salvia en el aceite; añade la naranja y la leche y cuece 15 minutos.
 2. Mezcla con la pasta cocida, los huevos y el parmesano.
 3. Vierte en un molde engrasado y hornea 30 minutos a 180 °C.
-JUSTIFICACION: Cremoso y ligero.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con leche descremada y menos parmesano es más ligero y menos untuoso, sin vino. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~15 g
@@ -22823,8 +22860,8 @@ PREPARACION:
 1. Rehoga cebolla, ajo, pollo y setas en el aceite 10 minutos; añade el tomate y cuece 15 minutos.
 2. Mezcla con los macarrones cocidos y la mozzarella.
 3. Rellena un molde engrasado y espolvoreado con pan rallado, cubre con parmesano y hornea 25 minutos a 190 °C.
-JUSTIFICACION: Contundente con menos grasa.
-ADVERTENCIAS: Es una evocación: pollo en lugar de menudillos y salchicha.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a los menudillos y las salchichas, con mozzarella baja en grasa. Para el Perfil1 se evitan las vísceras, el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de menudillos y salchicha.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~380 kcal (por porción)
 Proteínas: ~24 g
@@ -22862,8 +22899,8 @@ PREPARACION:
 1. Cuece el arroz y mézclalo con las yemas y el parmesano.
 2. Saltea setas, ajo y pollo en 1 cda de aceite 10 minutos.
 3. Forra un molde engrasado y empanado con arroz, rellena con el salteado, cubre con arroz y hornea 30 minutos a 190 °C.
-JUSTIFICACION: Mismo timbal sin vísceras.
-ADVERTENCIAS: Es una evocación: pollo en lugar de menudillos, mollejas y salchicha.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a los menudillos y la salchicha, con mucha menos mantequilla. Para el Perfil1 se evitan las vísceras y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de menudillos, mollejas y salchicha.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~370 kcal (por porción)
 Proteínas: ~24 g
@@ -22902,8 +22939,8 @@ PREPARACION:
 1. Estira la masa y forra un molde engrasado.
 2. Mezcla los tallarines cocidos con los quesos, los huevos y el parmesano.
 3. Rellena y hornea 35 minutos a 190 °C.
-JUSTIFICACION: Cremoso con menos grasa y sodio.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con quesos frescos y poco gorgonzola es más suave y menos intenso. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~360 kcal (por porción)
 Proteínas: ~19 g
@@ -22945,8 +22982,8 @@ PREPARACION:
 1. Amasa harina, sémola y huevos; estira láminas finas y cuécelas 2 minutos.
 2. Rehoga cebolla, setas y pollo en el aceite 10 minutos; añade champiñones, caldo y naranja y cuece 10 minutos.
 3. Monta capas en una fuente engrasada con pasta, ragú, bechamel y parmesano; hornea 30 minutos a 190 °C.
-JUSTIFICACION: Receta festiva más ligera.
-ADVERTENCIAS: Es una evocación: pollo y setas en lugar de mollejas y menudillos; sin trufa ni marsala.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo y las setas sustituyen a las mollejas y el champiñón asado a la trufa, con naranja reducida en lugar de marsala. Para el Perfil1 se evitan las vísceras, el alcohol y la grasa.
+ADVERTENCIAS: Es una evocación: pollo y setas en lugar de mollejas y menudillos; sin trufa ni marsala.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~420 kcal (por porción)
 Proteínas: ~29 g
@@ -22982,8 +23019,8 @@ PREPARACION:
 1. Cuece los raviolis y saltéalos con el aceite y los guisantes cocidos.
 2. Mezcla con la bechamel y el parmesano.
 3. Rellena el volován caliente y sirve.
-JUSTIFICACION: Espectacular con menos grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con bechamel ligera y menos raviolis es más ligero. Para el Perfil1 baja la grasa y la pasta.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~13 g
@@ -23030,8 +23067,8 @@ PREPARACION:
 1. Cuece la merluza con laurel, ajo, clavo, perejil, apio, cebolla, zanahoria y naranja en 500 ml de agua 10 minutos; cuela y desmenuza.
 2. Mezcla un tercio del pescado con el pan remojado en leche y el huevo; forma albóndigas, pásalas por harina y hornéalas 12 minutos a 200 °C.
 3. Saltea las gambas en el aceite; mezcla con el resto del pescado, las albóndigas y la bechamel; rellena el volován.
-JUSTIFICACION: Mismo relleno cremoso, sin vino ni jerez.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja reducida en lugar de vino y jerez es más suave y dulce. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los mariscos. Si tienes alergia a los mariscos, evítalo.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~29 g
@@ -23063,8 +23100,8 @@ PREPARACION:
 1. Forma un volcán con la harina y coloca los huevos en el centro.
 2. Amasa 10 minutos hasta que quede lisa; reposa 30 minutos envuelta.
 3. Estira fina y corta según el uso.
-JUSTIFICACION: Base de todas las pastas frescas, sin sal.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Con harina mitad integral es más rústica y firme que la clásica, con un sabor a trigo. Para el Perfil1 aporta fibra y no lleva sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~10 g
@@ -23097,8 +23134,8 @@ PREPARACION:
 1. Mezcla los huevos con las espinacas muy escurridas.
 2. Forma la masa con la harina; amasa 10 minutos y reposa 30.
 3. Estira fina y corta según el uso.
-JUSTIFICACION: Color y hierro sin sal.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Verde por la espinaca, con harina mitad integral algo más rústica. Para el Perfil1 aporta fibra y hojas verdes.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~240 kcal (por porción)
 Proteínas: ~11 g
@@ -23136,8 +23173,8 @@ PREPARACION:
 1. Amasa la harina con los 2 huevos; reposa 30 minutos. Mezcla espinacas cocidas y picadas, carne, yemas, huevo y parmesano para el relleno.
 2. Estira la masa, coloca montoncitos de relleno, cierra y corta los agnolotti.
 3. Cuécelos 4 minutos en agua hirviendo y sirve con el jugo del estofado y el aceite.
-JUSTIFICACION: Mismo relleno, más ligero.
-ADVERTENCIAS: Es una evocación: sin jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin jamón el relleno es más suave y menos curado, con carne magra y la masa de harina integral. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: sin jamón.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~380 kcal (por porción)
 Proteínas: ~29 g
@@ -23173,8 +23210,8 @@ PREPARACION:
 1. Amasa harina y huevos; forma bigoli gruesos y reposa 30 minutos.
 2. Cuece la cebolla con el aceite y un poco de agua a fuego suave 20 minutos; añade atún y perejil.
 3. Cuece la pasta 5 minutos y mezcla con la salsa.
-JUSTIFICACION: Dulzor de cebolla y toque salino sin anchoas.
-ADVERTENCIAS: Es una evocación: atún al natural en lugar de anchoas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún al natural sustituye a las anchoas con un sabor marino más suave y menos salado. Para el Perfil1 baja el sodio y la grasa.
+ADVERTENCIAS: Es una evocación: atún al natural en lugar de anchoas.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~380 kcal (por porción)
 Proteínas: ~19 g
@@ -23211,8 +23248,8 @@ PREPARACION:
 1. Rehoga las espinacas en el aceite; mezcla con el pollo, el huevo y el parmesano.
 2. Corta la masa en rectángulos, cuécela 2 minutos, rellena y enrolla.
 3. Coloca en una fuente engrasada, cubre con bechamel y gratina 20 minutos a 200 °C.
-JUSTIFICACION: Menos grasa, mismo gratinado.
-ADVERTENCIAS: Es una evocación: pollo en lugar de ternera asada y jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la ternera y al jamón con un relleno más ligero, con bechamel ligera. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de ternera asada y jamón.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~26 g
@@ -23250,8 +23287,8 @@ PREPARACION:
 1. Bate huevos, harinas, leche y aceite; reposa 30 minutos y cuece crepes finas en sartén antiadherente.
 2. Rellena con pollo y queso; dobla y coloca en una fuente engrasada.
 3. Cubre con bechamel y nuez moscada y gratina 15 minutos a 200 °C.
-JUSTIFICACION: Mismo gratinado con menos grasa y sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y la mozzarella baja en grasa al gruyère. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~330 kcal (por porción)
 Proteínas: ~25 g
@@ -23286,8 +23323,8 @@ PREPARACION:
 1. Cuece los tallarines 3 minutos.
 2. Calienta el aceite con el ajo hasta dorar suavemente y añade el jugo.
 3. Mezcla con la pasta y el parmesano.
-JUSTIFICACION: Sabor a mantequilla dorada con poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con jugo desgrasado y menos mantequilla y queso es más ligero, con el sabor profundo del asado. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~15 g
@@ -23322,8 +23359,8 @@ PREPARACION:
 1. Corta la masa en tiras y cuece 3 minutos.
 2. Mezcla aceite, yogur, parmesano y nuez moscada fuera del fuego con un poco del agua de cocción.
 3. Combina con la pasta.
-JUSTIFICACION: Cremosa sin nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur en lugar de nata la salsa es más fresca y menos untuosa, aunque igual de cremosa, y la pasta es algo más rústica. Para el Perfil1 baja la grasa saturada y el queso.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~17 g
@@ -23362,8 +23399,8 @@ PREPARACION:
 1. Rehoga zanahoria y cebolla en el aceite; dora la carne, añade la naranja y el tomate y cuece 30 minutos.
 2. Cuece las láminas de pasta 2 minutos.
 3. Monta capas en una fuente engrasada con pasta, ragú, bechamel y parmesano; hornea 30 minutos a 190 °C.
-JUSTIFICACION: Clásica y más ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin vino y con menos mantequilla la boloñesa es más limpia y dulce, y las capas de pasta integral son más firmes que las de la lasaña tradicional. Para el Perfil1 se evitan el alcohol y el exceso de grasa, con carne magra.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~400 kcal (por porción)
 Proteínas: ~26 g
@@ -23405,8 +23442,8 @@ PREPARACION:
 1. Amasa harina y 2 huevos y estira láminas; haz el sofrito con aceite, verduras y tomate 20 minutos.
 2. Mezcla la carne con 1 huevo y parmesano; forma albóndigas pequeñas y hornéalas 12 minutos a 200 °C.
 3. Monta capas con pasta, salsa, albóndigas, huevo duro en rodajas y mozzarella; hornea 30 minutos a 190 °C.
-JUSTIFICACION: Menos grasa y sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con mozzarella baja en grasa y albóndigas al horno es más ligera y menos filante que la original, pero conserva el sabor a tomate y queso. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~410 kcal (por porción)
 Proteínas: ~28 g
@@ -23444,8 +23481,8 @@ PREPARACION:
 1. Ásala la berenjena 20 minutos a 200 °C; cuece las láminas.
 2. Mezcla la ricota con los piñones y la albahaca.
 3. Monta capas en una fuente engrasada con pasta, berenjena, ricota y tomate; cubre con parmesano y hornea 25 minutos a 190 °C.
-JUSTIFICACION: Ligera y mediterránea.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La berenjena y la ricota baja en grasa dan un plato suave y cremoso, con menos piñones; la lasaña integral es más rústica. Para el Perfil1 baja la grasa y el tomate va asado.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~280 kcal (por porción)
 Proteínas: ~13 g
@@ -23481,8 +23518,8 @@ PREPARACION:
 1. Amasa harina y huevos; estira láminas y cuécelas 2 minutos.
 2. Rehoga la achicoria en el aceite 5 minutos y mezcla con el yogur.
 3. Monta capas en una fuente engrasada con pasta, achicoria y bechamel; hornea 25 minutos a 190 °C.
-JUSTIFICACION: Amarguita suave y cremosa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La achicoria cocida pierde amargor y se vuelve dulce; con yogur la bechamel es más fresca. Para el Perfil1 baja la grasa y es suave para la digestión.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~270 kcal (por porción)
 Proteínas: ~12 g
@@ -23517,8 +23554,8 @@ PREPARACION:
 1. Amasa harina y huevos; estira y corta con la chitarra o a cuchillo en tiras gruesas.
 2. Cuece el tomate asado con el aceite y el pimentón 15 minutos.
 3. Cuece la pasta 4 minutos y mezcla con la salsa.
-JUSTIFICACION: Rústica y sin picante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin guindilla pierde el picor, pero el pimentón dulce da color y aroma; la pasta de harina integral es más rústica. Para el Perfil1 se evitan el picante y el exceso de aceite.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~13 g
@@ -23554,8 +23591,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade el pollo y dóralo 8 minutos con el caldo.
 2. Cuece la pasta 4 minutos.
 3. Mezcla con el pollo y sirve con parmesano.
-JUSTIFICACION: Textura similar sin vísceras.
-ADVERTENCIAS: Es una evocación: pollo en lugar de higadillos.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a los higadillos con un sabor más suave y sin la nota ferrosa. Para el Perfil1 se evitan las vísceras y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de higadillos.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~380 kcal (por porción)
 Proteínas: ~29 g
@@ -23590,8 +23627,8 @@ PREPARACION:
 1. Cuece la calabaza con el aceite y un poco de agua 20 minutos; machácala parcialmente.
 2. Cuece la pasta 3 minutos.
 3. Mezcla con la salsa, la nuez moscada y el parmesano.
-JUSTIFICACION: Dulce y cremosa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La calabaza da una salsa dulce y sedosa sobre la pasta integral rústica, con mucho menos aceite y mantequilla. Para el Perfil1 baja la grasa y la calabaza es de bajo índice glucémico.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~12 g
@@ -23624,8 +23661,8 @@ PREPARACION:
 1. Mezcla harina, sémola y agua; amasa 10 minutos y reposa 30.
 2. Forma tiras finas, corta trocitos y presiónalos con el pulgar para darles forma de oreja.
 3. Cuece 8-10 minutos.
-JUSTIFICACION: Pasta sin huevo y sin sal.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Con harinas integrales es más rústica y masticable que la clásica, con la forma que recoge la salsa. Para el Perfil1 aporta fibra y no lleva sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~8 g
@@ -23661,8 +23698,8 @@ PREPARACION:
 1. Cuece el brócoli al vapor 8 minutos.
 2. Rehoga con el aceite, el ajo y el pimentón 3 minutos y aplasta ligeramente.
 3. Mezcla con la pasta cocida y sirve con parmesano.
-JUSTIFICACION: Verde y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin guindilla ni pecorino es más suave, con el brócoli bien cocido que se deshace en la salsa. Para el Perfil1 se evitan el picante y la grasa, y aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~14 g
@@ -23696,8 +23733,8 @@ PREPARACION:
 1. Cuece las hojas 4 minutos y pícalas.
 2. Rehógalas con el aceite y el ajo.
 3. Mezcla con la pasta cocida.
-JUSTIFICACION: Simple y rica en fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Terrosa y suave, con el ajo asado más dulce que el crudo. Para el Perfil1 baja el aceite y se evita el ajo crudo.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~300 kcal (por porción)
 Proteínas: ~12 g
@@ -23732,8 +23769,8 @@ PREPARACION:
 1. Cuece el tomate asado con el aceite 10 minutos; añade la albahaca.
 2. Cuece la pasta.
 3. Mezcla con la salsa y corona con la ricota.
-JUSTIFICACION: Fresca y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con ricota baja en grasa es más fresca y menos salada que la curada, y el tomate asado es más dulce. Para el Perfil1 baja la grasa y la acidez.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~13 g
@@ -23774,8 +23811,8 @@ PREPARACION:
 1. Amasa harina, 1 huevo y agua; cuece las hierbas y pícalas; mezcla con ricota, 1 huevo, ajo y parmesano para el relleno.
 2. Estira la masa, rellena y forma los pansotti; cuécelos 4 minutos.
 3. Tritura avellanas, pan remojado en leche y aceite hasta lograr una salsa; sirve sobre los pansotti.
-JUSTIFICACION: Salsa de avellanas con la quinta parte del aceite.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La salsa de avellanas ligera sustituye a la clásica de nueces con menos aceite, con el relleno de ricota baja en grasa y hierbas. Para el Perfil1 baja la grasa y se evitan el vino y la mantequilla.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~16 g
@@ -23816,8 +23853,8 @@ PREPARACION:
 1. Amasa harinas, huevo y leche; estira y corta tallarines gruesos.
 2. Cuece col y papa 8 minutos; añade los tallarines 4 minutos.
 3. Rehoga cebolla y salvia en el aceite; monta capas con la pasta, los quesos y el aceite aromatizado y gratina 10 minutos.
-JUSTIFICACION: Mismo plato rústico con menos grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con mucha menos mantequilla y queso es menos untuoso y más rústico, con el trigo sarraceno terroso. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~18 g
@@ -23856,8 +23893,8 @@ PREPARACION:
 1. Amasa harina y 2 huevos; mezcla ricota, huevo, perejil, parmesano, pollo y mozzarella para el relleno.
 2. Estira la masa, rellena y corta los raviolis.
 3. Cuécelos 4 minutos y sirve con la salsa.
-JUSTIFICACION: Relleno suave y ligero.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y la mozzarella baja en grasa da el relleno fundido. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~22 g
@@ -23895,8 +23932,8 @@ PREPARACION:
 1. Amasa harina y 2 huevos; cuece las espinacas, escúrrelas y pícalas; mezcla con ricota, huevo y 40 g de parmesano.
 2. Estira, rellena y corta los raviolis; cuécelos 4 minutos.
 3. Saltea con el aceite y la salvia y sirve con el resto del parmesano.
-JUSTIFICACION: Muy rica en vegetales y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con ricota baja en grasa y menos parmesano el relleno es más ligero y fresco. Para el Perfil1 baja la grasa y aporta verdura.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~20 g
@@ -23937,8 +23974,8 @@ PREPARACION:
 1. Rehoga cebolla, apio, calabacín, hinojo y berenjena en el aceite 10 minutos; añade ajo y tomate y cuece 10 minutos.
 2. Agrega los langostinos 3 minutos.
 3. Cuece la pasta 3 minutos y mezcla con la salsa y el perejil.
-JUSTIFICACION: Marina y llena de verduras.
-ADVERTENCIAS: Es una evocación: langostinos en lugar de bogavante.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el langostino sustituye al bogavante con un dulzor marino más sencillo, y la berenjena asada da cuerpo. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Es una evocación: langostinos en lugar de bogavante.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~28 g
@@ -23975,8 +24012,8 @@ PREPARACION:
 1. Rehoga cebolla y setas en el aceite 10 minutos; añade naranja y tomate y cuece 8 minutos.
 2. Cuece los tallarines 3 minutos.
 3. Mezcla con la salsa y sirve con parmesano.
-JUSTIFICACION: Terrosa y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin vino y con tomate asado la salsa es más dulce, con las setas dando un fondo terroso. Para el Perfil1 se evitan el alcohol y el exceso de aceite.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~14 g
@@ -24013,8 +24050,8 @@ PREPARACION:
 1. Ásala la berenjena 20 minutos a 200 °C.
 2. Cuece ajo, tomate y aceite 10 minutos; añade la albahaca y la berenjena.
 3. Mezcla con los tallarines cocidos y corona con la ricota.
-JUSTIFICACION: Sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La berenjena asada es más suave y menos grasa que frita, con ricota baja en grasa. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~330 kcal (por porción)
 Proteínas: ~15 g
@@ -24050,8 +24087,8 @@ PREPARACION:
 1. Amasa harina, huevos y tinta; reposa 30 minutos, estira y corta tallarines.
 2. Cuece 3 minutos.
 3. Mezcla con el atún, el aceite y el perejil.
-JUSTIFICACION: Dramática y sencilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: El atún al natural y la tinta dan un sabor marino intenso, sin alcaparras y con menos aceite. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~380 kcal (por porción)
 Proteínas: ~22 g
@@ -24088,8 +24125,8 @@ PREPARACION:
 1. Hornea el salmón 12 minutos a 180 °C.
 2. Mezcla aceite, yogur, naranja y ralladura fuera del fuego.
 3. Combina con los tallarines cocidos y el salmón; sirve con eneldo.
-JUSTIFICACION: Cremosa y fresca.
-ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado; sin whisky.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el salmón fresco es más suave que el ahumado y la naranja reducida sustituye al whisky. Para el Perfil1 se evitan el alcohol, los ahumados y la nata.
+ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado; sin whisky.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~410 kcal (por porción)
 Proteínas: ~26 g
@@ -24128,8 +24165,8 @@ PREPARACION:
 1. Cuece las alcachofas al vapor 15 minutos y córtalas en láminas.
 2. Saltéalas con aceite y ajo; añade tomate asado y hierbas y cuece 8 minutos.
 3. Mezcla con los tallarines cocidos, la ralladura y el parmesano.
-JUSTIFICACION: Fresca y rica en fibra.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La alcachofa da un sabor vegetal dulce, con ralladura en lugar de limón y tomate asado. Para el Perfil1 se evitan el ácido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~14 g
@@ -24165,8 +24202,8 @@ PREPARACION:
 1. Rehoga cebolla y espinacas en el aceite 5 minutos.
 2. Mezcla con los tallarines cocidos, el yogur y la mitad del parmesano en una fuente engrasada.
 3. Cubre con el resto del parmesano y gratina 12 minutos a 200 °C.
-JUSTIFICACION: Verde y gratinado.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La espinaca da un sabor terroso y con yogur en lugar de nata es más fresca. Para el Perfil1 baja la grasa y el queso.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~18 g
@@ -24203,8 +24240,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade los guisantes y cuece 5 minutos.
 2. Fuera del fuego mezcla con yogur y pollo.
 3. Combina con los tallarines cocidos y sirve con parmesano.
-JUSTIFICACION: Cremosa sin nata ni embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y la salsa de yogur es más fresca que la de nata. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~380 kcal (por porción)
 Proteínas: ~24 g
@@ -24238,8 +24275,8 @@ PREPARACION:
 1. Cuece la cebolla con el aceite y un poco de agua a fuego muy suave 25 minutos.
 2. Cuece los tallarines.
 3. Mezcla y sirve con parmesano.
-JUSTIFICACION: Dulce y sencilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La cebolla cocida da dulzor; con aceite en lugar de mantequilla es más ligera. Para el Perfil1 baja la grasa y la cebolla va bien cocida.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~14 g
@@ -24277,8 +24314,8 @@ PREPARACION:
 1. Pela los langostinos y cuece las cáscaras con las verduras en 400 ml de agua 20 minutos; cuela.
 2. Rehoga los langostinos en el aceite 2 minutos; añade tomate y el caldo y reduce 8 minutos.
 3. Mezcla con los tagliolini cocidos y el perejil.
-JUSTIFICACION: Intenso sabor marino, poca grasa.
-ADVERTENCIAS: Es una evocación: langostinos en lugar de cigalas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el langostino sustituye a la cigala, con tomate asado en lugar de concentrado. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Es una evocación: langostinos en lugar de cigalas.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~370 kcal (por porción)
 Proteínas: ~30 g
@@ -24313,8 +24350,8 @@ PREPARACION:
 1. Cuece los tagliolini 3 minutos.
 2. Mezcla con el aceite, la nuez moscada y el parmesano.
 3. Sirve con los champiñones.
-JUSTIFICACION: Aroma terroso sin trufa.
-ADVERTENCIAS: Es una evocación: champiñón asado en lugar de trufa.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el champiñón asado recuerda el aroma terroso de la trufa, con mucha menos mantequilla y queso. Para el Perfil1 se evitan la trufa y la grasa.
+ADVERTENCIAS: Es una evocación: champiñón asado en lugar de trufa.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~16 g
@@ -24352,8 +24389,8 @@ PREPARACION:
 1. Saltea las vieiras en el aceite 1 minuto por lado; retira.
 2. Añade ajo, naranja y pimentón; cuece 2 minutos y agrega la lechuga 1 minuto.
 3. Mezcla con la pasta cocida, las vieiras y el perejil.
-JUSTIFICACION: Delicada y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin vino ni guindilla es más suave, con la naranja reducida dando un matiz dulce. Para el Perfil1 se evitan el alcohol y el picante.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~22 g
@@ -24390,8 +24427,8 @@ PREPARACION:
 1. Hornea la calabaza con 1 cda de aceite 30 minutos a 200 °C; hazla puré y mezcla con parmesano, huevo y pan rallado.
 2. Estira la masa, rellena y forma los tortelli; cuécelos 4 minutos.
 3. Saltea con el resto del aceite y la salvia.
-JUSTIFICACION: Dulce con mucho menos queso y grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con menos parmesano y huevo el relleno es más dulce y suave; la calabaza domina. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~320 kcal (por porción)
 Proteínas: ~14 g
@@ -24428,8 +24465,8 @@ PREPARACION:
 1. Calienta el aceite con el curry; añade guisantes y pollo y cuece 5 minutos.
 2. Cuece los tortellini.
 3. Mezcla todo fuera del fuego con el yogur y sirve con parmesano.
-JUSTIFICACION: Aromática y cremosa.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Curry sin picante.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y el curry suave da aroma sin picor, con yogur en lugar de nata. Para el Perfil1 se evitan el embutido, el picante y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Curry sin picante.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~380 kcal (por porción)
 Proteínas: ~20 g
@@ -24466,8 +24503,8 @@ PREPARACION:
 1. Dora la res en el aceite y mezcla con el pollo, el parmesano y el huevo para el relleno.
 2. Estira la masa, rellena y forma los tortellini.
 3. Cuécelos 4 minutos y sirve con la salsa de tomate.
-JUSTIFICACION: Mismo relleno sin embutidos.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón curado y mortadela.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón curado y la mortadela, con un relleno más limpio. Para el Perfil1 se evitan los embutidos y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón curado y mortadela.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~21 g
@@ -24505,8 +24542,8 @@ PREPARACION:
 1. Rehoga cebolla y setas con la mitad del aceite 10 minutos.
 2. Mezcla la ricota con el parmesano y el perejil; rellena la masa y forma los tortelloni; cuécelos 4 minutos.
 3. Saltea con el resto del aceite y la salvia y sirve con las setas.
-JUSTIFICACION: Cremosos y ligeros.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con ricota baja en grasa y setas el relleno es terroso y suave, con mucho menos aceite. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~340 kcal (por porción)
 Proteínas: ~20 g
@@ -24549,8 +24586,8 @@ PREPARACION:
 1. Amasa harina y huevos; tritura albahaca, perejil, piñones, nueces y aceite y mezcla con la ricota para el relleno.
 2. Estira, rellena y forma los tortelloni; cuécelos 4 minutos.
 3. Saltea calamarcitos con aceite y ajo; añade naranja y tomate y reduce 8 minutos; sirve sobre los tortelloni.
-JUSTIFICACION: Aromático con una fracción del aceite.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con un pesto casi sin aceite y ricota baja en grasa es más ligero, con los calamarcitos tiernos. Para el Perfil1 baja la grasa y se evita el vino.
+ADVERTENCIAS: Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~380 kcal (por porción)
 Proteínas: ~24 g
@@ -24582,8 +24619,8 @@ PREPARACION:
 1. Lleva el agua a un hervor muy suave.
 2. Casca cada huevo en un cucharón y deslízalo en el agua; cuece 5-6 minutos hasta que la yema esté firme.
 3. Retira con una espumadera y escurre.
-JUSTIFICACION: Sin vinagre ni sal; la yema queda totalmente cocida.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Yema bien cuajada.|Sin sal añadida.
+JUSTIFICACION: Sin vinagre el huevo queda algo menos compacto, pero con la yema bien cuajada es seguro y de textura firme. Para el Perfil1 se evitan el vinagre y el huevo poco cocido.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Yema bien cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~6 g
@@ -24620,8 +24657,8 @@ PREPARACION:
 1. Cuece las alcachofas al vapor 15 minutos.
 2. Calienta el aceite con la harina, el agua y el pollo 5 minutos; fuera del fuego añade el yogur.
 3. Escalfa los huevos hasta cuajar y sírvelos sobre las alcachofas con la salsa.
-JUSTIFICACION: Cremosa sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de panceta ahumada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la panceta y el yogur a la salsa con mostaza y vinagre, más suave y fresca. Para el Perfil1 se evitan el embutido y el vinagre.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta ahumada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~16 g
@@ -24655,8 +24692,8 @@ PREPARACION:
 1. Tuesta el pan y úntalo con el aceite.
 2. Escalfa los huevos hasta que la yema esté firme.
 3. Colócalos sobre el pan, cubre con queso y gratina 3 minutos.
-JUSTIFICACION: Sencillo y proteico.
-ADVERTENCIAS: Yema bien cuajada.|Sin sal añadida.
+JUSTIFICACION: Con mozzarella baja en grasa es menos filante, y sin vinagre el huevo es más suave. Para el Perfil1 se evitan el vinagre, la grasa y el huevo poco cocido.
+ADVERTENCIAS: Yema bien cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~15 g
@@ -24693,8 +24730,8 @@ PREPARACION:
 1. Mezcla espárragos picados, bechamel y parmesano; enfría y forma croquetas.
 2. Pásalas por harina, huevo batido y pan rallado, rocía con aceite y hornea 20 minutos a 200 °C.
 3. Escalfa los huevos hasta que cuajen y sírvelos con las croquetas.
-JUSTIFICACION: Crujientes sin fritura.
-ADVERTENCIAS: Yema bien cuajada.|Sin sal añadida.
+JUSTIFICACION: Al horno las croquetas son menos crujientes que fritas, pero más ligeras. Para el Perfil1 se evitan la fritura, el vinagre y el huevo poco cocido.
+ADVERTENCIAS: Yema bien cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~280 kcal (por porción)
 Proteínas: ~17 g
@@ -24730,8 +24767,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite; añade calabacín, berenjena y tomate y cuece 15 minutos.
 2. Escalfa los huevos hasta que cuajen.
 3. Sírvelos sobre las verduras.
-JUSTIFICACION: Ligero y con fibra.
-ADVERTENCIAS: Yema bien cuajada.|Sin sal añadida.
+JUSTIFICACION: Con berenjena asada y menos aceite es más ligero y vegetal. Para el Perfil1 se evitan el vinagre y la grasa.
+ADVERTENCIAS: Yema bien cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~9 g
@@ -24766,8 +24803,8 @@ PREPARACION:
 1. Escalfa los huevos hasta cuajar y enfríalos.
 2. Coloca en moldes una capa de gelatina, el huevo, el pollo, el atún y el pepino.
 3. Cubre con gelatina y cuaja 4 horas en la nevera.
-JUSTIFICACION: Presentación clásica sin conservas saladas.
-ADVERTENCIAS: Es una evocación: pollo y atún en lugar de jamón, anchoas y alcaparras.|Yema bien cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo y el atún al natural sustituyen al jamón y las anchoas, con pepino fresco en lugar de pepinillos. Para el Perfil1 se evitan los embutidos y el vinagre.
+ADVERTENCIAS: Es una evocación: pollo y atún en lugar de jamón, anchoas y alcaparras.|Yema bien cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~20 g
@@ -24799,8 +24836,8 @@ PREPARACION:
 1. Sumerge los huevos en agua hirviendo.
 2. Cuece 9 minutos para que la yema esté firme.
 3. Enfría un momento y sirve.
-JUSTIFICACION: Se evita la yema líquida.
-ADVERTENCIAS: Es una receta base.|Yema bien cuajada.
+JUSTIFICACION: Con la yema bien cuajada pierde la yema líquida, pero queda sabroso y firme. Para el Perfil1 se evita el huevo poco cocido.
+ADVERTENCIAS: Es una receta base.|Yema bien cuajada.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~6 g
@@ -24833,8 +24870,8 @@ PREPARACION:
 1. Cuece los espárragos al vapor 8 minutos.
 2. Cuece los huevos 9 minutos.
 3. Sirve con el aceite.
-JUSTIFICACION: Ligero y sin mantequilla.
-ADVERTENCIAS: Yema firme.|Sin sal añadida.
+JUSTIFICACION: Con aceite en lugar de mantequilla salada es más ligero, con la yema firme. Para el Perfil1 se evitan la sal y el huevo poco cocido.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~12 g
@@ -24867,8 +24904,8 @@ PREPARACION:
 1. Cuece los huevos 9 minutos.
 2. Sirve con una cucharadita de salsa.
 3. Acompaña con los palitos tostados.
-JUSTIFICACION: Sin ketchup (sodio y azúcar).
-ADVERTENCIAS: Yema firme.
+JUSTIFICACION: La salsa de tomate asado sustituye al ketchup con un sabor más dulce y natural. Para el Perfil1 se evitan el azúcar y el exceso de sal.
+ADVERTENCIAS: Yema firme.|Cocina bien los huevos: yema y clara completamente cuajadas.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~8 g
@@ -24900,8 +24937,8 @@ PREPARACION:
 1. Engrasa 4 platos aptos para horno.
 2. Casca un huevo en cada uno.
 3. Hornea 12-15 minutos a 180 °C hasta que clara y yema estén firmes.
-JUSTIFICACION: Sin mantequilla.
-ADVERTENCIAS: Es una receta base.|Yema firme.|Sin sal añadida.
+JUSTIFICACION: Con aceite y la yema firme es menos untuoso y más seco que el original. Para el Perfil1 se evita el huevo poco cocido.
+ADVERTENCIAS: Es una receta base.|Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~6 g
@@ -24934,8 +24971,8 @@ PREPARACION:
 1. Saltea los champiñones en el aceite 8 minutos.
 2. Repártelos en platos aptos para horno y casca un huevo en cada uno.
 3. Hornea 12-15 minutos a 180 °C.
-JUSTIFICACION: Ligero y sabroso.
-ADVERTENCIAS: Yema firme.|Sin sal añadida.
+JUSTIFICACION: Los champiñones dan un sabor terroso; con la yema firme y menos mantequilla es más ligero. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~10 g
@@ -24969,8 +25006,8 @@ PREPARACION:
 1. Engrasa platos aptos para horno y espolvorea con perejil.
 2. Casca un huevo por plato y hornea 12-15 minutos a 180 °C.
 3. Sirve con el pan tostado.
-JUSTIFICACION: Simple y ligero.
-ADVERTENCIAS: Yema firme.|Sin sal añadida.
+JUSTIFICACION: Más ligero y fresco, con perejil y pan integral. Para el Perfil1 baja la grasa y la yema va firme.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~210 kcal (por porción de 2 huevos y 2 rebanadas)
 Proteínas: ~15 g
@@ -25004,8 +25041,8 @@ PREPARACION:
 1. Engrasa platos aptos para horno y casca los huevos.
 2. Hornea 12-15 minutos a 180 °C.
 3. Cubre con los champiñones y la nuez moscada.
-JUSTIFICACION: Aroma terroso sin trufa.
-ADVERTENCIAS: Es una evocación: champiñón en lugar de trufa.|Yema firme.
+JUSTIFICACION: Es una evocación: el champiñón asado sustituye a la trufa con un aroma terroso más sencillo. Para el Perfil1 se evitan la trufa y la grasa.
+ADVERTENCIAS: Es una evocación: champiñón en lugar de trufa.|Yema firme.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~160 kcal (por porción de 2 huevos)
 Proteínas: ~13 g
@@ -25039,8 +25076,8 @@ PREPARACION:
 1. Cuece los espárragos al vapor 8 minutos y colócalos en platos aptos para horno.
 2. Casca un huevo sobre cada uno y espolvorea con parmesano y aceite.
 3. Hornea 12-15 minutos a 180 °C.
-JUSTIFICACION: Ligero y gratinado.
-ADVERTENCIAS: Yema firme.|Sin sal añadida.
+JUSTIFICACION: Con aceite y menos queso es más ligero, con el espárrago tierno. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~13 g
@@ -25075,8 +25112,8 @@ PREPARACION:
 1. Cuece el hinojo al vapor 12 minutos y córtalo en láminas.
 2. Colócalo en una fuente engrasada con la mozzarella, haz huecos y casca los huevos.
 3. Espolvorea con parmesano y hornea 15 minutos a 180 °C.
-JUSTIFICACION: Ligero y aromático.
-ADVERTENCIAS: Yema firme.|Sin sal añadida.
+JUSTIFICACION: El hinojo da un toque anisado y la mozzarella baja en grasa un gratinado suave. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~220 kcal (por porción)
 Proteínas: ~17 g
@@ -25111,8 +25148,8 @@ PREPARACION:
 1. Pasa las rodajas por harina, rocíalas con el aceite y hornéalas 20 minutos a 200 °C.
 2. Colócalas en platos engrasados con la salsa y casca un huevo en cada uno.
 3. Hornea 12-15 minutos a 180 °C.
-JUSTIFICACION: Sin freír la berenjena.
-ADVERTENCIAS: Yema firme.|Sin sal añadida.
+JUSTIFICACION: La berenjena asada es más ligera y menos aceitosa que la frita. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~10 g
@@ -25145,8 +25182,8 @@ PREPARACION:
 1. Dora la polenta en el horno con el aceite 10 minutos a 200 °C.
 2. Haz un hueco en cada rebanada y casca un huevo.
 3. Hornea 12-15 minutos a 180 °C.
-JUSTIFICACION: Sin mantequilla.
-ADVERTENCIAS: Yema firme.|Sin sal añadida.
+JUSTIFICACION: Con aceite en lugar de mantequilla es más ligero, con la polenta cremosa. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~9 g
@@ -25181,8 +25218,8 @@ PREPARACION:
 1. Corta la tapa de los tomates y vacíalos; úntalos con el aceite y el orégano.
 2. Casca un huevo en cada uno.
 3. Hornea 25 minutos a 180 °C hasta que el huevo esté firme; sirve con perejil.
-JUSTIFICACION: Ligero y fresco.
-ADVERTENCIAS: Yema firme.|Sin sal añadida.
+JUSTIFICACION: El tomate asado da una base dulce y concentrada frente al tomate fresco, y con la yema firme se pierde la yema líquida pero queda un plato seguro y sabroso. Para el Perfil1 se evitan los crudos y la acidez.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~8 g
@@ -25217,8 +25254,8 @@ PREPARACION:
 1. Dora el pollo en el aceite 8 minutos con el orégano; añade la naranja.
 2. Repártelo en platos aptos para horno y casca un huevo en cada uno.
 3. Hornea 12-15 minutos a 180 °C.
-JUSTIFICACION: Sabroso y sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de salchichas.|Yema firme.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a las salchichas con un sabor más limpio, y la naranja reducida al vino. Para el Perfil1 se evitan el embutido, el alcohol y el huevo poco cocido.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchichas.|Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~200 kcal (por porción)
 Proteínas: ~25 g
@@ -25253,8 +25290,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos.
 2. Remoja el pan en la leche y colócalo en platos con la cebolla.
 3. Casca un huevo en cada plato y hornea 15 minutos a 180 °C.
-JUSTIFICACION: Reconfortante y sin fritura.
-ADVERTENCIAS: Yema firme.|Sin sal añadida.
+JUSTIFICACION: Con pan integral y leche descremada es más ligero y menos untuoso, con la yema firme. Para el Perfil1 baja la grasa y el huevo va bien cocido.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~15 g
@@ -25286,8 +25323,8 @@ PREPARACION:
 1. Calienta la sartén antiadherente con el aceite.
 2. Casca los huevos y cocínalos tapados a fuego medio-bajo 4 minutos.
 3. Comprueba que clara y yema estén firmes.
-JUSTIFICACION: Sin fritura, sin mantequilla.
-ADVERTENCIAS: Es una receta base.|Yema firme.|Sin sal añadida.
+JUSTIFICACION: A la plancha sin grasa quedan menos crujientes y dorados que fritos, pero más limpios y suaves. Para el Perfil1 se evitan la fritura y el huevo poco cocido.
+ADVERTENCIAS: Es una receta base.|Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~6 g
@@ -25321,8 +25358,8 @@ PREPARACION:
 1. Mezcla el atún con la mitad del aceite hasta formar una pasta.
 2. Tuesta el pan y úntalo con la pasta.
 3. Cocina los huevos a la plancha con el resto del aceite hasta que estén firmes y colócalos sobre el pan.
-JUSTIFICACION: Toque marino sin anchoas.
-ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Yema firme.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún al natural sustituye a las anchoas con un sabor marino más suave y menos salado, y la tostada integral es más rústica. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~17 g
@@ -25359,8 +25396,8 @@ PREPARACION:
 1. Cuece la cebolla con el aceite a fuego muy suave 25 minutos; añade stevia, naranja y remolacha y reduce 5 minutos.
 2. Cocina los huevos a la plancha antiadherente hasta que estén firmes.
 3. Sirve sobre la cebolla con las tostadas.
-JUSTIFICACION: Dulce y vinoso sin alcohol.
-ADVERTENCIAS: Es una evocación: sin vino ni vinagres.|Yema firme.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin vino ni vinagre, la cebolla dulce con naranja reducida y remolacha da un agridulce más suave. Para el Perfil1 se evitan el alcohol, el vinagre y el azúcar.
+ADVERTENCIAS: Es una evocación: sin vino ni vinagres.|Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~200 kcal (por porción de 2 huevos)
 Proteínas: ~13 g
@@ -25395,8 +25432,8 @@ PREPARACION:
 1. Calienta el aceite con la salvia 1 minuto.
 2. Cocina los huevos tapados hasta que estén firmes.
 3. Sirve con el perejil y la ralladura.
-JUSTIFICACION: Aromático y ligero.
-ADVERTENCIAS: Es una evocación: sin vinagre.|Yema firme.|Sin sal añadida.
+JUSTIFICACION: La salvia perfuma el huevo con un aroma herbal tostado, y sin vinagre es más suave. Para el Perfil1 baja la grasa y se evita el vinagre.
+ADVERTENCIAS: Es una evocación: sin vinagre.|Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~160 kcal (por porción de 2 huevos)
 Proteínas: ~13 g
@@ -25431,8 +25468,8 @@ PREPARACION:
 1. Dora el pollo con el pimentón en una sartén antiadherente con el aceite 6 minutos.
 2. Cocina los huevos tapados hasta que estén firmes.
 3. Sirve con el pollo y los tomates a la plancha.
-JUSTIFICACION: Desayuno contundente sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de panceta ahumada.|Yema firme.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la panceta con un sabor más limpio y menos graso. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta ahumada.|Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~200 kcal (por porción)
 Proteínas: ~21 g
@@ -25467,8 +25504,8 @@ PREPARACION:
 1. Tritura los champiñones asados con la mitad del aceite y la nuez moscada hasta formar una pasta untuosa.
 2. Tuesta el pan y úntalo con la pasta.
 3. Cocina los huevos a la plancha con el resto del aceite hasta que estén firmes y colócalos encima.
-JUSTIFICACION: Untuoso, sin foie gras.
-ADVERTENCIAS: Es una evocación: champiñón en lugar de foie gras.|Yema firme.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: la pasta de champiñón da la untuosidad terrosa que daba el foie gras, sin su grasa. Para el Perfil1 se evitan las vísceras y la grasa.
+ADVERTENCIAS: Es una evocación: champiñón en lugar de foie gras.|Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~250 kcal (por porción de 2 huevos y 2 rebanadas)
 Proteínas: ~16 g
@@ -25506,8 +25543,8 @@ PREPARACION:
 1. Cuece las coles 10 minutos; rehoga la cebolla en el aceite, añade harina, leche y las coles y cuece 8 minutos; incorpora pollo y yogur fuera del fuego.
 2. Cocina los huevos a la plancha tapados hasta que estén firmes.
 3. Sirve sobre las coles.
-JUSTIFICACION: Cremosas sin nata.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Yema firme.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y el yogur a la nata, con las coles tiernas. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~20 g
@@ -25540,8 +25577,8 @@ PREPARACION:
 1. Engrasa 4 cazuelitas y coloca el ingrediente elegido.
 2. Casca un huevo en cada una.
 3. Hornea 12-15 minutos a 180 °C hasta que cuajen.
-JUSTIFICACION: Sin mantequilla.
-ADVERTENCIAS: Es una receta base.|Yema firme.|Sin sal añadida.
+JUSTIFICACION: Con aceite en lugar de mantequilla es más ligero, con la yema cuajada por el calor suave de la cazuela. Para el Perfil1 se evitan las vísceras y el huevo poco cocido.
+ADVERTENCIAS: Es una receta base.|Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~6 g
@@ -25575,8 +25612,8 @@ PREPARACION:
 1. Cuece los puerros con el aceite y un poco de agua 15 minutos.
 2. Repártelos en cazuelitas engrasadas con la nuez moscada y casca un huevo en cada una.
 3. Hornea 12-15 minutos a 180 °C.
-JUSTIFICACION: Dulce y ligero.
-ADVERTENCIAS: Yema firme.|Sin sal añadida.
+JUSTIFICACION: El puerro cocido da dulzor y suavidad, con menos mantequilla es más ligero. Para el Perfil1 baja la grasa y el huevo va bien cocido.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~9 g
@@ -25610,8 +25647,8 @@ PREPARACION:
 1. Engrasa las cazuelitas y reparte el pescado.
 2. Casca un huevo en cada una.
 3. Hornea 12-15 minutos a 180 °C y sirve con perejil.
-JUSTIFICACION: Marino sin conservas.
-ADVERTENCIAS: Es una evocación: pescado blanco en lugar de sardinas en lata.|Yema firme.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pescado blanco sustituye a las sardinas en aceite con un sabor más suave. Para el Perfil1 baja la grasa y el huevo va bien cocido.
+ADVERTENCIAS: Es una evocación: pescado blanco en lugar de sardinas en lata.|Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Revisa que no queden espinas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~17 g
@@ -25645,8 +25682,8 @@ PREPARACION:
 1. Coloca una loncha de pollo en el fondo de cada cazuelita.
 2. Casca un huevo y cubre con el yogur y el parmesano.
 3. Hornea 12-15 minutos a 180 °C.
-JUSTIFICACION: Cremoso sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de tocino.|Yema firme.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al tocino y el yogur a la nata, con menos queso. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de tocino.|Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~21 g
@@ -25679,8 +25716,8 @@ PREPARACION:
 1. Engrasa las cazuelitas y reparte la salsa caliente.
 2. Casca un huevo en cada una.
 3. Hornea 12-15 minutos a 180 °C.
-JUSTIFICACION: Plato único y proteico.
-ADVERTENCIAS: Yema firme.|Sin sal añadida.
+JUSTIFICACION: Con salsa boloñesa ligera es menos grasa que el original, con la yema cuajada. Para el Perfil1 baja la grasa y el huevo va bien cocido.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción de 2 huevos)
 Proteínas: ~20 g
@@ -25715,8 +25752,8 @@ PREPARACION:
 1. Engrasa las cazuelitas y coloca el tomate asado con las hierbas.
 2. Casca un huevo en cada una.
 3. Hornea 12-15 minutos a 180 °C.
-JUSTIFICACION: Fresca y aromática.
-ADVERTENCIAS: Yema firme.|Sin sal añadida.
+JUSTIFICACION: Fresco y aromático con hierbas y tomate asado. Para el Perfil1 baja la grasa y el huevo va bien cocido.
+ADVERTENCIAS: Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~8 g
@@ -25748,8 +25785,8 @@ PREPARACION:
 1. Sumerge los huevos en agua hirviendo.
 2. Cuece 8 minutos.
 3. Enfría en agua fría y pela.
-JUSTIFICACION: La yema deja de estar líquida.
-ADVERTENCIAS: Es una receta base.|Yema cuajada.
+JUSTIFICACION: Con 8 minutos de cocción la yema queda cuajada y cremosa, no líquida como en el original. Para el Perfil1 se evita el huevo poco cocido.
+ADVERTENCIAS: Es una receta base.|Yema cuajada.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~6 g
@@ -25783,8 +25820,8 @@ PREPARACION:
 1. Cuece las espinacas 3 minutos, escúrrelas y pícalas; rehógalas con el aceite.
 2. Incorpora el yogur fuera del fuego.
 3. Sirve con los huevos cocidos 8 minutos.
-JUSTIFICACION: Cremosas sin nata.
-ADVERTENCIAS: Yema cuajada.|Sin sal añadida.
+JUSTIFICACION: Las espinacas con yogur dan una base suave y fresca. Para el Perfil1 baja la grasa y el huevo va bien cocido.
+ADVERTENCIAS: Yema cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~13 g
@@ -25819,8 +25856,8 @@ PREPARACION:
 1. Unta los boletos con el aceite y ásalos 15 minutos a 200 °C.
 2. Cuece los huevos 8 minutos y pélalos.
 3. Sirve sobre los boletos con perejil y ralladura.
-JUSTIFICACION: Terroso y ligero.
-ADVERTENCIAS: Yema cuajada.|Sin sal añadida.
+JUSTIFICACION: Los boletos dan un sabor terroso profundo, con ralladura en lugar de limón. Para el Perfil1 baja la grasa y se evita el ácido.
+ADVERTENCIAS: Yema cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~9 g
@@ -25856,8 +25893,8 @@ PREPARACION:
 1. Rehoga el chalote en el aceite; añade la harina y 150 ml de agua y cuece 5 minutos; incorpora el yogur fuera del fuego.
 2. Cuece los huevos 8 minutos y pélalos.
 3. Sirve con la salsa y las hierbas.
-JUSTIFICACION: Cremosa sin mostaza.
-ADVERTENCIAS: Es una evocación: sin mostaza.|Yema cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin mostaza la salsa es más suave, con el yogur y las hierbas dando frescor. Para el Perfil1 se evitan la mostaza y la grasa.
+ADVERTENCIAS: Es una evocación: sin mostaza.|Yema cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~180 kcal (por porción de 2 huevos)
 Proteínas: ~14 g
@@ -25893,8 +25930,8 @@ PREPARACION:
 1. Cuece cebolla, apio y zanahoria con un poco de agua 10 minutos; añade la passata y cuece 10 minutos.
 2. Cuece los huevos 8 minutos y pélalos.
 3. Sírvelos en la salsa con perejil.
-JUSTIFICACION: Sin grasa añadida.
-ADVERTENCIAS: Yema cuajada.|Sin sal añadida.
+JUSTIFICACION: El tomate asado da una salsa dulce y suave. Para el Perfil1 se evitan los crudos y la acidez.
+ADVERTENCIAS: Yema cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción de 2 huevos)
 Proteínas: ~13 g
@@ -25928,8 +25965,8 @@ PREPARACION:
 1. Cuece el brócoli al vapor 8 minutos.
 2. Mezcla con el aceite y el ajo.
 3. Sirve con los huevos cocidos 8 minutos.
-JUSTIFICACION: Ligero y rico en fibra.
-ADVERTENCIAS: Yema cuajada.|Sin sal añadida.
+JUSTIFICACION: El brócoli tierno con ajo asado es suave, y la yema cuajada es cremosa. Para el Perfil1 baja el aceite y se evita el ajo crudo.
+ADVERTENCIAS: Yema cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~12 g
@@ -25967,8 +26004,8 @@ PREPARACION:
 1. Cuece las alcachofas al vapor 15 minutos y córtalas en láminas.
 2. Rehoga chalote y tomillo en el aceite; añade harina, naranja y alcachofas y cuece 5 minutos; suma el pollo.
 3. Sirve con los huevos cocidos 8 minutos.
-JUSTIFICACION: Aromático y ligero.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón; sin vino.|Yema cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y la naranja reducida al vino. Para el Perfil1 se evitan el embutido y el alcohol.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón; sin vino.|Yema cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~180 kcal (por porción)
 Proteínas: ~19 g
@@ -26000,8 +26037,8 @@ PREPARACION:
 1. Sumerge los huevos en agua hirviendo.
 2. Cuece 10 minutos.
 3. Enfría en agua fría y pela.
-JUSTIFICACION: Base de muchas recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.
+JUSTIFICACION: Cocidos sin sal en el agua, quedan firmes y tiernos. Para el Perfil1 es una base segura y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Cocina bien los huevos: yema y clara completamente cuajadas.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~75 kcal (por porción)
 Proteínas: ~6 g
@@ -26037,8 +26074,8 @@ PREPARACION:
 1. Hidrata la gelatina, disuélvela en 200 ml de caldo casero tibio sin sal y mézclala con la mayonesa ligera y la ralladura.
 2. Coloca en moldes el huevo duro en rodajas y el pollo; cubre con la mezcla.
 3. Cuaja 4 horas en la nevera, desmolda y adorna con los rábanos.
-JUSTIFICACION: Mismo plato frío, sin embutidos ni encurtidos.
-ADVERTENCIAS: Es una evocación: pollo en lugar de lengua encurtida y jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la lengua y el jamón, con mayonesa de yogur y ralladura. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de lengua encurtida y jamón.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~24 g
@@ -26073,8 +26110,8 @@ PREPARACION:
 1. Mezcla la bechamel con el curry.
 2. Coloca los huevos duros partidos por la mitad en una fuente engrasada y cúbrelos con la salsa.
 3. Espolvorea con parmesano y gratina 10 minutos a 200 °C.
-JUSTIFICACION: Aromático y cremoso con poca grasa.
-ADVERTENCIAS: Curry sin picante.|Sin sal añadida.
+JUSTIFICACION: Con curry dulce y bechamel ligera es suave y sin picor. Para el Perfil1 se evitan el picante y la grasa.
+ADVERTENCIAS: Curry sin picante.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~13 g
@@ -26110,8 +26147,8 @@ PREPARACION:
 1. Parte los huevos por la mitad y retira las yemas; machácalas con el atún, las aceitunas y la mitad del tomate.
 2. Rellena las claras con la mezcla.
 3. Sirve sobre lechuga con el resto del tomate y la mayonesa ligera.
-JUSTIFICACION: Sabor marino sin anchoas.
-ADVERTENCIAS: Es una evocación: atún al natural en lugar de anchoas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún al natural sustituye a las anchoas, con tomate asado dulce. Para el Perfil1 se evitan el exceso de sal y la grasa.
+ADVERTENCIAS: Es una evocación: atún al natural en lugar de anchoas.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~200 kcal (por porción)
 Proteínas: ~17 g
@@ -26146,8 +26183,8 @@ PREPARACION:
 1. Tritura las nueces con el yogur y la ralladura hasta obtener una crema.
 2. Parte los huevos por la mitad.
 3. Cubre con la crema y espolvorea con perejil.
-JUSTIFICACION: Cremosa sin anchoas ni mantequilla.
-ADVERTENCIAS: Es una evocación: yogur en lugar de mantequilla y pasta de anchoas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el yogur sustituye a las anchoas y la mantequilla, con nueces para el crocante. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Es una evocación: yogur en lugar de mantequilla y pasta de anchoas.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~180 kcal (por porción)
 Proteínas: ~11 g
@@ -26184,8 +26221,8 @@ PREPARACION:
 1. Mezcla el aceite con la naranja.
 2. Reparte la escarola, la rúcula y el tomate en rodajas y aliña.
 3. Coloca los huevos partidos y corona con la mayonesa ligera.
-JUSTIFICACION: Sin vinagre ni alcaparras.
-ADVERTENCIAS: Es una evocación: aliño de naranja en lugar de vinagre.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el aliño de naranja sustituye al vinagre, con mayonesa ligera de yogur. Para el Perfil1 se evitan el vinagre y la grasa.
+ADVERTENCIAS: Es una evocación: aliño de naranja en lugar de vinagre.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~210 kcal (por porción)
 Proteínas: ~13 g
@@ -26219,8 +26256,8 @@ PREPARACION:
 1. Parte los huevos por la mitad y mezcla las yemas con el yogur y el perejil.
 2. Rellena las claras.
 3. Corona cada mitad con una gamba.
-JUSTIFICACION: Ligero y fresco.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur en lugar de mantequilla y anchoas es más suave. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~16 g
@@ -26255,8 +26292,8 @@ PREPARACION:
 1. Hornea el salmón 12 minutos a 180 °C y desmenúzalo.
 2. Mezcla con el yogur y el eneldo.
 3. Sirve con los huevos partidos sobre las hojas de lechuga.
-JUSTIFICACION: Fresco, sin ahumados.
-ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el salmón fresco es más suave y menos salado que el ahumado. Para el Perfil1 se evitan los ahumados y la nata.
+ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~22 g
@@ -26293,8 +26330,8 @@ PREPARACION:
 1. Mezcla el aceite con la ralladura y el perejil.
 2. Tuesta el pan y cubre con rodajas de huevo duro y un mejillón.
 3. Aliña con el aceite aromatizado y sirve con la naranja.
-JUSTIFICACION: Marino sin marisco crudo.
-ADVERTENCIAS: Es una evocación: mejillones cocidos en lugar de ostras crudas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: los mejillones cocidos sustituyen a las ostras crudas con un sabor marino parecido, pero más firme. Para el Perfil1 se evitan los mariscos crudos y la grasa.
+ADVERTENCIAS: Es una evocación: mejillones cocidos en lugar de ostras crudas.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Si tienes alergia a los mariscos, evítalos.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~15 g
@@ -26328,8 +26365,8 @@ PREPARACION:
 1. Vierte una capa de gelatina en los moldes y cuaja 30 minutos.
 2. Coloca el pollo, el huevo y las aceitunas y cubre con gelatina.
 3. Cuaja 4 horas en la nevera.
-JUSTIFICACION: Vistoso y sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón, con aceitunas enjuagadas en lugar de alcaparras. Para el Perfil1 se evitan los embutidos y el exceso de sal.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~18 g
@@ -26368,8 +26405,8 @@ PREPARACION:
 1. Parte los huevos por la mitad, retira las yemas y mézclalas con ricota, parmesano, yogur y perejil; rellena las claras y júntalas.
 2. Pásalos por harina, huevo batido y pan rallado.
 3. Rocíalos con el aceite y hornea 15 minutos a 200 °C.
-JUSTIFICACION: Crujientes sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno son menos crujientes que fritos, con una capa tierna de ricota y queso. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~16 g
@@ -26401,8 +26438,8 @@ PREPARACION:
 1. Bate los huevos sin sal.
 2. Calienta el aceite en sartén antiadherente a fuego bajo y vierte los huevos.
 3. Remueve hasta que estén completamente cuajados.
-JUSTIFICACION: Sin mantequilla y sin textura cremosa cruda.
-ADVERTENCIAS: Es una receta base.|Totalmente cuajados.|Sin sal añadida.
+JUSTIFICACION: Con muy poco aceite quedan más secos y firmes que los cremosos originales. Para el Perfil1 se evitan la grasa y el huevo poco cocido.
+ADVERTENCIAS: Es una receta base.|Totalmente cuajados.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~9 g
@@ -26435,8 +26472,8 @@ PREPARACION:
 1. Cuece las alcachofas al vapor 15 minutos y córtalas en láminas.
 2. Saltéalas con el aceite 4 minutos.
 3. Añade los huevos batidos y remueve hasta cuajar por completo.
-JUSTIFICACION: Ligero y de temporada.
-ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.
+JUSTIFICACION: La alcachofa da un sabor vegetal dulce, con los huevos bien cuajados. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~10 g
@@ -26474,8 +26511,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade ajo, tomate, hierbas y pimentón y cuece 10 minutos.
 2. Incorpora los huevos batidos y remueve hasta cuajar por completo.
 3. Añade las aceitunas y sirve.
-JUSTIFICACION: Rústicos y sin picante.
-ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.
+JUSTIFICACION: Sin guindilla es más suave, con el pimentón dulce y el tomate asado. Para el Perfil1 se evitan el picante y el exceso de sal.
+ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~11 g
@@ -26508,8 +26545,8 @@ PREPARACION:
 1. Calienta el aceite y añade los huevos batidos.
 2. Remueve a fuego bajo hasta que estén casi cuajados.
 3. Incorpora el queso y cocina hasta que los huevos estén firmes.
-JUSTIFICACION: Cremosos sin exceso de grasa.
-ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de fontina.|Totalmente cuajados.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: la mozzarella baja en grasa funde menos que la fontina. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de fontina.|Totalmente cuajados.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~13 g
@@ -26545,8 +26582,8 @@ PREPARACION:
 1. Mezcla el champiñón con la mitad del aceite y la nuez moscada y unta el pan tostado.
 2. Revuelve los huevos con el resto del aceite hasta que cuajen por completo; incorpora el yogur fuera del fuego.
 3. Sirve sobre el pan.
-JUSTIFICACION: Aroma terroso sin trufa.
-ADVERTENCIAS: Es una evocación: champiñón en lugar de trufa.|Totalmente cuajados.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el champiñón da un aroma terroso más simple que la trufa. Para el Perfil1 se evitan la trufa y la grasa.
+ADVERTENCIAS: Es una evocación: champiñón en lugar de trufa.|Totalmente cuajados.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción de 2 huevos)
 Proteínas: ~15 g
@@ -26582,8 +26619,8 @@ PREPARACION:
 1. Rehoga el chalote en el aceite 3 minutos; añade las espinacas y cuece 4 minutos.
 2. Incorpora las hierbas y los huevos batidos.
 3. Remueve hasta que estén totalmente cuajados.
-JUSTIFICACION: Verdes y ligeros.
-ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.
+JUSTIFICACION: Verdes y tiernos, con poco aceite. Para el Perfil1 baja la grasa y aporta hojas verdes.
+ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~10 g
@@ -26617,8 +26654,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos.
 2. Añade los frijoles y calienta 3 minutos.
 3. Incorpora los huevos batidos y remueve hasta cuajar por completo.
-JUSTIFICACION: Contundente y con fibra.
-ADVERTENCIAS: Es una evocación: frijoles cocidos en casa en lugar de conserva con sal.|Totalmente cuajados.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: los frijoles cocidos en casa son más suaves y menos salados que los de conserva. Para el Perfil1 aportan fibra y se evitan las conservas.
+ADVERTENCIAS: Es una evocación: frijoles cocidos en casa en lugar de conserva con sal.|Totalmente cuajados.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~15 g
@@ -26652,8 +26689,8 @@ PREPARACION:
 1. Dora el pollo en el aceite 8 minutos; añade la salsa.
 2. Incorpora los huevos batidos.
 3. Remueve hasta que estén totalmente cuajados.
-JUSTIFICACION: Textura parecida, sin vísceras.
-ADVERTENCIAS: Es una evocación: pollo en lugar de higadillos.|Totalmente cuajados.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al higadillo con un sabor más suave. Para el Perfil1 se evitan las vísceras y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de higadillos.|Totalmente cuajados.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~29 g
@@ -26689,8 +26726,8 @@ PREPARACION:
 1. Mezcla el pollo con ajo, hinojo y pimentón y deja reposar 15 minutos.
 2. Dóralo en el aceite 8 minutos.
 3. Añade los huevos batidos y remueve hasta cuajar por completo.
-JUSTIFICACION: Sabor de salchicha sin procesados.
-ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchichas.|Totalmente cuajados.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sazonado sustituye a las salchichas con un sabor más limpio. Para el Perfil1 se evitan los embutidos y la grasa.
+ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchichas.|Totalmente cuajados.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~200 kcal (por porción)
 Proteínas: ~26 g
@@ -26725,8 +26762,8 @@ PREPARACION:
 1. Cuece las papas, hazlas puré con la leche y el aceite; forma nidos sobre una bandeja engrasada y gratina 10 minutos a 200 °C.
 2. Revuelve los huevos hasta que estén totalmente cuajados.
 3. Rellena los nidos y espolvorea con el parmesano.
-JUSTIFICACION: Menos grasa, mismo plato.
-ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.
+JUSTIFICACION: Con leche descremada y aceite es más ligero, con los nidos de papa tiernos. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~13 g
@@ -26760,8 +26797,8 @@ PREPARACION:
 1. Hornea el salmón 12 minutos a 180 °C y desmenúzalo.
 2. Mezcla el yogur con la ralladura.
 3. Unta las crepes con el yogur, reparte el salmón y enróllalas.
-JUSTIFICACION: Fresco y ligero.
-ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el salmón fresco horneado es más suave y menos salado que el ahumado, con yogur en lugar de mantequilla. Para el Perfil1 se evitan los ahumados y la grasa.
+ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~160 kcal (por porción)
 Proteínas: ~12 g
@@ -26795,8 +26832,8 @@ PREPARACION:
 1. Cuece el salmón al vapor 8 minutos y córtalo en lonchas finas.
 2. Mézclalo con la ralladura y la pimienta verde.
 3. Rellena las crepes y enróllalas.
-JUSTIFICACION: Sin pescado crudo ni marinado ácido.
-ADVERTENCIAS: Es una evocación: salmón cocido en lugar de crudo marinado en limón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el salmón cocido al vapor sustituye al crudo con una textura más firme, con la pimienta verde en pizca. Para el Perfil1 se evitan los pescados crudos y el picante.
+ADVERTENCIAS: Es una evocación: salmón cocido en lugar de crudo marinado en limón.|Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~11 g
@@ -26832,8 +26869,8 @@ PREPARACION:
 1. Mezcla ricota, queso azul y nueces; rellena las crepes y dóblalas en una fuente engrasada.
 2. Cubre con el yogur.
 3. Gratina 10 minutos a 200 °C.
-JUSTIFICACION: Sabor a queso azul con mucho menos grasa.
-ADVERTENCIAS: Es una evocación: ricota y yogur en lugar de mascarpone y nata.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: la ricota y el yogur sustituyen al mascarpone, con poco gorgonzola. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Es una evocación: ricota y yogur en lugar de mascarpone y nata.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~9 g
@@ -26867,8 +26904,8 @@ PREPARACION:
 1. Cuece los cardos 25 minutos, escúrrelos y saltéalos con el aceite.
 2. Rellena las crepes, dóblalas en una fuente engrasada y cubre con la bechamel.
 3. Gratina 15 minutos a 200 °C.
-JUSTIFICACION: Verduras, poca grasa.
-ADVERTENCIAS: Es una evocación: si no hay cardos, apio cocido.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el apio cocido sustituye al cardo con un sabor parecido. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Es una evocación: si no hay cardos, apio cocido.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~6 g
@@ -26904,8 +26941,8 @@ PREPARACION:
 1. Rehoga las espinacas en el aceite 4 minutos, escúrrelas y pícalas; mezcla con ricota, yema y la mitad del parmesano.
 2. Rellena las crepes y dóblalas en una fuente engrasada.
 3. Espolvorea con el resto del parmesano y gratina 12 minutos a 200 °C.
-JUSTIFICACION: Ligeras y con hierro.
-ADVERTENCIAS: Yema bien cocida al gratinar.|Sin sal añadida.
+JUSTIFICACION: Con ricota baja en grasa es más suave y ligera, con la espinaca terrosa. Para el Perfil1 baja la grasa y la yema va bien cocida.
+ADVERTENCIAS: Yema bien cocida al gratinar.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~10 g
@@ -26937,8 +26974,8 @@ PREPARACION:
 1. Bate los huevos y calienta el aceite en una sartén antiadherente.
 2. Cuaja a fuego bajo tapada 6 minutos.
 3. Dale la vuelta y cocina 3 minutos más.
-JUSTIFICACION: Sin mantequilla ni sal; centro firme.
-ADVERTENCIAS: Es una receta base.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Sin sal y con aceite es más ligera, con el huevo firme y esponjoso. Para el Perfil1 se evitan el huevo poco cocido y la sal.
+ADVERTENCIAS: Es una receta base.|Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~6 g
@@ -26972,8 +27009,8 @@ PREPARACION:
 1. Rehoga pimiento y tomate en el aceite 10 minutos.
 2. Vierte los huevos batidos.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Colorida y ligera.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Con un solo chorro de aceite queda menos dorada y untuosa que la original, pero el pimiento asado aporta dulzor y color. Para el Perfil1 baja la grasa y el huevo va bien cuajado.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~9 g
@@ -27008,8 +27045,8 @@ PREPARACION:
 1. Mezcla los huevos batidos con el queso, el pollo y el parmesano.
 2. Calienta el aceite en una sartén antiadherente y vierte la mezcla.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Sabrosa con poca grasa.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y la mozzarella baja en grasa funde menos que la fontina. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~16 g
@@ -27046,8 +27083,8 @@ PREPARACION:
 1. Cuece las verduras 5 minutos, escúrrelas bien y rehógalas con el aceite y el ajo.
 2. Mezcla con el pan, los huevos batidos, el parmesano y la mejorana.
 3. Cuaja en sartén antiadherente tapada 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Muy verde y con fibra.
-ADVERTENCIAS: Es una evocación: espinacas y acelgas si no hay borrajas.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: las espinacas y acelgas dan el verde terroso de la borraja, con ajo asado en lugar de crudo. Para el Perfil1 baja la grasa y se evita el ajo crudo.
+ADVERTENCIAS: Es una evocación: espinacas y acelgas si no hay borrajas.|Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~9 g
@@ -27083,8 +27120,8 @@ PREPARACION:
 1. Mezcla huevos, yogur, pollo, perejil y parmesano.
 2. Calienta el aceite en una sartén antiadherente y vierte la mezcla.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Contundente y ligera.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón con un sabor más limpio, y el yogur aligera la mezcla. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~19 g
@@ -27120,8 +27157,8 @@ PREPARACION:
 1. Mezcla huevos, yogur, pollo, salvia y parmesano.
 2. Calienta el aceite en una sartén antiadherente y vierte la mezcla.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Aromática y ligera.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo con salvia da un aroma herbal tostado sin el jamón curado. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~19 g
@@ -27156,8 +27193,8 @@ PREPARACION:
 1. Dora el pollo con el hinojo en la mitad del aceite 8 minutos; añade el apio y cuece 5 minutos.
 2. Vierte los huevos batidos con el resto del aceite.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Sabor de salchicha sin procesados.
-ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchichas.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo con hinojo recuerda el sabor de la salchicha, con el apio dando frescor. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchichas.|Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~180 kcal (por porción)
 Proteínas: ~20 g
@@ -27192,8 +27229,8 @@ PREPARACION:
 1. Rehoga la cebolleta en el aceite 4 minutos.
 2. Mezcla con el atún, los huevos batidos y el perejil y vierte en la sartén.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Proteica y sin grasa extra.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: El atún al natural la hace más seca y ligera que con atún en aceite. Para el Perfil1 baja la grasa y el huevo va bien cuajado.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~160 kcal (por porción)
 Proteínas: ~19 g
@@ -27227,8 +27264,8 @@ PREPARACION:
 1. Cuece la cebolla con el aceite y un poco de agua a fuego suave 20 minutos; añade el tomillo.
 2. Vierte los huevos batidos.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Dulce y ligera.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: La cebolla cocida da dulzor y el tomillo aroma, con menos grasa. Para el Perfil1 baja la grasa y la cebolla va bien cocida.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~9 g
@@ -27264,8 +27301,8 @@ PREPARACION:
 1. Remoja el pan en la leche y desmenúzalo; mezcla con los huevos, el parmesano y el perejil.
 2. Calienta el aceite en una sartén antiadherente y vierte la mezcla.
 3. Cuaja tapada a fuego bajo 10 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Esponjosa y ligera.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Con pan integral y leche descremada queda más rústica y esponjosa. Para el Perfil1 baja la grasa y aporta fibra.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~12 g
@@ -27302,8 +27339,8 @@ PREPARACION:
 1. Rehoga el chalote y el pollo en el aceite 4 minutos.
 2. Añade los huevos batidos con el parmesano y las aceitunas.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Sabor salino con poca sal.
-ADVERTENCIAS: Es una evocación: pollo en lugar de panceta.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la panceta, con aceitunas enjuagadas que dan un toque salino más suave. Para el Perfil1 se evitan el embutido y el exceso de sal.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta.|Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~14 g
@@ -27336,8 +27373,8 @@ PREPARACION:
 1. Rehoga el calabacín en el aceite 8 minutos.
 2. Vierte los huevos batidos.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Ligera y fresca.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Suave y húmeda, con el calabacín tierno. Para el Perfil1 baja la grasa y es fácil de digerir.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~9 g
@@ -27372,8 +27409,8 @@ PREPARACION:
 1. Cuece las papas, hazlas puré con la leche y la mitad del aceite; añade las yemas y la canela.
 2. Monta las claras e incorpóralas con suavidad.
 3. Cuaja en sartén antiadherente con el resto del aceite tapada 10 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Esponjosa y poco grasa.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Dulce y reconfortante, con la canela dando un aroma cálido y menos grasa. Para el Perfil1 baja la grasa y se modera la papa.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~8 g
@@ -27408,8 +27445,8 @@ PREPARACION:
 1. Dora la carne en el aceite 8 minutos.
 2. Añade los huevos batidos con la leche y el perejil.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Plato único y proteico.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Con carne magra y menos grasa es más seca y sabrosa. Para el Perfil1 baja la grasa y aporta proteína.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~220 kcal (por porción)
 Proteínas: ~24 g
@@ -27444,8 +27481,8 @@ PREPARACION:
 1. Saltea los champiñones en la mitad del aceite 8 minutos; mezcla con el pollo y el queso.
 2. Cuaja 2 frittatas finas con los huevos y el resto del aceite, tapadas y volteadas.
 3. Rellena una con la mezcla, cubre con la otra y calienta 3 minutos.
-JUSTIFICACION: Mismo plato con menos grasa.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón y lengua.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y la lengua, con mozzarella baja en grasa. Para el Perfil1 se evitan los embutidos y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón y lengua.|Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~13 g
@@ -27482,8 +27519,8 @@ PREPARACION:
 1. Ásalas berenjenas y los pimientos con la mitad del aceite 25 minutos a 200 °C; pela los pimientos.
 2. Cuaja 3 frittatas finas con los huevos, el perejil, el parmesano y el resto del aceite.
 3. Monta capas alternando frittata, verduras y queso; calienta 8 minutos a 180 °C.
-JUSTIFICACION: Sin fritura.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Al horno en lugar de fritura es más suave y menos dorado, con mozzarella baja en grasa. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~11 g
@@ -27519,8 +27556,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade pimiento, tomate y pollo y cuece 8 minutos.
 2. Vierte los huevos batidos.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Jugosa y sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón, con pimientos asados dulces. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~15 g
@@ -27554,8 +27591,8 @@ PREPARACION:
 1. Mezcla los huevos batidos con el yogur y el cangrejo.
 2. Calienta el aceite en una sartén antiadherente y vierte la mezcla.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Sabor marino sin sal de conserva.
-ADVERTENCIAS: Es una evocación: cangrejo o jaiba fresca en lugar de conserva.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el cangrejo fresco sustituye a la conserva con un sabor más dulce y delicado, con yogur en lugar de nata. Para el Perfil1 se evitan las conservas y la grasa.
+ADVERTENCIAS: Es una evocación: cangrejo o jaiba fresca en lugar de conserva.|Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~17 g
@@ -27591,8 +27628,8 @@ PREPARACION:
 1. Dora el pollo en la mitad del aceite 6 minutos; añade tomate y ajo y cuece 6 minutos.
 2. Vierte los huevos batidos con el resto del aceite.
 3. Cuaja tapada a fuego bajo 8 minutos, dale la vuelta 3 minutos y sirve con perejil.
-JUSTIFICACION: Aromática y sin embutido.
-ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchichas.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sazonado sustituye a las salchichas, con ajo asado más dulce. Para el Perfil1 se evitan el embutido y el ajo crudo.
+ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchichas.|Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~17 g
@@ -27628,8 +27665,8 @@ PREPARACION:
 1. Saltea las setas en el aceite 8 minutos con el ajo; añade perejil y ralladura.
 2. Vierte los huevos batidos.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Textura carnosa sin caracoles.
-ADVERTENCIAS: Es una evocación: setas en lugar de caracoles; sin vinagre.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: las setas sustituyen a los caracoles con una textura carnosa parecida y un sabor terroso. Para el Perfil1 se evitan el vinagre y la grasa.
+ADVERTENCIAS: Es una evocación: setas en lugar de caracoles; sin vinagre.|Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~11 g
@@ -27663,8 +27700,8 @@ PREPARACION:
 1. Rehoga el calabacín en el aceite 8 minutos.
 2. Vierte los huevos batidos con el perejil.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Ligera y fresca.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Suave y ligera, con el calabacín tierno. Para el Perfil1 baja la grasa y es fácil de digerir.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~9 g
@@ -27699,8 +27736,8 @@ PREPARACION:
 1. Rehoga la achicoria en el aceite 6 minutos; añade la harina y el yogur fuera del fuego.
 2. Vierte los huevos batidos.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Amargor suave y cremosa.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: La achicoria cocida pierde amargor, con yogur en lugar de nata. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~11 g
@@ -27733,8 +27770,8 @@ PREPARACION:
 1. Mezcla los huevos batidos con las hierbas.
 2. Calienta el aceite en una sartén antiadherente y vierte la mezcla.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Aromática y sencilla.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Fresca y aromática, con muy poco aceite. Para el Perfil1 baja la grasa y el huevo va bien cuajado.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~9 g
@@ -27771,8 +27808,8 @@ PREPARACION:
 1. Rehoga cebolla y champiñones en el aceite 8 minutos; añade harina y curry y, fuera del fuego, el yogur.
 2. Cuaja los huevos batidos en una sartén antiadherente tapada 8 minutos y dales la vuelta 3 minutos.
 3. Sirve con la salsa.
-JUSTIFICACION: Aromática y cremosa con poca grasa.
-ADVERTENCIAS: Curry sin picante.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Con curry dulce y yogur es suave y cremosa, sin picor. Para el Perfil1 se evitan el picante y la grasa.
+ADVERTENCIAS: Curry sin picante.|Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~160 kcal (por porción)
 Proteínas: ~12 g
@@ -27808,8 +27845,8 @@ PREPARACION:
 1. Bate los huevos con la leche y el parmesano; añade los quesos.
 2. Calienta el aceite y vierte la mezcla.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Sabor a quesos con mucha menos grasa.
-ADVERTENCIAS: Es una evocación: tres quesos bajos en grasa en lugar de cuatro.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: con queso fresco bajo en grasa es menos filante e intensa que con tres quesos. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Es una evocación: tres quesos bajos en grasa en lugar de cuatro.|Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~15 g
@@ -27846,8 +27883,8 @@ PREPARACION:
 1. Mezcla harina, huevos, ricota, pollo y parmesano.
 2. Calienta el aceite y vierte la mezcla.
 3. Cuaja tapada a fuego bajo 10 minutos, dale la vuelta 3 minutos y sirve con la salsa.
-JUSTIFICACION: Cremosa y ligera.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y la ricota baja en grasa da cremosidad ligera. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~19 g
@@ -27878,8 +27915,8 @@ PREPARACION:
 1. Limpia los espárragos y retira la parte dura.
 2. Átalos en manojos y cuécelos al vapor en posición vertical.
 3. Cuece 8-12 minutos según el grosor.
-JUSTIFICACION: Conserva el sabor sin sal.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor sin sal quedan tiernos y verdes, con un sabor más delicado que hervidos. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~35 kcal (por porción)
 Proteínas: ~4 g
@@ -27914,8 +27951,8 @@ PREPARACION:
 1. Cuece los espárragos al vapor 8 minutos y colócalos en una fuente engrasada.
 2. Cubre con la bechamel, la mozzarella y el parmesano.
 3. Gratina 15 minutos a 200 °C.
-JUSTIFICACION: Gratinado con menos grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con bechamel ligera y mozzarella baja en grasa es menos untuoso y filante. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~10 g
@@ -27953,8 +27990,8 @@ PREPARACION:
 1. Cuece los espárragos al vapor 6 minutos; remoja el pan en la leche, mézclalo con el parmesano y 1 huevo y unta los espárragos.
 2. Pásalos por harina, huevo batido y pan rallado.
 3. Rocíalos con el aceite y hornea 15 minutos a 200 °C.
-JUSTIFICACION: Crujientes sin freír.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno en lugar de fritos son menos crujientes, con el huevo bien cocido. Para el Perfil1 se evitan la fritura y el huevo poco cocido.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~14 g
@@ -27992,8 +28029,8 @@ PREPARACION:
 1. Cuece los espárragos al vapor 8 minutos; mezcla la bechamel con la naranja, las yemas y la nuez moscada.
 2. Envuelve los espárragos con el pollo, colócalos en una fuente engrasada y cubre con la salsa y el parmesano.
 3. Hornea 20 minutos a 200 °C hasta que las yemas estén bien cocidas.
-JUSTIFICACION: Sabroso sin embutido ni alcohol.
-ADVERTENCIAS: Es una evocación: pollo en lugar de panceta; sin vino.|Yemas bien cocidas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la panceta y la naranja reducida al vino. Para el Perfil1 se evitan el embutido y el alcohol.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta; sin vino.|Yemas bien cocidas.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~15 g
@@ -28026,8 +28063,8 @@ PREPARACION:
 1. Cuece los espárragos al vapor 8 minutos.
 2. Aliña con el aceite.
 3. Espolvorea con el parmesano y gratina 3 minutos.
-JUSTIFICACION: Sencillo y ligero.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con mucho menos queso y aceite en lugar de mantequilla, el espárrago es el protagonista. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~8 g
@@ -28061,8 +28098,8 @@ PREPARACION:
 1. Cuece los espárragos al vapor 8 minutos y enfríalos.
 2. Mezcla el yogur con el zumo de naranja.
 3. Cubre los espárragos con la salsa y adorna con la cáscara.
-JUSTIFICACION: Fresca, sin huevo crudo.
-ADVERTENCIAS: Es una evocación: yogur en lugar de mayonesa y mostaza.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el yogur con naranja sustituye a la mayonesa con mostaza, más fresca y suave. Para el Perfil1 se evitan la mostaza y la grasa.
+ADVERTENCIAS: Es una evocación: yogur en lugar de mayonesa y mostaza.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~60 kcal (por porción)
 Proteínas: ~5 g
@@ -28098,8 +28135,8 @@ PREPARACION:
 1. Cuece los espárragos al vapor 8 minutos y colócalos en una fuente engrasada.
 2. Cubre con el pollo, la mozzarella y los huevos duros.
 3. Espolvorea con parmesano y gratina 10 minutos a 200 °C.
-JUSTIFICACION: Contundente y ligero.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón y mozzarella en lugar de fontina.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y la mozzarella baja en grasa a la fontina. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón y mozzarella en lugar de fontina.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~13 g
@@ -28133,8 +28170,8 @@ PREPARACION:
 1. Cuece los espárragos al vapor 8 minutos.
 2. Ralla los huevos duros y mézclalos con el perejil.
 3. Sirve los espárragos con el aceite y el huevo.
-JUSTIFICACION: Sencillo y proteico.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con huevo duro desmenuzado como mimosa, es fresco y delicado. Para el Perfil1 es una entrada ligera y sin sal.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~9 g
@@ -28170,8 +28207,8 @@ PREPARACION:
 1. Tritura los espárragos con los huevos, el aceite, el queso y la ralladura; incorpora la clara montada.
 2. Vierte en moldes engrasados.
 3. Hornea al baño maría 35 minutos a 170 °C hasta que cuaje por completo; sirve templada.
-JUSTIFICACION: Cuajada por completo.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Más ligera con queso fresco, con ralladura en lugar de limón. Para el Perfil1 baja la grasa y la mousse va bien cuajada.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~10 g
@@ -28205,8 +28242,8 @@ PREPARACION:
 1. Cuece los espárragos al vapor 8 minutos y envuélvelos en las lonchas de pollo.
 2. Colócalos en una fuente engrasada y rocía con el aceite.
 3. Espolvorea con el parmesano y gratina 10 minutos a 200 °C.
-JUSTIFICACION: Sin embutido curado.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón curado.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón curado con un sabor más suave. Para el Perfil1 se evitan los embutidos y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón curado.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~12 g
@@ -28237,8 +28274,8 @@ PREPARACION:
 1. Lava la remolacha sin pelarla.
 2. Cuece en agua 45-60 minutos o ásala envuelta 60 minutos a 200 °C.
 3. Pela y corta.
-JUSTIFICACION: Base para ensaladas y guarniciones.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Cocida sin sal, es dulce y terrosa y de color profundo. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~60 kcal (por porción)
 Proteínas: ~2 g
@@ -28271,8 +28308,8 @@ PREPARACION:
 1. Coloca la remolacha en una fuente engrasada.
 2. Cubre con la bechamel.
 3. Gratina 15 minutos a 200 °C.
-JUSTIFICACION: Dulce y cremosa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con bechamel ligera es suave y dulce, menos untuosa. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~5 g
@@ -28308,8 +28345,8 @@ PREPARACION:
 1. Mezcla el aceite con la naranja y el ajo.
 2. Combina la remolacha con el atún y el perejil.
 3. Aliña y sirve.
-JUSTIFICACION: Sabor marino y dulce, sin vinagre.
-ADVERTENCIAS: Es una evocación: atún en lugar de anchoas; naranja en lugar de vinagre.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún al natural sustituye a las anchoas y la naranja al vinagre. Para el Perfil1 se evitan el vinagre y el exceso de sal.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas; naranja en lugar de vinagre.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~7 g
@@ -28342,8 +28379,8 @@ PREPARACION:
 1. Cuece la cebolla con el aceite y un poco de agua a fuego suave 15 minutos.
 2. Añade la remolacha.
 3. Calienta 5 minutos y sirve.
-JUSTIFICACION: Dulce y sin mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Dulce y tierna, con cebolla cocida y aceite. Para el Perfil1 baja la grasa y la cebolla va bien cocida.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~3 g
@@ -28374,8 +28411,8 @@ PREPARACION:
 1. Despunta las habichuelas.
 2. Cuécelas al vapor 8-10 minutos.
 3. Escúrrelas.
-JUSTIFICACION: Textura crujiente similar.
-ADVERTENCIAS: Es una evocación: habichuelas verdes en lugar de estrellamar.|Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: las habichuelas verdes sustituyen a la estrellamar con una textura crujiente y un sabor verde. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una evocación: habichuelas verdes en lugar de estrellamar.|Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~35 kcal (por porción)
 Proteínas: ~2 g
@@ -28411,8 +28448,8 @@ PREPARACION:
 1. Cuece las habichuelas al vapor 8 minutos.
 2. Rehoga cebolla y pollo en el aceite 8 minutos; añade las habichuelas 3 minutos.
 3. Incorpora el yogur fuera del fuego y el perejil.
-JUSTIFICACION: Cremosas y ligeras.
-ADVERTENCIAS: Es una evocación: habichuelas verdes en lugar de estrellamar; pollo en lugar de panceta.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: las habichuelas con pollo y yogur sustituyen a la estrellamar con panceta. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: habichuelas verdes en lugar de estrellamar; pollo en lugar de panceta.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~9 g
@@ -28446,8 +28483,8 @@ PREPARACION:
 1. Cuece las habichuelas al vapor 8 minutos.
 2. Rehoga el ajo asado y el atún con el aceite 2 minutos.
 3. Mezcla con las habichuelas.
-JUSTIFICACION: Sabor intenso sin anchoas.
-ADVERTENCIAS: Es una evocación: habichuelas en lugar de estrellamar; atún en lugar de anchoas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: las habichuelas con atún sustituyen a la estrellamar con anchoas. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Es una evocación: habichuelas en lugar de estrellamar; atún en lugar de anchoas.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~6 g
@@ -28478,8 +28515,8 @@ PREPARACION:
 1. Lava y separa las pencas de las hojas.
 2. Cuece las pencas al vapor 10 minutos y las hojas 5 minutos.
 3. Escurre bien.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor sin sal conservan su sabor terroso y delicado. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~25 kcal (por porción)
 Proteínas: ~2 g
@@ -28513,8 +28550,8 @@ PREPARACION:
 1. Cuece las acelgas al vapor y pícalas.
 2. Caliéntalas con la leche y el aceite 5 minutos.
 3. Sirve con el parmesano.
-JUSTIFICACION: Suave y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con mucho menos queso y aceite es más ligera. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~7 g
@@ -28549,8 +28586,8 @@ PREPARACION:
 1. Cuece las acelgas al vapor y pícalas.
 2. Rehoga el ajo y el atún con el aceite 2 minutos.
 3. Mezcla con las acelgas y sirve con parmesano.
-JUSTIFICACION: Sabor salino sin anchoas.
-ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún al natural sustituye a las anchoas y deja las acelgas con un fondo marino suave, menos salado y con menos aceite. Para el Perfil1 baja el sodio y la grasa, y las hojas verdes van bien cocidas.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~8 g
@@ -28584,8 +28621,8 @@ PREPARACION:
 1. Coloca las acelgas en una fuente engrasada.
 2. Cubre con la bechamel y el parmesano.
 3. Gratina 15 minutos a 200 °C.
-JUSTIFICACION: Gratinadas con poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con bechamel ligera y menos queso es más suave. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~8 g
@@ -28616,8 +28653,8 @@ PREPARACION:
 1. Separa en ramitos.
 2. Cuece al vapor 8 minutos.
 3. Escurre.
-JUSTIFICACION: Conserva color y nutrientes.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor sin sal queda tierno y verde brillante. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~35 kcal (por porción)
 Proteínas: ~3 g
@@ -28656,8 +28693,8 @@ PREPARACION:
 1. Cuece el brócoli al vapor 8 minutos.
 2. Mezcla con el atún, el tomate, las hierbas, el ajo y la ralladura.
 3. Aliña con el aceite y adorna con las rodajitas.
-JUSTIFICACION: Fresco y sabroso.
-ADVERTENCIAS: Es una evocación: atún en lugar de botarga.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún sustituye a la botarga y la ralladura al limón, con tomate asado. Para el Perfil1 se evitan el ácido y el exceso de sal.
+ADVERTENCIAS: Es una evocación: atún en lugar de botarga.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~8 g
@@ -28692,8 +28729,8 @@ PREPARACION:
 1. Cuece el brócoli al vapor 8 minutos.
 2. Rehoga el ajo y el atún con el aceite y el pimentón 2 minutos.
 3. Mezcla con el brócoli.
-JUSTIFICACION: Sin picante ni anchoas.
-ADVERTENCIAS: Es una evocación: atún en lugar de anchoas; pimentón dulce en lugar de guindilla.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún sustituye a las anchoas y el pimentón dulce a la guindilla. Para el Perfil1 se evitan el picante y el exceso de sal.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas; pimentón dulce en lugar de guindilla.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~8 g
@@ -28728,8 +28765,8 @@ PREPARACION:
 1. Cuece el brócoli al vapor 8 minutos.
 2. Mezcla el yogur con el perejil, el ajo y el pimentón.
 3. Sirve el brócoli con la salsa.
-JUSTIFICACION: Fresco, sin picante.
-ADVERTENCIAS: Es una evocación: pimentón dulce en lugar de guindilla; sin mostaza.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pimentón dulce sustituye a la guindilla y sin mostaza el yogur con hierbas es fresco y suave. Para el Perfil1 se evitan el picante y la mostaza.
+ADVERTENCIAS: Es una evocación: pimentón dulce en lugar de guindilla; sin mostaza.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~60 kcal (por porción)
 Proteínas: ~5 g
@@ -28763,8 +28800,8 @@ PREPARACION:
 1. Cuece el brócoli al vapor 6 minutos.
 2. Rehoga el ajo asado en el aceite con el agua 2 minutos.
 3. Mezcla con el brócoli y cocina 3 minutos más.
-JUSTIFICACION: Sencillo y fibroso.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con un solo chorro de aceite y ajo asado queda más limpio y menos graso que el rehogado clásico, con el verde del brócoli intacto. Para el Perfil1 se evitan el ajo crudo y el exceso de aceite.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~4 g
@@ -28802,8 +28839,8 @@ PREPARACION:
 1. Cuece el brócoli al vapor 6 minutos; rehoga puerros y ajo en el aceite 8 minutos, añade la harina y la naranja y cuece 3 minutos; incorpora el yogur fuera del fuego.
 2. Coloca el brócoli en una fuente engrasada y cubre con la salsa.
 3. Espolvorea con parmesano y gratina 12 minutos a 200 °C.
-JUSTIFICACION: Gratinado cremoso con mucha menos grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Menos cremoso y rico que el gratinado con nata y vino, pero el yogur y la naranja reducida dan una salsa fresca y suave. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~8 g
@@ -28835,8 +28872,8 @@ PREPARACION:
 1. Limpia las alcachofas, retira las hojas duras y las pelusas y colócalas en agua con las rodajas de naranja.
 2. Cuécelas al vapor 20-25 minutos hasta que el fondo esté tierno.
 3. Escurre.
-JUSTIFICACION: Conserva color sin zumo de limón ni sal.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor y con naranja en lugar de limón conservan el dulzor vegetal sin acidez, y se oscurecen un poco más. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~60 kcal (por porción)
 Proteínas: ~4 g
@@ -28870,8 +28907,8 @@ PREPARACION:
 1. Coloca las alcachofas con la base hacia abajo en una cazuela con ajo, aceite y agua.
 2. Tapa y cuece a fuego suave 25 minutos.
 3. Sirve con el jugo.
-JUSTIFICACION: Sabor mediterráneo con una fracción del aceite.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con ajo asado y una cucharada de aceite quedan tiernas y aromáticas, menos grasas que el original. Para el Perfil1 se evitan el ajo crudo y el exceso de grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~4 g
@@ -28910,8 +28947,8 @@ PREPARACION:
 1. Calienta la leche con la harina, el azafrán y el curry removiendo 5 minutos; añade la mitad del queso y el huevo batido fuera del fuego.
 2. Coloca las alcachofas en una fuente engrasada y cubre con la salsa y el resto del queso.
 3. Hornea 20 minutos a 190 °C hasta que el huevo esté cuajado; sirve con tomillo.
-JUSTIFICACION: Gratinadas con menos grasa.
-ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de emmental.|Curry sin picante.|Sin sal añadida.
+JUSTIFICACION: Con mozzarella baja en grasa y leche descremada es menos filante y untuosa. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de emmental.|Curry sin picante.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~10 g
@@ -28944,8 +28981,8 @@ PREPARACION:
 1. Abre las alcachofas presionándolas contra la mesa y colócalas en una fuente.
 2. Rocía con el aceite y el agua y cubre con papel de aluminio.
 3. Hornea 30 minutos a 200 °C, destapa y dora 10 minutos.
-JUSTIFICACION: Crujientes sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno en lugar de fritas son más tiernas y menos crujientes. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~4 g
@@ -28982,8 +29019,8 @@ PREPARACION:
 1. Rehoga el chalote en el aceite 4 minutos y tritúralo con el pollo, la naranja y el yogur hasta obtener una crema.
 2. Enfría la crema 1 hora.
 3. Rellena los fondos de alcachofa y adorna.
-JUSTIFICACION: Textura de mousse sin vísceras ni alcohol.
-ADVERTENCIAS: Es una evocación: pollo en lugar de higadillos; sin brandy ni Madeira.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al higadillo con una mousse más suave y sin la nota ferrosa, sin alcohol. Para el Perfil1 se evitan las vísceras, el alcohol y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de higadillos; sin brandy ni Madeira.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~21 g
@@ -29020,8 +29057,8 @@ PREPARACION:
 1. Coloca las alcachofas en una cazuela con aceite, ajo, aceitunas y agua.
 2. Tapa y cuece a fuego suave 25 minutos.
 3. Sirve con perejil y gajos de naranja.
-JUSTIFICACION: Sabor salino sin sal ni alcaparras.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con menos aceitunas enjuagadas y sin alcaparras es más suave y menos salada, con naranja en lugar de limón. Para el Perfil1 baja el sodio y se evita el ácido.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~4 g
@@ -29060,8 +29097,8 @@ PREPARACION:
 1. Rehoga cebolletas y pollo en el aceite 5 minutos; añade las alcachofas y las hierbas.
 2. Agrega naranja y caldo y cuece tapado 15 minutos.
 3. Incorpora el tomate y cuece 8 minutos más.
-JUSTIFICACION: Aromática y ligera.
-ADVERTENCIAS: Es una evocación: pollo en lugar de panceta; sin vino.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la panceta y la naranja reducida al vino, con tomate asado. Para el Perfil1 se evitan el embutido y el alcohol.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta; sin vino.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~8 g
@@ -29097,8 +29134,8 @@ PREPARACION:
 1. Pica el ajo, el perejil y la menta y rellena los centros de las alcachofas.
 2. Colócalas con la base hacia arriba en una cazuela con el agua y el aceite.
 3. Tapa y cuece a fuego suave 30 minutos.
-JUSTIFICACION: Fresca y sin sal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin limón y con menos aceite es más ligera, con el aroma de la menta y el ajo asado. Para el Perfil1 se evitan el ácido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~4 g
@@ -29135,8 +29172,8 @@ PREPARACION:
 1. Rehoga cebolla y ajo en el aceite 6 minutos.
 2. Añade alcachofas, papas y caldo; cuece tapado 25 minutos.
 3. Sirve con perejil.
-JUSTIFICACION: Guiso sencillo, poco aceite.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con caldo sin sal y menos aceite es más ligera, sin el golpe del limón. Para el Perfil1 baja la grasa y se evita el ácido.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~5 g
@@ -29172,8 +29209,8 @@ PREPARACION:
 1. Cuece las alcachofas al vapor 15 minutos.
 2. Saltéalas con aceite y ajo 5 minutos.
 3. Espolvorea con perejil, parmesano y pan rallado y gratina 5 minutos.
-JUSTIFICACION: Crujientes y con menos queso.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con parmesano en lugar de pecorino y pan integral es más suave y menos salada. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~7 g
@@ -29210,8 +29247,8 @@ PREPARACION:
 1. Mezcla atún, huevos, yogur, perejil y parmesano.
 2. Rellena las alcachofas colocadas en una fuente engrasada.
 3. Hornea 25 minutos a 180 °C hasta que el relleno cuaje.
-JUSTIFICACION: Proteica y ligera.
-ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.
+JUSTIFICACION: El atún al natural y el yogur dan un relleno más ligero y menos graso. Para el Perfil1 baja la grasa y el huevo va bien cuajado.
+ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~28 g
@@ -29248,8 +29285,8 @@ PREPARACION:
 1. Mezcla las alcachofas con orégano y ajo.
 2. Pásalas por harina y huevo batido.
 3. Rocía con el aceite y hornea 20 minutos a 220 °C hasta dorar.
-JUSTIFICACION: Crujientes sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno son menos crujientes que fritas, con la miga dorada y el interior tierno, con naranja en lugar de limón. Para el Perfil1 se evitan la fritura y el ácido.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~6 g
@@ -29282,8 +29319,8 @@ PREPARACION:
 1. Cuece las alcachofas al vapor 25 minutos.
 2. Sírvelas templadas con la salsa.
 3. Adorna con perejil.
-JUSTIFICACION: Salsa ligera, con yema cocida.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: La holandesa ligera es menos untuosa y más fresca, con la alcachofa tierna. Para el Perfil1 se evitan el limón y la grasa, y la yema va cocida.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~6 g
@@ -29320,8 +29357,8 @@ PREPARACION:
 1. Rehoga cebolla, ajo y pollo en el aceite 8 minutos; añade naranja y perejil.
 2. Rellena las alcachofas.
 3. Cuece tapadas en agua 25 minutos a fuego suave.
-JUSTIFICACION: Sabrosas y sin embutido.
-ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchicha y panceta; sin vino.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sazonado sustituye a la salchicha y la panceta, con la naranja reducida en lugar de vino. Para el Perfil1 se evitan el embutido y el alcohol.
+ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchicha y panceta; sin vino.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~14 g
@@ -29356,8 +29393,8 @@ PREPARACION:
 1. Cuece las alcachofas al vapor 25 minutos.
 2. Mezcla el pimiento con el perejil y el aceite.
 3. Rellena y adorna con los champiñones.
-JUSTIFICACION: Fresca y colorida.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con champiñones y pimiento asados en lugar de en aceite es más ligera, sin limón. Para el Perfil1 se evitan la grasa y el ácido.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~4 g
@@ -29393,8 +29430,8 @@ PREPARACION:
 1. Bate harina, huevos y leche hasta una masa lisa; añade el perejil.
 2. Coloca las alcachofas en una fuente engrasada y vierte la masa.
 3. Hornea 35 minutos a 180 °C hasta que cuaje y dore.
-JUSTIFICACION: Ligero y sin mantequilla.
-ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.
+JUSTIFICACION: Con leche descremada y harinas integrales es más rústico y menos untuoso. Para el Perfil1 baja la grasa y el huevo va bien cuajado.
+ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~160 kcal (por porción)
 Proteínas: ~9 g
@@ -29431,8 +29468,8 @@ PREPARACION:
 1. Rehoga cebolla y alcachofas en el aceite 10 minutos y tritura con el yogur.
 2. Mezcla con los huevos, el parmesano y la nuez moscada y reparte en moldes engrasados.
 3. Hornea al baño maría 30 minutos a 170 °C hasta cuajar.
-JUSTIFICACION: Cremosos con menos grasa.
-ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.
+JUSTIFICACION: Con yogur en lugar de nata son más frescos y ligeros. Para el Perfil1 baja la grasa y el huevo va bien cuajado.
+ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~9 g
@@ -29467,8 +29504,8 @@ PREPARACION:
 1. Engrasa un molde y alterna capas de papa y alcachofa con tomillo y parmesano.
 2. Rocía con el aceite y cubre con aluminio.
 3. Hornea 40 minutos a 190 °C; destapa y dora 10 minutos.
-JUSTIFICACION: Ligera y sin mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con menos aceite y parmesano en lugar de pecorino es más suave y menos grasa. Para el Perfil1 baja la grasa y se modera la papa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~5 g
@@ -29502,8 +29539,8 @@ PREPARACION:
 1. Rehoga las alcachofas en el aceite 10 minutos.
 2. Mezcla con los huevos batidos con la leche en un molde engrasado.
 3. Hornea 30 minutos a 180 °C hasta cuajar.
-JUSTIFICACION: Sencilla y ligera.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Con leche descremada y menos huevo es más ligera y esponjosa. Para el Perfil1 baja la grasa y el huevo va bien cuajado.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~8 g
@@ -29535,8 +29572,8 @@ PREPARACION:
 1. Pela los hilos y corta en trozos de 8 cm.
 2. Cuece en agua con la naranja 30-45 minutos (apio 15 minutos).
 3. Escurre.
-JUSTIFICACION: Sin sal ni limón.
-ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el apio cocido sustituye al cardo con un sabor herbáceo y una textura parecida. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~25 kcal (por porción)
 Proteínas: ~1 g
@@ -29572,8 +29609,8 @@ PREPARACION:
 1. Calienta aceite y harina, añade la leche y cuece 5 minutos hasta espesar.
 2. Coloca los cardos en una fuente engrasada y cubre con la salsa y los quesos.
 3. Gratina 15 minutos a 200 °C.
-JUSTIFICACION: Gratinado cremoso con poca grasa.
-ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el apio con mozzarella baja en grasa y leche descremada es más ligero. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~9 g
@@ -29608,8 +29645,8 @@ PREPARACION:
 1. Tritura el ajo asado con el atún y el aceite hasta lograr una crema tibia.
 2. Calienta suavemente sin hervir.
 3. Sirve sobre los cardos con el parmesano.
-JUSTIFICACION: Sabor marino y a ajo con poca grasa.
-ADVERTENCIAS: Es una evocación: atún al natural en lugar de anchoas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún al natural sustituye a las anchoas con un sabor más suave, con poca grasa. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Es una evocación: atún al natural en lugar de anchoas.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~7 g
@@ -29644,8 +29681,8 @@ PREPARACION:
 1. Coloca los cardos en una fuente engrasada.
 2. Mezcla leche y yogur y vierte por encima.
 3. Espolvorea con parmesano y gratina 12 minutos a 200 °C.
-JUSTIFICACION: Suave y ligero.
-ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: con yogur en lugar de nata es más fresco y ligero. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~7 g
@@ -29680,8 +29717,8 @@ PREPARACION:
 1. Pasa los cardos por harina y por huevo y clara batidos.
 2. Colócalos en una bandeja y rocía con el aceite.
 3. Hornea 20 minutos a 220 °C hasta dorar.
-JUSTIFICACION: Dorados sin fritura.
-ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el apio rebozado al horno es menos crujiente que frito. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~5 g
@@ -29717,8 +29754,8 @@ PREPARACION:
 1. Mezcla aceite y naranja.
 2. Coloca los cardos con el huevo duro picado y el perejil.
 3. Aliña y espolvorea con el pan.
-JUSTIFICACION: Fresca, sin limón.
-ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: con apio y naranja en lugar de limón es más fresca y suave. Para el Perfil1 se evitan el ácido y la grasa.
+ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~9 g
@@ -29758,8 +29795,8 @@ PREPARACION:
 1. Saltea chalote y champiñones con un poco de agua 8 minutos; mezcla con cardos, bechamel, parmesano, huevo y hierbas.
 2. Engrasa moldes y espolvorea con el pan rallado; reparte la mezcla.
 3. Hornea al baño maría 30 minutos a 180 °C hasta cuajar.
-JUSTIFICACION: Moldes cuajados con poca grasa.
-ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Totalmente cuajados.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: con apio y bechamel ligera es más suave. Para el Perfil1 baja la grasa y el huevo va bien cuajado.
+ADVERTENCIAS: Es una evocación: apio si no hay cardos.|Totalmente cuajados.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~8 g
@@ -29790,8 +29827,8 @@ PREPARACION:
 1. Pela y corta en bastones o rodajas.
 2. Cuece al vapor 10-15 minutos.
 3. Escurre.
-JUSTIFICACION: Conservan su dulzor natural.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor y sin azúcar conservan su dulzor natural. Para el Perfil1 es una base suave y sin azúcar.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~50 kcal (por porción)
 Proteínas: ~1 g
@@ -29825,8 +29862,8 @@ PREPARACION:
 1. Calienta la leche con el queso hasta fundir.
 2. Añade el perejil.
 3. Baña las zanahorias.
-JUSTIFICACION: Sabor a queso azul con 40 g menos de sodio.
-ADVERTENCIAS: Es una evocación: queso azul suave en lugar de roquefort.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: con queso azul suave y poca cantidad es menos intenso y salado. Para el Perfil1 baja el sodio y la grasa.
+ADVERTENCIAS: Es una evocación: queso azul suave en lugar de roquefort.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~4 g
@@ -29860,8 +29897,8 @@ PREPARACION:
 1. Cuece las zanahorias en el caldo 15 minutos.
 2. Escurre y mezcla con el romero.
 3. Aliña con el aceite.
-JUSTIFICACION: Aromáticas y sin sal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con caldo sin sal y un poco de aceite quedan tiernas y aromáticas. Para el Perfil1 baja la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~1 g
@@ -29896,8 +29933,8 @@ PREPARACION:
 1. Mezcla rábano, naranja, ralladura y aceite.
 2. Aliña las zanahorias.
 3. Deja reposar 15 minutos.
-JUSTIFICACION: Fresca, sin picante fuerte.
-ADVERTENCIAS: Es una evocación: rábano fresco en lugar de picante; naranja en lugar de vinagre.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el rábano fresco da el crujido y un picor suave en lugar del rábano picante, con naranja en lugar de vinagre. Para el Perfil1 se evitan el picante y el vinagre.
+ADVERTENCIAS: Es una evocación: rábano fresco en lugar de picante; naranja en lugar de vinagre.|Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~1 g
@@ -29933,8 +29970,8 @@ PREPARACION:
 1. Cuece las zanahorias con un poco de agua 12 minutos.
 2. Rehoga cebolleta con el aceite 3 minutos y añade las zanahorias; saltea 5 minutos.
 3. Sirve con ralladura, sésamo y perejil.
-JUSTIFICACION: Dulces y brillantes con poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con aceite y ralladura quedan brillantes y dulces sin acidez. Para el Perfil1 se evitan el ácido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~2 g
@@ -29969,8 +30006,8 @@ PREPARACION:
 1. Cuece las zanahorias al vapor 12 minutos.
 2. Mezcla huevo, yogur, aceite y perejil.
 3. Sirve las zanahorias con la salsa.
-JUSTIFICACION: Sin huevo crudo ni vinagre.
-ADVERTENCIAS: Es una evocación: salsa de yogur en lugar de la salsa de mostaza y vinagre.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: la salsa de yogur es más fresca y suave que la de huevo crudo, mostaza y vinagre. Para el Perfil1 se evitan el huevo crudo y el vinagre.
+ADVERTENCIAS: Es una evocación: salsa de yogur en lugar de la salsa de mostaza y vinagre.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~4 g
@@ -30007,8 +30044,8 @@ PREPARACION:
 1. Cuece las zanahorias al vapor 12 minutos.
 2. Mezcla aceite, naranja, ajo, hierbas y pimentón.
 3. Marina las zanahorias 2 horas en la nevera.
-JUSTIFICACION: Sabrosas sin vinagre ni picante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja en lugar de vinagre y pimentón dulce en lugar de guindilla es dulce y suave. Para el Perfil1 se evitan el vinagre y el picante.
+ADVERTENCIAS: Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~1 g
@@ -30044,8 +30081,8 @@ PREPARACION:
 1. Cuece las zanahorias al vapor 12 minutos y saltéalas con el aceite.
 2. Fuera del fuego, mezcla con el yogur y la nuez moscada.
 3. Sirve con perejil y cebollino.
-JUSTIFICACION: Cremosas sin nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur en lugar de nata es más fresca y ligera. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~4 g
@@ -30083,8 +30120,8 @@ PREPARACION:
 1. Haz un puré con las zanahorias, 1 huevo, el parmesano y la nuez moscada; forma bolas con un dado de queso en el centro.
 2. Pasa por harina, huevo batido y pan rallado.
 3. Rocía con el aceite y hornea 20 minutos a 200 °C.
-JUSTIFICACION: Crujientes sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno son menos crujientes que fritas, con el relleno fundido. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~6 g
@@ -30115,8 +30152,8 @@ PREPARACION:
 1. Haz un corte en la cáscara de cada castaña.
 2. Cuece en agua 30 minutos.
 3. Pela mientras están calientes.
-JUSTIFICACION: Base de purés y guarniciones.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Cocidas sin sal son dulces y harinosas. Para el Perfil1 son una base suave y sin sal, de energía sostenida.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~2 g
@@ -30149,8 +30186,8 @@ PREPARACION:
 1. Haz un corte a cada castaña y mézclalas con el aceite y el laurel.
 2. Hornea 25 minutos a 200 °C.
 3. Pela y sirve calientes.
-JUSTIFICACION: Sencillas, sin mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con aceite en lugar de mantequilla son más secas y menos brillantes. Para el Perfil1 baja la grasa y se modera la porción.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~2 g
@@ -30188,8 +30225,8 @@ PREPARACION:
 1. Asa las castañas 25 minutos a 200 °C y pélalas.
 2. Rehoga chalote y coles con el aceite y el agua 12 minutos; añade castañas, ralladura y nuez moscada.
 3. Cubre con el queso en una fuente engrasada y gratina 8 minutos.
-JUSTIFICACION: Contundente y ligera.
-ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de fontina.|Sin sal añadida.
+JUSTIFICACION: Con mozzarella baja en grasa y ralladura en lugar de limón es más suave. Para el Perfil1 baja la grasa y se evita el ácido.
+ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de fontina.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~8 g
@@ -30225,8 +30262,8 @@ PREPARACION:
 1. Dora las castañas en el aceite 3 minutos.
 2. Añade caldo, laurel, tomillo y apio.
 3. Cuece tapado a fuego suave 30 minutos.
-JUSTIFICACION: Aromáticas y sin sal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con caldo sin sal y aceite son tiernas y aromáticas. Para el Perfil1 baja la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~3 g
@@ -30259,8 +30296,8 @@ PREPARACION:
 1. Tritura las castañas con un poco del agua de cocción.
 2. Añade el aceite y mezcla.
 3. Incorpora el yogur fuera del fuego.
-JUSTIFICACION: Cremoso sin nata ni mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur en lugar de nata es más fresco y menos untuoso. Para el Perfil1 baja la grasa y se modera el almidón.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~4 g
@@ -30291,8 +30328,8 @@ PREPARACION:
 1. Lava bien las hojas.
 2. Cuece al vapor 3-5 minutos.
 3. Escurre.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una evocación: berros o rúcula si no hay diente de león.|Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: los berros o la rúcula sustituyen al diente de león con un amargor parecido. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una evocación: berros o rúcula si no hay diente de león.|Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~35 kcal (por porción)
 Proteínas: ~3 g
@@ -30326,8 +30363,8 @@ PREPARACION:
 1. Cuece las hojas al vapor 4 minutos.
 2. Rehoga el ajo asado en el aceite con el pimentón 1 minuto.
 3. Mezcla con las hojas.
-JUSTIFICACION: Sencillas y sin picante.
-ADVERTENCIAS: Es una evocación: berros o rúcula si no hay diente de león.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: con pimentón dulce en lugar de guindilla y menos aceite. Para el Perfil1 se evitan el picante y el exceso de grasa.
+ADVERTENCIAS: Es una evocación: berros o rúcula si no hay diente de león.|Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~4 g
@@ -30360,8 +30397,8 @@ PREPARACION:
 1. Cuece las hojas al vapor 4 minutos.
 2. Rehoga con el aceite 2 minutos.
 3. Sirve con el parmesano.
-JUSTIFICACION: Sencillo y ligero.
-ADVERTENCIAS: Es una evocación: berros o espinacas si no hay diente de león.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: con poco queso y una cucharada de aceite el amargor de las hojas queda suave y el parmesano da el toque salino sin dominar. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Es una evocación: berros o espinacas si no hay diente de león.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~6 g
@@ -30397,8 +30434,8 @@ PREPARACION:
 1. Mezcla naranja, ralladura, ajo y aceite.
 2. Coloca las hojas con el atún.
 3. Aliña y sirve.
-JUSTIFICACION: Fresca y proteica.
-ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: con atún en lugar de anchoas y naranja en lugar de limón es más suave. Para el Perfil1 se evitan el ácido y el exceso de sal.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~8 g
@@ -30429,8 +30466,8 @@ PREPARACION:
 1. Separa en ramitos.
 2. Cuece al vapor 10 minutos.
 3. Escurre.
-JUSTIFICACION: Conserva textura y sabor.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor sin sal queda tierna y dulce. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~40 kcal (por porción)
 Proteínas: ~3 g
@@ -30467,8 +30504,8 @@ PREPARACION:
 1. Cuece la coliflor al vapor 8 minutos.
 2. Calienta aceite, harina, leche, naranja y queso azul 5 minutos hasta fundir.
 3. Cubre la coliflor con la salsa y espolvorea con comino.
-JUSTIFICACION: Sabor a queso azul con poca grasa.
-ADVERTENCIAS: Es una evocación: queso azul suave y naranja en lugar de gorgonzola y brandy.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: con queso azul suave y naranja reducida en lugar de brandy es menos intensa. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Es una evocación: queso azul suave y naranja en lugar de gorgonzola y brandy.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~6 g
@@ -30504,8 +30541,8 @@ PREPARACION:
 1. Cuece la coliflor al vapor 8 minutos y mézclala con los huevos batidos y el pollo.
 2. Colócala en una fuente engrasada y cubre con pan y parmesano.
 3. Hornea 25 minutos a 190 °C hasta cuajar y dorar.
-JUSTIFICACION: Gratinada y proteica.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y deja un gratinado más limpio y menos salado, con la coliflor tierna y aceite en lugar de mantequilla. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajada.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~13 g
@@ -30544,8 +30581,8 @@ PREPARACION:
 1. Cuece ambas coles al vapor 8 minutos.
 2. Mezcla aceite, naranja, pimiento, ralladura, ajo, orégano y pimentón.
 3. Aliña las coles y sirve templadas.
-JUSTIFICACION: Vistosa y sin picante.
-ADVERTENCIAS: Es una evocación: brócoli si no hay coliflor verde.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: con pimiento asado en lugar de en salmuera y pimentón dulce en lugar de guindilla. Para el Perfil1 se evitan el picante, la salmuera y el ácido.
+ADVERTENCIAS: Es una evocación: brócoli si no hay coliflor verde.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~4 g
@@ -30583,8 +30620,8 @@ PREPARACION:
 1. Cuece la coliflor al vapor 10 minutos, tritúrala y mézclala con 1 huevo, el parmesano, el perejil y la nuez moscada.
 2. Forma croquetas y pásalas por harina, huevo batido y pan rallado.
 3. Rocía con el aceite y hornea 20 minutos a 200 °C.
-JUSTIFICACION: Crujientes sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno quedan menos crujientes y doradas que fritas, pero tiernas por dentro con el sabor suave de la coliflor y el queso. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~7 g
@@ -30621,8 +30658,8 @@ PREPARACION:
 1. Bate huevo, harina y leche hasta lograr una masa fluida y baña la coliflor.
 2. Colócala en una bandeja, rocía con el aceite y hornea 20 minutos a 220 °C.
 3. Sirve con la salsa de tomate caliente y la albahaca.
-JUSTIFICACION: Crujiente sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con rebozado de avena al horno es más ligera y menos dorada que la frita, con la coliflor tierna. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~7 g
@@ -30659,8 +30696,8 @@ PREPARACION:
 1. Cuece la coliflor al vapor 8 minutos.
 2. Mezcla aceite y naranja.
 3. Combina coliflor, huevo, atún y aceitunas, aliña y espolvorea con perejil.
-JUSTIFICACION: Sabor marino sin salmuera ni vinagre.
-ADVERTENCIAS: Es una evocación: atún en lugar de anchoas y alcaparras; naranja en lugar de vinagreta.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún sustituye a las anchoas y la naranja a la vinagreta, con un aliño más dulce y suave. Para el Perfil1 se evitan el vinagre y el exceso de sal.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas y alcaparras; naranja en lugar de vinagreta.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~12 g
@@ -30696,8 +30733,8 @@ PREPARACION:
 1. Cuece la coliflor al vapor 8 minutos.
 2. Calienta aceite, ajo y harina; añade naranja y 100 ml de agua y cuece 3 minutos; agrega el huevo picado.
 3. Sirve sobre la coliflor.
-JUSTIFICACION: Sabrosa y sin vinagre.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con aceite en lugar de mantequilla y naranja en lugar de vinagre es más suave y menos untuosa. Para el Perfil1 se evitan el vinagre y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~9 g
@@ -30734,8 +30771,8 @@ PREPARACION:
 1. Cuece la coliflor al vapor 8 minutos.
 2. Tritura perejil, huevo, atún, aceitunas, naranja y aceite.
 3. Sirve la coliflor con la salsa.
-JUSTIFICACION: Fresca y herbácea con 1 cda de aceite.
-ADVERTENCIAS: Es una evocación: atún y aceitunas en lugar de anchoas, alcaparras y pepinillos.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún y las aceitunas enjuagadas sustituyen a las anchoas y los encurtidos, con una salsa más ligera. Para el Perfil1 se evitan el vinagre y el exceso de sal.
+ADVERTENCIAS: Es una evocación: atún y aceitunas en lugar de anchoas, alcaparras y pepinillos.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~7 g
@@ -30772,8 +30809,8 @@ PREPARACION:
 1. Cuece coliflor y zanahoria al vapor 6 minutos.
 2. Mezcla aceite, naranja, ajo, comino y pimentón.
 3. Aliña y deja reposar 15 minutos.
-JUSTIFICACION: Aromática y sin vinagre.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja en lugar de limón y vinagre y menos aceite es más suave y aromática. Para el Perfil1 se evitan el ácido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~3 g
@@ -30804,8 +30841,8 @@ PREPARACION:
 1. Corta en tiras o trozos.
 2. Cuece al vapor 8-10 minutos.
 3. Escurre.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor sin sal queda tierno y dulce, menos sulfuroso que hervido. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~35 kcal (por porción)
 Proteínas: ~2 g
@@ -30843,8 +30880,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade repollo, manzana y un poco de agua y cuece tapado 20 minutos.
 2. Fuera del fuego añade yogur, stevia y pimentón.
 3. Sirve con mejorana.
-JUSTIFICACION: Dulce y cremoso con poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur y pimentón dulce es cremoso y suave, con stevia en lugar de azúcar. Para el Perfil1 se evitan el azúcar y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~4 g
@@ -30881,8 +30918,8 @@ PREPARACION:
 1. Cuece la col al vapor 8 minutos; dora el pollo en el aceite con el tomate 10 minutos.
 2. En una fuente engrasada alterna col, pollo, mozzarella y yogur.
 3. Espolvorea con parmesano y hornea 25 minutos a 190 °C.
-JUSTIFICACION: Plato único con menos grasa.
-ADVERTENCIAS: Es una evocación: pollo en lugar de salchicha.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la salchicha y la mozzarella baja en grasa gratina con menos grasa. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchicha.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~20 g
@@ -30917,8 +30954,8 @@ PREPARACION:
 1. Cuece la col al vapor 8 minutos.
 2. Rehoga ajo y atún en el aceite 2 minutos.
 3. Mezcla con la col y el perejil.
-JUSTIFICACION: Sabrosa sin anchoas.
-ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún sustituye a las anchoas con un sabor marino más suave y menos salado. Para el Perfil1 baja el sodio y la grasa.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~6 g
@@ -30954,8 +30991,8 @@ PREPARACION:
 1. Cuece papas y col al vapor 8 minutos.
 2. Colócalas por capas en una fuente engrasada con el aceite.
 3. Cubre con huevos batidos con la leche y el parmesano; hornea 25 minutos a 180 °C hasta cuajar.
-JUSTIFICACION: Sencillo y sin mantequilla.
-ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.
+JUSTIFICACION: Con leche descremada y aceite es más ligera, con el huevo bien cuajado. Para el Perfil1 baja la grasa y se evita el huevo poco cocido.
+ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~160 kcal (por porción)
 Proteínas: ~8 g
@@ -30990,8 +31027,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 6 minutos; añade champiñones y repollo y cuece 10 minutos.
 2. Cuece las papas al vapor 12 minutos.
 3. Mezcla y sirve.
-JUSTIFICACION: Sin conserva salada ni vinagre.
-ADVERTENCIAS: Es una evocación: repollo fresco en lugar de choucroute.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el repollo fresco sustituye al chucrut con un sabor menos ácido y más dulce. Para el Perfil1 se evitan los fermentados ácidos y la grasa.
+ADVERTENCIAS: Es una evocación: repollo fresco en lugar de choucroute.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~4 g
@@ -31029,8 +31066,8 @@ PREPARACION:
 1. Rehoga cebolla y pollo en el aceite 8 minutos; añade la naranja.
 2. Agrega repollo, tomillo, enebrinas y caldo.
 3. Cuece tapado a fuego suave 40 minutos.
-JUSTIFICACION: Reconfortante, sin embutido ni vinagre.
-ADVERTENCIAS: Es una evocación: pollo en lugar de panceta; sin vino ni vinagre.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la panceta y la naranja reducida al vino y vinagre, con un sabor más dulce. Para el Perfil1 se evitan el embutido y el vinagre.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta; sin vino ni vinagre.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~8 g
@@ -31067,8 +31104,8 @@ PREPARACION:
 1. Escalda las hojas de col 2 minutos; cuece las acelgas, pícalas y mézclalas con ricota, parmesano y huevos.
 2. Rellena las hojas, enróllalas y átalas.
 3. Cuécelos en la salsa de tomate 25 minutos a fuego suave.
-JUSTIFICACION: Ligeros y llenos de verduras.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con ricota baja en grasa es más suave y ligero, con la col tierna. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~11 g
@@ -31099,8 +31136,8 @@ PREPARACION:
 1. Retira las hojas exteriores y haz una cruz en la base.
 2. Cuece al vapor 10-12 minutos.
 3. Escurre.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor sin sal quedan tiernas y dulces, menos amargas que hervidas. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~45 kcal (por porción)
 Proteínas: ~4 g
@@ -31134,8 +31171,8 @@ PREPARACION:
 1. Cuece las coles al vapor 12 minutos.
 2. Saltéalas con el aceite y la nuez moscada.
 3. Sirve con el parmesano.
-JUSTIFICACION: Sencillas y ligeras.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con mucho menos queso y aceite son más ligeras. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~8 g
@@ -31171,8 +31208,8 @@ PREPARACION:
 1. Cuece las coles al vapor 12 minutos.
 2. Saltea almendras, ajo y pan rallado en el aceite 2 minutos.
 3. Mezcla con las coles y la ralladura.
-JUSTIFICACION: Crujientes con poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con almendras y ralladura en lugar de limón tienen un crocante tostado y aroma suave. Para el Perfil1 se evitan el ácido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~5 g
@@ -31207,8 +31244,8 @@ PREPARACION:
 1. Saltea las coles con el aceite y el pollo 5 minutos.
 2. Colócalas en una fuente engrasada con la bechamel y el queso.
 3. Gratina 15 minutos a 200 °C.
-JUSTIFICACION: Gratinado cremoso, poco graso.
-ADVERTENCIAS: Es una evocación: pollo en lugar de panceta.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la panceta y la mozzarella baja en grasa al gruyère. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~12 g
@@ -31244,8 +31281,8 @@ PREPARACION:
 1. Cuece las coles al vapor con la pimienta y la naranja 12 minutos.
 2. Colócalas en una fuente y cubre con la velouté caliente.
 3. Espolvorea con parmesano y cebollino y gratina 5 minutos.
-JUSTIFICACION: Salsa ligera, sin vino.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja en lugar de vino y limón y menos pimienta es más suave. Para el Perfil1 se evitan el alcohol y el ácido.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~7 g
@@ -31277,8 +31314,8 @@ PREPARACION:
 1. Remoja los garbanzos 12 horas.
 2. Cuece en agua nueva 1½-2 horas hasta que estén tiernos.
 3. Escurre.
-JUSTIFICACION: Base de legumbres con fibra y sin sal.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Cocidos sin sal son cremosos y de sabor a nuez. Para el Perfil1 son una base de fibra y proteína vegetal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Es una receta base. Remójalos 12 horas y cocínalos hasta que estén muy tiernos.
 VALOR_NUTRICIONAL:
 Calorías: ~180 kcal (por porción)
 Proteínas: ~10 g
@@ -31312,8 +31349,8 @@ PREPARACION:
 1. Calienta los garbanzos cocidos.
 2. Mezcla con el atún y el perejil.
 3. Aliña con el aceite.
-JUSTIFICACION: Proteica y sin anchoas.
-ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún al natural reemplaza a las anchoas, y el perejil fresco da el verdor; los garbanzos quedan cremosos y el conjunto menos salado. Para el Perfil1 aporta fibra y proteína con poco sodio.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~17 g
@@ -31348,8 +31385,8 @@ PREPARACION:
 1. Cuece los garbanzos con el bicarbonato 1½ hora y escurre.
 2. Mezcla aceite y naranja.
 3. Combina con el atún y aliña.
-JUSTIFICACION: Plato único con fibra y proteína.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con atún al natural y naranja en lugar de vinagre es más ligero y suave. Para el Perfil1 se evitan el vinagre y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~260 kcal (por porción)
 Proteínas: ~22 g
@@ -31383,8 +31420,8 @@ PREPARACION:
 1. Bate la harina con el agua y el aceite; reposa 2 horas.
 2. Vierte en una bandeja engrasada formando una capa fina.
 3. Hornea 25 minutos a 230 °C hasta dorar.
-JUSTIFICACION: Crujiente y sin sal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con menos aceite y sin sal queda menos dorada y crujiente que la original, pero cremosa por dentro. Para el Perfil1 baja la grasa y aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~10 g
@@ -31417,8 +31454,8 @@ PREPARACION:
 1. Cuece harina, agua y 1 cda de aceite 20 minutos removiendo hasta espesar; extiende y deja enfriar.
 2. Corta en tiras.
 3. Colócalas en una bandeja con el resto del aceite y hornea 20 minutos a 220 °C.
-JUSTIFICACION: Dorada sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno en lugar de frita es menos crujiente y más tierna. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~10 g
@@ -31451,8 +31488,8 @@ PREPARACION:
 1. Pela y corta los pepinos.
 2. Colócalos en una fuente.
 3. Cubre con la mayonesa y el perejil.
-JUSTIFICACION: Fresco y ligero.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con mayonesa de yogur es más fresca y ligera. Para el Perfil1 baja la grasa y se evita el huevo crudo.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~50 kcal (por porción)
 Proteínas: ~3 g
@@ -31485,8 +31522,8 @@ PREPARACION:
 1. Corta los pepinos en bastones y saltéalos con el aceite 5 minutos.
 2. Retira del fuego.
 3. Incorpora el yogur y sirve.
-JUSTIFICACION: Suave y cremoso.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur en lugar de nata es más fresco y ligero. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~50 kcal (por porción)
 Proteínas: ~3 g
@@ -31523,8 +31560,8 @@ PREPARACION:
 1. Mezcla aceite, naranja, ralladura y ajo.
 2. Coloca el pepino con las hierbas.
 3. Aliña y sirve frío.
-JUSTIFICACION: Fresca y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin mostaza y con naranja y ralladura es más suave, menos picante y ácido. Para el Perfil1 se evitan la mostaza y el ácido.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~50 kcal (por porción)
 Proteínas: ~1 g
@@ -31559,8 +31596,8 @@ PREPARACION:
 1. Mezcla naranja y aceite.
 2. Combina pepino, eneldo y aceitunas.
 3. Aliña y sirve.
-JUSTIFICACION: Fresca con menos sal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con menos aceitunas enjuagadas y naranja es más suave y menos salado. Para el Perfil1 baja el sodio y se evita el ácido.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~40 kcal (por porción)
 Proteínas: ~1 g
@@ -31591,8 +31628,8 @@ PREPARACION:
 1. Lava y corta la achicoria.
 2. Cuece al vapor 8 minutos.
 3. Escurre.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor y sin sal la achicoria pierde buena parte de su amargor y queda tierna y dulce, más suave que hervida. Para el Perfil1 es una base suave que se usa en otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~30 kcal (por porción)
 Proteínas: ~2 g
@@ -31626,8 +31663,8 @@ PREPARACION:
 1. Mezcla la achicoria con el pollo.
 2. Colócala en una fuente engrasada y cubre con la bechamel.
 3. Gratina 15 minutos a 200 °C.
-JUSTIFICACION: Gratinada sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón con bechamel ligera. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~10 g
@@ -31661,8 +31698,8 @@ PREPARACION:
 1. Cuece la achicoria al vapor 8 minutos.
 2. Rehoga el ajo con el pimentón en el aceite 1 minuto.
 3. Mezcla con la achicoria.
-JUSTIFICACION: Sabrosa sin picante.
-ADVERTENCIAS: Es una evocación: pimentón dulce en lugar de guindilla.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pimentón dulce sustituye a la guindilla. Para el Perfil1 se evitan el picante y la grasa.
+ADVERTENCIAS: Es una evocación: pimentón dulce en lugar de guindilla.|Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~60 kcal (por porción)
 Proteínas: ~2 g
@@ -31698,8 +31735,8 @@ PREPARACION:
 1. Tritura la achicoria con el aceite, el yogur, la stevia y la nuez moscada.
 2. Colócala en una fuente engrasada y cubre con el queso.
 3. Gratina 12 minutos a 200 °C.
-JUSTIFICACION: Cremoso, sin mantequilla ni nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur y stevia es cremoso y suave, menos amargo. Para el Perfil1 se evitan el azúcar y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~6 g
@@ -31730,8 +31767,8 @@ PREPARACION:
 1. Lava las hojas.
 2. Cuece al vapor 4 minutos.
 3. Escurre.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una evocación: espinacas o berros si no hay nabizas.|Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: las espinacas o berros sustituyen a las nabizas con un sabor verde y suave. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una evocación: espinacas o berros si no hay nabizas.|Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~25 kcal (por porción)
 Proteínas: ~2 g
@@ -31765,8 +31802,8 @@ PREPARACION:
 1. Unta con aceite una hoja de papel de hornear.
 2. Coloca las hojas, el ajo y la naranja y cierra el paquete.
 3. Hornea 20 minutos a 200 °C.
-JUSTIFICACION: Sin sal ni limón.
-ADVERTENCIAS: Es una evocación: espinacas o berros si no hay nabizas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: con naranja en lugar de limón conservan sus aromas y quedan jugosas. Para el Perfil1 se evitan el ácido y la grasa.
+ADVERTENCIAS: Es una evocación: espinacas o berros si no hay nabizas.|Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~60 kcal (por porción)
 Proteínas: ~4 g
@@ -31799,8 +31836,8 @@ PREPARACION:
 1. Cuece las hojas al vapor 4 minutos.
 2. Rehoga con el aceite 2 minutos.
 3. Sirve con el parmesano.
-JUSTIFICACION: Sencillas y ligeras.
-ADVERTENCIAS: Es una evocación: espinacas si no hay nabizas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: las espinacas tiernas con poco parmesano quedan sabrosas y ligeras, sin la mantequilla que las hacía untuosas. Para el Perfil1 baja la grasa y aportan hierro y fibra.
+ADVERTENCIAS: Es una evocación: espinacas si no hay nabizas.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~7 g
@@ -31836,8 +31873,8 @@ PREPARACION:
 1. Cuece las hojas al vapor 4 minutos.
 2. Rehoga ajo, pimentón y pollo en el aceite 3 minutos.
 3. Mezcla con las hojas y espolvorea con el pan rallado.
-JUSTIFICACION: Sencillas y proteicas.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón; espinacas si no hay nabizas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y el pimentón dulce a la guindilla. Para el Perfil1 se evitan el embutido y el picante.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón; espinacas si no hay nabizas.|Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~12 g
@@ -31872,8 +31909,8 @@ PREPARACION:
 1. Cuece las hojas al vapor 4 minutos.
 2. Rehoga ajo, atún y aceitunas en el aceite 2 minutos.
 3. Mezcla con las hojas.
-JUSTIFICACION: Sabor salino sin anchoas.
-ADVERTENCIAS: Es una evocación: atún y aceitunas en lugar de anchoas y alcaparras; espinacas o berros si no hay nabizas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún y las aceitunas enjuagadas sustituyen a las anchoas y alcaparras. Para el Perfil1 baja el sodio.
+ADVERTENCIAS: Es una evocación: atún y aceitunas en lugar de anchoas y alcaparras; espinacas o berros si no hay nabizas.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~9 g
@@ -31904,8 +31941,8 @@ PREPARACION:
 1. Pela las cebollas.
 2. Cuece al vapor 25-30 minutos.
 3. Escurre.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor sin sal quedan dulces y tiernas. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~45 kcal (por porción)
 Proteínas: ~1 g
@@ -31941,8 +31978,8 @@ PREPARACION:
 1. Bate harina, huevo, agua y la mitad del aceite.
 2. Pasa los aros por la masa.
 3. Colócalos en una bandeja con el resto del aceite y hornea 20 minutos a 220 °C, dándoles la vuelta a mitad de tiempo.
-JUSTIFICACION: Crujientes sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno son menos crujientes que fritos, con la cebolla tierna y dulce. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~4 g
@@ -31979,8 +32016,8 @@ PREPARACION:
 1. Cuece las cebolletas con el aceite, el ajo y un poco de agua a fuego muy suave 20 minutos.
 2. Mezcla con los huevos batidos, el parmesano y el perejil.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más; sirve con pan.
-JUSTIFICACION: Dulce y ligera.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Con la cebolla cocida da un sabor dulce y suave, con menos grasa. Para el Perfil1 baja la grasa y el huevo va bien cuajado.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~11 g
@@ -32018,8 +32055,8 @@ PREPARACION:
 1. Cuece las cebollas 15 minutos, vacíalas y pica el interior; dora las carnes con él en el aceite 8 minutos y mezcla con parmesano, huevo y nuez moscada.
 2. Rellena las cebollas y colócalas en una fuente con el caldo.
 3. Hornea 30 minutos a 180 °C.
-JUSTIFICACION: Relleno magro y sin embutido.
-ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchicha.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la salchicha con un sabor más limpio. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchicha.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~17 g
@@ -32058,8 +32095,8 @@ PREPARACION:
 1. Cuece las cebollas 15 minutos y vacíalas; mezcla el interior picado con carne, pan remojado en leche, perejil, queso rallado y huevo.
 2. Rellena, coloca en una fuente engrasada y cubre con las lonchas de queso.
 3. Hornea 30 minutos a 180 °C.
-JUSTIFICACION: Menos grasa, mismo plato.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con mozzarella baja en grasa y pan integral es más ligera y menos filante. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~19 g
@@ -32094,8 +32131,8 @@ PREPARACION:
 1. Dora el pollo en el aceite 4 minutos.
 2. Añade las cebollitas, la salvia y el agua.
 3. Cuece tapado a fuego suave 20 minutos.
-JUSTIFICACION: Dulces y aromáticas.
-ADVERTENCIAS: Es una evocación: pollo en lugar de panceta.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la panceta con la salvia dando aroma. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta.|Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~5 g
@@ -32130,8 +32167,8 @@ PREPARACION:
 1. Pon las cebollitas con el tomillo, la naranja y el caldo en una cazuela.
 2. Cuece tapado 20 minutos.
 3. Añade las pasas y reduce 5 minutos.
-JUSTIFICACION: Agridulces y sin alcohol.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja reducida en lugar de vino y menos pasas es agridulce y suave. Para el Perfil1 se evitan el alcohol y el azúcar.
+ADVERTENCIAS: Sin sal añadida.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~60 kcal (por porción)
 Proteínas: ~1 g
@@ -32165,8 +32202,8 @@ PREPARACION:
 1. Dora las cebollitas en el aceite 5 minutos.
 2. Añade agua y stevia y cuece tapado 15 minutos.
 3. Destapa y reduce hasta que brillen.
-JUSTIFICACION: Brillantes sin mantequilla ni azúcar.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con stevia y aceite quedan brillantes y dulces, con menos grasa. Para el Perfil1 se evitan el azúcar y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~60 kcal (por porción)
 Proteínas: ~1 g
@@ -32200,8 +32237,8 @@ PREPARACION:
 1. Dora las cebollitas en el aceite 5 minutos; añade la harina.
 2. Agrega el caldo.
 3. Cuece tapado a fuego suave 20 minutos.
-JUSTIFICACION: Sencillas y sin sal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con caldo sin sal y aceite quedan tiernas y aromáticas. Para el Perfil1 baja la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~2 g
@@ -32233,8 +32270,8 @@ PREPARACION:
 1. Remoja las alubias 12 horas y escúrrelas.
 2. Cuece en agua nueva con apio, ajo y salvia 1½ hora hasta que estén tiernas.
 3. Escurre.
-JUSTIFICACION: Base de legumbres sin sal.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Cocidas sin sal son cremosas y de sabor suave. Para el Perfil1 son una base de fibra y proteína vegetal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Es una receta base. Remójalas 8-12 horas y cocínalas hasta que estén muy tiernas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~11 g
@@ -32270,8 +32307,8 @@ PREPARACION:
 1. Mezcla las tres legumbres.
 2. Bate aceite y naranja.
 3. Aliña y espolvorea con cebollino.
-JUSTIFICACION: Fibra y proteína sin sal de conserva ni vinagre.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con legumbres cocidas en casa en lugar de conserva y naranja en lugar de vinagre es más suave y menos salada. Para el Perfil1 se evitan las conservas y el vinagre.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~10 g
@@ -32309,8 +32346,8 @@ PREPARACION:
 1. Cuece las alubias con apio y salvia 40 minutos y escúrrelas.
 2. Rehoga el ajo en el aceite; añade tomate y cuece 8 minutos.
 3. Mezcla con las alubias, la albahaca y el perejil.
-JUSTIFICACION: Rústicas y sin mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con tomate asado en lugar de passata es más dulce y menos ácida. Para el Perfil1 se evita la acidez y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~180 kcal (por porción)
 Proteínas: ~11 g
@@ -32345,8 +32382,8 @@ PREPARACION:
 1. Cuece las alubias 1½ hora y escúrrelas.
 2. Rehoga ajo y salvia en el aceite; añade el tomate y cuece 10 minutos.
 3. Mezcla con las alubias y cuece 10 minutos más.
-JUSTIFICACION: Sin conservas ni sal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con tomate asado en lugar de conserva es más dulce y suave, con la salvia aromática. Para el Perfil1 se evitan las conservas y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~11 g
@@ -32383,8 +32420,8 @@ PREPARACION:
 1. Cuece las alubias con apio y salvia 1½ hora.
 2. Dora las bolitas de pollo en el aceite con el ajo 8 minutos; añade la naranja.
 3. Mezcla con las alubias.
-JUSTIFICACION: Contundente y sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de salchichas; sin vino.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a las salchichas con un guiso más limpio y menos graso, con la naranja reducida en lugar de vino. Para el Perfil1 se evitan el embutido, el alcohol y la grasa, con fibra y proteína.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchichas; sin vino.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~280 kcal (por porción)
 Proteínas: ~29 g
@@ -32420,8 +32457,8 @@ PREPARACION:
 1. Mezcla alubias, piña y pollo.
 2. Bate naranja y aceite y aliña.
 3. Sirve con el aguacate.
-JUSTIFICACION: Fresca y sin sal.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y la naranja a la mostaza, con alubias cocidas en casa más suaves que las de conserva. Para el Perfil1 se evitan el embutido, la mostaza y las conservas.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~250 kcal (por porción)
 Proteínas: ~19 g
@@ -32460,8 +32497,8 @@ PREPARACION:
 1. Mezcla las verduras asadas con el aceite y el ajo.
 2. Añade las alubias.
 3. Sirve templado con la ralladura y las hierbas.
-JUSTIFICACION: Ligera, sin conserva.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con verduras asadas y poco aceite es fresca y dulce, con las alubias cremosas. Para el Perfil1 baja la grasa y aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~9 g
@@ -32497,8 +32534,8 @@ PREPARACION:
 1. Mezcla alubias, habichuelas y chalote.
 2. Bate aceite, ajo y pimentón.
 3. Aliña.
-JUSTIFICACION: Sin picante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con pimentón dulce en lugar de guindilla y menos aceite es suave y ligera. Para el Perfil1 se evitan el picante y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~9 g
@@ -32534,8 +32571,8 @@ PREPARACION:
 1. Cuece las alubias con apio, ajo y salvia 1½ hora.
 2. Tritura con el caldo.
 3. Termina con el aceite.
-JUSTIFICACION: Cremoso sin mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con aceite en lugar de mantequilla y caldo sin sal es cremoso y más ligero. Para el Perfil1 baja la grasa y la sal, con fibra y proteína vegetal.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~180 kcal (por porción)
 Proteínas: ~11 g
@@ -32566,8 +32603,8 @@ PREPARACION:
 1. Despunta las habichuelas.
 2. Cuece al vapor 8-10 minutos.
 3. Escurre.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor conservan el verde y el crujido tierno, mejor que hervidas con sal. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~35 kcal (por porción)
 Proteínas: ~2 g
@@ -32602,8 +32639,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos; añade las habichuelas.
 2. Vierte los huevos batidos con el parmesano y remueve a fuego bajo.
 3. Cocina hasta que el huevo esté totalmente cuajado.
-JUSTIFICACION: Sin mantequilla; huevo bien cocido.
-ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.
+JUSTIFICACION: Con aceite y menos queso la crema es más ligera, con el huevo bien cuajado. Para el Perfil1 baja la grasa y se evita el huevo poco cocido.
+ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~7 g
@@ -32642,8 +32679,8 @@ PREPARACION:
 1. Mezcla habichuelas, alubias, cebolleta, atún y pollo.
 2. Bate aceite, naranja y pimentón y aliña.
 3. Sirve con el huevo duro en cuartos.
-JUSTIFICACION: Plato único, sin embutido ni vinagre.
-ADVERTENCIAS: Es una evocación: pollo en lugar de salchichas; atún en lugar de anchoas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la salchicha, el atún a las anchoas y la naranja al vinagre. Para el Perfil1 se evitan el embutido, el vinagre y las conservas.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchichas; atún en lugar de anchoas.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~21 g
@@ -32678,8 +32715,8 @@ PREPARACION:
 1. Coloca las habichuelas en una fuente engrasada.
 2. Cubre con huevos batidos con la leche y el parmesano.
 3. Hornea 25 minutos a 180 °C hasta cuajar.
-JUSTIFICACION: Gratinado ligero.
-ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.
+JUSTIFICACION: Con mucho menos queso y leche descremada es más ligera. Para el Perfil1 baja la grasa y el huevo va bien cuajado.
+ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~10 g
@@ -32716,8 +32753,8 @@ PREPARACION:
 1. Rehoga cebolla y ajo en el aceite 8 minutos; añade el tomate.
 2. Agrega las habichuelas y cuece tapado 15 minutos.
 3. Añade aceitunas y albahaca.
-JUSTIFICACION: Fresca y sencilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con tomate asado es dulce y suave, con menos aceite y aceitunas. Para el Perfil1 se evita la acidez y baja el sodio.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~3 g
@@ -32752,8 +32789,8 @@ PREPARACION:
 1. Rehoga las cebolletas en el aceite 3 minutos.
 2. Añade las habichuelas y saltea 4 minutos.
 3. Sirve con la ralladura y el sésamo tostado.
-JUSTIFICACION: Crujientes y aromáticas.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con aceite y ralladura quedan brillantes con el crocante del ajonjolí. Para el Perfil1 se evitan el ácido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~3 g
@@ -32791,8 +32828,8 @@ PREPARACION:
 1. Rehoga puerros y ajo en el aceite 8 minutos; añade la harina, la leche y la naranja y cuece 4 minutos.
 2. Coloca las habichuelas en una fuente engrasada y cubre con la salsa.
 3. Espolvorea con parmesano y gratina 12 minutos a 200 °C.
-JUSTIFICACION: Gratinadas sin vino ni mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja reducida en lugar de vino y menos queso es más ligera. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~6 g
@@ -32829,8 +32866,8 @@ PREPARACION:
 1. Rehoga cebolla y champiñones en el aceite 8 minutos; mezcla con habichuelas y pollo.
 2. Mezcla la bechamel con el huevo y cubre las verduras en una fuente engrasada.
 3. Hornea 25 minutos a 190 °C hasta cuajar.
-JUSTIFICACION: Gratinado ligero y sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajado.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón con bechamel ligera sin yema cruda. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Totalmente cuajado.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~11 g
@@ -32867,8 +32904,8 @@ PREPARACION:
 1. Mezcla habichuelas, cebolla y ajo.
 2. Bate naranja, ralladura y aceite.
 3. Aliña y espolvorea con perejil.
-JUSTIFICACION: Fresca y sin mostaza ni limón.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin mostaza y con naranja y ralladura es más suave y fresca. Para el Perfil1 se evitan la mostaza y el ácido.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~2 g
@@ -32902,8 +32939,8 @@ PREPARACION:
 1. Machaca el ajo asado.
 2. Mezcla con yogur y aceite hasta que quede una crema.
 3. Sirve con las habichuelas.
-JUSTIFICACION: Alioli sin huevo crudo, vinagre ni excesos de aceite.
-ADVERTENCIAS: Es una evocación: yogur en lugar de la base de pan y aceite.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el yogur con ajo asado sustituye al alioli de pan, vinagre y aceite, con una salsa más fresca y ligera. Para el Perfil1 se evitan el vinagre, el ajo crudo y la grasa.
+ADVERTENCIAS: Es una evocación: yogur en lugar de la base de pan y aceite.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~4 g
@@ -32938,8 +32975,8 @@ PREPARACION:
 1. Machaca el huevo duro con el aceite y la naranja.
 2. Calienta suavemente.
 3. Cubre las habichuelas y espolvorea con perejil.
-JUSTIFICACION: Sin yema cruda.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con huevo duro en lugar de yemas crudas y naranja en lugar de limón es más suave y segura. Para el Perfil1 se evitan el huevo crudo y el ácido.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~6 g
@@ -32970,8 +33007,8 @@ PREPARACION:
 1. Desvaina las habas.
 2. Cuece al vapor 8 minutos.
 3. Escurre.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor sin sal son tiernas y dulces. Para el Perfil1 son una base de fibra y proteína vegetal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~7 g
@@ -33005,8 +33042,8 @@ PREPARACION:
 1. Cuece las habas al vapor 8 minutos.
 2. Mézclalas con el aceite y colócalas en una fuente.
 3. Cubre con yogur y queso y gratina 5 minutos.
-JUSTIFICACION: Cremosas sin nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur y mozzarella baja en grasa es más ligera y menos untuosa. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~10 g
@@ -33043,8 +33080,8 @@ PREPARACION:
 1. Rehoga cebolla, zanahoria y pollo en el aceite 8 minutos.
 2. Añade habas y caldo; cuece tapado 15 minutos.
 3. Sirve con perejil.
-JUSTIFICACION: Guiso sencillo sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo en lugar del jamón da un guiso más sencillo y menos curado, con las habas tiernas y dulces en caldo sin sal. Para el Perfil1 se evitan el embutido y el exceso de grasa, con fibra y proteína.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~14 g
@@ -33078,8 +33115,8 @@ PREPARACION:
 1. Cuece habas y papas 15 minutos.
 2. Tritura con el caldo.
 3. Sirve con el aceite.
-JUSTIFICACION: Cremoso sin sal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con una cucharada de aceite y caldo sin sal es cremoso, menos rico pero más fresco. Para el Perfil1 baja la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~9 g
@@ -33110,8 +33147,8 @@ PREPARACION:
 1. Limpia y corta en cuartos.
 2. Cuece al vapor 15 minutos.
 3. Escurre.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor sin sal es tierno y dulce, con el anís suave. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~30 kcal (por porción)
 Proteínas: ~1 g
@@ -33146,8 +33183,8 @@ PREPARACION:
 1. Mezcla atún, aceite, naranja y ralladura.
 2. Coloca el hinojo en una fuente.
 3. Cubre con el aliño.
-JUSTIFICACION: Contundente sin picante ni vinagre.
-ADVERTENCIAS: Es una evocación: atún y naranja en lugar de anchoas, mostaza y vinagre.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún y la naranja sustituyen a las anchoas, mostaza y vinagre, con un aliño más suave y dulce. Para el Perfil1 se evitan la mostaza, el vinagre y el exceso de sal.
+ADVERTENCIAS: Es una evocación: atún y naranja en lugar de anchoas, mostaza y vinagre.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~4 g
@@ -33184,8 +33221,8 @@ PREPARACION:
 1. Coloca el hinojo en una fuente engrasada con la mozzarella y el perejil.
 2. Cubre con huevos batidos con el yogur.
 3. Espolvorea con parmesano y hornea 25 minutos a 180 °C hasta cuajar.
-JUSTIFICACION: Gratinado con menos grasa.
-ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.
+JUSTIFICACION: Con yogur y mozzarella baja en grasa es más ligero y menos filante, con el huevo bien cuajado. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Totalmente cuajado.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~160 kcal (por porción)
 Proteínas: ~13 g
@@ -33220,8 +33257,8 @@ PREPARACION:
 1. Rehoga el hinojo en el aceite con el ajo 5 minutos.
 2. Añade la naranja y 100 ml de agua; cuece tapado 20 minutos.
 3. Sirve con perejil.
-JUSTIFICACION: Dulce y aromático, sin alcohol.
-ADVERTENCIAS: Es una evocación: naranja reducida en lugar de vino.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: la naranja reducida da un dulzor aromático parecido al del vino. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Es una evocación: naranja reducida en lugar de vino.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~60 kcal (por porción)
 Proteínas: ~2 g
@@ -33255,8 +33292,8 @@ PREPARACION:
 1. Pela las naranjas y sepárala en gajos, reservando el jugo.
 2. Mezcla hinojo y naranja.
 3. Aliña con el jugo y el aceite y espolvorea con nueces.
-JUSTIFICACION: Fresca y de sabor cítrico.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Fresco y crujiente, con menos nueces y aceite. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~2 g
@@ -33290,8 +33327,8 @@ PREPARACION:
 1. Pasa el hinojo por el huevo batido con el parmesano.
 2. Colócalo en una bandeja y rocía con el aceite.
 3. Hornea 20 minutos a 200 °C hasta dorar.
-JUSTIFICACION: Dorado sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno en lugar de frito en mantequilla es más ligero y menos dorado. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~5 g
@@ -33328,8 +33365,8 @@ PREPARACION:
 1. Amasa la harina con 2 cdas de aceite, el agua y la clara; reposa 30 minutos. Cuece el hinojo, pícalo y rehógalo con el resto del aceite; mezcla con atún y queso.
 2. Estira la masa, corta círculos, rellena y cierra las empanadillas.
 3. Píntalas con la yema y hornea 25 minutos a 190 °C.
-JUSTIFICACION: Horneadas y con relleno ligero.
-ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún sustituye a las anchoas y la masa integral es más rústica, con menos grasa. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~8 g
@@ -33366,8 +33403,8 @@ PREPARACION:
 1. Remoja el pan en la leche; mézclalo con los huevos y el hinojo troceado.
 2. Coloca en un molde engrasado con la mozzarella y el parmesano.
 3. Hornea 35 minutos a 180 °C hasta cuajar.
-JUSTIFICACION: Ligera y proteica.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Con mozzarella baja en grasa y aceite es más ligera, con el huevo bien cuajado. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~11 g
@@ -33400,8 +33437,8 @@ PREPARACION:
 1. Limpia las setas con un paño húmedo y trocéalas.
 2. Saltéalas en sartén antiadherente con el aceite 8 minutos.
 3. Añade ajo asado y perejil.
-JUSTIFICACION: Sabor intenso con poca grasa.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Con poco aceite y ajo asado las setas quedan jugosas y de sabor terroso, menos grasas. Para el Perfil1 se evitan el ajo crudo y el exceso de aceite.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Come despacio y mastica bien.|Es una receta base. Cocina bien las setas.
 VALOR_NUTRICIONAL:
 Calorías: ~50 kcal (por porción)
 Proteínas: ~4 g
@@ -33439,8 +33476,8 @@ PREPARACION:
 1. Saltea las setas con el aceite y el ajo 8 minutos; añade la harina y el caldo y cuece 5 minutos.
 2. Fuera del fuego incorpora el yogur y las yemas cocidas desmenuzadas.
 3. Sirve con ralladura.
-JUSTIFICACION: Cremosa sin nata.
-ADVERTENCIAS: Yemas cocidas.|Sin sal añadida.
+JUSTIFICACION: Con yogur en lugar de nata y yema cocida es más fresca y ligera. Para el Perfil1 se evitan el huevo crudo, el limón y la grasa.
+ADVERTENCIAS: Yemas cocidas.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~8 g
@@ -33478,8 +33515,8 @@ PREPARACION:
 1. Rehoga chalote, ajo y perejil en el aceite 4 minutos; añade los champiñones y cuece 8 minutos.
 2. Agrega naranja y tomate y cuece 12 minutos.
 3. Termina con la mejorana.
-JUSTIFICACION: Ligeros y aromáticos.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja reducida en lugar de vino y tomate asado es dulce y suave. Para el Perfil1 se evitan el alcohol y la acidez.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~5 g
@@ -33516,8 +33553,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 6 minutos; añade calabaza y caldo y cuece 12 minutos.
 2. Agrega las setas y cuece 8 minutos.
 3. Sirve con las hierbas.
-JUSTIFICACION: Dulce y terrosa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con la calabaza dulce y el caldo sin sal es suave y reconfortante. Para el Perfil1 baja la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~5 g
@@ -33552,8 +33589,8 @@ PREPARACION:
 1. Mezcla perejil, ajo y pan rallado con la mitad del aceite.
 2. Coloca los hongos en una fuente engrasada y cúbrelos con la mezcla y el resto del aceite.
 3. Hornea 25 minutos a 200 °C.
-JUSTIFICACION: Dorados con poco aceite.
-ADVERTENCIAS: Es una evocación: champiñones grandes si no hay boletos.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: los champiñones grandes sustituyen a los boletos con un sabor menos intenso. Para el Perfil1 baja el aceite.
+ADVERTENCIAS: Es una evocación: champiñones grandes si no hay boletos.|Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~6 g
@@ -33593,8 +33630,8 @@ PREPARACION:
 1. Rehoga chalote y setas en el aceite 8 minutos; mezcla con pollo, perejil y yema desmenuzada.
 2. Coloca en una fuente engrasada, cubre con bechamel con la nuez moscada, parmesano y pan.
 3. Gratina 15 minutos a 200 °C.
-JUSTIFICACION: Gratinado cremoso y ligero.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Yema cocida.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón con un gratinado más ligero. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Yema cocida.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~10 g
@@ -33630,8 +33667,8 @@ PREPARACION:
 1. Saltea champiñones y ajo en el aceite 6 minutos; añade el pollo.
 2. Mezcla la naranja con el jugo de la sartén.
 3. Sirve sobre las hojas.
-JUSTIFICACION: Sin embutido ni vinagre.
-ADVERTENCIAS: Es una evocación: pollo en lugar de speck; naranja en lugar de balsámico.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al speck y la naranja reducida al balsámico, con una ensalada más dulce. Para el Perfil1 se evitan el embutido y el vinagre.
+ADVERTENCIAS: Es una evocación: pollo en lugar de speck; naranja en lugar de balsámico.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~10 g
@@ -33670,8 +33707,8 @@ PREPARACION:
 1. Saltea las setas con el aceite 8 minutos.
 2. Añade las hierbas, el hinojo y la ralladura.
 3. Sirve con el alioli ligero (3 dientes de ajo asado triturados con yogur).
-JUSTIFICACION: Aromáticas, sin huevo crudo.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur y ajo asado es más fresco y suave que el alioli clásico. Para el Perfil1 se evitan el ajo crudo y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~6 g
@@ -33705,8 +33742,8 @@ PREPARACION:
 1. Unta los hongos con el aceite.
 2. Cocínalos a la plancha 4 minutos por lado.
 3. Sirve con estragón y ralladura.
-JUSTIFICACION: Sencillos y aromáticos.
-ADVERTENCIAS: Es una evocación: champiñones grandes si no hay boletos.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el estragón aromatiza con un toque anisado, con aceite en lugar de mantequilla. Para el Perfil1 se evitan el ácido y la grasa.
+ADVERTENCIAS: Es una evocación: champiñones grandes si no hay boletos.|Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~4 g
@@ -33742,8 +33779,8 @@ PREPARACION:
 1. Saltea los hongos en el aceite 8 minutos.
 2. Añade pollo, ajo y naranja y cuece 5 minutos.
 3. Sirve con la mejorana.
-JUSTIFICACION: Sabroso, sin embutido ni alcohol.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón curado.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón curado con un sabor más limpio. Para el Perfil1 se evitan el embutido y el alcohol.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón curado.|Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~13 g
@@ -33777,8 +33814,8 @@ PREPARACION:
 1. Mezcla los hongos con el huevo y la harina.
 2. Forma tortitas sobre una bandeja con el aceite.
 3. Hornea 20 minutos a 220 °C dándoles la vuelta a mitad de tiempo.
-JUSTIFICACION: Doradas sin fritura.
-ADVERTENCIAS: Es una evocación: champiñones si no hay boletos.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: al horno son menos crujientes que fritos. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Es una evocación: champiñones si no hay boletos.|Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~5 g
@@ -33816,8 +33853,8 @@ PREPARACION:
 1. Retira los tallos, píclalos y mézclalos con el pan remojado en leche, ajo, huevo, parmesano y perejil.
 2. Rellena los sombreros y colócalos en una fuente engrasada.
 3. Rocía con el aceite y hornea 25 minutos a 190 °C.
-JUSTIFICACION: Ligeros y horneados.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con pan integral y menos queso el relleno es más rústico y ligero. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~6 g
@@ -33851,8 +33888,8 @@ PREPARACION:
 1. Saltea las setas en sartén antiadherente con el aceite 8 minutos.
 2. Añade el ajo asado.
 3. Termina con el perejil.
-JUSTIFICACION: Sencillas, sin mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con una cucharada de aceite quedan menos untuosas pero con el sabor intacto. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~5 g
@@ -33889,8 +33926,8 @@ PREPARACION:
 1. Cuece la harina de maíz en la leche con ajo 10 minutos removiendo; añade la mejorana.
 2. Unta los hongos con aceite y ásalos 15 minutos a 200 °C.
 3. Sirve sobre la polenta con el queso.
-JUSTIFICACION: Reconfortante y ligera.
-ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de fontina.|Sin sal añadida.
+JUSTIFICACION: Con mozzarella baja en grasa y leche descremada es más ligera y menos filante. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Es una evocación: mozzarella baja en grasa en lugar de fontina.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~200 kcal (por porción)
 Proteínas: ~9 g
@@ -33925,8 +33962,8 @@ PREPARACION:
 1. Alterna en un molde engrasado capas de papa y hongos, con parmesano y perejil.
 2. Rocía con el aceite y cubre con aluminio.
 3. Hornea 40 minutos a 190 °C; destapa y dora 10 minutos.
-JUSTIFICACION: Rústico y ligero.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con aceite y mucho menos parmesano es más ligero y suave. Para el Perfil1 baja la grasa y se modera la papa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~6 g
@@ -33957,8 +33994,8 @@ PREPARACION:
 1. Lava los brotes.
 2. Escáldalos 2 minutos en agua hirviendo.
 3. Escurre bien.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Cocidos sin sal quedan crujientes y frescos. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~30 kcal (por porción)
 Proteínas: ~3 g
@@ -33996,8 +34033,8 @@ PREPARACION:
 1. Mezcla pollo, gambas, apio, brotes y cebolleta.
 2. Aliña con la soja y el aceite de sésamo.
 3. Sirve con el sésamo tostado.
-JUSTIFICACION: Fresca con solo una cucharadita de soja.
-ADVERTENCIAS: Soja baja en sodio, solo 1 cdta.|Sin sal añadida.
+JUSTIFICACION: Con salsa de soja baja en sodio en cucharadita queda más suave y menos oscura. Para el Perfil1 baja el sodio.
+ADVERTENCIAS: Soja baja en sodio, solo 1 cdta.|Sin sal añadida.|Si tienes alergia a los mariscos, evítalo.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~26 g
@@ -34030,8 +34067,8 @@ PREPARACION:
 1. Escalda los brotes 2 minutos.
 2. Saltéalos con el aceite 2 minutos.
 3. Sirve con el parmesano.
-JUSTIFICACION: Sencillos y ligeros.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con aceite y menos queso es más ligero. Para el Perfil1 baja la grasa y el sodio.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~6 g
@@ -34067,8 +34104,8 @@ PREPARACION:
 1. Mezcla aceite y naranja.
 2. Combina los brotes con atún y aceitunas.
 3. Aliña y sirve con perejil.
-JUSTIFICACION: Sabor marino sin anchoas ni sal.
-ADVERTENCIAS: Es una evocación: atún en lugar de anchoas y alcaparras.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún sustituye a las anchoas con un sabor más suave, con naranja en lugar de limón. Para el Perfil1 baja el sodio y se evita el ácido.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas y alcaparras.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~9 g
@@ -34099,8 +34136,8 @@ PREPARACION:
 1. Lava y corta.
 2. Cuece al vapor 5 minutos.
 3. Escurre.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor la escarola se ablanda y pierde su amargor, con un sabor verde y suave menos acuoso que al hervirla. Para el Perfil1 es una base suave, sin sal, para otras recetas.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~20 kcal (por porción)
 Proteínas: ~2 g
@@ -34135,8 +34172,8 @@ PREPARACION:
 1. Bate harina, huevo y agua.
 2. Pasa la escarola por la masa.
 3. Colócala en una bandeja con el aceite y hornea 15 minutos a 220 °C.
-JUSTIFICACION: Crujiente sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno es menos crujiente que frita, pero tierna y dorada. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~4 g
@@ -34172,8 +34209,8 @@ PREPARACION:
 1. Cuece la escarola al vapor 5 minutos.
 2. Dora el pan rallado con el aceite y el ajo 3 minutos.
 3. Mezcla con la escarola, las aceitunas y el perejil.
-JUSTIFICACION: Crujiente y sabrosa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin alcaparras y con menos aceitunas enjuagadas es más suave y menos salada. Para el Perfil1 baja el sodio y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~4 g
@@ -34208,8 +34245,8 @@ PREPARACION:
 1. Cuece la escarola al vapor 8 minutos y tritúrala.
 2. Calienta aceite y harina, añade la leche y cuece 5 minutos.
 3. Mezcla con la escarola y la stevia.
-JUSTIFICACION: Cremoso sin mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con aceite, leche descremada y stevia es menos amargo y más suave que el original, de textura cremosa. Para el Perfil1 se evitan el azúcar y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~6 g
@@ -34240,8 +34277,8 @@ PREPARACION:
 1. Retira las hojas exteriores y la base amarga.
 2. Cuece al vapor 8 minutos.
 3. Escurre.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor sin sal pierde su amargor y queda tierna y dulce. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~20 kcal (por porción)
 Proteínas: ~1 g
@@ -34278,8 +34315,8 @@ PREPARACION:
 1. Envuelve cada endibia con una loncha de pollo y colócalas en una fuente engrasada con el caldo.
 2. Cubre con la bechamel con nuez moscada y el parmesano.
 3. Gratina 20 minutos a 200 °C.
-JUSTIFICACION: Gratinadas sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón ahumado.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón ahumado con una bechamel ligera y un gratinado más suave. Para el Perfil1 se evitan los ahumados y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón ahumado.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~18 g
@@ -34313,8 +34350,8 @@ PREPARACION:
 1. Coloca las endibias en una fuente engrasada.
 2. Cubre con leche y caldo.
 3. Hornea 40 minutos a 180 °C.
-JUSTIFICACION: Sencillas y ligeras.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con aceite, leche descremada y caldo sin sal quedan tiernas y jugosas, menos untuosas. Para el Perfil1 baja la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~50 kcal (por porción)
 Proteínas: ~3 g
@@ -34348,8 +34385,8 @@ PREPARACION:
 1. Coloca las endibias en una fuente engrasada.
 2. Cubre con pan rallado, nuez moscada y el aceite.
 3. Hornea 35 minutos a 180 °C.
-JUSTIFICACION: Dorada y aromática.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con aceite y pan integral son tiernas y aromáticas. Para el Perfil1 baja la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~3 g
@@ -34389,8 +34426,8 @@ PREPARACION:
 1. Hornea el salmón 12 minutos a 180 °C.
 2. Mezcla las hojas con rabanitos y cebolleta y aliña con naranja y aceite.
 3. Sirve con el salmón, las perlitas de ricota y las hierbas.
-JUSTIFICACION: Fresca y proteica.
-ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el salmón fresco sustituye al ahumado con un sabor más suave y menos salado, con naranja en lugar de limón. Para el Perfil1 se evitan los ahumados y el ácido.
+ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~17 g
@@ -34427,8 +34464,8 @@ PREPARACION:
 1. Desgrana la granada.
 2. Mezcla las hojas con la zanahoria.
 3. Aliña con aceite y naranja y corona con los granos.
-JUSTIFICACION: Fresca, sin vinagre.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja en lugar de balsámico es más dulce y menos ácida, con las granadas crujientes. Para el Perfil1 se evitan el vinagre y la grasa.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~2 g
@@ -34466,8 +34503,8 @@ PREPARACION:
 1. Pela mandarinas y aguacate.
 2. Dispón lechuga, tomate, cebolla y fruta.
 3. Aliña con naranja y aceite y espolvorea con perejil.
-JUSTIFICACION: Cremosa y cítrica.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con medio aguacate y naranja en lugar de mostaza y limón es más suave y cremosa. Para el Perfil1 se evitan el ácido y el exceso de grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~180 kcal (por porción)
 Proteínas: ~3 g
@@ -34503,8 +34540,8 @@ PREPARACION:
 1. Mezcla canónigos, hinojo y apio.
 2. Bate naranja y aceite y aliña.
 3. Corona con la res.
-JUSTIFICACION: Sin curados ni yema cruda.
-ADVERTENCIAS: Es una evocación: res magra asada en lugar de bresaola; sin yema cruda.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: la res asada sustituye a la bresaola con un sabor menos curado, con naranja en lugar de balsámico. Para el Perfil1 se evitan los curados y la yema cruda.
+ADVERTENCIAS: Es una evocación: res magra asada en lugar de bresaola; sin yema cruda.|Sin sal añadida.|Come primero la verdura y la proteína y deja el almidón para el final: la energía se mantiene más estable.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~17 g
@@ -34540,8 +34577,8 @@ PREPARACION:
 1. Mezcla las verduras.
 2. Añade la mayonesa.
 3. Reposa 15 minutos y sirve.
-JUSTIFICACION: Cremosa y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con mayonesa de yogur y sin Worcestershire es más fresca y suave. Para el Perfil1 baja la grasa y se evita el huevo crudo.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~60 kcal (por porción)
 Proteínas: ~3 g
@@ -34577,8 +34614,8 @@ PREPARACION:
 1. Mezcla pepino, pera y queso.
 2. Bate aceite y naranja.
 3. Aliña y espolvorea con tomillo.
-JUSTIFICACION: Fresca y dulce.
-ADVERTENCIAS: Es una evocación: queso fresco en lugar de feta.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el queso fresco sustituye a la feta con menos sal, con naranja en lugar de limón y balsámico. Para el Perfil1 se evitan el vinagre y el exceso de sal.
+ADVERTENCIAS: Es una evocación: queso fresco en lugar de feta.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~6 g
@@ -34614,8 +34651,8 @@ PREPARACION:
 1. Mezcla hojas, maíz y pollo.
 2. Bate naranja y aceite.
 3. Aliña y sirve.
-JUSTIFICACION: Sin conserva ni embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón ahumado.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón ahumado y el maíz fresco al de conserva con más dulzor y menos sal. Para el Perfil1 se evitan los embutidos y las conservas.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón ahumado.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~11 g
@@ -34649,8 +34686,8 @@ PREPARACION:
 1. Cuece las setas al vapor 6 minutos.
 2. Bate naranja, mejorana y aceite.
 3. Aliña las setas templadas.
-JUSTIFICACION: Sencilla y sin limón.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con setas cocidas en lugar de crudas es más suave y fácil de digerir, con naranja en lugar de limón. Para el Perfil1 se evitan los crudos y el ácido.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~60 kcal (por porción)
 Proteínas: ~4 g
@@ -34687,8 +34724,8 @@ PREPARACION:
 1. Saltea las vieiras con la mitad del aceite 1 minuto por lado; retira.
 2. En la misma sartén cuece chalote y naranja 3 minutos con el resto del aceite.
 3. Sirve sobre las espinacas con los tomates y el perejil.
-JUSTIFICACION: Elegante y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja reducida en lugar de vino y vinagre y tomate asado es más dulce y suave. Para el Perfil1 se evitan el alcohol y el vinagre.
+ADVERTENCIAS: Sin sal añadida.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~14 g
@@ -34723,8 +34760,8 @@ PREPARACION:
 1. Saltea los champiñones en una sartén seca 4 minutos.
 2. Mezcla con las espinacas.
 3. Aliña con naranja y aceite y espolvorea con los piñones.
-JUSTIFICACION: Sencilla, sin cruda.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con champiñones cocidos en lugar de crudos y menos piñones es más suave. Para el Perfil1 se evitan los crudos y el ácido.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~5 g
@@ -34760,8 +34797,8 @@ PREPARACION:
 1. Dora el pavo con la mitad del aceite 6 minutos.
 2. Mezcla alubias, cebolleta y perejil.
 3. Combina con el pavo y aliña con naranja y el resto del aceite.
-JUSTIFICACION: Plato único, proteico.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja en lugar de alcaparras, mostaza y vinagre es más dulce y suave, con alubias cocidas en casa. Para el Perfil1 se evitan el vinagre, la mostaza y las conservas.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~270 kcal (por porción)
 Proteínas: ~30 g
@@ -34797,8 +34834,8 @@ PREPARACION:
 1. Cuece los champiñones en una sartén seca 5 minutos y deja templar.
 2. Mezcla con las hojas.
 3. Aliña con naranja y aceite.
-JUSTIFICACION: Amarga, fresca y sin cruda.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con champiñones cocidos y naranja es más suave y menos amarga. Para el Perfil1 se evitan los crudos y el ácido.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~5 g
@@ -34835,8 +34872,8 @@ PREPARACION:
 1. Mezcla achicoria, aguacate, gambas y palmito.
 2. Bate naranja y aceite.
 3. Aliña y espolvorea con las hierbas.
-JUSTIFICACION: Fresca y proteica.
-ADVERTENCIAS: Es una evocación: palmito fresco en lugar de conserva.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el palmito fresco sustituye al de conserva con una textura similar y menos sal. Para el Perfil1 se evitan las conservas y el ácido.
+ADVERTENCIAS: Es una evocación: palmito fresco en lugar de conserva.|Sin sal añadida.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~20 g
@@ -34874,8 +34911,8 @@ PREPARACION:
 1. Mezcla todos los ingredientes sólidos.
 2. Bate naranja y aceite.
 3. Aliña y sirve.
-JUSTIFICACION: Colorida y fresca.
-ADVERTENCIAS: Es una evocación: queso fresco en lugar de pecorino.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el queso fresco sustituye al pecorino y el maíz fresco al de conserva, más dulce y menos salada. Para el Perfil1 se evitan las conservas y el exceso de sal.
+ADVERTENCIAS: Es una evocación: queso fresco en lugar de pecorino.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~6 g
@@ -34912,8 +34949,8 @@ PREPARACION:
 1. Vacía las piñas y corta la pulpa en dados.
 2. Mezcla con gambas, maíz y pimientos.
 3. Aliña con naranja y aceite y sirve en las piñas.
-JUSTIFICACION: Fresca y sin picante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin tabasco y con maíz fresco es más dulce y suave, con naranja en lugar de limón. Para el Perfil1 se evitan el picante y las conservas.
+ADVERTENCIAS: Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.|Si tienes alergia a los mariscos, evítala.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~15 g
@@ -34955,8 +34992,8 @@ PREPARACION:
 1. Mezcla verduras, alubias, atún y aceitunas.
 2. Bate aceite, naranja y orégano.
 3. Aliña y sirve.
-JUSTIFICACION: Plato único, rico en fibra y proteína.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con atún al natural y legumbres cocidas en casa es más ligera y menos salada. Para el Perfil1 se evitan las conservas y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~270 kcal (por porción)
 Proteínas: ~26 g
@@ -34993,8 +35030,8 @@ PREPARACION:
 1. Mezcla las hojas con el palmito.
 2. Añade el aguacate y los piñones.
 3. Aliña con naranja y aceite.
-JUSTIFICACION: Fresca y cremosa.
-ADVERTENCIAS: Es una evocación: palmito fresco en lugar de conserva.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el palmito fresco sustituye al de conserva, con menos piñones y aguacate y sin Worcestershire. Para el Perfil1 se evitan el exceso de sal y la grasa.
+ADVERTENCIAS: Es una evocación: palmito fresco en lugar de conserva.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~5 g
@@ -35033,8 +35070,8 @@ PREPARACION:
 1. Mezcla todo.
 2. Aliña con el jugo de los gajos y el aceite.
 3. Espolvorea con perejil.
-JUSTIFICACION: Cítrica y fresca.
-ADVERTENCIAS: Es una evocación: naranja en lugar de cidra.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: la naranja sustituye a la cidra con un sabor cítrico dulce. Para el Perfil1 se evita el ácido.
+ADVERTENCIAS: Es una evocación: naranja en lugar de cidra.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~3 g
@@ -35072,8 +35109,8 @@ PREPARACION:
 1. Mezcla las hojas con la zanahoria y el hinojo.
 2. Bate naranja y aceite.
 3. Aliña y añade aceitunas y albahaca.
-JUSTIFICACION: Fresca y sin vinagre.
-ADVERTENCIAS: Es una evocación: aceitunas en lugar de alcaparras.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: las aceitunas enjuagadas sustituyen a las alcaparras con un toque salino más suave, y la naranja al vinagre. Para el Perfil1 se evitan el vinagre y el exceso de sal.
+ADVERTENCIAS: Es una evocación: aceitunas en lugar de alcaparras.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~80 kcal (por porción)
 Proteínas: ~2 g
@@ -35104,8 +35141,8 @@ PREPARACION:
 1. Retira las hojas exteriores y lava.
 2. Seca con cuidado.
 3. Para brasear, escalda 1 minuto.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.
+JUSTIFICACION: Cocida al vapor queda tierna y delicada, casi neutra. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~15 kcal (por porción)
 Proteínas: ~1 g
@@ -35141,8 +35178,8 @@ PREPARACION:
 1. Corta los cogollos por la mitad.
 2. Bate naranja y aceite con las hierbas.
 3. Aliña.
-JUSTIFICACION: Fresca y aromática.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja en lugar de mostaza y balsámico es más fresca y suave. Para el Perfil1 se evitan la mostaza, el vinagre y la grasa.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~50 kcal (por porción)
 Proteínas: ~1 g
@@ -35178,8 +35215,8 @@ PREPARACION:
 1. Dora el pollo en el aceite con chalote y zanahoria 8 minutos.
 2. Coloca los cogollos escaldados encima y añade el caldo.
 3. Cuece tapado 20 minutos.
-JUSTIFICACION: Sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de panceta coppata.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la panceta, con caldo sin sal y aceite en lugar de mantequilla. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta coppata.|Sin sal añadida.|Sírvelo tibio, ni muy caliente ni frío.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~9 g
@@ -35217,8 +35254,8 @@ PREPARACION:
 1. Mezcla el pan remojado en leche con las carnes, el parmesano y el huevo; escalda los cogollos y rellénalos.
 2. Átalos y colócalos en una fuente con el aceite y 100 ml de agua.
 3. Hornea 40 minutos a 180 °C.
-JUSTIFICACION: Relleno magro y horneado.
-ADVERTENCIAS: Es una evocación: pollo en lugar de salchicha y tocino.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la salchicha y el tocino, con pan integral. Para el Perfil1 se evitan los embutidos y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchicha y tocino.|Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~22 g
@@ -35249,8 +35286,8 @@ PREPARACION:
 1. Remoja las lentejas 3 horas y escúrrelas.
 2. Cuece en agua nueva con zanahoria y apio 30-35 minutos.
 3. Escurre.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Cocidas sin sal son tiernas y terrosas. Para el Perfil1 son una base de fibra y proteína vegetal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~12 g
@@ -35288,8 +35325,8 @@ PREPARACION:
 1. Cuece las lentejas con apio, zanahoria y cebolla 30 minutos.
 2. Dora las bolitas con aceite, salvia y ajo 8 minutos.
 3. Mezcla y cuece 5 minutos.
-JUSTIFICACION: Sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de salchichas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a las salchichas con un guiso más limpio. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchichas.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~290 kcal (por porción)
 Proteínas: ~29 g
@@ -35326,8 +35363,8 @@ PREPARACION:
 1. Rehoga zanahoria, apio, cebolla y salvia en el aceite 8 minutos; añade el tomate y cuece 10 minutos.
 2. Cuece las lentejas 30 minutos.
 3. Mezcla.
-JUSTIFICACION: Vegetal y sin sal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin panceta ni mantequilla y con tomate asado es más dulce y ligera. Para el Perfil1 se evitan el embutido, la acidez y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~12 g
@@ -35363,8 +35400,8 @@ PREPARACION:
 1. Cuece las lentejas con las verduras y el pollo 40 minutos.
 2. Retira el pollo, desmenúzalo.
 3. Mezcla con las lentejas.
-JUSTIFICACION: Sabor profundo sin ahumado.
-ADVERTENCIAS: Es una evocación: pollo en lugar de beicon.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al beicon con un sabor más limpio. Para el Perfil1 se evitan los embutidos y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de beicon.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~20 g
@@ -35399,8 +35436,8 @@ PREPARACION:
 1. Cuece las lentejas con apio y zanahoria 35 minutos.
 2. Tritura con un poco del caldo.
 3. Incorpora yogur y aceite fuera del fuego.
-JUSTIFICACION: Cremoso sin nata ni mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur y aceite es cremoso y más ligero. Para el Perfil1 baja la grasa y aporta fibra.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~14 g
@@ -35431,8 +35468,8 @@ PREPARACION:
 1. Corta las berenjenas por la mitad.
 2. Hornea 30-40 minutos a 200 °C.
 3. Retira la pulpa.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al horno sin sal queda tierna y ahumada, menos aceitosa. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~50 kcal (por porción)
 Proteínas: ~2 g
@@ -35468,8 +35505,8 @@ PREPARACION:
 1. Retira la pulpa de las berenjenas asadas.
 2. Tritura con aceite, ajo y ralladura.
 3. Sirve sobre tostadas con tomate.
-JUSTIFICACION: Untable ligero, sin mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con menos aceite y ralladura en lugar de limón es más suave y menos untuoso. Para el Perfil1 se evitan el ácido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~3 g
@@ -35507,8 +35544,8 @@ PREPARACION:
 1. Ásala las berenjenas 20 minutos a 200 °C.
 2. Rehoga cebolla en el aceite, añade tomate y ajo y cuece 10 minutos; incorpora las berenjenas.
 3. Sirve con huevo, perejil y ralladura.
-JUSTIFICACION: Ligero y sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con huevo duro en lugar de crudo y ralladura es más ligero y suave. Para el Perfil1 se evitan el huevo crudo, el ácido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~6 g
@@ -35545,8 +35582,8 @@ PREPARACION:
 1. Rehoga chalote y piñones con el aceite 3 minutos; añade naranja y reduce.
 2. Fuera del fuego mezcla con yogur y perejil.
 3. Sirve sobre las berenjenas.
-JUSTIFICACION: Cremosas sin nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur en lugar de nata y sin vinagre es más fresca y suave. Para el Perfil1 se evitan el vinagre y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~4 g
@@ -35582,8 +35619,8 @@ PREPARACION:
 1. Mezcla aceite, naranja y ajo.
 2. Coloca las berenjenas en una fuente.
 3. Cubre con el aliño, el atún y el perejil.
-JUSTIFICACION: Sin anchoas ni vinagre.
-ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún sustituye a las anchoas, con berenjenas asadas y naranja en lugar de vinagre. Para el Perfil1 se evitan el vinagre y la grasa.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas.|Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~6 g
@@ -35617,8 +35654,8 @@ PREPARACION:
 1. Pon las rodajas en una bandeja con el ajo.
 2. Ásalas 25 minutos a 200 °C.
 3. Sirve con albahaca y el aceite.
-JUSTIFICACION: Sencilla y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con una cucharada de aceite quedan tiernas y menos grasas. Para el Perfil1 baja la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~2 g
@@ -35657,8 +35694,8 @@ PREPARACION:
 1. Ásala las berenjenas 30 minutos a 200 °C.
 2. Cuece cebolla y ajo con el aceite 8 minutos; añade tomate, naranja y stevia y cuece 10 minutos.
 3. Cubre las berenjenas y sirve con perejil y aceitunas.
-JUSTIFICACION: Agridulce sin vinagre ni azúcar.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin alcaparras ni vinagre y con stevia es más dulce y suave. Para el Perfil1 se evitan el vinagre y el azúcar.
+ADVERTENCIAS: Sin sal añadida.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~3 g
@@ -35693,8 +35730,8 @@ PREPARACION:
 1. Ásala las berenjenas 20 minutos a 200 °C con el aceite; vacía parte de la pulpa.
 2. Rellénalas con mozzarella y salsa.
 3. Hornea 12 minutos más.
-JUSTIFICACION: Clásica con menos queso.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con mozzarella baja en grasa y tomate asado es más ligera y menos filante. Para el Perfil1 baja la grasa y se evita la acidez.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~8 g
@@ -35732,8 +35769,8 @@ PREPARACION:
 1. Ásala las rodajas 15 minutos a 200 °C; rehoga cebolla y ajo en el aceite 8 minutos y añade el tomate 10 minutos.
 2. Alterna capas de berenjena y salsa en una fuente engrasada.
 3. Cubre con queso y pan y gratina 15 minutos a 200 °C.
-JUSTIFICACION: Gratinadas sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con mozzarella baja en grasa y aceite es más ligera. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~6 g
@@ -35772,8 +35809,8 @@ PREPARACION:
 1. Mezcla pollo, ricota, mozzarella, perejil y parmesano; rellena un sándwich de dos rodajas de berenjena.
 2. Pasa por huevo batido y pan rallado.
 3. Colócalas en una bandeja con el aceite y hornea 20 minutos a 200 °C.
-JUSTIFICACION: Crujientes sin fritura.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón curado.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón curado y la mozzarella a la scamorza ahumada, al horno en lugar de fritas. Para el Perfil1 se evitan los embutidos y la fritura.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón curado.|Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~12 g
@@ -35810,8 +35847,8 @@ PREPARACION:
 1. Haz cortes transversales en las berenjenas.
 2. Rellena con tomate, queso, ajo y hierbas y rocía con el aceite.
 3. Hornea 35 minutos a 190 °C.
-JUSTIFICACION: Vistosa y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con menos mozzarella baja en grasa y aceite es más ligera. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~8 g
@@ -35850,8 +35887,8 @@ PREPARACION:
 1. Ásala las berenjenas 20 minutos a 200 °C y vacía la pulpa; sofríe setas, pulpa y ajo en el aceite 6 minutos.
 2. Mezcla con ricota, parmesano, huevo, perejil y orégano y rellena.
 3. Hornea 25 minutos a 180 °C hasta cuajar.
-JUSTIFICACION: Rellenas y ligeras.
-ADVERTENCIAS: Totalmente cuajadas.|Sin sal añadida.
+JUSTIFICACION: Con ricota baja en grasa y setas frescas es suave y cremosa, sin anchoas. Para el Perfil1 baja la grasa y el huevo va bien cuajado.
+ADVERTENCIAS: Totalmente cuajadas.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~9 g
@@ -35887,8 +35924,8 @@ PREPARACION:
 1. Ásala las rodajas 20 minutos a 200 °C.
 2. Mezcla aceite, pimentón, ajo, menta y naranja.
 3. Marina las berenjenas 2 horas.
-JUSTIFICACION: Sabrosas, sin fritura ni picante.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con pimentón dulce en lugar de guindilla y mucho menos aceite es más suave. Para el Perfil1 se evitan el picante y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~2 g
@@ -35925,8 +35962,8 @@ PREPARACION:
 1. Ásala las berenjenas 20 minutos a 200 °C; cuece el tomate con la albahaca y 1 cda de aceite 15 minutos.
 2. En una fuente engrasada alterna berenjena, salsa, mozzarella y parmesano; cubre con el huevo batido.
 3. Hornea 30 minutos a 180 °C hasta cuajar.
-JUSTIFICACION: El clásico sin fritura.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Al horno en lugar de fritas son menos aceitosas y más firmes, con la salsa de tomate. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~8 g
@@ -35965,8 +36002,8 @@ PREPARACION:
 1. Alterna en un molde engrasado capas de berenjena, pimiento, queso y albahaca.
 2. Vierte los huevos y hornea al baño maría 40 minutos a 180 °C hasta cuajar.
 3. Sirve con el tomate asado triturado con el ajo.
-JUSTIFICACION: Ligera y sin fritura.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Con mozzarella baja en grasa y verduras asadas es más ligera. Para el Perfil1 baja la grasa y se evitan los crudos.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~10 g
@@ -36003,8 +36040,8 @@ PREPARACION:
 1. Unta las berenjenas con la mitad del aceite y ásalas 20 minutos a 200 °C; tuesta el pan.
 2. Monta torres sobre el pan alternando berenjena, tomate, queso, cebolleta y albahaca.
 3. Rocía con el aceite restante y sirve fría.
-JUSTIFICACION: Fresca y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con menos mozzarella baja en grasa y pan integral es más ligera y menos untuosa. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~9 g
@@ -36035,8 +36072,8 @@ PREPARACION:
 1. Lava las papas.
 2. Cuécelas con piel 20-30 minutos.
 3. Pela y usa.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Cocida sin sal queda tierna y suave. Para el Perfil1 es una base sin sal; se modera la porción por su almidón.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~4 g
@@ -36074,8 +36111,8 @@ PREPARACION:
 1. Cuece las papas y haz un puré con ricota, queso, huevos y parmesano.
 2. Cubre un molde de corona engrasado con el puré; rellena con la coliflor rehogada con chalote y aceite.
 3. Hornea 40 minutos a 180 °C hasta cuajar.
-JUSTIFICACION: Ligera y vistosa.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Con ricota y queso fresco bajos en grasa y aceite queda más ligera y menos untuosa que la corona original, con el contraste suave de papa y coliflor. Para el Perfil1 baja la grasa, el huevo va bien cuajado y se modera la papa.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~13 g
@@ -36110,8 +36147,8 @@ PREPARACION:
 1. Cuece las papas y haz un puré con la leche, el queso y los huevos.
 2. Reparte en moldes engrasados.
 3. Hornea 30 minutos a 180 °C.
-JUSTIFICACION: Sin mantequilla.
-ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.
+JUSTIFICACION: Con mozzarella baja en grasa y leche descremada son más ligeros y menos filantes, con el interior tierno. Para el Perfil1 baja la grasa y el huevo va bien cuajado.
+ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~9 g
@@ -36149,8 +36186,8 @@ PREPARACION:
 1. Haz un puré con las papas, 1 huevo y el parmesano; forma croquetas rellenas de queso y pollo.
 2. Pásalas por huevo batido y pan rallado.
 3. Rocía con el aceite y hornea 25 minutos a 200 °C.
-JUSTIFICACION: Crujientes sin fritura.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y al horno quedan menos crujientes que fritas, con el queso fundido dentro. Para el Perfil1 se evitan los embutidos y la fritura.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~10 g
@@ -36189,8 +36226,8 @@ PREPARACION:
 1. Rehoga zanahoria, apio y chalote en el aceite 8 minutos; añade harina y naranja y cuece 5 minutos.
 2. Cuece las papas al vapor 15 minutos.
 3. Mezcla con la salsa y las hierbas.
-JUSTIFICACION: Ligera y sin alcohol.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja reducida en lugar de vino y aceite en lugar de mantequilla la salsa es más dulce y ligera. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~3 g
@@ -36229,8 +36266,8 @@ PREPARACION:
 1. Corta las papas templadas en rodajas.
 2. Mezcla huevo, atún, perejil, aceitunas, cebolleta, pimiento, aceite y naranja.
 3. Aliña las papas.
-JUSTIFICACION: Sabrosa sin salmueras ni vinagre.
-ADVERTENCIAS: Es una evocación: atún en lugar de anchoas; naranja en lugar de vinagre.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún sustituye a las anchoas y sin encurtidos, vinagre ni mostaza es más suave y cremosa. Para el Perfil1 se evitan los encurtidos, el vinagre y la mostaza.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas; naranja en lugar de vinagre.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~190 kcal (por porción)
 Proteínas: ~9 g
@@ -36267,8 +36304,8 @@ PREPARACION:
 1. Haz un puré con las papas, la mitad del queso, el pan y el huevo.
 2. Extiende sobre papel de hornear, cubre con pollo, puerro y el resto del queso y enrolla con ayuda del papel.
 3. Hornea en una bandeja engrasada 25 minutos a 190 °C.
-JUSTIFICACION: Sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón con mozzarella baja en grasa. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~14 g
@@ -36302,8 +36339,8 @@ PREPARACION:
 1. Hornea las papas 45 minutos a 200 °C y ahuécalas.
 2. Rellena con el atún y un huevo y rocía con el aceite.
 3. Hornea 15 minutos a 180 °C hasta que el huevo esté cuajado.
-JUSTIFICACION: Sencillos y sin mantequilla.
-ADVERTENCIAS: Es una evocación: atún en lugar de pasta de anchoas.|Yema firme.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún sustituye a la pasta de anchoas con un sabor más suave, con la yema firme. Para el Perfil1 se evitan el huevo poco cocido y la grasa.
+ADVERTENCIAS: Es una evocación: atún en lugar de pasta de anchoas.|Yema firme.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~230 kcal (por porción)
 Proteínas: ~14 g
@@ -36339,8 +36376,8 @@ PREPARACION:
 1. Envuelve las papas con el aceite en papel de hornear y hornea 45 minutos a 200 °C.
 2. Mezcla el yogur con las hierbas y la ralladura.
 3. Abre las papas y sirve con el yogur.
-JUSTIFICACION: Sin mantequilla ni nata.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur en lugar de nata y ralladura en lugar de limón quedan tiernas, aromáticas y más ligeras. Para el Perfil1 se evitan el ácido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~6 g
@@ -36376,8 +36413,8 @@ PREPARACION:
 1. Engrasa un molde y frota con el ajo.
 2. Alterna capas de papa, queso y pollo, cubriendo con yogur.
 3. Hornea 50 minutos a 180 °C.
-JUSTIFICACION: Gratinado con la tercera parte de grasa.
-ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al jamón y la mozzarella baja en grasa a los quesos curados, con yogur en lugar de nata. Para el Perfil1 se evitan los embutidos y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de jamón.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~10 g
@@ -36412,8 +36449,8 @@ PREPARACION:
 1. Hornea las papas 45 minutos a 200 °C y ábrelas.
 2. Mezcla el yogur con el salmón y la ralladura.
 3. Rellena y sirve con cebollino.
-JUSTIFICACION: Sin ahumados, nata ni huevas.
-ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado; sin huevas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el salmón fresco sustituye al ahumado con un sabor más suave, con yogur en lugar de nata. Para el Perfil1 se evitan los ahumados, las huevas curadas y la grasa.
+ADVERTENCIAS: Es una evocación: salmón fresco en lugar de ahumado; sin huevas.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~200 kcal (por porción)
 Proteínas: ~12 g
@@ -36447,8 +36484,8 @@ PREPARACION:
 1. Coloca las papas en rodajas en una fuente engrasada.
 2. Cubre con la bechamel y el parmesano.
 3. Gratina 15 minutos a 200 °C.
-JUSTIFICACION: Menos grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con bechamel ligera y menos queso es más suave y menos untuosa. Para el Perfil1 baja la grasa y se modera la papa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~7 g
@@ -36484,8 +36521,8 @@ PREPARACION:
 1. Rehoga cebolla, puerros y pollo en el aceite 10 minutos.
 2. Añade las papas y el caldo.
 3. Cuece tapado 25 minutos.
-JUSTIFICACION: Caldosas y sin nata.
-ADVERTENCIAS: Es una evocación: pollo en lugar de panceta.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la panceta y el caldo a la nata, con un guiso más ligero y menos untuoso. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~8 g
@@ -36522,8 +36559,8 @@ PREPARACION:
 1. Rehoga chalotes y curry en el aceite; añade harina y leche y cuece 6 minutos.
 2. Alterna papas y queso en una fuente engrasada y cubre con la salsa.
 3. Hornea 25 minutos a 190 °C.
-JUSTIFICACION: Aromáticas y ligeras.
-ADVERTENCIAS: Curry sin picante.|Sin sal añadida.
+JUSTIFICACION: Con mozzarella baja en grasa en lugar de scamorza ahumada y curry suave es más delicado y sin picor. Para el Perfil1 se evitan los ahumados, el picante y la grasa.
+ADVERTENCIAS: Curry sin picante.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|Sin picante: el sabor viene del pimentón dulce y las hierbas.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~8 g
@@ -36557,8 +36594,8 @@ PREPARACION:
 1. Cuece las papas y haz un puré seco con el aceite, las yemas y la nuez moscada.
 2. Forma rosetones sobre una bandeja engrasada con manga pastelera.
 3. Hornea 25 minutos a 200 °C hasta dorar.
-JUSTIFICACION: Sin mantequilla.
-ADVERTENCIAS: Yemas cocidas.|Sin sal añadida.
+JUSTIFICACION: Con aceite y menos yemas cocidas queda menos rica y mantecosa, pero igual de suave. Para el Perfil1 baja la grasa y las yemas van bien cocidas.
+ADVERTENCIAS: Yemas cocidas.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~4 g
@@ -36595,8 +36632,8 @@ PREPARACION:
 1. Cuece las papas al vapor 20 minutos.
 2. Cuece chalotes con naranja y aceite 5 minutos; fuera del fuego incorpora yogur y hierbas.
 3. Sirve sobre las papas.
-JUSTIFICACION: Sin mantequilla ni vino.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur y naranja reducida en lugar de mantequilla y vino es más fresca y ligera. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~5 g
@@ -36632,8 +36669,8 @@ PREPARACION:
 1. Engrasa una cazuela y alterna capas de papa, cebolla, zanahoria y albahaca.
 2. Cubre con el queso y el aceite y tapa.
 3. Hornea 45 minutos a 190 °C; destapa y dora 10 minutos.
-JUSTIFICACION: Rústica y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con mucho menos aceite y mozzarella baja en grasa es más ligera, con la cebolla dulce. Para el Perfil1 baja la grasa y la cebolla va bien cocida.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~4 g
@@ -36671,8 +36708,8 @@ PREPARACION:
 1. Cuece las papas con el laurel 15 minutos y ahuécalas.
 2. Dora el pollo en el aceite con la naranja 6 minutos y mézclalo con el perejil; rellena las papas.
 3. Cubre con parmesano y pan y hornea 20 minutos a 190 °C en una fuente engrasada.
-JUSTIFICACION: Sin embutido ni vino.
-ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchicha; sin vino.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sazonado sustituye a la salchicha y la naranja reducida al vino. Para el Perfil1 se evitan los embutidos, el alcohol y la grasa.
+ADVERTENCIAS: Es una evocación: pollo sazonado en lugar de salchicha; sin vino.|Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~12 g
@@ -36708,8 +36745,8 @@ PREPARACION:
 1. Mezcla las papas con el aceite y el ajo en una bandeja.
 2. Asa 35 minutos a 200 °C removiendo a mitad de tiempo.
 3. Sirve con azafrán, perejil y tomillo.
-JUSTIFICACION: Doradas sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno en lugar de salteadas son menos doradas y aceitosas pero igual de aromáticas. Para el Perfil1 baja la grasa y se modera la papa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~3 g
@@ -36746,8 +36783,8 @@ PREPARACION:
 1. Rehoga chalote y ajo en el aceite 4 minutos.
 2. Añade papas, naranja, tomate y orégano.
 3. Cuece tapado 25 minutos.
-JUSTIFICACION: Sencillas y ligeras.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con tomate asado y naranja reducida en lugar de vino es más dulce y suave. Para el Perfil1 se evitan el alcohol y la acidez.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~3 g
@@ -36781,8 +36818,8 @@ PREPARACION:
 1. Mezcla las papas con el aceite, el romero y el ajo.
 2. Colócalas en una bandeja.
 3. Asa 35 minutos a 200 °C.
-JUSTIFICACION: Crujientes sin mantequilla.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con una cucharada de aceite quedan tiernas y aromáticas, menos grasas. Para el Perfil1 baja la grasa y se modera la papa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~120 kcal (por porción)
 Proteínas: ~3 g
@@ -36817,8 +36854,8 @@ PREPARACION:
 1. Cuece las papas y hazlas puré con la leche caliente y el aceite.
 2. Incorpora el yogur fuera del fuego.
 3. Sirve con cebollino.
-JUSTIFICACION: Cremoso con la décima parte de grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con yogur y leche descremada en lugar de mascarpone, nata y mantequilla es menos rico y más fresco. Para el Perfil1 baja mucho la grasa y se modera la papa.
+ADVERTENCIAS: Sin sal añadida.|Como acompañante, no como plato único: añade siempre proteína y verdura.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~5 g
@@ -36849,8 +36886,8 @@ PREPARACION:
 1. Ásalos enteros 35 minutos a 220 °C hasta que la piel se ennegrezca.
 2. Cúbrelos con un paño 10 minutos.
 3. Pela, despepita y corta.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Asado sin aceite queda dulce y ahumado, con la piel que se retira fácilmente. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Come despacio y mastica bien.|Es una receta base. Pélalo bien: la piel es más difícil de digerir.
 VALOR_NUTRICIONAL:
 Calorías: ~40 kcal (por porción)
 Proteínas: ~1 g
@@ -36890,8 +36927,8 @@ PREPARACION:
 1. Mezcla pimientos, cebolleta, aceitunas, ajo y espelta.
 2. Bate naranja y aceite.
 3. Aliña y espolvorea con perejil.
-JUSTIFICACION: Fibra y poca grasa.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja en lugar de limón y menos aceite y aceitunas es más dulce y ligera, con la espelta masticable. Para el Perfil1 se evitan el ácido y el exceso de sal.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~4 g
@@ -36928,8 +36965,8 @@ PREPARACION:
 1. Mezcla atún, cebolleta, champiñones, perejil, naranja y aceite.
 2. Extiende las tiras de pimiento y reparte el relleno.
 3. Enrolla y refrigera 1 hora.
-JUSTIFICACION: Proteicos y ligeros.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con atún al natural, sin anchoas ni alcaparras y con champiñones asados es más suave y menos salado. Para el Perfil1 se evitan el vinagre y el exceso de sal.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~19 g
@@ -36964,8 +37001,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos.
 2. Añade ajo, pimientos y tomate.
 3. Cuece tapado 20 minutos.
-JUSTIFICACION: Dulce y ligera.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con una cucharada de aceite y verduras asadas es más dulce y menos aceitosa. Para el Perfil1 baja la grasa y se evita el ácido.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~2 g
@@ -36999,8 +37036,8 @@ PREPARACION:
 1. Ásalos 35 minutos a 220 °C y pélalos.
 2. Córtalos en tiras.
 3. Aliña con el aceite, el ajo y la albahaca.
-JUSTIFICACION: Sencillos y sin sal.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con muy poco aceite son dulces y ahumados y más ligeros. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Come despacio y mastica bien.|Pélalos bien antes de comerlos.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~1 g
@@ -37038,8 +37075,8 @@ PREPARACION:
 1. Parte los pimientos por la mitad, despepita y ásalos 15 minutos a 200 °C.
 2. Mezcla tomate, ajo, aceitunas y hierbas con el aceite y rellena.
 3. Cubre con la mozzarella y hornea 15 minutos.
-JUSTIFICACION: Rellenos y ligeros.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin anchoas y con aceitunas enjuagadas y mozzarella baja en grasa son menos salados y filantes. Para el Perfil1 baja el sodio y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~8 g
@@ -37073,8 +37110,8 @@ PREPARACION:
 1. Calienta la naranja con la stevia hasta reducir a la mitad.
 2. Mezcla con los pimientos y el aceite.
 3. Reposa 30 minutos.
-JUSTIFICACION: Dulzor natural sin vinagre.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja reducida y stevia en lugar de vinagre y azúcar son agridulces pero más suaves. Para el Perfil1 se evitan el vinagre y el azúcar.
+ADVERTENCIAS: Sin sal añadida.|Es un dulce: porción pequeña y siempre después de una comida, nunca solo ni en ayunas.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~1 g
@@ -37114,8 +37151,8 @@ PREPARACION:
 1. Mezcla todos los ingredientes del relleno.
 2. Rellena los pimientos sin tapa y colócalos en una fuente engrasada.
 3. Hornea 40 minutos a 190 °C.
-JUSTIFICACION: Rellenos vegetales con poco queso.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Sin anchoas ni alcaparras y con menos queso son menos salados e intensos. Para el Perfil1 baja el sodio y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Porción moderada: mejor varias comidas pequeñas que un plato grande.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~6 g
@@ -37146,8 +37183,8 @@ PREPARACION:
 1. Desvaina los guisantes.
 2. Cuece al vapor 6-8 minutos.
 3. Escurre.
-JUSTIFICACION: Base de otras recetas.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Al vapor sin sal son dulces y tiernos. Para el Perfil1 son una base de fibra y proteína vegetal, sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~65 kcal (por porción)
 Proteínas: ~4 g
@@ -37185,8 +37222,8 @@ PREPARACION:
 1. Tritura cada verdura por separado con un tercio de huevos, yogur y ricota.
 2. Vierte en un molde engrasado por capas.
 3. Hornea al baño maría 45 minutos a 170 °C hasta cuajar.
-JUSTIFICACION: Vistosa y ligera.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Con yogur y ricota baja en grasa es más ligera y fresca, con tres capas de color. Para el Perfil1 baja la grasa y se evita el huevo poco cocido.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~9 g
@@ -37219,8 +37256,8 @@ PREPARACION:
 1. Cuece los guisantes al vapor 7 minutos.
 2. Mezcla con la menta picada.
 3. Aliña con el aceite.
-JUSTIFICACION: Fresco, sin mantequilla ni azúcar.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con aceite y sin azúcar son frescos y aromáticos, con el dulzor propio del guisante. Para el Perfil1 se evitan el azúcar y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~6 g
@@ -37253,8 +37290,8 @@ PREPARACION:
 1. Dora el pollo en el aceite 6 minutos.
 2. Añade los guisantes y 50 ml de agua.
 3. Cuece tapado 8 minutos.
-JUSTIFICACION: Sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de panceta ahumada.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a la panceta con un sabor más limpio. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de panceta ahumada.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~14 g
@@ -37289,8 +37326,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 8 minutos.
 2. Añade guisantes y caldo.
 3. Cuece tapado 8 minutos y sirve con perejil.
-JUSTIFICACION: Sencillo, sin azúcar.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con caldo sin sal y poco aceite son frescos y tiernos, sin azúcar. Para el Perfil1 baja la grasa y la sal.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~6 g
@@ -37326,8 +37363,8 @@ PREPARACION:
 1. Rehoga las cebollitas en el aceite 5 minutos.
 2. Añade zanahorias y 100 ml de agua y cuece 12 minutos.
 3. Agrega los guisantes y la stevia y cuece 6 minutos; sirve con perejil.
-JUSTIFICACION: Dulce y sencillo.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con aceite y stevia son dulces y tiernos. Para el Perfil1 se evitan el azúcar y la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~5 g
@@ -37361,8 +37398,8 @@ PREPARACION:
 1. Rehoga las cebolletas en el aceite 4 minutos.
 2. Añade guisantes y lechuga.
 3. Cuece tapado 10 minutos.
-JUSTIFICACION: Suave y ligero.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con aceite en lugar de mantequilla son suaves y frescos. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~6 g
@@ -37398,8 +37435,8 @@ PREPARACION:
 1. Rehoga la cebolla en el aceite 6 minutos.
 2. Añade ajo, tomate y tirabeques.
 3. Cuece tapado 12 minutos.
-JUSTIFICACION: Sencillos y ligeros.
-ADVERTENCIAS: Es una evocación: vainitas planas si no hay tirabeques.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: las vainitas planas sustituyen a los tirabeques con un crujido tierno, con tomate asado. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Es una evocación: vainitas planas si no hay tirabeques.|Sin sal añadida.|Las legumbres y las coles pueden dar gases: cocción bien larga y porción pequeña.
 VALOR_NUTRICIONAL:
 Calorías: ~70 kcal (por porción)
 Proteínas: ~3 g
@@ -37430,8 +37467,8 @@ PREPARACION:
 1. Asa los tomates 30 minutos a 200 °C.
 2. Pélalos y retira las semillas.
 3. Tritura o pica.
-JUSTIFICACION: Tomate asado, más suave y digestivo.
-ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.
+JUSTIFICACION: Asado en lugar de conserva es más dulce y concentrado, con menos acidez. Para el Perfil1 es una base suave y sin sal.
+ADVERTENCIAS: Es una receta base: se usa en otras recetas.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.|Es una receta base.
 VALOR_NUTRICIONAL:
 Calorías: ~25 kcal (por porción)
 Proteínas: ~1 g
@@ -37468,8 +37505,8 @@ PREPARACION:
 1. Cuece cebolla, tomate, concentrado y ajo 15 minutos con 200 ml de agua; tritura y cuela.
 2. Disuelve la gelatina en la mezcla caliente y vierte en un molde de corona; cuaja 4 horas.
 3. Desmolda sobre lechuga y rellena con el atún.
-JUSTIFICACION: Fresca y proteica.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con atún al natural y tomate asado es más ligera y dulce, sin vinagre. Para el Perfil1 se evitan el vinagre y la grasa.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~21 g
@@ -37506,8 +37543,8 @@ PREPARACION:
 1. Vacía los tomates, rellénalos con queso, albahaca y perejil.
 2. Envuelve cada uno en un círculo de masa quebrada; pinta con yema.
 3. Hornea en bandeja engrasada 25 minutos a 190 °C.
-JUSTIFICACION: Sin hojaldre ni embutido.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con masa quebrada integral más rústica que el hojaldre y sin panceta es más ligero. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~170 kcal (por porción)
 Proteínas: ~7 g
@@ -37546,8 +37583,8 @@ PREPARACION:
 1. Rehoga los chalotes en el aceite y cuece con el tomate 15 minutos; deja templar.
 2. Bate con los huevos, yogur, hierbas y queso y vierte en moldes engrasados.
 3. Hornea al baño maría 30 minutos a 170 °C hasta cuajar.
-JUSTIFICACION: Ligero y sin nata.
-ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.
+JUSTIFICACION: Con yogur, mozzarella baja en grasa y tomate asado es más ligero y dulce que el flan con nata. Para el Perfil1 baja la grasa y el huevo va bien cuajado.
+ADVERTENCIAS: Totalmente cuajados.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~9 g
@@ -37583,8 +37620,8 @@ PREPARACION:
 1. Rehoga el chalote en el aceite; añade ajo y tomate y cuece 10 minutos.
 2. Vierte los huevos batidos con la albahaca.
 3. Cuaja tapada a fuego bajo 8 minutos y dale la vuelta 3 minutos más.
-JUSTIFICACION: Ligera y sabrosa.
-ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.
+JUSTIFICACION: Con tomate asado y poco aceite es dulce y ligera. Para el Perfil1 baja la grasa y se evita la acidez.
+ADVERTENCIAS: Totalmente cuajada.|Sin sal añadida.|Cocina bien los huevos: yema y clara completamente cuajadas.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~140 kcal (por porción)
 Proteínas: ~9 g
@@ -37620,8 +37657,8 @@ PREPARACION:
 1. Bate harina, huevo, agua y albahaca.
 2. Pasa las rodajas por la masa.
 3. Colócalas en una bandeja con el aceite y hornea 20 minutos a 220 °C.
-JUSTIFICACION: Doradas sin fritura.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Al horno son menos crujientes que fritos pero igual de aromáticos, con avena. Para el Perfil1 se evitan la fritura y la grasa.
+ADVERTENCIAS: Sin sal añadida.|No lo frías: el horno o la plancha son parte de lo que lo hace ligero.
 VALOR_NUTRICIONAL:
 Calorías: ~110 kcal (por porción)
 Proteínas: ~4 g
@@ -37661,8 +37698,8 @@ PREPARACION:
 1. Vacía los tomates; mezcla la pulpa con el pan remojado en leche, las carnes, el parmesano, el huevo, el ajo y las hierbas.
 2. Rellena los tomates y colócalos en una fuente engrasada.
 3. Hornea 30 minutos a 180 °C.
-JUSTIFICACION: Relleno magro y sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de salchichas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye a las salchichas, con menos queso y pan integral. Para el Perfil1 se evitan los embutidos y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de salchichas.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~150 kcal (por porción)
 Proteínas: ~17 g
@@ -37698,8 +37735,8 @@ PREPARACION:
 1. Rehoga la cebolla con la mitad del aceite 6 minutos; mezcla con pan, atún y perejil.
 2. Cubre los tomates en una fuente engrasada.
 3. Rocía con el aceite y gratina 25 minutos a 190 °C.
-JUSTIFICACION: Sabor marino sin anchoas.
-ADVERTENCIAS: Es una evocación: atún en lugar de anchoas y alcaparras.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el atún sustituye a las anchoas y las alcaparras con un sabor más suave. Para el Perfil1 baja el sodio y la grasa.
+ADVERTENCIAS: Es una evocación: atún en lugar de anchoas y alcaparras.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~7 g
@@ -37735,8 +37772,8 @@ PREPARACION:
 1. Vacía los tomates.
 2. Tritura pepino, ricota, menta y leche; añade el cebollino.
 3. Rellena y refrigera 1 hora.
-JUSTIFICACION: Fresca, sin clara cruda montada.
-ADVERTENCIAS: Es una evocación: sin claras montadas crudas.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: sin claras crudas, con ricota baja en grasa es más firme y menos aireada. Para el Perfil1 se evita el huevo crudo.
+ADVERTENCIAS: Es una evocación: sin claras montadas crudas.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~9 g
@@ -37773,8 +37810,8 @@ PREPARACION:
 1. Vacía los tomates.
 2. Mezcla berenjena, ajo, cebolleta, albahaca, aceite y naranja.
 3. Rellena y reposa 30 minutos.
-JUSTIFICACION: Fresca y sin vinagre.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con naranja en lugar de vinagre y alcaparras y berenjena asada es más dulce y suave. Para el Perfil1 se evitan el vinagre y la grasa.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~90 kcal (por porción)
 Proteínas: ~2 g
@@ -37811,8 +37848,8 @@ PREPARACION:
 1. Alterna tomate y calabacín en una fuente engrasada.
 2. Espolvorea con perejil, ajo y orégano y cubre con el queso y el aceite.
 3. Hornea 30 minutos a 190 °C.
-JUSTIFICACION: Ligero y mediterráneo.
-ADVERTENCIAS: Sin sal añadida.
+JUSTIFICACION: Con menos aceite y mozzarella baja en grasa es más ligero y fresco. Para el Perfil1 baja la grasa.
+ADVERTENCIAS: Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~6 g
@@ -37850,8 +37887,8 @@ PREPARACION:
 1. Cuece el tomate asado con aceite, pimentón y naranja 10 minutos.
 2. Rellena los tomates con los quesos y colócalos en una fuente.
 3. Hornea 15 minutos a 180 °C y sirve con la salsa y el cebollino.
-JUSTIFICACION: Cremosos con mucho menos queso graso.
-ADVERTENCIAS: Es una evocación: queso fresco en lugar de robiola; naranja en lugar de vodka.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el queso fresco sustituye al roquefort con menos intensidad, con naranja reducida en lugar de vodka. Para el Perfil1 se evitan el alcohol y la grasa.
+ADVERTENCIAS: Es una evocación: queso fresco en lugar de robiola; naranja en lugar de vodka.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~7 g
@@ -37889,8 +37926,8 @@ PREPARACION:
 1. Rehoga cebolla, champiñones y pollo en el aceite 8 minutos; mezcla con hierbas y huevo.
 2. Rellena los tomates en una fuente engrasada y cubre con el pan.
 3. Hornea 25 minutos a 190 °C.
-JUSTIFICACION: Sin embutido.
-ADVERTENCIAS: Es una evocación: pollo en lugar de beicon.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el pollo sustituye al beicon con pan integral para el gratinado. Para el Perfil1 se evitan el embutido y la grasa.
+ADVERTENCIAS: Es una evocación: pollo en lugar de beicon.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~130 kcal (por porción)
 Proteínas: ~12 g
@@ -37925,8 +37962,8 @@ PREPARACION:
 1. Vacía los tomates y mezcla la pulpa con el queso fresco y el orégano.
 2. Rellena, espolvorea con parmesano y colócalos en una fuente engrasada.
 3. Hornea 25 minutos a 190 °C.
-JUSTIFICACION: Sabor a queso con menos sodio.
-ADVERTENCIAS: Es una evocación: queso fresco y parmesano en lugar de pecorino.|Sin sal añadida.
+JUSTIFICACION: Es una evocación: el queso fresco con parmesano sustituye al pecorino, con menos sal y grasa. Para el Perfil1 baja el sodio y la grasa.
+ADVERTENCIAS: Es una evocación: queso fresco y parmesano en lugar de pecorino.|Sin sal añadida.|El tomate y la naranja van cocidos o reducidos; si algún día te caen pesados, baja la cantidad.
 VALOR_NUTRICIONAL:
 Calorías: ~100 kcal (por porción)
 Proteínas: ~8 g
